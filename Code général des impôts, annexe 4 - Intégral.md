@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2004-09-09
+Version Consolidée au 2004-09-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3063,7 +3063,7 @@ Aides mécaniques ou électriques aux mouvements des bras, tourne-pages automati
 
 Matériels de transfert : élévateurs et releveurs hydrauliques ou électriques, lève-personnes ;
 
-Fauteuils roulants ;
+Lorsqu'ils ont une vitesse inférieure ou égale à dix kilomètres par heure : les fauteuils roulants et les scooters médicaux ;
 
 Appareils modulaires de verticalisation ;
 
@@ -3127,15 +3127,11 @@ Dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule.
 
 	**Modifié par**:
 
-	  - Arrêté 2001-12-28 art. 1 JORF 30 décembre 2001
+	  - Arrêté 2004-09-07 art. 1 JORF 17 septembre 2004
 
 	**Cite**:
 
 	  - CGI 278 quinquies
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article 30-0 C
