@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-03-16
+Version Consolidée au 1986-03-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3467,6 +3467,61 @@ l'extrait d'acte prévu à l'article 860 du code général des impôts.
 
 ##### G : Exploitants de spectacles
 
+###### Article 50 sexies B
+
+Toute entrée dans les établissements de spectacles visés à l'article 290 quater-I du code général des impôts doit être
+constatée par la remise d'un billet extrait d'un carnet à souches ou d'un distributeur automatique délivré avant l'entrée
+dans la salle de spectacles.
+
+Ce billet comporte deux parties  dont l'une reste entre les mains du spectateur et l'autre est retenue au contrôle. Chacune
+de ces parties  ainsi que la souche dans le cas d'utilisation de carnets doit porter de façon apparente : le nom de
+l'établissement; le numéro d'ordre du billet; la catégorie de la place à laquelle celui-ci donne droit; le prix global payé
+par le spectateur ou  s'il y a lieu  la mention de gratuité; le nom du fabricant ou de l'importateur.
+
+Les billets doivent être numérotés suivant une série ininterrompue et utilisés dans leur ordre numérique; chaque billet ne
+peut être utilisé que pour la catégorie de places qui y est indiquée.
+
+Les billets pris en abonnement ou en location doivent être tirés de carnets ou rouleaux spéciaux; ils comportent les mentions
+prévues ci-dessus et  en outre  l'indication de la séance pour laquelle ils sont valables.
+
+Les obligations concernant les mentions à porter sur les billets d'entrée dans les salles de spectacles cinématographiques,
+la fourniture et l'utilisation de ces billets sont fixées par la réglementation de l'industrie cinématographiques.
+
+Dans le cadre de cette réglementation, l'utilisation de caisses automatisées est autorisée pour l'impression et l'édition des
+billets d'entrée dans les salles de spectacles cinématographiques.
+
+Les caractéristiques et le fonctionnement de ces caisses sont conformes au cahier des charges approuvé conjointement par le
+directeur général des impôts et le directeur général du Centre national de la cinématographie. Le programme de ces caisses
+est homologué par le directeur général du Centre national de la cinématographie.
+
+Le Centre national de la cinématographie s'assure de la conformité des matériels proposés par les constructeurs au cahier des
+charges.
+
+Les caisses automatisées sont pourvues de dispositifs qui permettent aux agents des impôts et du Centre national de la
+cinématographie chargés du contrôle de vérifier à tout moment que l'utilisation des matériels est conforme au cahier des
+charges et de s'assurer du respect de la réglementation en vigueur.
+
+Les caisses automatisées peuvent être équipées d'un dispositif permettant la vente, par avance, de billets d'entrée à une
+séance déterminée. Dans ce cas, les billets ne peuvent être délivrées que pour la semaine cinématographique en cours.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1986-03-14 art. 1 JORF 19 mars 1986
+
+	**Cite**:
+
+	  - CGI 290 quater I
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 48 (V)
+	  - Décret n°2017-926 du 9 mai 2017 (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies E (V)
+
+
 ###### Article 50 sexies C
 
 Les exploitants de spectacles peuvent employer des carnets spéciaux pour chaque représentation comprenant, par catégorie de
@@ -3490,6 +3545,37 @@ Pour les représentations occasionnelles, il peut être fait usage de cartes d'e
 coupon détachable ; la carte et le coupon comportent les mentions prévues pour les billets et sont utilisés dans les mêmes
 conditions que ceux-ci.
 
+
+
+###### Article 50 sexies E
+
+Si, après la délivrance d'un billet, un spectateur désire changer de place et que ce changement entraîne une augmentation de
+prix, le complément doit être constaté par la délivrance d'un billet supplémentaire établi dans les mêmes conditions que les
+autres billets et portant imprimé le montant du supplément encaissé.
+
+La mention du supplément de prix ne concerne pas les billets d'entrée dans les salles de spectacles cinématographiques.
+
+Si, après la délivrance d'un billet édité par une caisse automatisée dans les conditions prévues à l'article 50 sexies B, un
+spectateur désire changer de catégorie de place, il doit être procédé à l'annulation de son billet et à la délivrance d'un
+nouveau billet correspondant à la place qu'il souhaite occuper.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1986-03-14 art. 2 JORF 19 mars 1986
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGIAN4 50 sexies B
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 ###### Article 50 sexies F
@@ -11968,59 +12054,6 @@ dessus.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 50 sexies B
-
-Toute entrée dans les établissements de spectacles visés à l'article 290 quater-I du code général des impôts doit être
-constatée par la remise d'un billet extrait d'un carnet à souches ou d'un distributeur automatique délivré avant l'entrée
-dans la salle de spectacles.
-
-Ce billet comporte deux parties  dont l'une reste entre les mains du spectateur et l'autre est retenue au contrôle. Chacune
-de ces parties  ainsi que la souche dans le cas d'utilisation de carnets doit porter de façon apparente : le nom de
-l'établissement; le numéro d'ordre du billet; la catégorie de la place à laquelle celui-ci donne droit; le prix global payé
-par le spectateur ou  s'il y a lieu  la mention de gratuité; le nom du fabricant ou de l'importateur.
-
-Les billets doivent être numérotés suivant une série ininterrompue et utilisés dans leur ordre numérique; chaque billet ne
-peut être utilisé que pour la catégorie de places qui y est indiquée.
-
-Les billets pris en abonnement ou en location doivent être tirés de carnets ou rouleaux spéciaux; ils comportent les mentions
-prévues ci-dessus et  en outre  l'indication de la séance pour laquelle ils sont valables.
-
-Les obligations concernant les mentions à porter sur les billets d'entrée dans les salles de spectacles cinématographiques,
-la fourniture et l'utilisation de ces billets sont fixées par la réglementation de l'industrie cinématographiques.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1980-11-21 art. 1 JORF 30 novembre 1981
-
-	**Cite**:
-
-	  - CGI 290 quater I
-
-	**Cité par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 48 (V)
-	  - Décret n°2017-926 du 9 mai 2017 (VD)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies C (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies E (V)
-
-
-###### Article 50 sexies E
-
-Si  après la délivrance d'un billet  un spectateur désire changer de place et que ce changement entraîne une augmentation de
-prix  le complément doit être constaté par la délivrance d'un billet supplémentaire établi dans les mêmes conditions que les
-autres billets et portant imprimé le montant du supplément encaissé.
-
-La mention du supplément de prix ne concerne pas les billets d'entrée dans les salles de spectacles cinématographiques.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1980-11-21 art. 2 JORF 30 novembre 1980
 
 
 ##### IMPORTATIONS.
