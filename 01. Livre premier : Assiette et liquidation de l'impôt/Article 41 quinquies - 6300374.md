@@ -1,21 +1,27 @@
 # Article 41 quinquies
 
 Les registres visés au 3 du II de l'article 286 quater du code général des impôts et aux articles 41 bis et 41 ter doivent
-être présentés à toute demande d'un agent de l'administration qui peut s'en faire délivrer copie.
+être présentés à toute demande d'un agent de l'administration qui peut s'en faire délivrer copie. 
 
-Si l'administration le demande, les registres tenus sur support informatique sont restitués sur support papier.
+Si l'administration le demande, les registres tenus sur support informatique sont restitués sur support papier. 
+
+Le registre prévu au 9 de l'article 298 sexdecies F du code général des impôts comporte les informations suivantes pour
+chaque opération : 
+
+a. Les renseignements relatifs au client : nom, prénom, adresse postale mentionnant le pays et adresse électronique ; 
+
+b. Les renseignements relatifs à la transaction : identification, nature et quantité du produit ou du service fourni, prix
+unitaire hors taxe, taux de taxe sur la valeur ajoutée appliquée, montant de la taxe à payer, numéro de la facture émise et
+mode de paiement utilisé par le client.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-09-04 art. 4 JORF 6 septembre 1996
+	  - Arrêté 2003-07-18 art. 1 JORF 20 juillet 2003
 
 	**Cite**:
 
-	  - CGI 286 quater
-	  - CGIAN4 41 bis, 41 ter
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 bis (V)
+	  - Code général des impôts, CGI. - art. 286 quater (V)
+	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)

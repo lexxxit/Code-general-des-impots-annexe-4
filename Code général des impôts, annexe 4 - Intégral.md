@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2003-03-31
+Version Consolidée au 2003-08-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3651,24 +3651,30 @@ fiscales.
 ###### Article 41 quinquies
 
 Les registres visés au 3 du II de l'article 286 quater du code général des impôts et aux articles 41 bis et 41 ter doivent
-être présentés à toute demande d'un agent de l'administration qui peut s'en faire délivrer copie.
+être présentés à toute demande d'un agent de l'administration qui peut s'en faire délivrer copie. 
 
-Si l'administration le demande, les registres tenus sur support informatique sont restitués sur support papier.
+Si l'administration le demande, les registres tenus sur support informatique sont restitués sur support papier. 
+
+Le registre prévu au 9 de l'article 298 sexdecies F du code général des impôts comporte les informations suivantes pour
+chaque opération : 
+
+a. Les renseignements relatifs au client : nom, prénom, adresse postale mentionnant le pays et adresse électronique ; 
+
+b. Les renseignements relatifs à la transaction : identification, nature et quantité du produit ou du service fourni, prix
+unitaire hors taxe, taux de taxe sur la valeur ajoutée appliquée, montant de la taxe à payer, numéro de la facture émise et
+mode de paiement utilisé par le client.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-09-04 art. 4 JORF 6 septembre 1996
+	  - Arrêté 2003-07-18 art. 1 JORF 20 juillet 2003
 
 	**Cite**:
 
-	  - CGI 286 quater
-	  - CGIAN4 41 bis, 41 ter
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 bis (V)
+	  - Code général des impôts, CGI. - art. 286 quater (V)
+	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
 
 
 ###### Article 41 ter
@@ -3795,82 +3801,63 @@ membres doivent comporter l'ensemble des données prévues par l'article 96 L de
 
 ##### D : Factures transmises par voie télématique
 
-###### Article 41 octies
+###### Article 41 nonies
 
-I. - 1. Les entreprises mentionnées au I de l'article 41 septies qui veulent utiliser un système de télétransmission de
-factures doivent déposer une déclaration conforme au modèle figurant en annexe de l'arrêté du 3 mai 1999 pris pour
-l'application de l'article 289 bis du code général des impôts relatif aux factures transmises par voie télématique. Cette
-déclaration indique que le système de télétransmission est conforme aux normes prévues et décrit les caractéristiques
-principales du système. Elle doit comprendre les éléments suivants :
+La déclaration de taxe sur la valeur ajoutée visée au 5 de l'article 298 sexdecies F du code général des impôts doit être
+déposée dans les vingt jours qui suivent l'expiration de la période imposable visée par cette déclaration. 
 
-a. - Renseignements relatifs à l'entreprise :
-
-1°) La dénomination, l'adresse et l'activité de l'entreprise ;
-
-2°) Son numéro SIRET ;
-
-3°) Le lieu de situation de la (des) station(s) de dématérialisation ;
-
-4°) Les coordonnées du service responsable de la télétransmission ;
-
-5°) Le cas échéant, la dénomination, l'adresse et le numéro SIRET du prestataire assurant la dématérialisation ;
-
-6°) La qualité de fournisseur/émetteur et/ou de client/récepteur ;
-
-7°) La date de la première mise en oeuvre de la télétransmission des factures.
-
-b. - Renseignements relatifs au logiciel :
-
-1°) Le nom du logiciel et sa version ;
-
-2°) Son développement interne ou externe. Dans ce dernier cas, le nom et l'adresse de la société ayant développé le
-logiciel ;
-
-3°) Le numéro de référencement délivré initialement par l'administration lorsque le système de télétransmission de factures
-qui doit être utilisé a été autorisé et référencé par l'administration dans le cadre du régime précédent.
-
-c. - Renseignements concernant la ou les structures du message facture :
-
-- ses normes et les versions utilisées.
-
-d. - Renseignements relatifs au matériel :
-
-- son modèle et son système d'exploitation.
-
-e. - Renseignements relatifs aux partenaires :
-
-- la liste des dix principaux partenaires.
-
-2. Les entreprises qui utilisaient, avant l'entrée en vigueur du nouveau dispositif, un système autorisé et référencé par
-l'administration sont dispensées de déclaration. Elles peuvent continuer à télétransmettre leurs factures comme précédemment.
-
-II. - En cas de modification du système de télétransmission utilisé, les entreprises utilisatrices doivent déposer une
-déclaration rectificative qui doit signaler toutes les modifications apportées au système de télétransmission.
-
-III. - Les déclarations, initiale ou rectificative, doivent être déposées au plus tard dix jours avant la mise en oeuvre du
-système ou du système modifié auprès de la direction des vérifications nationales et internationales. La déclaration est
-souscrite, sur papier ou par informatique, selon les modalités prévues par l'administration.
+Cette déclaration doit être libellée en euros conformément au 6 de l'article 298 sexdecies F du code général des impôts. Si
+d'autres monnaies ont été utilisées pour les prestations de services visées au 12° de l'article 259 B, le taux de change en
+vigueur le dernier jour de la période imposable déclarée sera appliqué. Le change est effectué par application des taux de
+change publiés par la Banque centrale européenne pour le jour en question ou, si aucune publication n'a été faite ce jour-là,
+pour le jour de publication suivant.
 
 **Liens relatifs à cet article**
 
+	**Créé par**:
+
+	  - Arrêté 2003-07-18 art. 2 JORF 20 juillet 2003
+
 	**Cite**:
 
-	  - Arrêté 1999-05-03 annexe
-	  - CGI 289 bis
-	  - CGIAN4 41 septies
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Modifié par**:
-
-	  - Arrêté 2000-06-02 art. 1 JORF 3 juin 2000
+	  - Code général des impôts, CGI. - art. 259 B (V)
+	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
+	  - HISTO: Edition du 31 août 2003
+
+
+###### Article 41 octies
+
+Les entreprises visées au I de l'article 41 septies qui souhaitent utiliser un système de télétransmission de factures en
+informent l'administration en joignant à leur déclaration de résultats ou de bénéfices un état mentionnant les éléments
+suivants :
+
+a. Les coordonnées du service responsable de la télétransmission ;
+
+b. Le nom du logiciel et sa version ;
+
+c. Les normes et les versions des messages factures.
+
+**Nota:**
+
+Article périmé en conséquence de la péremption du II de l'article 289 bis du CGI.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2003-07-18 art. 2 JORF 20 juillet 2003
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 9 juin 2011 - art. 1
+	  - HISTO: Edition du 31 août 2003
+
+	**Cite**:
+
+	  - CGI 41 septies
 
 
 ###### Article 41 septies
@@ -3878,11 +3865,9 @@ souscrite, sur papier ou par informatique, selon les modalités prévues par l'a
 Les systèmes de télétransmission des factures utilisés par les entreprises dans les conditions prévues par l'article 289 bis
 du code général des impôts doivent respecter les spécifications suivantes :
 
-I. - Sont considérés comme utilisateurs les entreprises, fournisseurs ou clients, qui émettent ou reçoivent des factures
-télétransmises.
-
-Les intermédiaires qui interviennent éventuellement dans la transmission des messages ne sont pas considérés comme des
-utilisateurs. Ils ne doivent pas intervenir dans la constitution du message et ne doivent ni le modifier ni l'altérer.
+I. - Sont considérés comme utilisateurs les entreprises, fournisseurs ou clients qui émettent des factures télétransmises par
+eux-mêmes, ou par un tiers ou un client mandaté à cet effet, ou qui reçoivent des factures télétransmises, et ce quelle que
+soit la personne qui les a reçues en son nom et pour son compte.
 
 II. - Le système de télétransmission utilisé doit assurer au minimum les fonctions suivantes :
 
@@ -3896,6 +3881,8 @@ c) L'archivage des factures émises et reçues ;
 
 d) La restitution sur papier ou sur écran, en langage clair, à la demande de l'administration, de la facture et de la liste
 récapitulative.
+
+e) L'accessibilité immédiate aux données dématérialisées en cas de demande de l'administration.
 
 III. - 1. Les logiciels de télétransmission des factures peuvent mettre en oeuvre une ou plusieurs structures de messages et
 ne doivent ni les modifier ni les altérer.
@@ -3956,8 +3943,13 @@ b) L'archivage des factures dématérialisées ou l'archivage des factures papie
 c) La (les) date(s) d'entrée en phase de dématérialisation avec le partenaire, et, le cas échéant, la (les) date(s) de
 sortie.
 
-VI. - 1. Les messages factures émis et reçus ainsi que la liste récapitulative et le fichier des partenaires doivent être
-conservés dans l'ordre chronologique d'émission et de réception.
+VI. - 1. Les messages factures émis par l'entreprise, par un tiers ou un client mandaté à cet effet ainsi que la liste
+récapitulative et le fichier des partenaires doivent être accessibles et conservés dans leur contenu originel et dans l'ordre
+chronologique de leur émission.
+
+Les messages factures reçus, quelle que soit la personne qui les a reçus en son nom et pour son compte, ainsi que la liste
+récapitulative et le fichier des partenaires doivent être accessibles et conservés dans leur contenu originel et dans l'ordre
+chronologique de leur réception.
 
 2. Les fichiers informatiques dans lesquels sont conservés les messages factures, la liste récapitulative et le fichier des
 partenaires doivent être alimentés automatiquement par le système de télétransmission des seules informations qui en sont
@@ -3974,17 +3966,15 @@ organique et l'exploitation du logiciel de télétransmission.
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 2 II JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
+	  - Arrêté 2003-07-18 art. 1 JORF 20 juillet 2003
 
 	**Cite**:
 
 	  - CGI 289 bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
 
 
 ##### II : Obligations particulières
@@ -4459,6 +4449,57 @@ alinéa.
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
+
+
+##### H : Services fournis par voie électronique
+
+###### Article 50 sexies J
+
+Les informations prévues au 2 de l'article 298 sexdecies F du code général des impôts sont les suivantes : 
+
+a. Raison sociale ; 
+
+b. Adresses physique et postale (si différentes) ; 
+
+c. Adresse (s) électronique (s) ; 
+
+d. Nom de la personne physique à contacter dans l'entreprise ; 
+
+e. Numéro de téléphone et adresse électronique du contact ; 
+
+f. Description de l'activité ; 
+
+g. Numéro d'identification fiscal national ; 
+
+h. Déclaration attestant, le cas échéant, que l'entreprise n'est pas identifiée dans un Etat membre de la Communauté
+européenne aux fins de la taxe sur la valeur ajoutée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2003-07-18 art. 3 JORF 20 juillet 2003
+
+	**Cite**:
+
+	  - CGI 298 sexdecies F
+	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+
+
+###### Article 50 sexies K
+
+Lorsque l'assujetti cesse ou modifie son activité au point de ne plus se prévaloir du régime spécial prévu à l'article 298
+sexdecies F du code général des impôts, il en informe l'administration par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2003-07-18 art. 3 JORF 20 juillet 2003
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
 
 
 ##### Section VI : Importations
@@ -18614,21 +18655,25 @@ fonds est tenu de transmettre sans retard par la poste.
 1. Le paiement des impôts directs peut s'effectuer, sur option du contribuable, par prélèvement opéré à l'initiative du
 Trésor public sur un compte visé à l'article 1681 D du code général des impôts.
 
-2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II du code général des impôts. Elle est
-exercée par le contribuable vingt jours avant la date limite de paiement de l'impôt concerné. Elle est valable sans
-limitation de durée.
+2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II au code général des impôts. Elle peut
+être exercée jusqu'à la date limite de paiement ou dans le délai spécifique fixé par arrêté pour chaque échéance d'impôt
+(NOTA). Elle est valable sans limitation de durée.
 
-3. Le contribuable peut renoncer à son option en adressant par écrit au comptable chargé du recouvrement une dénonciation
-vingt jours au moins avant la date limite de paiement de l'impôt concerné.
+3. Le contribuable peut renoncer à son option en adressant, au comptable chargé du recouvrement, une dénonciation dix jours
+ouvrés au moins avant la date limite de paiement de l'impôt concerné.
 
-4. Les prélèvements sont effectués aux dates limites de paiement fixées aux articles 1761, 1762 et 1762 quater du code
-général des impôts.
+4. Le prélèvements sont effectués cinq jours après les dates limites de paiement fixées aux articles 1761, 1762 et 1762
+quater du code général des impôts.
+
+**Nota:**
+
+NOTA : Les dispositions de cette phrase s'appliquent à compter du 1er janvier 2004.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1997-07-22 art. 1 JORF 30 juillet 1997
+	  - Arrêté 2003-09-15 art. 1 JORF 19 septembre 2003
 
 	**Cite**:
 
@@ -18641,7 +18686,7 @@ général des impôts.
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2003
 
 
 ### Section I bis : Intérêts des bons de caisse
