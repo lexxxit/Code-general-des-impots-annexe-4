@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-02-24
+Version Consolidée au 1985-03-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15992,6 +15992,34 @@ La mention que le versement est fait en un chèque doit être portée au volant 
 
 
 
+### Chapitre I bis A : Sûretés et privilèges
+
+#### Publicité du privilège du Trésor.
+
+###### Article 207 quinquies
+
+Le montant minimum prévu à l'article 1929 quater-4 du code général des impôts pour la publicité obligatoire des sommes
+privilégiées dues au Trésor est fixé à 100.000 F.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1985-03-18 art. 1 JORF 22 mars 1985
+
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
+	**Cite**:
+
+	  - CGI 1929 quater 4
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°94-475 du 10 juin 1994 - art. 1
+
+
 ## Chapitre I bis : Pénalités
 
 ### I : Impôts directs et taxes assimilées
@@ -16058,28 +16086,5 @@ attestations de contestation, des attestations de paiement et des certificats de
 
 	  - Arrêté 1968-05-30 annexe
 	  - CGIAN2 396 bis
-
-
-# RECOUVREMENT DE L'IMPOT
-
-## SURETES ET PRIVILEGES
-
-### PUBLICITE DU PRIVILEGE DU TRESOR.
-
-###### Article 207 quinquies
-
-Le montant minimum prévu à l'article 1929 quater-4 du code général des impôts pour l'inscription des sommes privilégiées dues
-au Trésor est fixé :
-
-A 20.000 F si les sommes sont dues au titre des impôts directs;
-
-A 30.000 F si les sommes sont dues au titre des taxes sur le chiffre d'affaires ou des taxes annexes et des contributions
-indirectes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1929 quater 4
 
 
