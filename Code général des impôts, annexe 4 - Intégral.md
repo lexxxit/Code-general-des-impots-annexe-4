@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-01-19
+Version Consolidée au 1980-01-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11396,6 +11396,41 @@ l'article 2002 bis du code général des impôts [*obligation de conservation*].
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 121 KM
+
+Les débitants de tabac perçoivent sur le prix de vente des papiers timbrés et timbres mobiles de toute nature, dont ils
+assurent la débite, une remise calculée au moyen du barème ci-après :
+
+4 % jusqu'à 5.000 F de ventes annuelles;
+
+3 % de 5.001 à 25.000 F de ventes annuelles;
+
+2 % de 25.001 à 60.000 F de ventes annuelles;
+
+1 % au-dessus de 60.000 F de ventes annuelles (1).
+
+La remise est liquidée et payée semestriellement.
+
+Les dispositions du présent article s'appliquent dans les départements de la Corse.
+
+(1) Barème applicable à compter du 1er janvier 1980.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 décembre 2014 - art. Annexe 1 (V)
+
+	**Modifié par**:
+
+	  - Arrêté 1978-03-17 art. 1 JONC 6 avril 1978
+	  - Arrêté 1980-01-08 art. 1 JONC 30 janvier 1980
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
 
 
 ### AUTRES DROITS ET TAXES
