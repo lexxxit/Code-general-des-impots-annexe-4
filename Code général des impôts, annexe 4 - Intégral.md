@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1984-06-26
+Version Consolidée au 1984-07-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7873,6 +7873,24 @@ d'une manière très apparente dans les salles de jeux des cercles et maisons de
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
+###### Article 153
+
+Tous les carnets et registres visés aux articles 149 à 152 sont servis sans rature ni surcharge (1). 
+
+(1) Voir également livre des procédures fiscales, art. A 26-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 149 (V)
+	  - Livre des procédures fiscales - art. A26-4 (M)
+
+
 ##### Impôt sur les spectacles, jeux et divertissements
 
 ##### I : Dispositions générales
@@ -8044,6 +8062,56 @@ prévu à l'article L. 82 du livre des procédures fiscales (1).
 
 
 ##### II : Dispositions particulières
+
+##### Établissements où il est d'usage de consommer.
+
+###### Article 145
+
+Les établissements visés à l'article 1563, deuxième alinéa  du code général des impôts sont tenus de se conformer aux
+prescriptions des articles 127, 128 et 129 lorsqu'un prix spécial est établi pour l'entrée. Ils doivent  en outre  dans tous
+les cas  qu'il y ait prix d'entrée ou non tenir un livre spécial [*obligation*] aux pages numérotées sur lequel ils
+inscrivent jour par jour sans blanc ni rature [*mentions*] :
+
+a. Chacune des ventes de denrées  marchandises  fournitures ou objets qu'ils ont effectuées;
+
+b. Chacun des prix encaissés de location  vestiaire  programme etc. La tenue du livre spécial peut ne pas être prescrite
+lorsque la comptabilité habituelle de l'établissement permet de déterminer le chiffre des recettes dont il s'agit.
+
+Le produit de la vente des billets d'entrée ne doit pas être confondu avec les autres recettes de l'établissement qui toutes
+sans exception et de quelque nature qu'elles soient  doivent figurer sur le registre dont il est question ci-dessus. Les
+opérations au comptant pour des valeurs inférieures à 0,10 F peuvent être inscrites globalement à la fin de chaque journée.
+Le montant des opérations inscrites sur le livre est totalisé chaque jour et arrêté par décade ou par mois.
+
+Les directeurs, entrepreneurs, propriétaires des établissements visés au premier alinéa sont tenus en outre de remettre dans
+les trois premiers jours de chaque décade ou de chaque mois, selon les indications qu'ils reçoivent à ce sujet, au service
+des impôts qui leur est désigné un relevé indiquant le montant total du chiffre des recettes effectuées pendant la décade ou
+le mois précédent et d'acquitter, dans les trois jours suivants, le montant de l'impôt exigible d'après ce relevé (1).
+
+Le livre prescrit par le présent article  ainsi que la comptabilité et les pièces justificatives des opérations effectuées
+par les établissements soumis à l'impôt  doivent être conservés par l'établissement pendant le délai prévu à l'article L. 82
+du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
+
+Lorsqu'un établissement  par la nature de ses opérations  n'est assujetti à l'impôt sur les spectacles qu'à certaines heures
+de la journée  ou pour des salles spéciales  les opérations à inscrire sur le carnet visé au présent article ne concernent
+que celles pour lesquelles l'impôt sur les spectacles est dû. Il y a lieu d'opérer dans ce cas comme s'il y avait  en fait
+deux établissements entièrement distincts.
+
+(1) En ce qui concerne les obligations relatives au contrôle, voir livre des procédures fiscales, art. A 85-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGI 1563 AL. 2
+	  - CGI L82
+	  - CGIAN4 127
+	  - CGIAN4 128
+	  - CGIAN4 129
+
 
 ##### Cercles et maisons de jeux.
 
@@ -8303,6 +8371,286 @@ l'article 328 D quater de l'annexe III au présent code.
 
 
 ### Titre I bis : Impositions départementales
+
+#### Chapitre premier : Taxe sur les véhicules à moteur.
+
+###### Article 155 E
+
+Les distributeurs auxiliaires et les débitants visés à l'article 155 D peuvent recevoir, à titre de dépôt, et dans des
+conditions fixées par l'administration, un approvisionnement de vignettes dont ils sont comptables vis-à-vis du Trésor.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1956-10-19 art. 3 JORF 23 octobre 1956
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
+
+	**Cite**:
+
+	  - CGIAN4 155 D
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+
+###### Article 155 F
+
+La vignette est délivrée sur présentation du certificat d'immatriculation du véhicule.
+
+Le numéro minéralogique du véhicule est inscrit sur le reçu par le préposé chargé de la délivrance qui appose au verso le
+cachet de la recette ou du débit distributeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+
+###### Article 155 G
+
+En cas de changement du numéro minéralogique du véhicule, le numéro de l'ancien certificat d'immatriculation est maintenu sur
+le reçu. Le numéro du nouveau certificat est inscrit immédiatement au-dessus par les soins du service chargé de la remise du
+nouveau certificat d'immatriculation. Le cachet de ce service est apposé au verso.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+
+###### Article 155 M
+
+Sont exonérés de la taxe différentielle sur les véhicules à moteur instituée par l'article 1599 C du code général des impôts,
+les véhicules spéciaux dont la liste suit :
+
+1° Les fourgons funéraires et corbillards automobiles ;
+
+2° Les bennes à ordures ménagères, les arroseuses, les balayeuses ;
+
+3° Les ambulances ;
+
+4° Les tonnes de vidange ;
+
+5° Les engins considérés pour l'application des articles R 110 à R 117 du code de la route comme matériels de travaux publics
+et énumérés ci-après :
+
+a. Pompes centrifuges, groupes moto-pompes, pompes ou stations de pompages mobiles, fixés à demeure sur camion ;
+
+b. Sonnettes avec mouton bloc et treuil à moteur, sonnettes à vapeur complètes sur galets, derricks, moutons blocs à déclic,
+moutons à vapeur (genre Tifine ou Lacour), moutons diesel, marteaux trépideurs (batteurs et arracheurs), fixés à demeure sur
+camion ;
+
+c. Groupes moto-compresseurs mobiles, fixés à demeure sur camion ;
+
+d. Grues, grues derricks, sapins ou pylônes, sur camion ;
+
+e. Postes automobiles d'enrobage mobile type Central-Plant ou Maintoner-Plant pour enrobés à chaud, postes automobiles
+d'enrobage type Travel-Plant pour enrobés à froid ;
+
+f. Citernes mobiles de stockage de liants (cuves de transport de liants) et fondoirs, sur camion ;
+
+g. Répandeurs, finisseurs sur camion ;
+
+h. Générateurs de vapeur, bacs de chauffage (réchauffeurs des produits bitumeux et autres liants), tonnes répandeuses (y
+compris les arroseurs), sur camion ;
+
+i. Appareils gravillonneurs sableurs, chargeurs, élévateurs de gravillon, balayeuses mécaniques, sur camion ;
+
+j. Chasse-neige sur camion ;
+
+k. Concasseurs mobiles, gravillonneurs granulateurs et broyeurs mobiles, cribleurs ou trommels, groupes concasseurs mobiles
+(type Iowa), sur camion ;
+
+l. Bétonnières, tambours cylindriques, pompes à béton, sur camion ;
+
+m. Groupes électrogènes mobiles, groupes convertisseurs ou transformateurs mobiles, postes mobiles de soudure, sur camion ;
+
+n. Soudeuses mobiles, sur camion ;
+
+o. Postes automobiles de dégraissage et de gonflage ;
+
+6° Les camions ateliers, dépanneurs munis d'un engin de levage ;
+
+7° Le matériel d'incendie automobile énuméré ci-après :
+
+a. Matériel d'incendie de premier secours ordinaire ;
+
+b. Matériel d'incendie de premier secours à mousse ;
+
+c. Citerne automobile d'incendie ;  
+
+d. Auto-pompe ;
+
+e. Fourgon-pompe ;
+
+f. Fourgon d'incendie ;
+
+g. Echelle ;
+
+h. Dévidoir ;
+
+i. Accessoires divers ;
+
+8° Le matériel sanitaire automobile ci-après :
+
+a. Chirurgical ;
+
+b. Radiologie ;
+
+c. Stérilisateur ;
+
+d. Epurateur d'eau ;
+
+e. Désinfection et désinfectisation ;
+
+9° Le matériel de radiodiffusion et de télévision ci-après, fixé à demeure sur camion, camionnette ou fourgon automobile :
+
+a. Appareils émetteurs de T.S.F. ;
+
+b. Appareils de prise de son et de prise de vue ;
+
+c. Appareils de mesure de son ;
+
+d. Laboratoire de développement de films ;
+
+10° Les véhicules militaires faisant l'objet d'une immatriculation particulière ;
+
+11° Les véhicules aménagés spécialement pour le transport du lait, du vin, du bétail et de la viande, ne transportant que ces
+produits et ne sortant pas des limites de la zone courte à laquelle ils sont rattachés ;
+
+12° Les véhicules répondant aux normes figurant au III de l'annexe I du décret n° 79-80 du 25 janvier 1979 relatif aux
+transports sanitaires privés utilisés par une entreprise agréée conformément à l'article 1er dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1956-10-09 art. 1 JORF 23 octobre 1956
+
+	**Modifié par**:
+
+	  - Arrêté 1981-02-24 art. 1 JORF 27 février 1981
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+	  - Arrêté 2007-03-30
+
+	**Cite**:
+
+	  - CGI 1599 C
+	  - Décret n°79-80 1979-01-25 art. 1, annexe I, III
+	  - Décret n°79-80 du 25 janvier 1979 - art. 1 ()
+	  - Code de la route R110 à R117
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 20 juillet 1984
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+
+#### Chapitre premier : Taxes sur les véhicules à moteur.
+
+###### Article 155 H
+
+Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
+désignés aux articles L. 213 et R. 213-1 du livre des procédures fiscales. Le timbre adhésif doit être directement fixé dans
+l'angle inférieur droit du pare-brise du véhicule automobile de manière que les mentions qu'il comporte soient lisibles de
+l'extérieur de ce véhicule.
+
+Ces dispositions s'appliquent aux vignettes de la série normale comme aux vignettes spéciales et gratuites prévues à
+l'article 155 C.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGIAN4 155 C
+	  - Livre des procédures fiscales - art. L213 (M)
+	  - Livre des procédures fiscales L213, R213-1
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+
+###### Article 155 I
+
+Un duplicata peut être délivré, en cas de destruction, de perte ou de vol d'une vignette, sur demande écrite du contribuable
+adressée à la recette des impôts qui a vendu ou dans le ressort de laquelle a été vendue cette vignette.
+
+La demande doit indiquer, indépendamment des circonstances de la perte, la date précise de l'acquisition et, le cas échéant,
+le nom et l'adresse du distributeur auxiliaire ou du débitant qui l'a vendue.
+
+Les duplicata sont utilisés dans les mêmes conditions que les vignettes de la série normale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1956-10-19 art. 7 JORF 23 octobre 1956, Arrêté 1967-12-14 art. 2 JORF 5 janvier 1968, Loi 83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
 
 #### Chapitre II : Droits d'enregistrement et taxe de publicité foncière
 
@@ -13551,82 +13899,6 @@ de faveur décomptée d'après le prix normal des places  lorsque ces entrées n
 	  - HISTO: EDITION 1979-07-01
 
 
-#### CONTRIBUTIONS INDIRECTES
-
-##### IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS.
-
-###### Article 145
-
-Les établissements visés à l'article 1563, deuxième alinéa  du code général des impôts sont tenus de se conformer aux
-prescriptions des articles 127, 128 et 129 lorsqu'un prix spécial est établi pour l'entrée. Ils doivent  en outre  dans tous
-les cas  qu'il y ait prix d'entrée ou non tenir un livre spécial [*obligation*] aux pages numérotées sur lequel ils
-inscrivent jour par jour sans blanc ni rature [*mentions*] :
-
-a. Chacune des ventes de denrées  marchandises  fournitures ou objets qu'ils ont effectuées;
-
-b. Chacun des prix encaissés de location  vestiaire  programme etc. La tenue du livre spécial peut ne pas être prescrite
-lorsque la comptabilité habituelle de l'établissement permet de déterminer le chiffre des recettes dont il s'agit.
-
-Le produit de la vente des billets d'entrée ne doit pas être confondu avec les autres recettes de l'établissement qui toutes
-sans exception et de quelque nature qu'elles soient  doivent figurer sur le registre dont il est question ci-dessus. Les
-opérations au comptant pour des valeurs inférieures à 0,10 F peuvent être inscrites globalement à la fin de chaque journée.
-Le montant des opérations inscrites sur le livre est totalisé chaque jour et arrêté par décade ou par mois.
-
-Les directeurs  entrepreneurs  propriétaires des établissements visés au premier alinéa sont tenus en outre :
-
-1o De présenter  à première réquisition  leurs registres de comptabilité ou leurs livres aux agents des impôts chargés de la
-perception de l'impôt sur les spectacles  et de leur fournir toutes justifications nécessaires à ce sujet  relativement aux
-inscriptions qui y sont portées et  d'une manière générale  à toutes les opérations effectuées;
-
-2o De remettre dans les trois premiers jours de chaque décade ou de chaque mois  selon les indications qu'ils reçoivent à ce
-sujet  au service des impôts qui leur est désigné un relevé indiquant le montant total du chiffre des recettes effectuées
-pendant la décade ou le mois précédent et d'acquitter  dans les trois jours suivants  le montant de l'impôt exigible d'après
-ce relevé.
-
-Le livre prescrit par le présent article  ainsi que la comptabilité et les pièces justificatives des opérations effectuées
-par les établissements soumis à l'impôt  doivent être conservés par l'établissement pendant le délai prévu à l'article L. 82
-du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
-
-Lorsqu'un établissement  par la nature de ses opérations  n'est assujetti à l'impôt sur les spectacles qu'à certaines heures
-de la journée  ou pour des salles spéciales  les opérations à inscrire sur le carnet visé au présent article ne concernent
-que celles pour lesquelles l'impôt sur les spectacles est dû. Il y a lieu d'opérer dans ce cas comme s'il y avait  en fait
-deux établissements entièrement distincts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI 1563 AL. 2
-	  - CGI L82
-	  - CGIAN4 127
-	  - CGIAN4 128
-	  - CGIAN4 129
-
-
-###### Article 153
-
-Tous les carnets et registres visés aux articles 149 à 152 sont servis sans rature ni surcharge.
-
-Les cercles et maisons de jeux sont tenus de représenter  à toute réquisition  les carnets d'enregistrement des cagnottes
-dont ils sont détenteurs  sous peine des sanctions prévues par les articles 1791 et 1797 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI 1791
-	  - CGI 1797
-	  - CGIAN4 149 A CGIAN4 152
-
-
 ### IMPOSITIONS DEPARTEMENTALES.
 
 ###### Article 155 C
@@ -16029,34 +16301,6 @@ attestations de contestation, des attestations de paiement et des certificats de
 
 
 # RECOUVREMENT DE L'IMPOT
-
-## PAIEMENT DE L'IMPOT
-
-### PENALITES
-
-###### Article 207 quater B
-
-Les infractions aux dispositions de l'article 1840 N sexies du code général des impôts sont constatées par des procès-verbaux
-qui peuvent être établis par les agents des impôts, les agents des douanes ainsi que par les agents de la direction générale
-de la concurrence et de la consommation qui ont prêté le serment requis des agents des administrations financières pour
-l'exercice de leurs fonctions.
-
-Les procès-verbaux sont rédigés à la requête du directeur général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1840 N sexies
-
-	**Nouveaux textes**:
-
-	  - CGI A225 A-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ## SURETES ET PRIVILEGES
 
