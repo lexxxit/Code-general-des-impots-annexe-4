@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1989-07-14
+Version Consolidée au 1989-08-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2226,6 +2226,33 @@ Il en assurera la diffusion au public par tous moyens appropriés.
 Pour l'application du I de l'article 41 F et de l'article 41 H de l'annexe III au code général des impôts, le récépissé de la
 déclaration visée à l'article 17 quater est joint à la déclaration des revenus de l'année considérée.
 
+
+
+###### Article 17 quinquies A
+
+L'agrément prévu à l'article 41 H de l'annexe III au code général des impôts pour l'application du 3° du I et du 1° ter du II
+de l'article 156 du même code est délivré par le directeur régional des impôts dont relève le lieu de situation de l'immeuble
+concerné. Si la demande présente des difficultés particulières tenant notamment à la nature de l'immeuble ou aux conditions
+de son occupation, la décision est prise par le ministre de l'économie, des finances et du budget (1).
+
+L'agrément est délivré par le délégué régional dans la région d'Ile-de-France, par le directeur des services fiscaux de la
+Corse du Sud dans les départements de Corse et par le directeur des services fiscaux territorialement compétent dans les
+départements d'outre-mer.
+
+(1) Disposition applicable aux demandes déposées à compter du 1er janvier 1984. Les agréments délivrés par les directeurs des
+services fiscaux sur des demandes déposées avant le 1er janvier 1984 peuvent être retirés soit par le directeur des services
+fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-07-04 art. 1 JORF 22 août 1989
+
+	**Cite**:
+
+	  - CGI 156 I 3°, II 1° ter
+	  - CGIAN3 41 H
 
 
 ###### Article 17 ter
@@ -16670,6 +16697,27 @@ Les régies municipales  intercommunales et départementales exploitant des serv
 
 ##### Octroi de certains agréments fiscaux
 
+###### Article 170 octies
+
+Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies C sont exercées
+par le délégué régional dans la région d'Ile-de-France, par le directeur des services fiscaux de la Corse du Sud dans les
+départements de Corse et par les directeurs des services fiscaux compétent dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-07-04 art. 1 JORF 22 août 1989
+
+	**Cite**:
+
+	  - CGIAN4 170 quinquies à CGIAN4 170 septies C
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
+
+
 ###### Article 170 quinquies
 
 Il est statué sur les demandes d'agrément présentées pour l'application des articles 697, 721 et 1465 du code général des
@@ -16850,44 +16898,6 @@ services fiscaux qui a délivré l'agrément, soit par le directeur régional de
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
-## IMPOTS D'ETAT
-
-### IMPOTS DIRECTS ET TAXES ASSIMILEES
-
-#### IMPOT SUR LE REVENU
-
-##### REVENU GLOBAL.
-
-###### Article 17 quinquies A
-
-L'agrément prévu à l'article 41 H de l'annexe III au code général des impôts pour l'application de l'article 156-I-3° et
-II-1° ter du même code est délivré par le directeur régional des impôts dont relève le lieu de situation de l'immeuble
-concerné. Si la demande présente des difficultés particulières tenant notamment à la nature de l'immeuble ou aux conditions
-de son occupation, la décision est prise par le ministre de l'économie, des finances et du budget (1).
-
-L'agrément est délivré par le délégué régional dans la région d'Ile-de-France et par le directeur des services fiscaux dans
-les départements d'outre-mer, de la Haute-Corse et de la Corse du Sud.
-
-(1) Disposition applicable aux demandes déposées à compter du 1er janvier 1984. Les agréments délivrés par les directeurs des
-services fiscaux sur des demandes déposées avant le 1er janvier 1984 peuvent être retirés soit par le directeur des services
-fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts territorialement compétent.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1983-12-16 art. 1, art. 5, art. 6 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
-
-	**Cite**:
-
-	  - CGI 156 I 3°, II 1° ter
-	  - CGIAN3 41 H
-
-
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
 
 ### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES
@@ -16916,31 +16926,6 @@ fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts
 ### DISPOSITIONS DIVERSES
 
 #### DISPOSITIONS COMMUNES.
-
-###### Article 170 octies
-
-Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies C sont exercées
-dans la région d'Ile-de-France par le délégué régional, dans les départements d'outre-mer [*DOM*], de la Haute-Corse et de la
-Corse du Sud par les directeurs des services fiscaux compétents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1987-11-23
-
-	**Cite**:
-
-	  - CGIAN4 170 quinquies à CGIAN4 170 septies C
-
-	**Modifié par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 2 () JORF 24 juillet 1987
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
-
 
 ##### OCTROI DE CERTAINS AGREMENTS FISCAUX.
 
