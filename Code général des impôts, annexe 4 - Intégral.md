@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-11-07
+Version Consolidée au 1980-11-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2184,6 +2184,31 @@ Pour les représentations occasionnelles, il peut être fait usage de cartes d'e
 coupon détachable ; la carte et le coupon comportent les mentions prévues pour les billets et sont utilisés dans les mêmes
 conditions que ceux-ci.
 
+
+
+###### Article 50 sexies F
+
+Les fabricants, importateurs ou marchands doivent déclarer leurs livraisons de billets ou cartes d'entrée aux exploitants de
+spectacles, en précisant :
+
+1° Les noms et adresses des établissements destinataires ;
+
+2° Le nombre des billets ou cartes d'entrée livrés, par catégorie de places, ainsi que les numéros des billets.
+
+Ils doivent adresser ces déclarations au service des impôts dont ils dépendent dans les huit jours qui suivent les
+livraisons.
+
+Les exploitants de spectacles qui achètent leurs billets directement à l'étranger sont considérés comme importateurs et
+astreints aux déclarations prévues au présent article.
+
+Lorsqu'elles concernent les livraisons de billets ou de cartes d'entrée dans les salles de spectacles cinématographiques, les
+déclarations prévues au présent article sont souscrites par le centre national de la cinématographie française.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1980-11-21 art. 3 JORF 30 novembre 1980
 
 
 ###### Article 50 sexies G
@@ -8684,8 +8709,8 @@ dessus.
 
 ###### Article 50 sexies B
 
-Toute entrée dans les établissements de spectacles visés à l'article 290 quater du code général des impôts doit être
-constatée par la remise d'un billet extrait d'un carnet à souches ou d'un distributeur automatique  délivré avant l'entrée
+Toute entrée dans les établissements de spectacles visés à l'article 290 quater-I du code général des impôts doit être
+constatée par la remise d'un billet extrait d'un carnet à souches ou d'un distributeur automatique délivré avant l'entrée
 dans la salle de spectacles.
 
 Ce billet comporte deux parties  dont l'une reste entre les mains du spectateur et l'autre est retenue au contrôle. Chacune
@@ -8699,15 +8724,18 @@ peut être utilisé que pour la catégorie de places qui y est indiquée.
 Les billets pris en abonnement ou en location doivent être tirés de carnets ou rouleaux spéciaux; ils comportent les mentions
 prévues ci-dessus et  en outre  l'indication de la séance pour laquelle ils sont valables.
 
-Les billets d'entrée dans les salles de spectacles cinématographiques doivent porter en plus la marque du centre national de
-la cinématographie; ils sont fournis aux exploitants et utilisés par eux dans les conditions fixées par la réglementation de
-l'industrie cinématographique.
+Les obligations concernant les mentions à porter sur les billets d'entrée dans les salles de spectacles cinématographiques,
+la fourniture et l'utilisation de ces billets sont fixées par la réglementation de l'industrie cinématographiques.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1980-11-21 art. 1 JORF 30 novembre 1981
+
 	**Cite**:
 
-	  - CGI 209 quater
+	  - CGI 290 quater I
 
 	**Cité par**:
 
@@ -8716,10 +8744,6 @@ l'industrie cinématographique.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies C (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies E (V)
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 50 sexies E
 
@@ -8727,33 +8751,13 @@ Si  après la délivrance d'un billet  un spectateur désire changer de place et
 prix  le complément doit être constaté par la délivrance d'un billet supplémentaire établi dans les mêmes conditions que les
 autres billets et portant imprimé le montant du supplément encaissé.
 
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 50 sexies F
-
-Les fabricants  importateurs ou marchands doivent déclarer leurs livraisons de billets ou cartes d'entrée aux exploitants de
-spectacles  en précisant [*mentions*] :
-
-1° Les noms et adresses des établissements destinataires;
-
-2° Le nombre des billets ou cartes d'entrée livrés  par catégorie de places  ainsi que les numéros des billets.
-
-Ils doivent adresser ces déclarations au service des impôts dont ils dépendent dans les huit jours qui suivent les livraisons
-[*délai de dépôt*].
-
-Les exploitants de spectacles qui achètent leurs billets directement à l'étranger sont considérés comme importateurs et
-astreints aux déclarations prévues au présent article.
+La mention du supplément de prix ne concerne pas les billets d'entrée dans les salles de spectacles cinématographiques.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Arrêté 1980-11-21 art. 2 JORF 30 novembre 1980
 
 
 ###### Article 50 sexies H
