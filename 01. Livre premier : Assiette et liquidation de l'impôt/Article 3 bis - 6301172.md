@@ -1,37 +1,24 @@
 # Article 3 bis
 
-I. Pour les exercices clos à compter du 22 septembre 1972, la dotation annuelle de la provision prévue à l'article 2 ne peut
-excéder :
+I. La dotation annuelle à la provision prévue à l'article 2 ne peut excéder 5 % du bénéfice comptable de chaque exercice. 
 
-a. Par rapport au bénéfice comptable de chaque exercice, 5 % de de ce bénéfice en ce qui concerne les entreprises autres que
-le crédit national ;
+II. La dotation globale à cette provision ne peut excéder 0,50 % du montant des crédits à moyen terme et à long terme
+effectivement utilisés.
 
-b. Par rapport au montant des crédits à moyen et à long terme effectivement utilisés  à l'exclusion des prêts sur avances du
-fonds de développement économique et social mis en place pour le compte de l'Etat et des prêts garantis en tout ou partie par
-l'Etat, 0,50 % de ce montant en ce qui concerne le crédit national.
+**Nota:**
 
-II. Pour les mêmes exercices, la dotation globale à cette provision ne peut excéder :
-
-a. Par rapport au montant des crédits à moyen terme et à long terme effectivement utilisés, 0,50 % de ce montant en ce qui
-concerne les entreprises autres que le crédit national ;
-
-b. Par rapport au montant visé au b du I, 3 % de ce montant en ce qui concerne le crédit national.
-
-III. Dans la mesure où, à la clôture du premier exercice arrêté après le 22 septembre 1972, le montant global de la provision
-déjà constituée est supérieur au montant maximum fixé au II ci-dessus l'excédent correspondant doit être rapporté par
-fractions égales aux résultats de l'exercice susvisé et des quatre exercices suivants.
+Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN4 2
+	  - Arrêté 1997-12-22 art. 1 JORF 27 décembre 1997
 
 	**Liens**:
 
-	  - DISJONCTION: Décret n°81-73 1981-01-30 art. 1 JORF 31 janvier 1981)
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
-	  - Décret n°80-1076 du 23 décembre 1980 - art. 4 (V) JORF 28 décembre 1980
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 2 (P)

@@ -3,7 +3,7 @@
 Le résultat consolidé défini à l'article 116 de l'annexe II au code général des impôts est rectifié, dans la proportion
 mentionnée au c et au d du 1 de ce même article, à raison des opérations mentionnées à l'article 23 bis A.
 
-1. (Sans objet, édition du 18 août 1993).
+1. (Sans objet)
 
 2. Lorsque les résultats des sociétés mentionnées ci-après sont retenus pour la détermination du résultat consolidé ou
 compris dans le résultat d'ensemble d'un groupe constitué par la société agréée ou l'une de ses exploitations indirectes en
@@ -24,7 +24,7 @@ l'objet de l'investissement n'est pas retenu pour la détermination du résultat
 fraction de la provision qui excède le déficit de cette exploitation déterminé selon les modalités prévues au III de
 l'article 39 octies B ou au III de l'article 39 octies D du code déjà cité ;
 
-2° Des déductions effectuées au titre des dispositions du 2 de l'article 39 quinquies A et du II de l'article 238 bis HA du
+2° Des déductions effectuées au titre des dispositions du 2 de l'article 39 quinquies A et du II de l'article 217 undecies du
 code général des impôts par une société à raison des sommes versées pour la souscription au capital d'une autre société.
 
 3. Dans la situation visée au 2, le résultat consolidé est minoré de la fraction des subventions et abandons de créances qui
@@ -40,7 +40,7 @@ deux tiers de leur montant.
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
@@ -49,8 +49,8 @@ deux tiers de leur montant.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998
 
 	**Modifié par**:
 
-	  - Loi - art. 104 (P) JORF 30 décembre 1992
+	  - Loi - art. 18 (V) JORF 31 décembre 1997

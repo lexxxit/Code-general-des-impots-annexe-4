@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-04-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -531,41 +531,28 @@ crédit agricole ne sont pas retenus par celle-ci pour le calcul de la provision
 
 ###### Article 3 bis
 
-I. Pour les exercices clos à compter du 22 septembre 1972, la dotation annuelle de la provision prévue à l'article 2 ne peut
-excéder :
+I. La dotation annuelle à la provision prévue à l'article 2 ne peut excéder 5 % du bénéfice comptable de chaque exercice. 
 
-a. Par rapport au bénéfice comptable de chaque exercice, 5 % de de ce bénéfice en ce qui concerne les entreprises autres que
-le crédit national ;
+II. La dotation globale à cette provision ne peut excéder 0,50 % du montant des crédits à moyen terme et à long terme
+effectivement utilisés.
 
-b. Par rapport au montant des crédits à moyen et à long terme effectivement utilisés  à l'exclusion des prêts sur avances du
-fonds de développement économique et social mis en place pour le compte de l'Etat et des prêts garantis en tout ou partie par
-l'Etat, 0,50 % de ce montant en ce qui concerne le crédit national.
+**Nota:**
 
-II. Pour les mêmes exercices, la dotation globale à cette provision ne peut excéder :
-
-a. Par rapport au montant des crédits à moyen terme et à long terme effectivement utilisés, 0,50 % de ce montant en ce qui
-concerne les entreprises autres que le crédit national ;
-
-b. Par rapport au montant visé au b du I, 3 % de ce montant en ce qui concerne le crédit national.
-
-III. Dans la mesure où, à la clôture du premier exercice arrêté après le 22 septembre 1972, le montant global de la provision
-déjà constituée est supérieur au montant maximum fixé au II ci-dessus l'excédent correspondant doit être rapporté par
-fractions égales aux résultats de l'exercice susvisé et des quatre exercices suivants.
+Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN4 2
+	  - Arrêté 1997-12-22 art. 1 JORF 27 décembre 1997
 
 	**Liens**:
 
-	  - DISJONCTION: Décret n°81-73 1981-01-30 art. 1 JORF 31 janvier 1981)
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
-	  - Décret n°80-1076 du 23 décembre 1980 - art. 4 (V) JORF 28 décembre 1980
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 2 (P)
 
 
 ##### II bis : Provisions pour risques afférents aux crédits à moyen terme résultant de ventes ou de travaux effectués à l'étranger
@@ -1087,45 +1074,117 @@ Au plus tard à l'âge de dix-huit mois s'ils sont nourris exclusivement avec de
 
 Le droit de dénonciation du service des impôts ne peut s'exercer qu'à l'égard des productions suivantes :
 
-Bulbiculture ;
+1° culture de la chicorée industrielle ;
 
-Cultures des agrumes, de la chicorée industrielle, des choux à choucroute, du houblon, des éricacées ;
+2° culture des éricacées (myrtilles) ;
 
-Cressiculture ;
+3° vergers de châtaigniers ;
 
-Vergers de figuiers  de châtaigniers ;
+4° culture de mûres ;
 
-Cultures des plantes et des fleurs à parfum autres que la lavande et le lavandin, de mimosas, de boutures d'oeillets, de
-plantes médicinales, de sapins de Noël ;
+5° vergers de coings ;
 
-Forceries de lilas ;
+6° culture des plantes et des fleurs à parfum autres que lavande, lavandin, jasmin, rose de mai, fleur d'oranger, mimosa ;
 
-Cultures en vue de l'obtention ou de l'édition de variétés végétales nouvelles ;
+7° culture de boutures d'oeillets ;
 
-Pépinières de camélias, pépinières viticoles sous serres ;
+8° culture de fleurs comestibles ;
 
-Riziculture ;
+9° forceries de lilas ;
 
-Saliculture ;
+10° culture en vue de l'obtention ou de l'édition de variétés végétales nouvelles ;
 
-Exploitation de truffières ;
+11° pépinières de camélias ;
 
-Elevage des animaux de laboratoire, des animaux à fourrure, du gibier (aussi bien en vue du peuplement des chasses que pour
-l'abattage en vue de la consommation), des animaux, y compris les oiseaux d'appartement ou d'agrément, des poissons et autres
-espèces vivantes d'aquarium, de toutes espèces vivantes pour la pratique d'un sport ou d'un agrément, des chiens, des chevaux
-de course, des pigeons ;
+12° pépinières viticoles sous serres ;
 
-Pisciculture, y compris les salmonidés ;
+13° riziculture ;
 
-Production de mycélium ;
+14° élevage des animaux de laboratoire ;
 
-Production de gelée royale.
+15° élevage des animaux à fourrure, sauf visons et chinchillas ;
+
+16° élevage du gibier (aussi bien en vue du peuplement des chasses que pour l'abattage en vue de la consommation) autre que
+cailles, faisans, faisandeaux, perdrix, perdreaux, lièvres ;
+
+17° élevage des animaux, y compris les oiseaux, d'appartement ou d'agrément ;
+
+18° élevage des poissons et autres espèces vivantes d'aquarium ;
+
+19° élevage de toutes espèces vivantes pour la pratique d'un sport ou d'un agrément ;
+
+20° élevage de chevaux de course ;
+
+21° exploitation de plants de chênes truffiers ;
+
+22° production de mycélium ;
+
+23° production de gelée royale ;
+
+24° élevage de ratites ;
+
+25° lombriculture ;
+
+26° élevage de ver à soie ;
+
+27° élevage de coqs de pêche ;
+
+28° élevage de teignes ;
+
+29° production de gazon en tapis ;
+
+30° culture de plantes aquatiques ;
+
+31° élevages de crevettes et écrevisses ;
+
+32° élevage de grenouilles ;
+
+33° culture de fleurs et feuillages ornementaux (sauf asparagus et feuillages décoratifs sous abris) ;
+
+34° culture de fleurs pour la confection de fleurs séchées ;
+
+35° élevage de taurillons hors sol ;
+
+36° élevage d'ovins en plein air intégral ;
+
+37° production de volailles démarrées autres que poussins et poulettes ;
+
+38° élevage de poussins en pension pour livraison aux producteurs de poulets engraissés ;
+
+39° élevage de coqs de reproduction ;
+
+40° production d'oeufs de couvaison de dinde ;
+
+41° production d'oeufs de perdrix ;
+
+42° élevage de poulinières ou poulains au sol ;
+
+43° production de vin ou de confiture de fruits du verger de l'exploitant ;
+
+44° production de lait de jument.
+
+**Nota:**
+
+En conséquence de l'article 33-I-1° et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1997-10-23 art. 1 JORF 7 novembre 1997
+	  - Arrêté 1998-05-22 art. 1 JORF 24 mai 1998
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - PERIME: Arrêté du 10 juin 2016 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 
 ##### 3° : Passage du régime du forfait à un régime de bénéfice réel
@@ -2007,7 +2066,7 @@ disposition de l'administration selon les modalités prévues au I de l'article 
 I. Les assureurs auprès desquels ont été souscrits des contrats ou des avenants d'augmentation d'assurance en cas de vie ou
 d'assurance en cas de décès, dont les primes peuvent ouvrir droit à la réduction d'impôt prévue à l'article 199 septies du
 code général des impôts, sont tenus de délivrer chaque année aux souscripteurs de ces contrats ou avenants un certificat
-permettant aux intéressés de bénéficier de la réduction d'impôt prévue ci-dessus ;
+permettant aux intéressés de bénéficier de la réduction d'impôt prévue ci-dessus ; 
 
 II. Le certificat prévu au I comporte, selon un modèle publié par l'administration, les indications suivantes :
 
@@ -2019,55 +2078,43 @@ II. Le certificat prévu au I comporte, selon un modèle publié par l'administr
 
 - date d'effet et durée du contrat ou de l'avenant ;
 
-- montant des primes venues à échéance au cours de l'année civile.
+- montant des primes venues à échéance au cours de l'année civile. 
 
-Il précise en outre :
+Il précise en outre : 
 
-((1. Pour les contrats ou avenants visés au 1° de l'article 199 septies susvisé :
+1. Pour les contrats ou avenants visés au 1° de l'article 199 septies susvisé : 
 
-((a) la nature du contrat : contrat à "primes périodiques", à "prime unique" ou "à versements libres" ;
+a) la nature du contrat : contrat à " primes périodiques ", à " prime unique " ou " à versements libres " ; 
 
-((b) le montant des primes représentatif de l'opération d'épargne en distinguant :
+b) Le montant des primes représentatif de l'opération d'épargne en distinguant : 
 
-((1° D'une part, le montant correspondant :
+1° Le montant correspondant aux primes payées au titre de contrats à primes périodiques conclus ou prorogés avant le 20
+septembre 1995 ; 
 
-((- aux primes payées au titre de contrats à primes périodiques conclus ou prorogés avant le 20 septembre 1995 ;
+2° Le montant correspondant aux primes payées au titre des contrats à primes périodiques conclus ou prorogés du 20 septembre
+1995 au 31 décembre 1995 ; 
 
-((- ou aux primes payées du 1er janvier 1995 au 19 septembre 1995 au titre de contrats à versements libres ou à prime unique
-conclus ou prorogés avant le 20 septembre 1995 ;
+3° Le montant correspondant aux primes payées au titre de contrats à primes périodiques conclus ou prorogés du 1er janvier
+1996 au 4 septembre 1996.
 
-((2° D'autre part, le montant correspondant aux primes payées à compter du 20 septembre 1995 au titre de contrats à
-versements libres ou à prime unique quelle que soit la date de leur conclusion ou de leur prorogation ou de contrats à primes
-périodiques conclus ou prorogés à compter du 20 septembre 1995)) (M).
-
-2. pour les contrats ou avenants prévus ((au 2° de l'article 199  septies)) (M) les nom et prénoms du bénéficiaire du capital
-ou de la rente viagère;
+2. pour les contrats ou avenants prévus au 2° de l'article 199 septies les nom et prénoms du bénéficiaire du capital ou de la
+rente viagère ; 
 
 III. Lorsque les contrats d'assurance en cas de décès visés au 2° de l'article 199 septies sont souscrits sous la forme de
-contrats collectifs, l'organisme souscripteur délivre à ses adhérents le certificat décrit au  II.
+contrats collectifs, l'organisme souscripteur délivre à ses adhérents le certificat décrit au II. 
 
 IV. Le certificat décrit au II est joint par le souscripteur à sa déclaration d'ensemble des revenus de l'année au titre de
 laquelle il peut bénéficier de la réduction d'impôt.
-
-(M) Modifications de l'arrêté du 30 janvier 1996.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-01-30 art. 1, art. 2 JORF 24 février 1996
-
-	**Codifié par**:
-
-	  - Arrêté 1996-06-21
+	  - Arrêté 1997-12-22 art. 1, art. 2 JORF 26 décembre 1997
 
 	**Cite**:
 
-	  - CGI 199 septies
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
+	  - Code général des impôts, CGI. - art. 199 septies (V)
 
 
 ##### 0II : Dépenses destinées à économiser l'énergie utilisée pour le chauffage
@@ -2860,7 +2907,7 @@ Egal ou supérieur à 150 % du montant du capital vie : 55 %.
 
 ###### Article 18
 
-Pour l'année 1997, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 1998, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 Taux applicable
@@ -2869,53 +2916,53 @@ Taux applicable
 
 Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-Moins de 61 160 F / Année
+Moins de 61 830 F / Année
 
-Moins de 15 290 F / Trimestre
+Moins de 15 448 F / Trimestre
 
-Moins de 5 097 F / Mois
+Moins de 5 153 F / Mois
 
-Moins de 1 176 F / Jour ou fraction de jour
+Moins de 1 189 F / Jour ou fraction de jour
 
-Moins de 196 F / Semaine
+Moins de 198 F / Semaine
 
 Taux applicable : 15 p. 100
 
 Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-De 61 160 à 177 480 F / Année
+De 61 830 à 179 430 F / Année
 
-De 1 290 à 44 370 F / Trimestre
+De 15 448 à 44 858 F / Trimestre
 
-De 5 097 à 14 790 F / Mois
+De 5 153 à 14 953 F / Mois
 
-De 1 176 à 3 413 F / Semaine
+De 1 189 à 3 451 F / Semaine
 
-De 196 à 569 F / Jour ou fraction de jour
+De 198 à 575 F / Jour ou fraction de jour
 
 Taux applicable : 25 p. 100
 
 Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de 177 480 F / Année
+Au-delà de 179 430 F / Année
 
-Au-delà de 44 370 F / Trimestre
+Au-delà de 44 858 F / Trimestre
 
-Au-delà de 14 790 F / Mois
+Au-delà de 14 953 F / Mois
 
-Au-delà de  3 413 F / Semaine
+Au-delà de  3 451 F / Semaine
 
-Au-delà de 569 F / Jour ou fraction de jour.
+Au-delà de 575 F / Jour ou fraction de jour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-12-31 art. 1 JORF 7 janvier 1997
+	  - Arrêté 1997-12-31 art. 1 JORF 9 janvier 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 #### Chapitre II : Impôt sur les sociétés
@@ -3054,7 +3101,7 @@ compte dans le résultat consolidé.
 Le résultat consolidé défini à l'article 116 de l'annexe II au code général des impôts est rectifié, dans la proportion
 mentionnée au c et au d du 1 de ce même article, à raison des opérations mentionnées à l'article 23 bis A.
 
-1. (Sans objet, édition du 18 août 1993).
+1. (Sans objet)
 
 2. Lorsque les résultats des sociétés mentionnées ci-après sont retenus pour la détermination du résultat consolidé ou
 compris dans le résultat d'ensemble d'un groupe constitué par la société agréée ou l'une de ses exploitations indirectes en
@@ -3075,7 +3122,7 @@ l'objet de l'investissement n'est pas retenu pour la détermination du résultat
 fraction de la provision qui excède le déficit de cette exploitation déterminé selon les modalités prévues au III de
 l'article 39 octies B ou au III de l'article 39 octies D du code déjà cité ;
 
-2° Des déductions effectuées au titre des dispositions du 2 de l'article 39 quinquies A et du II de l'article 238 bis HA du
+2° Des déductions effectuées au titre des dispositions du 2 de l'article 39 quinquies A et du II de l'article 217 undecies du
 code général des impôts par une société à raison des sommes versées pour la souscription au capital d'une autre société.
 
 3. Dans la situation visée au 2, le résultat consolidé est minoré de la fraction des subventions et abandons de créances qui
@@ -3091,7 +3138,7 @@ deux tiers de leur montant.
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
@@ -3100,11 +3147,11 @@ deux tiers de leur montant.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998
 
 	**Modifié par**:
 
-	  - Loi - art. 104 (P) JORF 30 décembre 1992
+	  - Loi - art. 18 (V) JORF 31 décembre 1997
 
 
 ##### Section II : Lieu d'imposition
@@ -3339,6 +3386,34 @@ Ce modèle pourra être adapté pour tenir compte des nécessités de l'exploita
 	  - PEREMPTION: Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
 
 
+#### Chapitre II bis : Taxe d'apprentissage.
+
+###### Article 23 I ter
+
+Le montant minimal du concours mentionné à l'article 140 K bis de l'annexe II au code général des impôts est fixé à 2 500 F
+par apprenti inscrit dans un centre de formation d'apprentis ou dans une section d'apprentissage au 31 décembre de l'année au
+titre de laquelle est due la taxe d'apprentissage. L'employeur doit se libérer de ce versement avant le 1er mars de l'année
+suivant l'année d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-02-17 art. 1 JORF 19 février 1997
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
+
+	**Cite**:
+
+	  - CGIAN2 140 K bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
 #### Chapitre III : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
 
 ##### Section I : Remploi des plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation
@@ -3533,32 +3608,34 @@ Années 1914 et antérieures : 256,4. Année 1915 : 179,4. Année 1916 : 136,9. 
 
 ###### Article 23 L ter
 
-Sont assimilées à des activités industrielles pour l'application des articles 199 undecies, 238 bis HA à 238 bis HC du code
-général des impôts :
+Sont assimilées à des activités industrielles pour l'application des articles 199 undecies, ((217 undecies à 217 duodecies))
+(M) du code général des impôts :
 
 1. L'extraction des substances suivantes : chromite, phosphorite, kaolin, columbo-tantalite, minerais aurifères non
 alluvionnaires ;
 
 2. L'exploitation de gîtes géothermiques au sens de l'article 3 du code minier.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1986-10-07
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
-	  - CGI 199 undecies, 238 bis HA à 238 bis HC
+	  - CGI 199 undecies, 217 undecies à 217 duodecies
 	  - Code minier 3
 
 	**Modifié par**:
 
-	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+	  - Loi - art. 18 (V) JORF 31 décembre 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 22 avril 1998
 
 
 #### Chapitre IV : Dispositions communes à l'impôt sur le revenu et à la taxe sur les salaires.
@@ -3857,16 +3934,16 @@ c) Parfums : 50 grammes et eaux de toilette : 0,25 litre.
 
 En application de l'article 242-0 P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0 M de la même annexe
-est fixé, pour les années ((1996 et 1997)) (1), à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F
+est fixé, pour les années ((1997 et 1998)) (M), à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F
 pour les demandes déposées au titre d'une année civile.
 
-(1) Modification de l'arrêté.
+(M) Modification de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1997-02-24 art. 1 JORF 4 mars 1997
+	  - Arrêté 1998-03-04 art. 1 JORF 14 mars 1998
 
 	**Cite**:
 
@@ -3874,9 +3951,10 @@ pour les demandes déposées au titre d'une année civile.
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 	  - TXT_ASSOCIE: Instruction 1996-04-12 3D-3-96
 	  - TXT_ASSOCIE: Instruction 1997-03-14 3D-2-97
+	  - TXT_ASSOCIE: Instruction 1998-04-10 3D-3-98
 
 
 ###### Article 28-0 A
@@ -7007,6 +7085,55 @@ des matériels aux besoins de l'exploitation agricole.
 	  - Code général des impôts, CGI. - art. 297 (V)
 
 
+##### II bis : Remboursement forfaitaire agricole.
+
+###### Article 50 duodecies-0 B
+
+En application du 7 de l'article 267 bis de l'annexe II au code général des impôts, la base de calcul du remboursement
+forfaitaire au titre des ventes ou livraisons d'animaux dont le prix de cession excède leur valeur normale en poids de viande
+est fixée pour l'année 1996 par kilogramme de poids vif à :
+
+ANIMAUX : Chevaux
+
+PRIX par kilogramme (en francs) : 18,95
+
+ANIMAUX : Gros bovins
+
+PRIX par kilogramme (en francs) : 25,20
+
+ANIMAUX : Veaux
+
+PRIX par kilogramme (en francs) : 35,90
+
+ANIMAUX : Moutons et agneaux
+
+PRIX par kilogramme (en francs) : 21,20
+
+ANIMAUX : Porcs
+
+PRIX par kilogramme (en francs) : 17,20
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-05-28 art. 1 JORF 3 juin 1997
+
+	**Codifié par**:
+
+	  - Arrêté 2002-06-06
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2002-06-06 art. 1 JORF 8 juin 2002
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2002
+
+	**Cite**:
+
+	  - CGIAN2 267 bis
+
+
 ##### III : Opérations portant sur les animaux de boucherie et de charcuterie
 
 ##### Utilisation de machines à timbrer les documents d'accompagnement des animaux vivants.
@@ -8193,6 +8320,53 @@ Produits pour l'entretien de la chevelure (l'hygiène et les soins de la chevelu
 	  - Code général des impôts, CGI. - art. 349 (V)
 
 
+##### II : Régime économique
+
+##### Répartition du contingent des rhums.
+
+###### Article 52 quater
+
+I. Pour obtenir le bénéfice du régime de l'exportation préalable prévu à l'article 144 bis de l'annexe III au code général
+des impôts, les personnes qui expédient depuis la France métropolitaine à destination de l'étranger des rhums traditionnels
+des départements d'outre-mer pris sur les comptes spéciaux prévus à l'article 491 du code général des impôts doivent se faire
+délivrer par le bureau de la direction générale des douanes et droits indirects ayant constaté la sortie du territoire
+national un certificat énonçant la quantité, la qualité et l'origine du ou des rhums traditionnels des départements d'outre-
+mer ainsi que le volume d'alcool pur correspondant.
+
+II. Ne peuvent donner lieu à délivrance de certificats d'exportation préalable que les expéditions accompagnées de titres de
+mouvement attestant qu'il s'agit de rhums traditionnels des départements d'outre-mer issus des comptes spéciaux indiqués au
+I. Le cas échéant, il est émis autant de certificats que de qualités et d'origines de rhums portées sur la déclaration
+mensuelle d'assemblage du mois correspondant aux expéditions.
+
+Les certificats d'exportation préalable sont extraits d'un carnet à souches et ne sont pas cessibles. Ils sont valables six
+mois à compter du jour de leur délivrance et doivent, dans ce délai, être imputés en charge, selon les qualités y indiquées,
+sur les contingents des opérateurs du département d'origine du rhum. Les certificats non imputés dans le délai fixé ci-dessus
+sont caducs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-05-30 art. 1, art. 2 JORF 1er juin 1997
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
+
+	**Cite**:
+
+	  - CGI 491
+	  - CGIAN3 144 bis
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
 ##### III : Régime fiscal
 
 ##### Produits à base d'alcool susceptibles de bénéficier du droit réduit de fabrication.
@@ -8455,13 +8629,26 @@ particulier que dans la mesure où elles sont rendues inutilisables lors de l'ou
 ###### Article 54-0 G
 
 Les feuilles métalliques et les capsules, portant impression du timbre  ne peuvent être fabriquées et livrées que par les
-fabricants dûment agréés par l'administration  dans les conditions qu'elle détermine et sous son contrôle.
+fabricants dûment ((agréés par le ministre de l'économie, des finances et de l'industrie, dans les conditions qu'il détermine
+et sous son contrôle.)) (M)
+
+(M) Modification.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 54-0 H
@@ -8558,17 +8745,33 @@ nombre est vérifié contradictoirement par le fabricant ou son préposé et l'a
 
 Les décharges du compte magasin sont constituées par les sorties des feuilles imprimées. Celles-ci ne peuvent être expédiées
 que sous le couvert d'un acquit-à-caution établi dans les conditions précisées à l'article 54-0 T et à destination seulement
-de marchands en gros utilisateurs visés à l'article 54-0 U ou de fabricants de capsules agréés par l'administration dans les
-conditions prévues à l'article 54-0 G.
+de marchands en gros utilisateurs visés à l'article 54-0 U ou de fabricants de capsules ((agréés par le ministre de
+l'économie, des finances et de l'industrie)) (M) dans les conditions prévues à l'article 54-0 G.
 
 L'acquit-à-caution doit indiquer le nombre de feuilles par catégorie et par destinataire  ainsi que le nombre de capsules
 qu'elles représentent.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
 	  - CGIAN4 54-0 G, 54-0 T, 54-0 U
+
+	**Modifié par**:
+
+	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 54-0 N
@@ -9124,9 +9327,17 @@ capsules.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
 	**Cite**:
 
 	  - CGIAN4 54 octies, 54 nonies, 164 L à 164 AL
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BL
@@ -10290,6 +10501,32 @@ physiques habilitées à représenter les personnes morales agréées.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quinquies (V)
 
 
+###### Article 56 J octies
+
+L'agrément est accordé par le ministre de l'économie, des finances, et de l'industrie, pour une durée indéterminée, pour un
+ou plusieurs bureaux de garantie.
+
+Les décisions d'agrément sont notifiées aux bénéficiaires et publiées au Bulletin officiel des douanes.
+
+Les décisions rejetant les demandes d'agrément sont motivées et notifiées aux requérants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
+
+	**Modifié par**:
+
+	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
 ###### Article 56 J quinquies
 
 Les personnes physiques ou morales qui veulent exercer la profession de commissionnaire en garantie prévue au I de l'article
@@ -10638,32 +10875,6 @@ correspondantes sont comptabilisées aux produits divers du budget.
 	**Liens**:
 
 	  - HISTO: Edition du 10 août 1987
-
-
-##### 3° : Les commissionnaires en garantie.
-
-###### Article 56 J octies
-
-L'agrément est accordé par le directeur général des douanes et droits indirects, pour une durée indéterminée, pour un ou
-plusieurs bureaux de garantie.
-
-Les décisions d'agrément sont notifiées aux bénéficiaires et publiées au Bulletin officiel des douanes.
-
-Les décisions rejetant les demandes d'agrément sont motivées et notifiées aux requérants.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1995-04-27 art. 4 JORF 5 mai 1995
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### 5° : Obligations des redevables.
@@ -12689,6 +12900,56 @@ Les dispositions du présent article s'appliquent dans les départements de la C
 	  - HISTO: Edition du 2 septembre 1994
 
 
+###### Article 121 KM bis
+
+Les comptables directs du Trésor sont habilités à vendre les timbres mobiles fiscaux de la série unique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1982-07-15 art. 1 JORF 29 juillet 1982, en vigueur le 1er janvier 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+	**Modifié par**:
+
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
+
+
+###### Article 121 KM ter
+
+Les recettes des douanes et droits indirects sont habilitées à vendre les timbres fiscaux suivants :
+
+a. Timbres mobiles de la série unique ;
+
+b. Timbres travailleurs étrangers ;
+
+c. Timbres contrat de transport ;
+
+d. Timbres-amendes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-08-27 art. 1 JORF 3 septembre 1997
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
 ##### Section III : Impôt sur les opérations de bourse
 
 ###### Article 121 KN
@@ -13552,105 +13813,108 @@ la nature du spectacle doit entraîner une modification du taux de l'impôt appl
 
 ###### Article 124 A
 
-((Pour les appareils automatiques autres que ceux désignés au III de l'article 1560 du code général des impôts, la
-déclaration prévue à l'article 1565 dudit code doit être conforme au modèle fixé par la direction générale des douanes et
-droits indirects)) (M). Il s'agit, selon le cas, d'une déclaration de première mise en service ou d'une déclaration de
-renouvellement pour les appareils déjà exploités l'année précédente.
+1° Le modèle de la déclaration visée au I de l'article 1565 ter du code général des impôts figure en annexe I à l'arrêté du
+31 mars 1998. La déclaration est délivrée à l'exploitant par un bureau ou une recette locale des douanes et droits indirects.
+Elle peut être éditée et remplie par l'exploitant selon une procédure informatisée.
 
-La déclaration comporte les indications suivantes :
+Pour l'appareil qu'elle concerne, la déclaration comporte les indications suivantes :
 
-a. Nom et adresse du propriétaire de l'appareil ;
+a) Nom ou raison sociale et adresse du propriétaire de l'appareil ;
 
-b. Numéro d'immatriculation au répertoire du propriétaire ;
+b) Nom ou raison sociale et adresse de l'exploitant de l'appareil ;
 
-c. Nom et adresse de l'exploitant ;
+c) Adresse du lieu d'exploitation de l'appareil ;
 
-d. Numéro d'immatriculation au répertoire de l'exploitant ;
+d) Numéro d'immatriculation de l'appareil dans le répertoire de l'exploitant ;
 
-e. Adresse de l'établissement où l'appareil est mis en service ;
+e) Nom du constructeur, marque, type, numéro de série et année de fabrication ou d'importation/introduction de l'appareil en
+France ;
 
-f. Nom du constructeur, marque, type, numéro de série et année de fabrication ou d'importation de l'appareil ;
+f) Nature de l'appareil (billard électrique, jeu vidéo, etc.) ;
 
-g. Nature de l'appareil : billard électrique, électrophone automatique, jeu vidéo, etc. ;
+g) Origine de l'appareil (nom et adresse du vendeur et date de livraison) ;
 
-h. Origine de l'appareil : nom et adresse du vendeur et date de la livraison ;
+h) Montant de la taxe due ;
 
-i. Montant de la taxe ;
+i) Numéro d'ordre de la vignette ;
 
-j. Numéro d'ordre de la vignette ;
+j) Date, lieu et signature de l'exploitant ;
 
-k. Date, lieu et signature de l'exploitant ;
+k) Visa du bureau ou de la recette locale des douanes et droits indirects ;
 
-l. Visa du bureau ou de la recette locale des douanes et droits indirects.
+l) Première mise en service ou renouvellement.
 
 La déclaration est souscrite en deux exemplaires par les exploitants d'appareils automatiques qui la déposent au bureau ou à
 la recette locale des douanes et droits indirects du lieu où les appareils sont exploités. La déclaration est visée par le
-bureau ou la recette locale des douanes et droits indirects. Les exploitants conservent un exemplaire de la déclaration.
-
-La déclaration est appuyée d'un extrait du registre du commerce et des sociétés.
+bureau ou la recette locale des douanes et droits indirects. Après visa, le bureau ou la recette locale des douanes et droits
+indirects conserve un des deux exemplaires de la déclaration et remet l'autre à l'exploitant qui le conserve selon les
+modalités prévues au I de l'article L. 102 B du livre des procédures fiscales pour être représenté à toute réquisition des
+agents des douanes et droits indirects.
 
 Lorsqu'un exploitant doit déposer des déclarations auprès de deux ou plusieurs bureaux ou recettes locales des douanes et
-droits indirects, l'extrait du registre du commerce et des sociétés peut être remplacé par une attestation de production
-dudit document délivrée par un bureau de douanes et droits indirects. L'attestation est remise, au vu de l'extrait du
-registre du commerce et des sociétés, en autant d'exemplaires que de bureaux ou recettes locales destinataires des
-déclarations.
+droits indirects, l'extrait du registre du commerce et des sociétés visé au I de l'article 1565 ter du code général des
+impôts peut être remplacé par une attestation de production dudit document délivrée par un bureau de douanes et droits
+indirects et conforme au modèle qui figure en annexe II à l'arrêté du 31 mars 1998. L'attestation est remise, au vu de
+l'extrait du registre du commerce et des sociétés, en autant d'exemplaires que de bureaux ou recettes locales des douanes et
+droits indirects destinataires des déclarations.
+
+L'extrait du registre du commerce et des sociétés ou l'attestation de production dudit extrait le remplaçant sont valables du
+1er janvier au 31 décembre de chaque année.
 
 Les personnes qui exploitent plusieurs appareils dans un même département peuvent être autorisées par le receveur des douanes
-et droits indirects territorialement compétent à déposer au bureau ou à la recette locale des douanes et droits indirects qui
-leur est désigné l'ensemble des déclarations afférentes aux appareils exploités dans le département.
+et droits indirects territorialement compétent, sur décision du directeur régional, à déposer au bureau ou à la recette
+locale des douanes et droits indirects qui leur est désigné l'ensemble des déclarations afférentes aux appareils exploités
+dans le département. L'autorisation délivrée par le receveur précité est renouvelable chaque année par tacite reconduction.
 
-Chaque appareil automatique fait l'objet d'une déclaration distincte.
+2° La vignette visée au III de l'article 1565 ter du code général des impôts est délivrée à l'exploitant par le bureau ou la
+recette locale des douanes et droits indirects qui reçoit la déclaration visée au 1°.
 
-Lorsqu'il s'agit d'une première mise en service, la déclaration et l'extrait du registre du commerce et des sociétés ou
-l'attestation de production de cet extrait désignée au cinquième alinéa ci-dessus, selon le cas, sont déposés au moins vingt-
-quatre heures avant la date d'installation des appareils automatiques.
+La vignette est apposée sur l'appareil automatique à un endroit accessible et protégé.
 
-Lorsqu'il s'agit d'un renouvellement, la déclaration et l'extrait du registre du commerce et des sociétés ou l'attestation de
-production de cet extrait désignée au cinquième alinéa, selon le cas, sont déposés entre le 1er mars et le 15 mai de chaque
-année.
-
-Le bureau ou la recette locale des douanes et droits indirects délivre, pour chaque déclaration, une vignette millésimée
-conforme au modèle fixé par la direction générale des douanes et droits indirects qui indique, notamment, le montant de la
-taxe perçue. La délivrance de la vignette intervient lors du dépôt de la déclaration.
-
-La vignette doit être obligatoirement apposée sur l'appareil automatique auquel elle se rapporte, à un endroit accessible et
-protégé.
-
-Elle est valable du 1er janvier au 31 décembre de chaque année.
+Elle est valable du 1er janvier au 31 décembre de chaque année ou du 1er juillet au 31 décembre de chaque année pour les
+appareils bénéficiant des dispositions du 6° de l'article 1562 du code général des impôts. Les exploitants doivent conserver
+les vignettes de leurs appareils automatiques selon les modalités prévues au I de l'article L. 102 B du livre des procédures
+fiscales pour être représentées à toute réquisition des agents des douanes et droits indirects.
 
 La délivrance de duplicata est interdite.
 
-A l'intérieur de la vignette sont mentionnés le millésime, les mots "République française", "Taxe sur les appareils
-automatiques", "Exploitant", "Montant", "Commune" et "Bureau" et les sigles DGDDI (direction générale des douanes et droits
-indirects) et PT ou DT (plein tarif ou demi-tarif) ainsi qu'un numéro d'ordre.
+Sur la vignette sont mentionnés le millésime, les mots :
 
-(M) Modification de l'arrêté.
+République française, Taxe sur les appareils automatiques, Exploitant, Montant, Commune et Bureau et les sigles DGDDI
+(direction générale des douanes et droits indirects) et PT ou DT (plein tarif ou demi-tarif), ainsi qu'un numéro d'ordre.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1996-01-15 art. 2 JORF 3 février 1996
-
 	**Cite**:
 
-	  - CGI 1560, 1565
+	  - Arrêté 1998-03-31 annexe I, annexe II
+	  - CGI 1565 ter, 1562
+	  - Livre des procédures fiscales - art. L102 B (M)
+
+	**Modifié par**:
+
+	  - Arrêté 1998-03-31 art. 2 JORF 22 avril 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 22 avril 1998
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 25 (V) JORF 27 décembre 2006
 
 
 ###### Article 124 B
 
-La déclaration prévue à l'article 1560 ter du code général des impôts est souscrite par l'exploitant en trois exemplaires
-extraits d'un carnet à souches.
+La déclaration prévue à l'article 1565 quinquies du code général des impôts est conforme au modèle qui figure en annexe III à
+l'arrêté du 31 mars 1998. Elle est souscrite par l'exploitant en trois exemplaires qui sont soit extraits d'un carnet à
+souche, soit édités selon une procédure informatisée. Dans ce dernier cas, ladite déclaration comprend, en plus des
+indications citées aux a à g du troisième alinéa, un numéro tiré d'une série annuelle continue.
 
-Un exemplaire de ce document est conservé par l'exploitant et le dépositaire qui doivent le présenter à toute réquisition des
-agents du service des douanes et droits indirects. ((Le troisième exemplaire est adressé par l'exploitant, dans les vingt-
-quatre heures qui suivent l'installation de l'appareil, au bureau ou à la recette locale des douanes et droits indirects qui
-reçoit la déclaration visée à l'article 124 A. Ce bureau, ou cette recette, transmet le troisième exemplaire au centre des
-impôts du lieu de souscription des déclarations de bénéfices de l'exploitant.)) (M)
+Un exemplaire de ce document est conservé par l'exploitant et le dépositaire selon les modalités prévues au I de l'article L.
+102 B du livre des procédures fiscales pour être représenté à toute réquisition des agents des douanes et droits indirects.
+Le troisième exemplaire est adressé par l'exploitant, dans les vingt-quatre heures qui suivent l'installation de l'appareil,
+au bureau ou à la recette locale des douanes et droits indirects qui reçoit la déclaration visée à l'article 124 A. Ce
+bureau, ou cette recette, transmet le troisième exemplaire au centre des impôts du lieu de souscription des déclarations de
+bénéfices de l'exploitant.
 
 Chaque déclaration comporte les indications ci-dessous :
 
@@ -13662,41 +13926,37 @@ c. L'adresse de l'établissement où l'appareil est mis en service ;
 
 d. La date d'installation de l'appareil chez le dépositaire ;
 
-e. Le pourcentage de répartition des recettes entre l'exploitant e le dépositaire ;
+e. Le pourcentage de répartition des recettes entre l'exploitant et le dépositaire ;
 
-f. ((La nature, la marque, le type et le numéro de l'appareil ;
+f. La nature, la marque, le type et le numéro de l'appareil ;
 
-g. ((L'adresse du centre des impôts du lieu de souscription des déclarations de bénéfices de l'exploitant)) (M).
-
-(M) Modification de l'arrêté.
+g. L'adresse du centre des impôts du lieu de souscription des déclarations de bénéfices de l'exploitant.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1995-01-10 art. 1, art. 2 JORF 20 janvier 1995
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
-
 	**Cite**:
 
-	  - CGI 1560 ter
+	  - Arrêté 1998-03-31 annexe III
+	  - CGI 1565 quinquies, 124 A
+	  - Livre des procédures fiscales - art. L102 B (M)
+
+	**Modifié par**:
+
+	  - Arrêté 1998-03-31 art. 3 JORF 22 avril 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 124 bis
 
-I. Pour les appareils automatiques visés au III de l'article 1560 du code général des impôts, la déclaration prévue au
-((septième alinéa de l'article 1563 dudit code)) (M), ci-après dénommée "déclaration d'exploitation", est souscrite en deux
-exemplaires sur un carnet par les personnes citées au III de l'article 1560 du code général des impôts. Ledit carnet est
-remis à ces personnes par un bureau ou une recette locale des douanes et droits indirects. Le premier exemplaire de la
-déclaration d'exploitation est conservé par le forain dans son carnet, le deuxième exemplaire est remis au bureau ou à la
-recette locale des douanes et droits indirects compétent.
+I. Pour les appareils automatiques visés au III de l'article 1560 du code général des impôts, ((la déclaration prévue à
+l'article 1565 quater dudit code)) (M), ci-après dénommée "déclaration d'exploitation", est souscrite en deux exemplaires sur
+un carnet par les personnes citées au III de l'article 1560 du code général des impôts. Ledit carnet est remis à ces
+personnes par un bureau ou une recette locale des douanes et droits indirects. Le premier exemplaire de la déclaration
+d'exploitation est conservé par le forain dans son carnet, le deuxième exemplaire est remis au bureau ou à la recette locale
+des douanes et droits indirects compétent.
 
 Le titulaire du carnet doit souscrire une déclaration d'exploitation par fête foraine.
 
@@ -13729,19 +13989,15 @@ la signature du receveur des douanes et droits indirects.
 En cas d'épuisement du carnet en cours d'année, il est délivré au forain un autre carnet dans les conditions fixées ci-dessus
 mutatis mutandis.
 
-IV.- Au plus tard vingt-quatre heures avant la date d'ouverture au public de chaque fête foraine, la déclaration
-d'exploitation est souscrite par le forain en deux exemplaires sur le carnet et ledit carnet est présenté, dans le même
-délai, par son titulaire au bureau ou à la recette locale des douanes et droits indirects le plus proche du lieu où est
-organisée la fête foraine.
-
-La présentation du carnet entraîne concomitamment la liquidation, par ce bureau ou cette recette locale des douanes et droits
-indirects, de la taxe prévue au III de l'article 1560 du code général des impôts pour tous les appareils automatiques
-exploités pendant la durée et dans l'enceinte de la fête foraine concernée qui sont repris sur ledit carnet ainsi que le
-paiement de la taxe et la validation de la déclaration d'exploitation.
+IV. ((En application de l'article 1565 quater du code général des impôts)) (M), la déclaration d'exploitation est souscrite
+par le forain en deux exemplaires sur le carnet et ledit carnet est présenté, dans le même délai, par son titulaire au bureau
+ou à la recette locale des douanes et droits indirects le plus proche du lieu où est organisée la fête foraine.
 
 Pour effectuer la liquidation de la taxe, chaque année est réputée avoir 360 jours, chaque mois 30 jours et, pour chaque
 journée d'exploitation commencée, la taxe est due pour la journée entière. En tant que de besoin, le montant de la taxe est
 arrondi au franc inférieur.
+
+((La présentation du carnet entraîne la validation de la déclaration d'exploitation)) (M).
 
 La validation de la déclaration d'exploitation est assurée par l'apposition du cachet du bureau ou de la recette locale des
 douanes et droits indirects appuyée de la signature du receveur des douanes et droits indirects. La validation est
@@ -13760,16 +14016,17 @@ VI.- La délivrance de duplicata est interdite.
 
 	**Cite**:
 
-	  - CGI 1560, 1563
-	  - CGIAN4 124 A, 126 D
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Arrêté 1996-01-15 annexe
+	  - CGI 1560, 1565 quater
+	  - CGIAN4 124 A, 126 D, 126 E
 
 	**Modifié par**:
 
-	  - Loi n°96-1182 du 30 décembre 1996 - art. 41 (V) JORF 31 décembre 1996
+	  - Arrêté 1998-03-31 art. 1 JORF 22 avril 1998
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### 2° : Classement des spectacles
@@ -13799,105 +14056,85 @@ Les maisons de jeux sont celles où sont pratiqués les jeux d'argent et qui n'e
 
 ##### 3° : Appareils automatiques.
 
-###### Article 126 A
-
-Les appareils automatiques visés à la cinquième catégorie du tarif d'imposition des spectacles ((figurant au I et au III de
-l'article 1560 du code général des impôts)) (M) sont ceux qui procurent un spectacle, une audition un jeu ou un
-divertissement et qui sont pourvus d'un dispositif mécanique, électrique ou autre permettant leur mise en marche, leur
-fonctionnement ou leur arrêt.
-
-(M) Modification de l'arrêté.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1996-01-15 art. 3 JORF 3 février 1996
-
-	**Abrogé par**:
-
-	  - Arrêté 1998-03-31 art. 4, JORF 22 avril 1998
-
-	**Cite**:
-
-	  - CGI 1560
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 126 B
-
-((Sont considérés comme exploitants d'appareils automatiques redevables de la taxe annuelle ou de la taxe prévue au III de
-l'article 1560 du code général des impôts)), (M) ceux qui en assurent l'entretien  qui encaissent la totalité des recettes et
-qui enregistrent les bénéfices ou les pertes.
-
-(M) Modification de l'arrêté.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1996-01-15 art. 4 JORF 3 février 1996
-
-	**Abrogé par**:
-
-	  - Arrêté 1998-03-31 art. 4, JORF 22 avril 1998
-
-	**Cite**:
-
-	  - CGI 1560
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-	  - HISTO: Edition du 22 avril 1998
-
-
 ###### Article 126 D
 
-((La taxe annuelle, prévue au I de l'article 1560 du code général des impôts et applicable aux appareils automatiques visés à
-l'article 126 A qui font l'objet de la déclaration prévue à l'article 124 A, est liquidée et perçue dans son intégralité au
-moment du dépôt, au bureau ou à la recette locale des douanes et droits indirects, de ladite déclaration)) (M).
+I. - Conformément aux dispositions du deuxième alinéa du III de l'article 1565 ter du code général des impôts, lorsque la
+vignette de l'année en cours est reportée d'un appareil retiré de l'exploitation, ci-après dénommé appareil remplacé, sur un
+nouvel appareil mis en service en remplacement de celui-là, ci-après dénommé appareil remplaçant, l'exploitant doit :
 
-Quelle que soit la durée de l'exploitation, elle est perçue au tarif plein pour les appareils mis en service au cours du
-premier semestre de l'année et au demi-tarif pour les appareils mis en service au cours du second semestre.
+1° Apposer la vignette de l'appareil remplacé sur l'appareil remplaçant au moment de la réalisation du remplacement ;
 
-Avec l'accord du service des douanes et droits indirects et dans les conditions qu'il détermine, la taxe peut être reportée
-d'un appareil retiré de l'exploitation sur un nouvel appareil mis en service en remplacement de celui-ci.
+2° Apposer sur l'appareil remplaçant à côté de la vignette un document, ci-après dénommé : bon de remplacement/transfert, qui
+est conforme au modèle figurant en annexe IV à l'arrêté du 31 mars 1998 ;
 
-L'accord du service est également requis lorsque les appareils sont transférés, dans les conditions qu'il détermine, à
-l'intérieur d'une même commune ou dans une autre commune appliquant soit un tarif égal ou inférieur, soit un tarif supérieur
-à celui de la commune d'origine. Dans cette dernière hypothèse :
+3° Indiquer dans le répertoire visé au deuxième alinéa de l'article 126 E le numéro de la vignette qui est reportée,
+l'adresse du lieu d'exploitation de l'appareil remplaçant et la destination de l'appareil remplacé ;
 
-a. La taxe est perçue au tarif plein en vigueur dans la commune du nouveau lieu d'exploitation si le transfert a lieu entre
-le 1er janvier et le 15 mai et s'il concerne un appareil déjà exploité l'année précédente qui n'a pas encore fait l'objet des
-formalités de renouvellement.
+4° Souscrire, conformément à l'article 124 B, la déclaration prévue à l'article 1565 quinquies du code général des impôts, si
+l'appareil remplaçant est installé chez un tiers.
 
-La vignette est délivrée au moment du dépôt de la déclaration et de l'extrait du registre du commerce et des sociétés ou de
-l'attestation de production de cet extrait désignée au cinquième alinéa de l'article 124 A. Par dérogation au dixième alinéa
-de l'article 124 A, ledit dépôt doit intervenir au moins vingt-quatre heures avant la date du transfert ;
+II. - Conformément aux dispositions du IV de l'article 1565 ter du code général des impôts, lorsque les appareils
+automatiques sont transférés à l'intérieur d'une même commune ou dans une commune appliquant un tarif inférieur ou égal à
+celui de leur commune de départ, l'exploitant doit :
 
-b. Il est perçu un complément de taxe dans les autres cas.
+1° Laisser la vignette en cours de validité sur l'appareil qui est transféré ;
 
-(M) Modification de l'arrêté.
+2° Apposer sur l'appareil automatique à côté de la vignette un bon de remplacement/transfert visé au 2° du I ;
+
+3° Indiquer dans le répertoire visé au deuxième alinéa de l'article 126 E la date du transfert et l'adresse du nouveau lieu
+d'exploitation ;
+
+4° Souscrire, conformément à l'article 124 B, la déclaration prévue à l'article 1565 quinquies du code général des impôts si
+l'appareil transféré est installé chez un tiers ;
+
+5° Déposer la déclaration de renouvellement dans la commune de destination des appareils dans les délais fixés au II de
+l'article 1565 ter du code général des impôts, soit entre le 1er mars et le 15 mai.
+
+III. - Conformément aux dispositions du IV de l'article 1565 ter du code général des impôts, lorsque les appareils
+automatiques sont transférés dans une commune appliquant un tarif supérieur à celui de leur commune de départ, l'exploitant
+doit :
+
+1° Si la taxe annuelle n'a pas encore été acquittée par celui-ci :
+
+a) Déposer la déclaration de renouvellement dans la commune de destination des appareils dans le délai fixé au IV de
+l'article 1565 ter du code général des impôts ;
+
+b) Apposer la vignette de l'année en cours sur l'appareil transféré ;
+
+2° Si la taxe annuelle a été acquittée par celui-ci :
+
+a) Restituer la vignette de l'année en cours au bureau ou à la recette locale des douanes et droit indirects du nouveau lieu
+d'exploitation en l'accompagnant d'une déclaration de renouvellement ;
+
+b) Apposer sur l'appareil automatique transféré une vignette qui est délivrée par le bureau ou la recette locale des douanes
+et droits indirects après paiement du complément de taxe ;
+
+c) Indiquer dans le répertoire visé au deuxième alinéa de l'article 126 E la date du transfert et l'adresse du nouveau lieu
+d'exploitation ;
+
+d) Souscrire, conformément à l'article 124 B, la déclaration prévue à l'article 1565 quinquies du code général des impôts, si
+l'appareil transféré est installé chez un tiers.
+
+IV. - Les exploitants d'appareils automatiques doivent, à toute réquisition du service des douanes et droits indirects, être
+en mesure de justifier de la situation régulière au regard de la taxe de chacun des appareils qu'ils exploitent ou ont
+exploité.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1996-01-15 art. 5 JORF 3 février 1996
-
 	**Cite**:
 
-	  - CGI 1560
-	  - CGIAN4 124 A, 126 A
+	  - Arrêté 1998-03-31 annexe IV
+	  - CGI 1565 ter, 1565 quinquies, CGIAN4 126 E, 124 B
+
+	**Modifié par**:
+
+	  - Arrêté 1998-03-31 art. 5 JORF 22 avril 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 22 avril 1998
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 25 (V) JORF 27 décembre 2006
 
 
 ###### Article 126 E
@@ -13905,21 +14142,46 @@ b. Il est perçu un complément de taxe dans les autres cas.
 Les appareils automatiques sont munis, par les soins du propriétaire, d'une plaque d'immatriculation indiquant, outre le nom
 et l'adresse du propriétaire, le numéro d'ordre attribué à chacun d'eux.
 
-Les propriétaires et les exploitants d'appareils automatiques tiennent un répertoire destiné à assurer le suivi de ces
-appareils dont la forme et le contenu sont déterminés par la direction générale des douanes et droits indirects. Le
-répertoire est communiqué à la première demande du service des douanes et droits indirects (1).
+Afin que les services des douanes et droits indirects soient en mesure de contrôler immédiatement la régularité de la
+situation des appareils automatiques au regard de la taxe annuelle prévue à l'article 1560 du code général des impôts et des
+formalités fixées notamment aux articles 124 A, 124 B et 126 D, les exploitants tiennent un répertoire de leurs appareils. La
+tenue du répertoire peut être informatisée. L'exploitant conserve le répertoire selon les modalités prévues au I de l'article
+L. 102 B du livre des procédures fiscales pour être représenté à toute réquisition des agents des douanes et droits
+indirects.
 
-(1) Article reformulé.
+Le répertoire contient pour chaque appareil automatique, et à raison d'une page par appareil, les indications suivantes :
+
+a) Le numéro d'ordre de l'appareil tel qu'il figure sur la plaque d'immatriculation et son numéro de série ;
+
+b) La date d'achat de l'appareil et sa provenance ;
+
+c) Les indications mentionnées au deuxième alinéa de l'article 124 A, à l'exception de celles visées aux j et k ;
+
+d) Les dates des transferts et/ou des remplacements successifs de l'appareil et l'adresse des nouveaux lieux d'exploitation ;
+
+e) La destination de l'appareil retiré temporairement ou définitivement de l'exploitation (notamment en cas de destruction :
+
+date et adresse du lieu de sa destruction, nom ou raison sociale de la personne/société ayant procédé à la destruction. En
+cas de réparation : date et adresse du lieu de sa réparation et/ou de sa mise en dépôt/atelier. En cas de vente : nom et
+adresse de l'acheteur) ;
+
+f) La date et l'adresse du lieu de remise en exploitation d'un appareil.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-12-20 art. 3 JORF 24 décembre 1993
+	  - Arrêté 1998-03-31 art. 6 JORF 22 avril 1998
+
+	**Cite**:
+
+	  - CGI 1560
+	  - CGIAN4 124 A, 124 B, 126 D
+	  - Livre des procédures fiscales - art. L102 B (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### 4° : Réunions sportives
@@ -14708,6 +14970,33 @@ nouveau certificat d'immatriculation. Le cachet de ce service est apposé au ver
 	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
 
 
+###### Article 155 I
+
+Un duplicata peut être délivré, en cas de destruction, de perte ou de vol d'une vignette, sur demande écrite du contribuable
+adressée au comptable public qui a vendu cette vignette ou à la recette des impôts dans le ressort de laquelle cette vignette
+a été vendue.
+
+La demande doit indiquer, indépendamment des circonstances de la perte, la date précise de l'acquisition et, le cas échéant,
+le nom et l'adresse du distributeur auxiliaire ou du débitant qui l'a vendue.
+
+Les duplicata sont utilisés dans les mêmes conditions que les vignettes de la série normale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1997-08-27 art. 3 JORF 3 septembre 1997
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 22 avril 1998
+
+
 ###### Article 155 J
 
 Tout propriétaire d'un véhicule dispensé ou exonéré de la taxe différentielle en raison de sa qualité personnelle est tenu de
@@ -15052,31 +15341,6 @@ l'article 155 C.
 	**Modifié par**:
 
 	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 155 I
-
-Un duplicata peut être délivré, en cas de destruction, de perte ou de vol d'une vignette, sur demande écrite du contribuable
-adressée à la recette des impôts qui a vendu ou dans le ressort de laquelle a été vendue cette vignette.
-
-La demande doit indiquer, indépendamment des circonstances de la perte, la date précise de l'acquisition et, le cas échéant,
-le nom et l'adresse du distributeur auxiliaire ou du débitant qui l'a vendue.
-
-Les duplicata sont utilisés dans les mêmes conditions que les vignettes de la série normale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1956-10-19 art. 7 JORF 23 octobre 1956, Arrêté 1967-12-14 art. 2 JORF 5 janvier 1968, Loi 83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
 
 
 #### Chapitre II : Droits d'enregistrement et taxe de publicité foncière
@@ -16835,8 +17099,8 @@ général des impôts est fixé ((à 4 %)) (M) du montant hors taxes des cession
 
 ###### Article 159 AL bis
 
-Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé à ((0,20 % jusqu'au 31 décembre
-1997)) (M).
+Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé à 0,20 % jusqu'au 31 décembre
+((1998)) (M).
 
 (M) Modification.
 
@@ -16844,11 +17108,11 @@ Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des
 
 	**Modifié par**:
 
-	  - Arrêté 1996-12-05 art. 1 JORF 18 décembre 1996
+	  - Arrêté 1997-12-23 art. 1 JORF 27 décembre 1997
 
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
@@ -16856,7 +17120,7 @@ Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### Section VII quater A : Taxe parafiscale sur certaines viandes.
@@ -16866,57 +17130,53 @@ Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des
 Le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme suit par kilogramme
 net :
 
-Viande de boeuf et viande de veau : 0,048 F ;
+((a. Viande de boeuf et viande de veau : 0,0480 F ;
 
-Viande de porc : 0,036 F ;
+b. Viande de porc : 0,0360 F ;
 
-Viande de mouton : 0,046 5 F ;
+c. Viande de mouton : 0,0465 F ;
 
-Viandes des espèces chevaline, asine et de leurs croisements :
+d. Viandes des espèces chevaline, asine et de leurs croisements :
 
-0,048 F ;
+0,0480 F ;
 
-Viande de l'espèce caprine : 0,03 F ;
+e. Viande de l'espèce caprine : 0,0300 F ;
 
-Viande de lapin : 0,022 F ;
+f. Viande de lapin : 0,0220 F ;
 
-((Viande de poulet et de coq non labellisés : 0,008 F ;
+g. Viande de poulet et de coq non labellisés : 0,0085 F ;
 
-((Viande de poulet et de coq labellisés : 0,015 F ;
+h. Viande de poulet et de coq labellisés : 0,0159 F ;
 
-Viande de poule de réforme : 0,036 F ;
+i. Viande de poule de réforme : 0,0420 F ;
 
-((Viande de dinde non labellisée : 0,010 F ;
+j. Viande de dinde non labellisée : 0,0106 F ;
 
-((Viande de dinde labellisée : 0,020 F ;
+k. Viande de dinde labellisée : 0,0212 F ;
 
-((Viande de canard non labellisé : 0,015 5 F ;
+l. Viande de canard non labellisé : 0,0165 F ;
 
-((Viande de canard labellisé : 0,020 F ;
+m. Viande de canard labellisé : 0,0212 F ;
 
-((Viande de pintade et d'oie non labellisées : 0,018 F ;
+n. Viande de pintade et d'oie non labellisées : 0,0191 F ;
 
-((Viande de pintade et d'oie labellisées : 0,020 F)) (M).
+o. Viande de pintade et d'oie labellisées : 0,0212 F.)) (M)
 
-(M) Modifications de l'arrêté 1996-12-28.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-12-28 art. 1 JORF 29 décembre 1996
+	  - Arrêté 1997-12-26 art. 1 JORF 28 décembre 1997
 
 	**Cite**:
 
 	  - CGIAN2 363 D
 
-	**Anciens textes**:
-
-	  - CGIAN4 159 AO
-
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 	  - TXT_ASSOCIE: Instruction 1996-01-26 3Q-1-96
 	  - TXT_ASSOCIE: Instruction 1997-02-04 3Q-1-97
 	  - TXT_ASSOCIE: Instruction 1998-02-09 3Q-1-98
@@ -16926,21 +17186,56 @@ Viande de poule de réforme : 0,036 F ;
 
 ###### Article 159 AL quater-0 B
 
-Le taux de la taxe prévue à l'article 363 DA de l'annexe II au code général des impôts est fixé à 500 F pour l'année 1997.
+Le taux de la taxe prévue à l'article 363 DA de l'annexe II au code général des impôts est fixé à 500 F à compter de l'année
+1998.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-12-28 art. 1 JORF 29 décembre 1996
+	  - Arrêté 1997-12-26 art. 1 JORF 28 décembre 1997
 
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 1998-05-22
+
+	**Cite**:
+
+	  - CGIAN2 363 DA
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
+
+
+##### Section VII quater C 
+
+###### Article 159 AL quater-0 C
+
+En application de l'article 363 DB de l'annexe II au code général des impôts, le montant de la taxe perçue sur les produits
+non comestibles de l'horticulture florale, ornementale et des pépinières au profit de l'Association nationale pour le
+développement agricole est fixé, pour l'année 1998, à 1,5 pour mille du montant des ventes hors taxes des produits définis à
+l'alinéa 2 de l'article 1er du décret n° 64-283 du 26 mars 1964 modifié portant création et organisation du Comité national
+interprofessionnel de l'horticulture florale et ornementale et des pépinières non forestières.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-12-26 art. 1 JORF 28 décembre 1997
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
+
+	**Cite**:
+
+	  - CGIAN2 363 DB
+	  - Décret n°64-283 du 26 mars 1964 - art. 1 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### Section X : Taxe parafiscale perçue au profit du fonds de soutien à l'expression radiophonique.
@@ -17223,25 +17518,24 @@ vie de cidre et de poiré.
 ###### Article 159 AP
 
 En application de l'article 363 E de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
-vins au profit de l'association nationale pour le developpement agricole est fixée comme suit :
+vins au profit de l'association nationale pour le développement agricole est fixé, à compter du 1er janvier 1998, comme
+suit :
 
-((a)) (M) Vins d'appellation d'origine contrôlée : ((2,60 F)) par hectolitre ;
+a. Vins d'appellation d'origine contrôlée : 2,60 F par hectolitre ;
 
-((b)) Vins délimités de qualité supérieure : ((1,69 F)) par hectolitre ;
+b. Vins délimités de qualité supérieure : 1,69 F par hectolitre ;
 
-((c)) Autres vins : ((0,77 F)) par hectolitre.
-
-(M) Modifications de l'arrété 1995-12-28.
+c. Autres vins : 0,77 F par hectolitre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1995-12-28 art. 1 JORF 30 décembre 1995
+	  - Arrêté 1997-12-26 art. 1 JORF 28 décembre 1997
 
 	**Codifié par**:
 
-	  - Arrêté 1996-06-21
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
@@ -17249,7 +17543,7 @@ vins au profit de l'association nationale pour le developpement agricole est fix
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### Section VI : Taxe parafiscale sur les graines oléagineuses.
@@ -17257,25 +17551,25 @@ vins au profit de l'association nationale pour le developpement agricole est fix
 ###### Article 159 AR
 
 Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à l'article 363 F de l'annexe II au code général
-des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1996-1997 :
+des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1997-1998 :
 
-Colza : 2,89 F par tonne ;
+Colza : 3,12 F par tonne ;
 
-Navette : 2,89 F par tonne ;
+Navette : 3,12 F par tonne ;
 
-Tournesol : 3,54 F par tonne ;
+Tournesol : 3,82 F par tonne ;
 
-Soja : 1,89 F par tonne.
+Soja : 2,04 F par tonne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-10-14 art. 1 JORF 24 octobre 1996
+	  - Arrêté 1997-10-28 art. 1 JORF 29 octobre 1997
 
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
@@ -17283,7 +17577,51 @@ Soja : 1,89 F par tonne.
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
+
+
+##### Section VII : Taxe parafiscale sur les céréales et le riz.
+
+###### Article 159 AS
+
+En application de l'article 363 FA de l'annexe II, le montant de la taxe parafiscale perçue sur les céréales au profit de
+l'Association nationale pour le développement agricole est fixé comme suit, pour la campagne 1997-1998 :
+
+a. Blé tendre : 3,10 F par tonne ;
+
+b. Blé dur : 2,85 F par tonne ;
+
+c. Orge : 3,10 F par tonne ;
+
+d. Seigle : 1,65 F par tonne ;
+
+e. Maïs : 2,85 F par tonne ;
+
+f. Avoine : 2,05 F par tonne ;
+
+g. Sorgho : 1,65 F par tonne ;
+
+h. Riz : 2,85 F par tonne ;
+
+i. Triticale : 1,65 F par tonne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-10-28 art. 1 JORF 29 octobre 1997
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
+
+	**Cite**:
+
+	  - CGIAN2 363 FA
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 #### Chapitre III : Enregistrement
@@ -17449,9 +17787,9 @@ I. Les contrats d'assurances sur lesquels est assise la contribution prévue aux
 impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
 branches 3 à 9 de l'article R. 321-1 du code des assurances.
 
-II. Le taux de la contribution est fixé, ((pour 1997)) (M), à 15 F par contrat. Les sommes correspondantes sont perçues par
-les entreprises d'assurances à l'occasion de l'émission des primes ou cotisations recouvrées par elles ((entre le 1er janvier
-et le 31 décembre 1997)) (M).
+II. Le taux de la contribution est fixé, ((pour 1998)) (M), à ((20 F)) (M) par contrat. Les sommes correspondantes sont
+perçues par les entreprises d'assurances à l'occasion de l'émission des primes ou cotisations recouvrées par elles ((entre le
+1er janvier et le 31 décembre 1998)) (M).
 
 (M) Modifications.
 
@@ -17459,11 +17797,11 @@ et le 31 décembre 1997)) (M).
 
 	**Modifié par**:
 
-	  - Arrêté 1996-10-25 art. 1 JORF 5 novembre 1996
+	  - Arrêté 1997-10-28 art. 1 JORF 29 octobre 1997
 
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
@@ -17473,7 +17811,7 @@ et le 31 décembre 1997)) (M).
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 	  - TXT_ASSOCIE: Instruction 1996-11-08 7K-3-96
 
 
@@ -17486,22 +17824,30 @@ suit :
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est inférieur ou égal à 3,5 tonnes :
 
-Prix (en francs) : 154 F
+Prix à compter du 29 octobre 1997 : 160 F
+
+Prix à compter du 1er juin 1998 : 166 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est supérieur à 3,5 tonnes et inférieur à 6
 tonnes.
 
-Prix (en francs) : 632 F
+Prix à compter du 29 octobre 1997 : 657 F
+
+Prix à compter du 1er juin 1998 : 683 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal ou supérieur à 6 tonnes et inférieur à
 11 tonnes.
 
-Prix (en francs) : 948 F
+Prix à compter du 29 octobre 1997 : 986 F
+
+Prix à compter du 1er juin 1998 : 1025 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal  ou supérieur à 11 tonnes, tracteurs
 routiers, véhicules de transport en commun de voyageurs.
 
-Prix (en francs) : 1423 F
+Prix à compter du 29 octobre 1997 : 1480 F
+
+Prix à compter du 1er juin 1998 : 1539 F
 
 (1) Poids total autorisé en charge.
 
@@ -17509,11 +17855,11 @@ Prix (en francs) : 1423 F
 
 	**Modifié par**:
 
-	  - Arrêté 1996-07-29 art. 1 JORF 1er août 1996
+	  - Arrêté 1997-10-17 art. 1 JORF 29 octobre 1997
 
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
@@ -17521,7 +17867,7 @@ Prix (en francs) : 1423 F
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 ### Titre III : Dispositions communes
@@ -17647,6 +17993,9 @@ Ces déclarations font l'objet d'un traitement informatisé dénommé Gestion du
 recense, sur support magnétique, l'existence des comptes et porte à la connaissance des services autorisés à consulter ce
 fichier (1) la liste de ceux qui sont détenus par une ou plusieurs personnes physiques ou morales.
 
+Les informations ne peuvent être communiquées qu'aux personnes ou organismes bénéficiant d'une habilitation législative et
+dans la limite fixée par la loi.
+
 (1) Arrêté du 14 juin 1982, art. 4, (J.O. des 21 et 22)
 
 **Liens relatifs à cet article**
@@ -17656,17 +18005,17 @@ fichier (1) la liste de ceux qui sont détenus par une ou plusieurs personnes ph
 	  - Arrêté 1982-06-14
 	  - CGIAN4 164 FB
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1982-06-14 art. 2 JONC 22 juin 1982
+	  - Arrêté 1995-10-23 art. 1 JORF 31 octobre 1995
 
 	**Codifié par**:
 
-	  - Arrêté 1982-10-15
+	  - Arrêté 1998-05-22
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er septembre 1982
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 164 FD
@@ -17710,23 +18059,26 @@ Pour les personnes morales, leur dénomination ou raison sociale, forme juridiqu
 Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
 libertés, s'exerce auprès du centre des impôts du domicile fiscal du titulaire.
 
+En outre, le droit d'opposition, prévu par l'article 26 de cette même loi, ne s'applique pas au traitement mis en oeuvre.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1982-06-14 art. 5 JONC 22 juin 1982
+	  - Arrêté 1992-08-26 art. 2 JORF 2 septembre 1992
 
 	**Codifié par**:
 
-	  - Arrêté 1982-10-15
+	  - Arrêté 1998-05-22
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er septembre 1982
+	  - HISTO: Edition du 22 avril 1998
 
 	**Cite**:
 
-	  - Loi n°78-17 1978-01-06 art. 34
+	  - Loi n°78-17 1978-01-06 art. 34, art. 26
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
 
 
 ###### Article 164 FF
@@ -18399,9 +18751,21 @@ d'immatriculation attribué à la première.
 
 ###### Article 164 P
 
-La fabrication de machines à timbrer est subordonnée à l'agrément préalable d'un prototype . Cet agrément ne peut être
-sollicité que par un constructeur installé en France,sauf dérogation résultant de conventions internationales.
+La fabrication de machines à timbrer est subordonnée à l'agrément préalable d'un prototype par le ministre de l'économie, des
+finances et de l'industrie. Cet agrément ne peut être sollicité que par un constructeur installé en France, sauf dérogation
+résultant de conventions internationales.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1998-05-22
+
+	**Modifié par**:
+
+	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
 
 
 ###### Article 164 Q
@@ -18577,8 +18941,7 @@ applicables.
 
 ###### Article 164 AB
 
-Sauf autorisation de l'administration des impôts ou de l'administration des douanes et droits indirects, pour ce qui la
-concerne, lui notifie la révocation il est interdit au concessionnaire :
+Sauf autorisation du ministre de l'économie, des finances, et de l'industrie, il est interdit au concessionnaire :
 
 de livrer des machines ou des pièces détachées en remplacement ou non d'une pièce déjà fournie ;
 
@@ -18589,17 +18952,15 @@ de modifier d'une façon quelconque une des parties du mécanisme des machines e
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1998-05-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
 
 
 ###### Article 164 AC
@@ -19129,8 +19490,8 @@ Les régies municipales, intercommunales et départementales exploitant des serv
 
 ###### Article 170 decies
 
-I. L'agrément prévu au III ter de l'article 238 bis HA du code général des impôts est délivré par le directeur des services
-fiscaux du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas
+I. L'agrément prévu au ((III de l'article 217 undecies)) (M) du code général des impôts est délivré par le directeur des
+services fiscaux du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas
 10.000.000 F.
 
 La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 10.000.000
@@ -19138,37 +19499,38 @@ F ou qu'il est réalisé dans plus d'un département d'outre-mer, dans un territ
 territoriale de Mayotte ou dans celle de Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
 
 L'agrément est également délivré par le ministre lorsqu'il concerne les investissements nécessaires à l'exploitation d'une
-concession de service public local à caractère industriel et commercial mentionnés au sixième alinéa du I de l'article 238
-bis HA du code général des impôts, les souscriptions au capital des sociétés concessionnaires mentionnées au cinquième alinéa
-du II du même article et les souscriptions au capital des sociétés en difficulté visées au II bis de l'article précité.
+concession de service public local à caractère industriel et commercial mentionnés au sixième alinéa du I de l'article ((217
+undecies)) (M) du code général des impôts, les souscriptions au capital des sociétés concessionnaires mentionnées au
+cinquième alinéa du II du même article et les souscriptions au capital des sociétés en difficulté visées au II bis de
+l'article précité.
 
-II. Dans les cas visés au premier alinéa du I, les demandes d'agrément, ((établies conformément aux annexes à l'arrêté du 15
-mars 1996 (Journal officiel du 16 mars 1996)) (M) sont adressées au directeur des services fiscaux du département où sera
-réalisé le programme d'investissement.
+II. Dans les cas visés au premier alinéa du I, les demandes d'agrément, établies conformément aux annexes à l'arrêté du 15
+mars 1996 (Journal officiel du 16 mars 1996) sont adressées au directeur des services fiscaux du département où sera réalisé
+le programme d'investissement.
 
-Dans les cas visés aux deuxième et troisième alinéas du I, ((les demandes établies conformément aux annexes à l'arrêté du 15
-mars 1996 (Journal officiel du 16 mars 1996) sont transmises à la direction générale des impôts)) (M).
+Dans les cas visés aux deuxième et troisième alinéas du I, les demandes établies conformément aux annexes à l'arrêté du 15
+mars 1996 (Journal officiel du 16 mars 1996) sont transmises à la direction générale des impôts.
 
 III. Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
 groupements visés aux articles 8 ou 239 quater du code général des impôts, la demande d'agrément est faite par un
 représentant unique, promoteur de l'opération, gérant ou associé, qui doit remettre une copie de la décision obtenue aux
 investisseurs, copropriétaires ou associés.
 
-((IV. Les dispositions du présent article sont également applicables à l'agrément prévu au III quater de l'article 238 bis HA
-du code général des impôts)) (M).
+IV. ((Dispositions sans objet)) (M).
 
-(M) Modifications de l'arrêté.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Arrêté 1996-03-15
-	  - CGI 238 bis HA, 8, 239 quater
+	  - CGI 217 undecies, 8, 239 quater
 
 	**Modifié par**:
 
-	  - Arrêté 1996-03-15 art. 1 JORF 16 mars 1996
+	  - Loi - art. 18 (V) JORF 31 décembre 1997
+	  - Loi n°97-1269 1997-12-30 art. 18 II, VI, VII Finances pour 1998 JORF 31 décembre 1997
 
 	**Cité par**:
 
@@ -19177,49 +19539,7 @@ du code général des impôts)) (M).
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
-
-
-###### Article 170 nonies
-
-I. L'agrément prévu au III bis de l'article 238 bis HA du code général des impôts est délivré par le directeur des services
-fiscaux du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas dix
-millions de francs.
-
-La décision est prise par le ministre chargé du budget lorsque le programme d'investissement est d'un montant supérieur à dix
-millions de francs ou qu'il est réalisé dans un territoire d'outre-mer, dans la collectivité territoriale de Mayotte ou dans
-celle de Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
-
-II. Dans les cas visés au premier alinéa du I, les demandes d'agrément, établies en cinq exemplaires, sont adressées au
-directeur des services fiscaux du département où sera réalisé le programme d'investissement.
-
-Lorsque le programme d'investissement excède dix millions de francs ou qu'il est réalisé dans un territoire d'outre-mer, dans
-la collectivité territoriale de Mayotte ou dans celle de Saint-Pierre-et-Miquelon, les demandes sont transmises en cinq
-exemplaires à la direction générale des impôts.
-
-III. Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
-groupements visés aux articles 8 ou 239 quater du code général des impôts, la demande d'agrément est faite par un
-représentant unique, promoteur de l'opération, gérant ou associé, qui doit remettre une copie de la décision obtenue aux
-investisseurs, copropriétaires ou associés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1992-05-04 art. 1 à 3 JORF 8 mai 1992
-
-	**Codifié par**:
-
-	  - Arrêté 1998-05-22
-
-	**Cite**:
-
-	  - CGI 238 bis HA, 8, 239 quater
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1997 Finances pour 1998
-	  - Loi n°97-1269 1997-12-30 art. 18 II 2°, VI, VII JORF 31 décembre 1997 Finances pour 1998
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 170 octies
@@ -19361,6 +19681,32 @@ août).
 	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 
+###### Article 170 septies G
+
+Il est statué par le directeur des services fiscaux de la Corse-du-Sud sur les demandes d'agrément présentées en application
+du quatrième alinéa du I de l'article 44 decies et du 2° du troisième alinéa du I de l'article 1466 B du code général des
+impôts.
+
+Toutefois, la décision est prise par le ministre chargé du budget pour les opérations présentant des difficultés
+particulières ou évoquées par le ministre (1).
+
+(1) Ces dispositions s'appliquent aux demandes d'agrément déposées à compter de la date d'entrée en vigueur de l'arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-05-20 art. 1, art. 2 JORF 25 mai 1997
+
+	**Cite**:
+
+	  - CGI 44 decies I, 1466 B I
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
 ###### Article 170 sexies
 
 Il est statué par le directeur régional des impôts sur les demandes d'agrément présentées en application du II et du III de
@@ -19388,6 +19734,40 @@ investissements à caractère économique et social.
 
 	  - HISTO: Edition du 11 avril 1997
 	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
+
+
+#### Section V : Commissions administratives des impôts
+
+###### Article 170 undecies
+
+En application du III de l'article 347 de l'annexe III au code général des impôts, si le président de la commission
+départementale des impôts directs et des taxes sur le chiffre d'affaires instituée aux articles 1651 et suivants du code
+général des impôts le juge utile, le nombre de suppléants peut être augmenté :
+
+1. Pour la ville de Paris :
+
+a) Jusqu'à 150, en ce qui concerne les représentants des contribuables désignés par la chambre de commerce et d'industrie ;
+
+b) Jusqu'à 50, en ce qui concerne les représentants des contribuables désignés par la chambre des métiers et par les
+organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux ;
+
+2. Pour les départements de plus de 600 000 habitants dans les mêmes conditions qu'au 1, le nombre de suppléants peut être
+porté respectivement à 60 et à 30.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-11-28 art. 1 JORF 29 novembre 1997
+
+	**Cite**:
+
+	  - CGI 1651
+	  - CGIAN3 347
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
@@ -19456,9 +19836,9 @@ fonds est tenu de transmettre sans retard par la poste.
 1. Le paiement des impôts directs peut s'effectuer, sur option du contribuable, par prélèvement opéré à l'initiative du
 Trésor public sur un compte visé à l'article 1681 D du code général des impôts.
 
-2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II au code général des impôts. Elle est
-exercée, au choix du contribuable, avant le 1er novembre pour prendre effet au 1er janvier suivant ou six mois avant la date
-limite de paiement de l'impôt concerné. Elle est valable sans limitation de durée.
+2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II du code général des impôts. Elle est
+exercée par le contribuable vingt jours avant la date limite de paiement de l'impôt concerné. Elle est valable sans
+limitation de durée.
 
 3. Le contribuable peut renoncer à son option en adressant par écrit au comptable chargé du recouvrement une dénonciation
 vingt jours au moins avant la date limite de paiement de l'impôt concerné.
@@ -19468,13 +19848,9 @@ général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1994-04-21 art. 1 JORF 4 mai 1994
-
-	**Codifié par**:
-
-	  - Arrêté 1994-10-17
+	  - Arrêté 1997-07-22 art. 1 JORF 30 juillet 1997
 
 	**Cite**:
 
@@ -19487,7 +19863,7 @@ général des impôts.
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 22 avril 1998
 
 
 ### Section I bis : Intérêts des bons de caisse
@@ -19516,13 +19892,13 @@ créés à seule fin de faciliter le recouvrement ou la mobilisation de la créa
 ###### Article 188 C
 
 Les personnes morales visées à l'article 108 du code général des impôts versent l'impôt afférent aux intérêts de bons de
-caisse à la recette des impôts dont elles dépendent pour le paiement de la retenue à la source sur le revenu des capitaux
-mobiliers.
-
-En ce qui concerne les personnes physiques et les personnes morales autres que celles désignées ci-dessus, l'impôt est versé
-à la recette des impôts du siège de la direction des entreprises  ou à défaut  du lieu du principal établissement.
+caisse à la recette des impôts de la direction des services généraux et de l'informatique.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
 
 	**Cite**:
 
@@ -19530,7 +19906,7 @@ En ce qui concerne les personnes physiques et les personnes morales autres que c
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 188 D
@@ -19580,23 +19956,17 @@ sommes versées pour le compte de chacune des agences ou succursales. Les liasse
 conservées soit par l'organisme centralisateur soit par l'agence ou succursale.
 
 2. La possibilité d'effectuer des versements globaux est subordonnée au dépôt d'une déclaration à la direction des services
-fiscaux de la résidence de l'organisme centralisateur. Cette déclaration  établie sur papier libre  est signée de la personne
-habilitée à engager l'établissement justifiant de son identité et de l'étendue de ses pouvoirs et contient la désignation de
-chacune des agences ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu où seront
-conservées les liasses visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle
-déclaration souscrite dans les mêmes formes. Chaque déclaration prend effet dès le versement afférent au mois au cours duquel
-elle intervient.
+généraux et de l'informatique. Cette déclaration  établie sur papier libre  est signée de la personne habilitée à engager
+l'établissement justifiant de son identité et de l'étendue de ses pouvoirs et contient la désignation de chacune des agences
+ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu où seront conservées les liasses
+visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle déclaration souscrite dans les
+mêmes formes. Chaque déclaration prend effet dès le versement afférent au mois au cours duquel elle intervient.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1991-10-28 art. 1 JORF 29 octobre 1991
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1991-10-28 art. 2
-	  - HISTO: Edition du 4 juillet 1992
+	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
 
 	**Cite**:
 
@@ -19608,6 +19978,30 @@ elle intervient.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 A (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 188-0 H
+
+La retenue à la source prévue au 2 de l'article 119 bis du code général des impôts est versée à la recette des impôts de la
+direction des services généraux et de l'informatique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
+
+	**Cite**:
+
+	  - CGI 119 bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
 
 ### Section I quater : Prélèvement sur les produits de placements à revenu fixe
 
@@ -19616,14 +20010,14 @@ elle intervient.
 Le prélèvement opéré par les agences et succursales des établissements de crédit par les caisses publiques et par les caisses
 d'épargne peut faire l'objet de versements globaux dans les conditions prévues à l'article 188 H.
 
-La déclaration préalable qui doit être adressée à la direction des services fiscaux de la résidence de l'organisme
-centralisateur peut viser à la fois le versement de la retenue à la source prévue audit article et celui du prélèvement.
+La déclaration préalable qui doit être adressée à la direction des services généraux et de l'informatique peut viser à la
+fois le versement de la retenue à la source prévue audit article et celui du prélèvement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
 
 	**Cite**:
 
@@ -19635,11 +20029,7 @@ centralisateur peut viser à la fois le versement de la retenue à la source pr�
 
 	**Liens**:
 
-	  - HISTO: Edition du 20 juillet 1984
-
-	**Modifié par**:
-
-	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 188 J
@@ -19667,34 +20057,45 @@ collectivité émettrice.
 	  - HISTO: Edition du 11 avril 1997
 
 
+###### Article 188-0 I
+
+Le prélèvement sur les produits de placements à revenu fixe prévu à l'article 125 A du code général des impôts est versé à la
+recette des impôts de la direction des services généraux et de l'informatique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
+
+	**Cite**:
+
+	  - CGI 125 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
 ### Section II : Taxes sur le chiffre d'affaires et taxes assimilées
 
 ###### Article 189
 
-Le paiement de la totalité de l'impôt exigible sur les opérations effectuées par un redevable d'après la déclaration déposée
-par lui est fait dans le même délai que celui prévu pour la remise ou l'envoi de la déclaration sous réserve  pour le
-redevable  d'user de la faculté prévue au dernier alinéa.
+Pour l'application des articles 1692 à 1697 du code général des impôts, le redevable peut, sauf disposition contraire, se
+libérer soit en numéraire, soit au moyen de chèque bancaire ou postal suivant les modalités fixées aux articles 199 à 204,
+soit par virement opéré au compte de chèques postaux du receveur des impôts compétent.
 
-Le redevable peut se libérer, soit en numéraire, soit au moyen d'un chèque postal, d'un mandat-contributions, d'un mandat-
-poste ou mandat-carte émis au profit du receveur compétent de l'administration des impôts et à lui adressé dans les mêmes
-conditions et délais que ceux prévus à l'article 287 du code général des impôts, soit par virement opéré à son compte de
-chèques postaux.
-
-Il peut également se libérer au moyen de chèque suivant les modalités fixées aux articles 199 à 204.
-
-Enfin, les redevables exerçant une profession ou un commerce dans une place bancable peuvent être autorisés par le directeur
-des services fiscaux à acquitter le montant de l'impôt sur présentation d'une traite émise par l'agent de l'administration
-désigné à cet effet. Dans ce cas, l'impôt est augmenté des frais de traite ainsi que des frais de recouvrement.
+Il peut également se libérer au moyen d'un mandat compte émis au profit de ce même receveur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 1997-10-22 art. 1 I JORF 31 octobre 1997
 
 	**Cite**:
 
-	  - CGI 287 1, 2
+	  - CGI 1692 à 1697
 	  - CGIAN4 199 à 204
 
 	**Cité par**:
@@ -19703,11 +20104,7 @@ désigné à cet effet. Dans ce cas, l'impôt est augmenté des frais de traite 
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
-
-	**Modifié par**:
-
-	  - Loi n°90-1168 1991-12-29 art. 27 I JORF 30 décembre 1990
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 192 bis
@@ -19739,17 +20136,17 @@ en France métropolitaine.
 
 ###### Article 193
 
-Le redevable peut se libérer dans les conditions prévues aux deuxième et troisième alinéas de l'article 189.
+Le redevable peut se libérer dans les conditions prévues à l'article 189.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1997-10-22 art. 1 II JORF 31 octobre 1997
+
 	**Cite**:
 
-	  - CGIAN4 189 AL. 2, AL. 3
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 189 (V)
 
 
 ###### Article 194

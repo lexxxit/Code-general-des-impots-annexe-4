@@ -1,7 +1,7 @@
 # Article 56 J octies
 
-L'agrément est accordé par le directeur général des douanes et droits indirects, pour une durée indéterminée, pour un ou
-plusieurs bureaux de garantie.
+L'agrément est accordé par le ministre de l'économie, des finances, et de l'industrie, pour une durée indéterminée, pour un
+ou plusieurs bureaux de garantie.
 
 Les décisions d'agrément sont notifiées aux bénéficiaires et publiées au Bulletin officiel des douanes.
 
@@ -9,14 +9,16 @@ Les décisions rejetant les demandes d'agrément sont motivées et notifiées au
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1995-04-27 art. 4 JORF 5 mai 1995
-
 	**Codifié par**:
 
-	  - Arrêté 1995-12-11
+	  - Arrêté 1998-05-22
+
+	**Modifié par**:
+
+	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 22 avril 1998

@@ -1,28 +1,30 @@
 # Article 23 L ter
 
-Sont assimilées à des activités industrielles pour l'application des articles 199 undecies, 238 bis HA à 238 bis HC du code
-général des impôts :
+Sont assimilées à des activités industrielles pour l'application des articles 199 undecies, ((217 undecies à 217 duodecies))
+(M) du code général des impôts :
 
 1. L'extraction des substances suivantes : chromite, phosphorite, kaolin, columbo-tantalite, minerais aurifères non
 alluvionnaires ;
 
 2. L'exploitation de gîtes géothermiques au sens de l'article 3 du code minier.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1986-10-07
+	  - Arrêté 1998-05-22
 
 	**Cite**:
 
-	  - CGI 199 undecies, 238 bis HA à 238 bis HC
+	  - CGI 199 undecies, 217 undecies à 217 duodecies
 	  - Code minier 3
 
 	**Modifié par**:
 
-	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+	  - Loi - art. 18 (V) JORF 31 décembre 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 22 avril 1998
