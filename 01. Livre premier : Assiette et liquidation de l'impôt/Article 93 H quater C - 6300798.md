@@ -35,40 +35,20 @@ de timbre.
 Chaque acte porté sur le registre doit être annoté de son numéro d'ordre. Les colonnes correspondant aux indications
 mentionnées ci-dessus aux f, g, i et j font l'objet d'une totalisation mensuelle.
 
-II. Les redevables qui demandent à payer sur états le droit de timbre prévu par l'article 1089 B du code général des impôts
-doivent s'engager à tenir un registre sur lequel, jour par jour et pour chaque requête, sont mentionnés les renseignements
-suivants :
-
-a) Le numéro d'ordre spécialement affecté à la requête dans le registre, cette numérotation étant faite dans une série
-ininterrompue ;
-
-b) La date d'expédition ou de dépôt de la requête ;
-
-c) Le nom des parties au litige ;
-
-d) Le montant de l'impôt.
-
-Chaque registre est complété du numéro de l'affaire attribué par la juridiction.
+II. Devenu sans objet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2004-03-26
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1089 B
+	  - Ordonnance 2003-1235 2003-12-22 art. 2 I, IV JORF 24 décembre 2003
+	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater D (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater E (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987

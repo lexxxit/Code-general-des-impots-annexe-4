@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2003-08-31
+Version Consolidée au 2004-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1731,60 +1731,60 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2002, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2004, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 Taux applicable : 0 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Moins de 10 007 euros / Année
+Moins de 10 177 euros / Année
 
-Moins de 2 502 euros / Trimestre
+Moins de 2 544 euros / Trimestre
 
-Moins de 834 euros / Mois
+Moins de 848 euros / Mois
 
-Moins de 192 euros / Semaine
+Moins de 196 euros / Semaine
 
-Moins de 32 euros / Jour ou fraction de jour
+Moins de 33 euros / Jour ou fraction de jour
 
 Taux applicable : 15 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-De 10 007 à 29 034 euros / Année
+De 10 177 à 29 528 euros / Année
 
-De 2 502 à 7 259 euros / Trimestre
+De 2 544 à 7 382 euros / Trimestre
 
-De 834 à 2 420 euros / Mois
+De 848 à 2 461 euros / Mois
 
-De 192 à 558 euros / Semaine
+De 196 à 568 euros / Semaine
 
-De 32 à 93 euros / Jour ou fraction de jour
+De 33 à 94 euros / Jour ou fraction de jour
 
 Taux applicable : 25 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de 29 034 euros / Année
+Au-delà de 29 528 euros / Année
 
-Au-delà de 7 259 euros / Trimestre
+Au-delà de 7 382 euros / Trimestre
 
-Au-delà de 2 420 euros / Mois
+Au-delà de 2 461 euros / Mois
 
-Au-delà de 558 euros / Semaine
+Au-delà de 568 euros / Semaine
 
-Au-delà de 93 euros / Jour ou fraction de jour.
+Au-delà de 94 euros / Jour ou fraction de jour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2002-12-30 art. 1 JORF 31 décembre 2002
+	  - Arrêté 2003-12-31 art. 1 JORF 1er janvier 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -2702,36 +2702,6 @@ passagers.
 
 ##### Section III : Liquidation de la taxe
 
-##### I : Remboursement de la taxe aux assujettis établis hors de France.
-
-###### Article 28-0 A
-
-En application du deuxième alinéa de l'article 242-0 O de l'annexe II au code général des impôts, le remboursement prévu à
-l'article 242-0 N de cette annexe est accordé aux assujettis établis aux îles Canaries, à Ceuta ou Melilla.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1996-06-21
-	  - Arrêté 2004-03-26
-
-	**Cite**:
-
-	  - CGIAN2 242-0 O, 242-0 N
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2003-1266 du 26 décembre 2003 - art. 1 () JORF 28 décembre 2003
-	  - PEREMPTION: Décret n°2003-1266 du 26 décembre 2003 - art. 2 (V) JORF 28 décembre 2003
-	  - HISTO: Edition du 12 mai 1996
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Modifié par**:
-
-	  - Loi n°94-1099 1994-12-19 article unique JORF 20 décembre 1994
-
-
 ##### II : Régime suspensif
 
 ###### Article 29 A
@@ -3414,7 +3384,7 @@ a. Pour les taxes dues au titre du trimestre civil précédent par les redevable
 l'agriculture  au plus tard le 5 des mois de mai, août, novembre et février.
 
 b. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les redevables placés sous le régime de la
-déclaration et dont le lieu d'imposition est situé à Paris ainsi que dans les départements des Hauts-de-Seine  de la Seine-
+déclaration et dont le lieu d'imposition est situé à Paris ainsi que dans les départements des Hauts-de-Seine, de la Seine-
 Saint-Denis et du Val-de-Marne :
 
 Entreprises individuelles  selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
@@ -3465,8 +3435,7 @@ de ces mois sont ceux prévus aux b et c.
 
 2° (périmé).
 
-3° La date limite visée au présent article est reportée au premier jour ouvrable suivant lorsqu'elle coïncide avec un jour
-férié ou réputé férié à l'égard des recettes des impôts.
+3° La date limite mentionnée au présent article est reportée dans les conditions prévues par l'article 199-0.
 
 4° En cas d'utilisation de la voie postale, le cachet de la poste fait foi de la date d'expédition.
 
@@ -3474,27 +3443,23 @@ férié ou réputé férié à l'égard des recettes des impôts.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2004-03-18 art. 1 JORF 31 mars 2004
 
 	**Cite**:
 
-	  - CGI 287 1
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi - art. 9 (V) JORF 31 décembre 1998
-	  - Loi n°98-1266 1998-12-30 art. 9 I, III Finances pour 1999 JORF 31 décembre 1998
+	  - CGI 287
+	  - CGIAN4 199-0
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 sexies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 39 bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 39 bis
@@ -7708,40 +7673,6 @@ d'œufs en coquille
 	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
 
 
-#### Chapitre IV : Taxe sur les achats de viandes.
-
-###### Article 50 quaterdecies A
-
-Les taux d'imposition de la taxe visée à l'article 302 bis ZD du code général des impôts sont fixés par tranche d'achats
-mensuels hors taxe sur la valeur ajoutée à :
-
-2 % jusqu'à 19 000 euros ;
-
-3,8 % au-delà de 19 000 euros.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 mars 2002
-	  - PEREMPTION: Loi - art. 28 (V) JORF 31 décembre 2003
-	  - PEREMPTION: Loi n°2003-1311 2003-12-30 art. 28 I, 2°, II Finances pour 2004 JORF 31 décembre 2003
-
-	**Codifié par**:
-
-	  - Arrêté 2004-03-26
-
-	**Cite**:
-
-	  - CGI 302 bis ZD
-
-
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
 
 #### Chapitre premier : Récépissé de consignation
@@ -9698,46 +9629,41 @@ chais.
 
 La répartition des capsules collectives représentatives des droits destinées aux récoltants ne peut être réalisée que par les
 personnes habilitées après agrément du directeur régional des douanes et droits indirects territorialement compétent. Ne
-peuvent être habilités que les syndicats viticoles ou les groupements professionnels.
+peuvent être habilités que les syndicats viticoles ou les groupements professionnels. 
 
 Les personnes habilitées à détenir des capsules représentatives de droits sont comptables des droits représentés par les
 marques fiscales détenues. Elles fournissent un cautionnement garantissant le paiement des droits correspondant aux capsules
 détenues ainsi qu'aux droits sur les capsules expédiées aux récoltants sous le couvert du document mentionné au I de
-l'article 302 M du code général des impôts.
+l'article 302 M du code général des impôts. 
 
 Une personne habilitée peut être autorisée par le directeur régional des douanes et droits indirects à percevoir le droit de
-circulation et les taxes parafiscales lors de la répartition des capsules à ses seuls adhérents. Ces droits sont reversés
-mensuellement à la recette des douanes et droits indirects dont dépend la personne habilitée.
+circulation lors de la répartition des capsules à ses seuls adhérents. Ces droits sont reversés mensuellement à la recette
+des douanes et droits indirects dont dépend la personne habilitée. 
 
-Ces personnes doivent tenir une comptabilité matières dans laquelle sont repris :
+Ces personnes doivent tenir une comptabilité matières dans laquelle sont repris : 
 
 a) En entrée, avec les références au document mentionné au I de l'article 302 M du code général des impôts, le nombre de
 capsules reçues, par catégorie (volume net exprimé en centilitres, couleur, pour les vins, vin tranquille ou vin mousseux,
-et, le cas échéant, titre alcoométrique volumique ...) ;
+et, le cas échéant, titre alcoométrique volumique...) ; 
 
 b) En sortie, par destinataire et par catégorie, le nombre de capsules expédiées ou livrées, avec les références, selon le
-cas, au document mentionné au I ou au II de l'article 302 M du code général des impôts.
+cas, au document mentionné au I ou au II de l'article 302 M du code général des impôts. 
 
 Cette comptabilité matières ainsi que les capsules détenues sont tenues à la disposition des agents des douanes et droits
-indirects à fin de contrôle.
+indirects à fin de contrôle. 
 
 La personne habilitée effectue mensuellement la balance des entrées et sorties de la comptabilité matières et transmet ce
 document au service des douanes et droits indirects dont elle dépend au plus tard le cinquième jour du mois suivant.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 2000-09-22 art. 12 JORF 5 octobre 2000
-	  - Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
-
 	**Codifié par**:
 
-	  - Arrêté 2001-05-21
+	  - Arrêté 2004-03-26
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 302 M
+	  - Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
 
 	**Cité par**:
 
@@ -9751,9 +9677,9 @@ document au service des douanes et droits indirects dont elle dépend au plus ta
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 O (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 S (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
 ###### Article 54-0 BX
@@ -11035,8 +10961,8 @@ Au-dessus de 40 000 euros : 90 %.
 
 ###### Article 71
 
-Est autorisée l'utilisation des machines à timbrer qui, suivant les prévisions des articles 301, 313 AR et 313 BR bis de
-l'annexe III au code général des impôts, sont destinées respectivement au timbrage :
+Est autorisée l'utilisation des machines à timbrer qui, suivant les prévisions des articles 301 et 313 AR de l'annexe III au
+code général des impôts, sont destinées respectivement au timbrage :
 
 a) Des actes soumis au timbre de dimension ;
 
@@ -11052,23 +10978,24 @@ e) Des requêtes.
 
 	**Codifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2004-03-26
 
 	**Cite**:
 
-	  - CGIAN3 301, 313 AR, 313 BR bis
+	  - CGIAN3 301, 313 AR
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Modifié par**:
+
+	  - Ordonnance 2003-1235 2003-12-22 art. 2 I, IV JORF 24 décembre 2003
+	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 M (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
 ###### Article 72
@@ -11317,76 +11244,56 @@ de timbre.
 Chaque acte porté sur le registre doit être annoté de son numéro d'ordre. Les colonnes correspondant aux indications
 mentionnées ci-dessus aux f, g, i et j font l'objet d'une totalisation mensuelle.
 
-II. Les redevables qui demandent à payer sur états le droit de timbre prévu par l'article 1089 B du code général des impôts
-doivent s'engager à tenir un registre sur lequel, jour par jour et pour chaque requête, sont mentionnés les renseignements
-suivants :
-
-a) Le numéro d'ordre spécialement affecté à la requête dans le registre, cette numérotation étant faite dans une série
-ininterrompue ;
-
-b) La date d'expédition ou de dépôt de la requête ;
-
-c) Le nom des parties au litige ;
-
-d) Le montant de l'impôt.
-
-Chaque registre est complété du numéro de l'affaire attribué par la juridiction.
+II. Devenu sans objet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2004-03-26
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1089 B
+	  - Ordonnance 2003-1235 2003-12-22 art. 2 I, IV JORF 24 décembre 2003
+	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater D (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater E (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
-
 
 ###### Article 93 H quater D
 
-Le montant des droits est versé au comptable des impôts qui a accordé l'autorisation de paiement sur états  à l'expiration de
-chaque mois et dans les vingt premiers jours du mois suivant.
+Le montant des droits est versé au comptable des impôts qui a accordé l'autorisation de paiement sur états à l'expiration de
+chaque mois et dans les vingt premiers jours du mois suivant. 
 
-A l'appui de ce versement il est produit un état faisant connaître :
+A l'appui de ce versement il est produit un état faisant connaître : 
 
-a) Les numéros des premier et dernier actes ou requêtes inscrits sur le registre au cours du mois considéré ;
+a) Les numéros des premier et dernier actes inscrits sur le registre au cours du mois considéré ; 
 
-b) Le nombre de ces actes ou requêtes ;
+b) Le nombre de ces actes ; 
 
-c) Le total mensuel des colonnes correspondant aux indications mentionnées aux f, g, i et j du I de l'article 93 H quater C
-ou de la colonne correspondant au d du II du même article.
+c) Le total mensuel des colonnes correspondant aux indications mentionnées aux f, g, i et j du I de l'article 93 H quater C.
 
-Cet état certifié conforme aux écritures  est fourni en double exemplaire ; le premier est rendu au déposant après avoir été
+Cet état certifié conforme aux écritures est fourni en double exemplaire ; le premier est rendu au déposant après avoir été
 revêtu de l'acquit du comptable des impôts ; le second est conservé par le service à l'appui de la recette des droits de
 timbre.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2004-03-26
+
 	**Modifié par**:
 
-	  - Arrêté 1995-02-21 art. 3 JORF 1er mars 1995
+	  - Ordonnance 2003-1235 2003-12-22 art. 2 I, IV JORF 24 décembre 2003
+	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
 
 	**Cite**:
 
-	  - CGI 93 H quater C
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater C (V)
 
 
 ###### Article 93 H quater E
@@ -15934,43 +15841,43 @@ EN EUROS
 
 Huile d'olive
 
-Par centaine de kg : 15,595
+Par centaine de kg : 15,829
 
-Par centaine de litre : 14,040 
+Par centaine de litre : 14,251 
 
 Huile d'arachide et de maïs
 
-Par centaine de kg : 14,040
+Par centaine de kg : 14,251
 
-Par centaine de litre : 12,784 
+Par centaine de litre : 12,976 
 
 Huiles de colza et de pépins de raisins
 
-Par centaine de kg : 7,193
+Par centaine de kg : 7,301
 
-Par centaine de litre : 6,549 
+Par centaine de litre : 6,647 
 
 Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
 internationales ou nationales relatives aux espèces protégées
 
-Par centaine de kg : 12,250
+Par centaine de kg : 12,434
 
-Par centaine de litre : 10,680 
+Par centaine de litre : 10,840 
 
 Huiles de coprah et de palmiste
 
-Par centaine de kg : 9,345
+Par centaine de kg : 9,485
 
 Huile de palme
 
-Par centaine de kg : 8,559
+Par centaine de kg : 8,688
 
 Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux
 espèces protégées
 
-Par centaine de kg : 15,595
+Par centaine de kg : 15,829
 
-(Ces taux sont applicables à compter du 1er janvier 2003).
+(Ces taux sont applicables à compter du 1er janvier 2004).
 
 Le tarif forfaitaire dont le redevable peut demander l'application est fixé par arrêté (1).
 
@@ -15978,17 +15885,21 @@ Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
 
 **Nota:**
 
-(1) Arrêté du 27 mars 2002, JO du 2 mai.
+(1) Arrêté du 27 mars 2002, JO du 2 mai.    NOTA : Dans les dispositions de nature réglementaire, les références au "budget
+annexe des prestations sociales agricoles" sont remplacées par les références à "l'établissement de gestion du fonds de
+financement des prestations sociales des non-salariés agricoles", cf décret 2004-1428 du 23 décembre 2004 article 14.
+
+Ces dispositions entrent en vigueur le 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2002-11-29 art. 1 JORF 13 décembre 2002
+	  - Arrêté 2003-12-10 art. 1 JORF 23 décembre 2003
 
 	**Codifié par**:
 
-	  - Arrêté 2003-03-31
+	  - Arrêté 2004-03-26
 
 	**Cite**:
 
@@ -15996,8 +15907,7 @@ Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
-	  - TXT_ASSOCIE: Instruction 2000-03-13 3P-5-00
+	  - HISTO: Edition du 1er janvier 2004
 	  - TXT_ASSOCIE: Instruction 2001-03-23 3P-2-01
 	  - TXT_ASSOCIE: Instruction 2002-12-26 3P-4-02
 	  - TXT_ASSOCIE: Instruction 2003-06-06 3P-3-03
@@ -16057,141 +15967,6 @@ Appareils de reprographie de bureautique utilisant la technique du scanner.
 	  - HISTO: Edition du 18 août 1993
 
 
-#### Chapitre II bis : Contributions indirectes
-
-##### Section I : Taxe parafiscale au profit du centre technique des productions cidricoles.
-
-###### Article 159 AM
-
-Le taux de la taxe mentionnée aux articles 358 à 361 de l'annexe II au code général des impôts est fixé pour la période du
-1er septembre 2002 au 31 décembre 2003 ainsi qu'il suit :
-
-a. 0,16 Euros par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
-
-b. 0,17 Euros par hectolitre :
-
-1° de jus de pommes à cidre et de poires à poiré et de moûts de pommes et de poires ;
-
-2° de cidre aromatisé ou non à due proportion du cidre contenu dans le produit fini ;
-
-3° De fermenté de pommes à due proportion du fermenté de pommes contenu dans le produit fini ;
-
-4° De poiré ;
-
-5° De fermenté de poires ;
-
-c. 3,05 Euros par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré, de pommeaux et d'apéritifs à base
-de cidre et de poiré.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-08-28 art. 1 JORF 30 août 2002
-
-	**Codifié par**:
-
-	  - Arrêté 2002-09-27
-	  - Arrêté 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 2004-03-26 art. 1 JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2002
-
-	**Cite**:
-
-	  - CGIAN2 358 à 361
-
-
-##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.
-
-###### Article 159 AM bis
-
-Le taux de la taxe mentionnée à l'article 361 bis de l'annexe II au code général des impôts est fixé à 0,74 euro par
-hectolitre de vin.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-12-31 art. 1 JORF 3 janvier 2003
-
-	**Codifié par**:
-
-	  - Arrêté 2003-03-31
-	  - Arrêté 2004-03-26
-
-	**Cite**:
-
-	  - CGIAN2 361 bis
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 1er janvier 2004
-	  - PEREMPTION: Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
-
-
-##### Section VIII : Taxe parafiscale pour le financement des actions du secteur céréalier
-
-###### Article 159 AT
-
-I. - Les montants de la taxe parafiscale visée au I de l'article 363 AE de l'annexe II au code général des impôts sont fixés
-comme suit pour la campagne céréalière 2002-2003 :
-
-a) 0,77 Euros par tonne de blé tendre, d'orge, de maïs et de blé dur ;
-
-b) 0,72 Euros par tonne de seigle, de triticale et de riz ;
-
-c) 0,49 Euros par tonne d'avoine et de sorgho.
-
-II. - Le produit de cette taxe sera affecté de la façon suivante :
-
-a) 46,4 % à l'Office national interprofessionnel des céréales ;
-
-b) 53,6 % à l'institut technique des céréales et fourrages.
-
-III. - Les blés tendres retenus au titre de rémunération en nature par les meuniers et boulangers échangistes et livrés à un
-collecteur agréé supportent la somme prévue au I.
-
-IV. - La taxe prévue par le présent article pour les céréales de qualité saine, loyale et marchande est applicable aux
-céréales non saines, loyales et marchandes.
-
-V. - La taxe assise sur les entrées est calculée par collecteur agréé ou producteur grainier sur le poids à la réception des
-céréales livrées aux collecteurs agréés, déduction faite :
-
-a) De l'humidité excédant le taux de 15 % pour le blé tendre, l'orge, le seigle, le blé dur, le maïs, le sorgho et le riz.
-Pour l'application de cette disposition, l'Office national interprofessionnel des céréales établit les barèmes de conversion
-de poids des céréales présentant une humidité élevée ;
-
-b) Du pourcentage d'impuretés excédant 0,5 % pour le blé dur, 1 % pour le blé tendre, le seigle, l'orge, le maïs, le sorgho,
-le triticale et le riz dans la limite de 1 % pour le blé tendre, le blé dur, le seigle et le triticale, 2 % pour le maïs et
-le sorgho et 2,5 % pour le riz."
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2002-12-16 art. 1 à art. 5 JORF 24 décembre 2002
-
-	**Codifié par**:
-
-	  - Arrêté 2003-03-31
-	  - Arrêté 2004-03-26
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 2004-03-26 art. 1 JORF 30 mars 2004
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Cite**:
-
-	  - CGIAN2 363 AE
-
-
 #### Chapitre III : Enregistrement
 
 ##### Section I : Fonds national de garantie des calamités agricoles.
@@ -16238,8 +16013,8 @@ exploitations agricoles.
 
 ###### Article 159 quinquies-0 A
 
-Les taux des contributions prévues pour l'alimentation du Fonds de garantie contre les accidents de circulation et de chasse
-en application des articles 322 et 322 A de l'annexe II au code général des impôts sont fixés comme suit :
+Les taux des contributions prévues pour l'alimentation du Fonds de garantie des assurances obligatoires de dommages en
+application des articles 322 et 322 A de l'annexe II au code général des impôts sont fixés comme suit :
 
 a) Contribution des entreprises d'assurance : 1 p. 100 de la totalité des charges du fonds de garantie (1) ;
 
@@ -16251,17 +16026,15 @@ b) Contribution des responsables d'accidents non assurés :
 
 c) Contribution des assurés : 0,1 p. 100 des primes (1).
 
+**Nota:**
+
 (1) Taux applicable à compter du 1er janvier 1997.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1996-11-06 art. 1 JORF 7 novembre 1996
-
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 2004-03-26
 
 	**Cite**:
 
@@ -16269,15 +16042,19 @@ c) Contribution des assurés : 0,1 p. 100 des primes (1).
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
 
 
 ##### B : Accidents de chasse
 
 ###### Article 159 quinquies-0 B
 
-Les taux des contributions prévues pour l'alimentation du fonds de garantie contre les accidents de circulation et de chasse
-en application des articles 323 et 323 A de l'annexe II au code général des impôts sont fixés comme suit :
+Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
+application des articles 323 et 323 A de l'annexe II au code général des impôts sont fixés comme suit :
 
 a) Contribution des entreprises d'assurance : 1 % de la totalité des charges du fonds de garantie ;
 
@@ -16292,67 +16069,64 @@ c) Contribution forfaitaire des assurés : 0,02 euro par personne garantie.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2004-03-26
+
 	**Cite**:
 
 	  - CGIAN2 323, 323 A
 	  - Code de l'environnement L427-6 à L427-9
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000 en vigueur le 1er janvier 2002
-	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
 
 
-##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
+##### Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers
 
-###### Article 159 septies
+###### Article 159 octies
 
-A compter du 1er janvier 2003, les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général
-des impôts sont fixés ainsi qu'il suit :
+Les montants de la taxe fiscale instituée par l'article 1635 bis M du code général des impôts sont fixés ainsi qu'il suit :
 
-1° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur ou égal à 3,5
-tonnes :
+DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3,5 tonnes
 
-29 euros ;
+A compter du 1er janvier 2004 (en euros) : 30 
 
-2° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est supérieur à 3,5 tonnes et
-inférieur à 6 tonnes : 118 euros ;
+DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est supérieur à 3,5 tonnes et inférieur à 6
+tonnes
 
-3° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes
-et inférieur à 11 tonnes : 176 euros ;
+A compter du 1er janvier 2004 (en euros) : 120 
 
-4° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11
-tonnes, tracteurs routiers et véhicules de transport en commun de personnes :
+DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 6 tonnes et
+inférieur à 11 tonnes
 
-265 euros.
+A compter du 1er janvier 2004 (en euros) : 180 
+
+DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 11 tonnes,
+tracteurs routiers et véhicules de transport en commun de personnes
+
+A compter du 1er janvier 2004 (en euros) : 270 
+
+(1) PTAC : poids total autorisé en charge.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Arrêté 2002-12-27 art. 1 JORF 29 décembre 2002
+	  - Arrêté 2003-11-17 art. 1 JORF 2 décembre 2003
 
 	**Codifié par**:
 
-	  - Arrêté 2003-03-31
 	  - Arrêté 2004-03-26
-
-	**Cite**:
-
-	  - CGIAN2 339 à 341
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
 	  - HISTO: Edition du 1er janvier 2004
-	  - PEREMPTION: Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
@@ -19093,6 +18867,28 @@ tacite de construire lorsque cette modification a une incidence sur l'assiette d
 
 
 ### Section V : Dispositions communes
+
+#### 1° Date de limite de paiement ou de prélèvement
+
+###### Article 199-0
+
+Lorsque la date limite de paiement ou de prélèvement des impôts, droits, taxes et redevances prévus dans le code général des
+impôts coïncide avec un samedi, un dimanche ou un jour férié, celle-ci est prorogée jusqu'au premier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2004-03-18 art. 1 JORF 31 mars 2004
+
+	**Codifié par**:
+
+	  - Arrêté 2004-03-26
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 39 (V)
+
 
 #### 2° Paiement par chèques
 

@@ -1,31 +1,31 @@
 # Article 93 H quater D
 
-Le montant des droits est versé au comptable des impôts qui a accordé l'autorisation de paiement sur états  à l'expiration de
-chaque mois et dans les vingt premiers jours du mois suivant.
+Le montant des droits est versé au comptable des impôts qui a accordé l'autorisation de paiement sur états à l'expiration de
+chaque mois et dans les vingt premiers jours du mois suivant. 
 
-A l'appui de ce versement il est produit un état faisant connaître :
+A l'appui de ce versement il est produit un état faisant connaître : 
 
-a) Les numéros des premier et dernier actes ou requêtes inscrits sur le registre au cours du mois considéré ;
+a) Les numéros des premier et dernier actes inscrits sur le registre au cours du mois considéré ; 
 
-b) Le nombre de ces actes ou requêtes ;
+b) Le nombre de ces actes ; 
 
-c) Le total mensuel des colonnes correspondant aux indications mentionnées aux f, g, i et j du I de l'article 93 H quater C
-ou de la colonne correspondant au d du II du même article.
+c) Le total mensuel des colonnes correspondant aux indications mentionnées aux f, g, i et j du I de l'article 93 H quater C.
 
-Cet état certifié conforme aux écritures  est fourni en double exemplaire ; le premier est rendu au déposant après avoir été
+Cet état certifié conforme aux écritures est fourni en double exemplaire ; le premier est rendu au déposant après avoir été
 revêtu de l'acquit du comptable des impôts ; le second est conservé par le service à l'appui de la recette des droits de
 timbre.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2004-03-26
+
 	**Modifié par**:
 
-	  - Arrêté 1995-02-21 art. 3 JORF 1er mars 1995
+	  - Ordonnance 2003-1235 2003-12-22 art. 2 I, IV JORF 24 décembre 2003
+	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
 
 	**Cite**:
 
-	  - CGI 93 H quater C
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater C (V)
