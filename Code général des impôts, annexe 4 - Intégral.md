@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-02-25
+Version Consolidée au 1986-03-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5210,6 +5210,93 @@ récoltants des capsules visées à l'article 54-0 BY.
 	  - HISTO: Edition du 31 mars 2001
 
 
+##### II : Factures-congés
+
+###### Article 54 B
+
+La fourniture et l'impression des factures qui tiennent lieu de titre de mouvement incombent aux utilisateurs. Les factures
+doivent être conformes aux modèles prescrits par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1986-03-03 art. 2 JORF 12 mars 1986
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 54 D
+
+La facture-titre de mouvement et la vignette doivent présenter toutes les indications prescrites à l'article 446 du code
+général des impôts avec, le cas échéant, les appellations d'origine attribuées aux boissons expédiées.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - CGI 446
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 54 H
+
+L'administration fixe, à la demande de chaque utilisateur, la quantité maximale d'alcool pur susceptible d'être livrée par
+destinataire sous le couvert d'une même facture-titre de mouvement.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 54 J
+
+Sans préjudice des dispositions de l'article 164 AD, tout usager est tenu pour chaque vignette ou empreinte manquante ou en
+cas de discontinuité dans la série des numéros d'empreintes apposées sur les factures-titres de mouvement, d'acquitter une
+indemnité.
+
+Pour les factures-congés et les factures - acquits-à-caution, l'indemnité est égale au montant du droit de circulation au
+tarif le plus élevé, correspondant à la quantité moyenne par titre de mouvement des expéditions de vins, cidres, poirés et
+hydromels pratiquées au cours des trois mois précédents ou au montant des droits de consommation ou de fabrication au tarif
+le plus élevé, correspondant à la quantité maximale d'alcool susceptible d'être expédiée par ces documents.
+
+Pour les factures-laissez-passer, l'indemnité est égale au montant du droit de circulation et de consommation ou de
+fabrication calculé sur la base des quantités maximales susceptibles d'être expédiées par ces documents.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - CGI 164 AD
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
 ##### IV : Utilisation de machines à timbrer
 
 ##### A : Machines à timbrer les capsules représentatives des droits indirects sur les vins et cidres.
@@ -6169,6 +6256,145 @@ sur les capsules expédiées sous le couvert d'acquits-à-caution aux récoltant
 	  - HISTO: EDITION 1979-07-01
 
 
+##### II : Factures-congés.
+
+###### Article 54 A
+
+Les marchands en gros de boissons, les distillateurs de profession, les viticulteurs, les bouilleurs de cru, les coopératives
+et les débitants de boissons peuvent être autorisés par le directeur des services fiscaux à utiliser les factures qui
+tiennent lieu de titre de mouvement et qui sont mentionnées à l'article 445 A du code général des impôts.
+
+Une caution spéciale garantit le paiement des droits applicables aux produits enlevés ; elle doit être présentée et agréée
+par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGI 445 A
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AD bis (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
+
+	**Modifié par**:
+
+	  - arrêté 1986-03-03 art. 1 JORF 12 mars 1986
+
+
+###### Article 54 C
+
+Pour tenir lieu de titre de mouvement, des vignettes munies d'une marque fiscale doivent être apposées par les utilisateurs
+sur les factures.
+
+A cet effet, les utilisateurs déposent à la recette des impôts dont ils dépendent un timbre humide de forme ronde,
+mentionnant leurs nom, prénoms (ou raison sociale) et adresse complète.
+
+Après avoir été marquées du timbre, les vignettes sont délivrées par la recette des impôts contre reçu comportant engagement
+de dédommager l'administration en cas de perte ou de disparition. L'apposition des vignettes doit se faire dans l'ordre de
+leur numérotation. La présentation des vignettes fiscales confiées aux intéressés et non encore employées peut être exigée
+par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Modifié par**:
+
+	  - arrêté 1986-03-03 art. 3 JORF 12 mars 1986
+
+
+###### Article 54 E
+
+Le directeur des services fiscaux peut autoriser l'emploi d'empreintes fiscales imprimées par les machines à timbrer au lieu
+des vignettes. Les empreintes doivent comporter les mentions requises aux articles 54 decies et 54 duodecies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGI 54 decies
+	  - CGI 54 duodecies
+
+	**Modifié par**:
+
+	  - arrêté 1986-03-03 art. 5 JORF 12 mars 1986
+
+
+###### Article 54 F
+
+Des duplicata de factures ou de vignettes tiennent lieu des déclarations d'enlèvement prévues à l'article 446 du code général
+des impôts. Ils doivent être enliassés dans l'ordre de numérotation des vignettes, conservés et tenus à la disposition des
+agents des impôts jusqu'à l'expiration du délai prévu par l'article L. 82 du livre des procédures fiscales. Ils sont joints
+au document récapitulatif visé à l'article 54 I et restitués après vérification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGI 446
+	  - CGI L82
+	  - CGIAN4 54 I
+
+	**Modifié par**:
+
+	  - arrêté 1986-03-03 art. 6 JORF 12 mars 1986
+
+
+###### Article 54 G
+
+Les factures-titres de mouvement inutilisées mais pourvues de vignettes ou d'empreintes doivent être déposées à la recette
+des impôts avec leur duplicata, avant l'heure d'enlèvement indiquée sur le titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Modifié par**:
+
+	  - arrêté 1986-03-03 art. 7 JORF 12 mars 1986
+
+
+###### Article 54 I
+
+Les factures-titres de mouvement doivent, avant l'enlèvement des boissons, être analysées séparément sur un document
+récapitulatif déposé à la recette des impôts soit le premier jour de chaque mois [*date, date de dépôt*] pour les factures-
+congés et les factures-laissez-passer, soit le premier et le seizième jour de chaque mois pour les factures-acquits-à-
+caution.
+
+Pour les factures-congés et les factures-acquits, les documents récapitulatifs sont établis sur des documents fournis ou
+agréés par l'administration.
+
+Pour les factures-laissez-passer, ils sont établis par leurs utilisateurs suivant le modèle prescrit par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Modifié par**:
+
+	  - arrêté 1986-03-03 art. 9 JORF 12 mars 1986
+
+
 ##### III : Exemption des formalités à la circulation.
 
 ###### Article 54 bis
@@ -6238,6 +6464,44 @@ caution sont échangés à l'arrivée des boissons contre des congés.
 
 
 ##### IV : Utilisation de machines à timbrer
+
+##### C : Machines à timbrer les factures-congés "Boissons".
+
+###### Article 54 decies
+
+Est autorisée l'utilisation des machines à timbrer qui  suivant les prévisions de l'article 54 E, sont destinées à apposer
+des marques fiscales qui confèrent  en remplacement de vignettes  le caractère de titre de mouvement aux factures-congés
+utilisées pour couvrir la circulation de boissons passibles de droits indirects.
+
+Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
+
+le modèle de la vignette remplacée  désigné suivant la nomenclature arrêtée par l'administration des impôts;
+
+un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération;
+
+les date et heure d'enlèvement  exprimées en chiffres.
+
+L'empreinte apposée sur chaque facture-congé doit être reproduite par décalque sur le duplicata de ce document.
+
+**Nota:**
+
+(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-03-12
+
+	**Cite**:
+
+	  - CGIAN4 164 L A CGIAN4 164 al.
+	  - CGIAN4 54 E
+
+	**Modifié par**:
+
+	  - arrêté 1986-03-03 art. 5 JORF 12 mars 1986
+
 
 ##### D : Machines à timbrer les acquits-à-caution.
 
@@ -12787,80 +13051,6 @@ CONSIGNER              ------------                             ---------- Fleur
 
 #### BOISSONS
 
-###### Article 54 decies
-
-Est autorisée l'utilisation des machines à timbrer qui  suivant les prévisions de l'article 54 H, sont destinées à apposer
-des marques fiscales qui confèrent  en remplacement de vignettes  le caractère de titre de mouvement aux factures-congés
-utilisées pour couvrir la circulation de boissons passibles de droits indirects.
-
-Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
-
-le modèle de la vignette remplacée  désigné suivant la nomenclature arrêtée par l'administration des impôts;
-
-un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération;
-
-les date et heure d'enlèvement  exprimées en chiffres.
-
-L'empreinte apposée sur chaque facture-congé doit être reproduite par décalque sur le duplicata de ce document.
-
-**Nota:**
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 164 L A CGIAN4 164 al.
-	  - CGIAN4 54 H
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 undecies
-
-Sans préjudice des dispositions de l'article 164 AD, tout usager est tenu :
-
-en cas de solution de continuité dans la série des numéros d'empreintes apposées sur les factures-congés  d'acquitter  pour
-chaque empreinte manquante  une indemnité égale pour les vins  cidres  poirés et hydromels au montant du droit de circulation
-au tarif le plus élevé  correspondant à la quantité moyenne des expéditions pratiquées au cours des trois mois précédents et
-pour les alcools aux droits  au tarif le plus élevé  correspondant à la quantité maximale susceptible d'être expédiée par
-facture-congé;
-
-de fournir un cautionnement spécial garantissant le paiement d'une part  des droits applicables aux produits enlevés sous le
-couvert des factures-congés  d'autre part  des indemnités indiquées ci-dessus;
-
-de satisfaire aux obligations prévues par les articles 54 B, 54 E, 54 F, 54 I à 54 K dont les dispositions sont applicables
-aux factures-congés dont les marques fiscales ont été imprimées à l'aide de machines à timbrer.
-
-**Nota:**
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Cite**:
-
-	  - CGIAN4 164 AD
-	  - CGIAN4 164 L A CGIAN4 164 al.
-	  - CGIAN4 54 B
-	  - CGIAN4 54 E
-	  - CGIAN4 54 F
-	  - CGIAN4 54 I
-	  - CGIAN4 54 J
-	  - CGIAN4 54 K
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### ALCOOLS
 
 ###### Article 51 quater
@@ -12965,579 +13155,6 @@ fixées par l'administration, à la préparation de salaisons et conserves de vi
 
 	  - CGI 406 A II 2°
 	  - Code de la santé publique - art. L511 (M)
-
-
-##### CIRCULATION.
-
-###### Article 54 A
-
-Les marchands en gros de boissons et les distillateurs de profession  bénéficiant du crédit mensuel de liquidation  peuvent
-être admis  par le directeur des services fiscaux  à utiliser les factures-congés prévues à l'article 445 du code général des
-impôts.
-
-Les intéressés sont tenus  au préalable [*obligations*] :
-
-1o De faire agréer une caution spéciale garantissant le paiement des droits applicables aux produits enlevés sous le couvert
-de factures-congés;
-
-2o De se procurer à leurs frais et de déposer à la recette buraliste dont ils dépendent [*obligation de dépôt*], un timbre
-humide de forme ronde ayant 26 millimètres de diamètre mentionnant leurs nom prénoms (ou raison sociale) et adresse complète.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Cite**:
-
-	  - CGI 445
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AD bis (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 B
-
-La fourniture et l'impression des factures-congés incombent aux utilisateurs.
-
-Ceux-ci doivent y faire imprimer [*mentions*] :
-
-1o Leurs nom  prénoms (ou raison sociale)  qualité  adresse  et toutes autres indications exigées sur les factures par les
-lois et règlements en vigueur;
-
-2o A titre général  et dans la même forme  les diverses mentions colonnes et cadres figurant sur le modèle-type (recto et
-verso) ci-après (1).
-
-Les intéressés peuvent ajouter toutes autres indications qu'ils jugent utiles et supprimer celles relatives aux catégories de
-boissons dont ils ne font pas commerce.
-
-Les mentions d'ordre fiscal prévues à la partie inférieure  recto et verso  des factures-congés  prennent place dans un
-rectangle ayant au moins une largeur de 8 centimètres et une longueur de 21 centimètres. Au recto  dans la partie gauche de
-ce rectangle  un cadre de 8 centimètres sur 8 centimètres est laissé en blanc pour recevoir la vignette dont il est question
-à l'article 54 C.
-
-(1) REGISTRE DU COMMERCE  DESIGNATION DU COMMERCE (Nom ou raison       N°
-n°sociale)  FACTURE-CONGE                ADRESSE :                    (Recto)  n°
-A                , le  Doit : M.                       (profession)
-(adresse)  :===============================================================:
-
-: MARQUES et numéros   :  NOMBRE DE RECIPIENTS  :               :
-
-: des récipients       :   Fûts, bonbonnes,    :  CONTENANCE   :
-
-:                      :    caisses, paniers,   :   unitaire    :
-
-:                      :      bouteilles        :               :
-
-:----------------------:------------------------:---------------:
-
-:                      :                        :               :
-
-:                      :                        :               :
-
-:                      :                        :               :
-
-:                      :                        :               :
-
-:                      :                        :               :
-
-:                      :                        :               :
-
-:===============================================================:
-
-:===============================================================:
-
-:                VOLUME EFFECTIF DES SPIRITUEUX                 :
-
-:---------------------------------------------------------------:
-
-: Vin : Cidre, poiré : Spiritueux :     Titre     : Alcool pur  :
-
-:     :   hydromel   :            : alcoométrique :             :
-
-:     :              :            :  volumique    :             :
-
-:---------------------------------------------------------------:
-
-:     :              :            :               :             :
-
-:     :              :            :               :             :
-
-:     :              :            :               :             :
-
-:     :              :            :               :             :
-
-:     :              :            :               :             :
-
-:===============================================================:
-
-:===============================================================:
-
-: ESPECES ET QUALITE DES BOISSONS  : PRIX UNITAIRE :  MONTANT   :
-
-:----------------------------------:---------------:------------:
-
-:                                  :               :            :
-
-:                                  :               :            :
-
-:                                  :               :            :
-
-:            Totaux à reporter     :               :            :
-
-:===============================================================:
-
-:       Laissez passer les récipients désignés ci-dessus,       :
-
-:          contenant ensemble :                                 :
-
-:                 (1)                         d'alcool pur ;    :
-
-:                 (1)                         de vin ;         :
-
-:                 (1)                         de cidre, poiré, :
-
-:                                                d'hydromel.   :
-
-: Emplacement          Désignation du parcours :               :
-
-: réservé à            Moyens de transport :                   :
-
-: la vignette          Numéro d'immatriculation du véhicule    :
-
-:                              automobile :                    :
-
-:                      Délai de transport :                    :
-
-:                                  Signature du marchand       :
-
-:                                            en gros           :
-
-:                 (1) En toutes lettres.                       :
-
-:==============================================================
-
-(Verso)
-
-<table>
-  <tbody><tr>
-    <td>:===============================================================:</td>
-  </tr>
-  <tr>
-    <td> : MARQUES et numéros : NOMBRE DE RECIPIENTS  : CONTENANCE       :</td>
-  </tr>
-  <tr>
-    <td> : des récipients     :   Fûts, bonbonnes,   :  unitaire        :</td>
-  </tr>
-  <tr>
-    <td> :                    :   caisses, paniers,   :                  :</td>
-  </tr>
-  <tr>
-    <td> :                    :     bouteilles        :                  :</td>
-  </tr>
-  <tr>
-    <td> :---------------------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> :                    :                       :                  :</td>
-  </tr>
-  <tr>
-    <td> :                    :                       :                  :</td>
-  </tr>
-  <tr>
-    <td> :                    :                       :                  :</td>
-  </tr>
-  <tr>
-    <td> :                    :                       :                  :</td>
-  </tr>
-  <tr>
-    <td> :===============================================================:</td>
-  </tr>
-</tbody></table>
-
-VOLUME EFFECTIF DES SPIRITUEUX :===============================================================:
-
-<table>
-  <tbody><tr>
-    <td> :  Vin     : Cidre, poiré   : Spiritueux  : Degré  : Alcool pur :</td>
-  </tr>
-  <tr>
-    <td> :          :  hydromel      :             :        :            :</td>
-  </tr>
-  <tr>
-    <td> :---------------------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> :          :                :             :        :            :</td>
-  </tr>
-  <tr>
-    <td> :          :                :             :        :            :</td>
-  </tr>
-  <tr>
-    <td> :          :                :             :        :            :</td>
-  </tr>
-  <tr>
-    <td> :          :                :             :        :            :</td>
-  </tr>
-  <tr>
-    <td> :          :                :             :        :            :</td>
-  </tr>
-  <tr>
-    <td> :===============================================================:</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td>:===============================================================:</td>
-  </tr>
-  <tr>
-    <td> :  ESPECE ET QUALITE        :    PRIX        :    MONTANT       :</td>
-  </tr>
-  <tr>
-    <td> :    des boissons           :   unitaire     :                  :</td>
-  </tr>
-  <tr>
-    <td> :---------------------------:----------------:------------------:</td>
-  </tr>
-  <tr>
-    <td> :                           :                :                  :</td>
-  </tr>
-  <tr>
-    <td> :          REPORTS          :                :                  :</td>
-  </tr>
-  <tr>
-    <td> :                           :                :                  :</td>
-  </tr>
-  <tr>
-    <td> :                           :                :                  :</td>
-  </tr>
-  <tr>
-    <td> :===============================================================:</td>
-  </tr>
-  <tr>
-    <td> :===========================:=====================================:</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td>:   Vu à                    :  Boissons non livrées à réintégrer  :</td>
-  </tr>
-  <tr>
-    <td> :   Le                      : dans les chais du marchand en gros  :</td>
-  </tr>
-  <tr>
-    <td> : A  heures     minutes     : Motifs de la non livraison :        :</td>
-  </tr>
-  <tr>
-    <td> : Du                        : Espèces et quantités des boissons à :</td>
-  </tr>
-  <tr>
-    <td> :                           :  réintégrer :                       :</td>
-  </tr>
-  <tr>
-    <td> : Vu à                      : Désignation du parcours :           :</td>
-  </tr>
-  <tr>
-    <td> : Le                        :                                     :</td>
-  </tr>
-  <tr>
-    <td> : A  heures     minutes     : Délai de transport                  :</td>
-  </tr>
-  <tr>
-    <td> : Du                        : Date                                :</td>
-  </tr>
-  <tr>
-    <td> :---------------------------:                                     :</td>
-  </tr>
-  <tr>
-    <td> :  Avis important           :   Signature             Signature   :</td>
-  </tr>
-  <tr>
-    <td> : Le présent sera considéré :    du client :      du transporteur :</td>
-  </tr>
-  <tr>
-    <td> : comme nul s'il comporte   :                                     :</td>
-  </tr>
-  <tr>
-    <td> : des blancs non remplis ou :                                     :</td>
-  </tr>
-  <tr>
-    <td> : des surcharges.           :                                     :</td>
-  </tr>
-  <tr>
-    <td> :-----------------------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> :                      Retards et transit - Recommandations       :</td>
-  </tr>
-  <tr>
-    <td> :                   Les conducteurs sont tenus de faire constater :</td>
-  </tr>
-  <tr>
-    <td> :                 légalement les retards qu'ils éprouvent. Il ne  :</td>
-  </tr>
-  <tr>
-    <td> :               serait pas tenu compte des retards qui n'auraient :</td>
-  </tr>
-  <tr>
-    <td> :               pas été ainsi constatés.                          :</td>
-  </tr>
-  <tr>
-    <td> :                  Suivant une déclaration de transit inscrite au :</td>
-  </tr>
-  <tr>
-    <td> :                    bureau de                                    :</td>
-  </tr>
-  <tr>
-    <td> :                                              sous le            :</td>
-  </tr>
-  <tr>
-    <td> :                  n°      , le transport du chargement énoncé    :</td>
-  </tr>
-  <tr>
-    <td> :                  d'autre part a été interrompu du          à    :</td>
-  </tr>
-  <tr>
-    <td> :                                         heures     minutes du   :</td>
-  </tr>
-  <tr>
-    <td> :                  jusqu'au       à     heures     minutes du     :</td>
-  </tr>
-  <tr>
-    <td> :                                   Le receveur buraliste         :</td>
-  </tr>
-  <tr>
-    <td> :=================================================================</td>
-  </tr>
-</tbody></table>
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Cite**:
-
-	  - CGIAN4 54 C
-
-	**Modifié par**:
-
-	  - Décret n°79-200 1979-03-05 art. 3 JORF 11 mars 1979
-
-
-###### Article 54 C
-
-Afin de donner aux factures-congés le caractère de titres de mouvement  des vignettes comportant une marque fiscale  et
-fournies par le service des impôts  doivent être collées par les soins des utilisateurs dans le cadre prévu à cet effet.
-
-Ces vignettes sont imprimées sur du papier de même couleur que les congés dont elles tiennent lieu. Toutefois  les vignettes
-applicables aux factures-congés à usage multiple sont sur papier bulle et comportent un barrement rouge.
-
-Après avoir été marquées du timbre rond prévu à l'article 54 A, les vignettes sont délivrées par le titulaire de recette
-locale ou de recette auxiliaire ou le gérant de bureau auxiliaire des impôts contre reçu comportant engagement de dédommager
-l'administration en cas de perte ou de disparition.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Cite**:
-
-	  - CGIAN4 54 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 D
-
-L'apposition des vignettes sur les factures-congés doit se faire dans l'ordre de leur numérotation et avant l'emploi de ces
-factures.
-
-Ces vignettes comportent  outre l'emplacement destiné à l'apposition du timbre rond prévu à l'article 54 A, trois cadres
-réservés respectivement à la reproduction du numéro porté sur la facture-congé et à l'inscription de la date et de l'heure
-d'enlèvement  ladite inscription devant être faite en toutes lettres.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Cite**:
-
-	  - CGIAN4 54 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 E
-
-Pour tenir lieu valablement de congé  toute facture-congé et la vignette y apposée doivent  avant emploi  être complétées
-conformément aux mentions imprimées  de manière à présenter toutes les indications prescrites à l'article 446 du code général
-des impôts avec  le cas échéant  les appellations d'origine attribuées aux boissons expédiées.
-
-Toutes ces indications doivent être données sans abréviation en caractères ou chiffres indélébiles.
-
-Les boissons ou marchandises ne donnant pas lieu à la perception des droits de circulation ou de consommation peuvent figurer
-sur les factures-congés  mais elles doivent être groupées et inscrites à part de celles passibles de ces droits.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Cite**:
-
-	  - CGI 446
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 F
-
-L'établissement de toute facture-congé doit comporter  en même temps  celui d'un duplicata de dimensions identiques
-présentant les mêmes indications que cette facture-congé et la vignette dont elle a été munie.
-
-Les duplicata tiennent lieu des déclarations d'enlèvement prévues à l'article 446 du code général des impôts.
-
-Ils doivent être enliassés dans l'ordre de numérotation des vignettes  conservés et tenus à la disposition des agents des
-impôts jusqu'à l'expiration du délai prévu à l'article L. 82 du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Cite**:
-
-	  - CGI 446
-	  - CGI L82
-
-
-###### Article 54 G
-
-Lorsque l'emploi de procédés mécaniques ne permet pas d'utiliser des factures-congés conformes au modèle-type
-l'administration peut à la demande des intéressés  agréer des modèles différents  pourvu qu'ils comportent les indications
-réglementaires.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 H
-
-Le service des impôts peut autoriser la substitution  aux vignettes apposées sur les factures-congés  de marques fiscales
-imprimées par des machines à timbrer à condition que ces marques revêtent un aspect en harmonie avec les vignettes fiscales
-qu'elles remplacent.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 I
-
-Les factures-congés inutilisées  mais pourvues de vignettes doivent être déposées au bureau de déclarations de la direction
-générale des impôts  en même temps que leurs duplicata  avant l'heure d'enlèvement indiquée sur les vignettes [*date limite
-de dépôt*].
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 J
-
-L'administration fixe la quantité maximale d'alcool pur susceptible d'être livrée à chaque destinataire sous le couvert d'une
-même facture-congé.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 K
-
-Les factures-congés doivent avant l'enlèvement des boissons être analysées séparément sur un bordereau d'émargement qui doit
-être déposé au bureau de déclarations de la direction générale des impôts le dernier jour de chaque mois.
-
-Ce bordereau établi sur un imprimé fourni par l'administration indique :
-
-1o Les numéros des vignettes;
-
-2o Par espèce de boissons les quantités énoncées sur ces factures en distinguant s'il y a lieu les boissons passibles de
-droits ou de tarifs différents et celles expédiées sous une appellation d'origine; 3o Tous autres renseignements nécessaires
-à la tenue des comptes fiscaux ou économiques.
-
-A l'appui du bordereau les duplicata des factures-congés doivent être représentés. Ils sont restitués après vérification.
-
-Les titulaires des recettes locales ou des recettes auxiliaires ou les gérants de bureaux auxiliaires des impôts peuvent
-exiger la présentation des vignettes fiscales confiées aux intéressés et non encore employées.
-
-Les bordereaux visés au présent article sont conservés au bureau de déclarations de la direction générale des impôts.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 #### GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE
