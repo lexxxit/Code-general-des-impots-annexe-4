@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-01-07
+Version Consolidée au 1980-01-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11085,6 +11085,26 @@ l'article 2002 bis du code général des impôts [*obligation de conservation*].
 	**Nouveaux textes**:
 
 	  - Livre des procédures fiscales A37-1 4°
+
+
+###### Article 103
+
+Les compagnies de chemins de fer autres que la société nationale des chemins de fer français et toutes autres entreprises
+concessionnaires d'un service public de transport autorisées à acquitter sur états les droits de timbre de quittance
+afférents aux billets et bulletins qu'elles délivrent versent le montant de l'impôt pour toutes les gares du réseau dans les
+derniers jours du deuxième mois qui suit celui dans lequel les droits ont dû être perçus ; le versement est fait à la recette
+des impôts qui est désignée à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 19 JANVIER 1980)
+	  - HISTO: EDITION 1979-07-01
+
+	**Abrogé par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
 
 
 ###### Article 104
