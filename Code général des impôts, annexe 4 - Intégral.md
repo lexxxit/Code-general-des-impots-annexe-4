@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-09-25
+Version Consolidée au 1985-10-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13628,50 +13628,6 @@ préfectoral pour chaque département, à l'exception du Bas-Rhin, du Haut-Rhin 
 
 	  - PEREMPTION: Décret n°82-389 1982-05-10 art. 31 JORF 11 mai 1988
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 68
-
-Le tarif des salaires  visé à l'article 290 de l'annexe III au code général des impôts  exigibles pour la délivrance des
-copies intégrales et des extraits littéraux des documents publiés est fixé quel que soit leur mode d'établissement  à 3 F par
-page. Le papier utilisé ne doit pas être d'un format inférieur à 21 x 27 cm.
-
-Toute page commencée est comptée pour une page entière.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 290
-
-	**Abrogé par**:
-
-	  - Décret n°85-842 du 5 août 1985 - art. 11 (V) JORF 9 août 1985, date d'application 1er octobre 1985
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 69
-
-Le tarif des salaires  visé à l'article 290 de l'annexe III au code général des impôts  exigibles pour la délivrance des
-copies et des extraits des fiches personnelles de propriétaire et des fiches d'immeuble est fixé  quel que soit leur mode
-d'établissement, à 5 F par face de fiche.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1981-07-24 art. 1 JORF 29 juillet 1981
-
-	**Cite**:
-
-	  - CGIAN3 290
-
-	**Abrogé par**:
-
-	  - Décret n°85-842 du 5 août 1985 - art. 11 (V) JORF 9 août 1985 date d'application 1er octobre 1985
 
 
 ### DROITS DE TIMBRE
