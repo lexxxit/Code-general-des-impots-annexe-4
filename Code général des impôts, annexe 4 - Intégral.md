@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-06-05
+Version Consolidée au 1982-06-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7674,6 +7674,64 @@ payés en une seule fois pour l'année entière dès le début de l'année suiva
 
 ### Titre premier : Assiette et contrôle de l'impôt
 
+#### Chapitre premier : Obligations déclaratives
+
+##### I : Déclaration des comptes financiers
+
+###### Article 164 FC
+
+Les déclarations d'ouverture, de clôture ou de modification de comptes visées à l'article 164 FB sont souscrites dans le mois
+suivant les ouvertures, modifications et clôtures des comptes auprès de la direction des services fiscaux du siège de
+l'établissement qui gère ces comptes ou, après accord de celle-ci, auprès d'une autre direction des services fiscaux.
+
+Ces déclarations font l'objet d'un traitement informatisé dénommé Gestion du fichier des comptes bancaires et assimilés qui
+recense, sur support magnétique, l'existence des comptes et porte à la connaissance des services autorisés à consulter ce
+fichier (1) la liste de ceux qui sont détenus par une ou plusieurs personnes physiques ou morales.
+
+(1) Arrêté du 14 juin 1982, art. 4, (J.O. des 21 et 22)
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1982-06-14
+	  - CGIAN4 164 FB
+
+	**Créé par**:
+
+	  - Arrêté 1982-06-14 art. 2 JONC 22 juin 1982
+
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 164 FF
+
+Il est satisfait aux obligations résultant des articles 164 FB à 164 FE par la communication d'un support magnétique ou par
+l'envoi d'imprimés normalisés. Cette dernière formule est réservée aux établissements n'assurant pas la tenue de leurs
+comptes à l'aide de moyens automatiques de traitement de l'information de nature à permettre la communication des
+renseignements à l'aide de supports magnétiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1982-06-14 art. 6 JONC 22 juin 1982
+
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+
+	**Cite**:
+
+	  - CGI 164 FB à 164 FE
+
+
 #### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales
 
 ##### Section I : Centres de gestion agréés
@@ -13640,36 +13698,6 @@ additionnelle au droit de bail instituée par l'article 1635 A du code général
 ### ASSIETTE ET CONTROLE DE L'IMPOT
 
 #### OBLIGATIONS DES REDEVABLES
-
-##### DECLARATION DES COMPTES FINANCIERS.
-
-###### Article 164 FA
-
-Les déclarations d'ouverture et de clôture des comptes de toute nature prévues par l'article 58 de l'annexe II du code
-général des impôts sont souscrites dans le mois suivant les ouvertures et les clôtures des comptes auprès de la direction des
-services fiscaux de la résidence du titulaire du compte. Ces déclarations font l'objet d'un traitement informatisé dénommé
-"Gestion du fichier des comptes bancaires et assimilés" qui recense sur support magnétique l'existence des comptes et porte à
-la connaissance des services autorisés à consulter ce fichier la liste de ceux qui sont détenus par une personne physique ou
-une personne morale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1980-05-19 art. 1 JORF 31 mai 1980
-
-	**Abrogé par**:
-
-	  - Arrêté 1982-06-14 art. 8 JONC 22 juin 1982
-
-	**Codifié par**:
-
-	  - Arrêté 1982-10-15
-
-	**Cite**:
-
-	  - CGIAN2 58
-
 
 ##### BONS DE REMIS.
 
