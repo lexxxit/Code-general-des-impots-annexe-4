@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-12-31
+Version Consolidée au 1982-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1178,6 +1178,28 @@ l'établissement payeur, le mois auquel s'appliquent les relevés et le nombre d
 
 ##### III : Documents à tenir à la disposition de l'administration
 
+###### Article 17
+
+Les payeurs doivent s'organiser de façon que l'administration puisse vérifier dans leurs écritures l'exactitude des diverses
+mentions figurant sur les relevés par eux fournis. Ils doivent conserver  jusqu'à l'expiration du délai prévu à l'article L.
+82 du livre des procédures fiscales les pièces livres ou documents qui ne seraient pas soumis à un délai de conservation plus
+étendu en vertu des dispositions légales en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
+
+
 ###### Article 17 C
 
 Les personnes et organismes visés à l'article 17 B qui payent des intérêts, arrérages et produits de toute nature de bons et
@@ -1200,6 +1222,25 @@ ainsi que la pièce éventuellement présentée pour en justifier.
 	**Cite**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 B (V)
+
+
+###### Article 17 D
+
+Les documents  états et pièces tenus ou établis en application des articles 17 B, 17 C et 188 I sont conservés à la
+disposition de l'administration pendant le délai visé à l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN4 17 B
+	  - CGIAN4 17 C
+	  - CGIAN4 188 I
 
 
 ##### Section III bis : Revenu global
@@ -2400,6 +2441,35 @@ les billets non utilisés à toute réquisition des agents des impôts.
 
 Les agents des impôts ont accès dans la salle de spectacles pour toutes vérifications utiles.
 
+
+
+###### Article 50 sexies H
+
+Les exploitants de spectacles sont tenus d'établir  dès la fin de chaque journée ou représentation  un relevé comportant
+pour chaque catégorie de places [*mentions*] : les numéros des premiers et derniers billets délivrés le nombre de ceux-ci le
+prix de la place et la recette correspondante.
+
+Tous registres ou documents présentant les indications prévues ci-dessus tiennent lieu de relevé.
+
+Les relevés doivent être tenus à la disposition des agents des impôts et conservés par les exploitants pendant le délai prévu
+à l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 118 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 48 (V)
+	  - Décret n°2017-926 du 9 mai 2017 (VD)
+	  - Décret n°2017-926 du 9 mai 2017 - art. 5 (VD)
 
 
 ##### Section VI : Importations
@@ -4827,6 +4897,38 @@ impôts.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 54-0 BT
+
+Lorsqu'ils sont transportés par quantités supérieures à 6 litres en volume  les spiritueux  libérés des droits  conditionnés
+en bouteilles revêtues de capsules portant les marques fiscales  doivent être accompagnés d'un bordereau de livraison
+conforme au modèle donné par l'administration et indiquant [*mentions*] :
+
+1o La date d'enlèvement;
+
+2o Par contenance et par nature des boissons  le nombre total de bouteilles chargées au départ;
+
+3o Le nom et l'adresse des destinataires ainsi que les quantités qui leur sont destinées.
+
+Au moment de la livraison  le bordereau doit être complété par la signature des destinataires et  éventuellement  par les
+quantités effectivement livrées.
+
+L'administration peut  à la demande des intéressés  agréer des modèles différents pourvu qu'ils comportent les indications
+réglementaires.
+
+Les bordereaux doivent être conservés et tenus à la disposition des agents des impôts jusqu'à l'expiration du délai prévu à
+e l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+
+
 ##### D : Emploi des capsules représentatives des droits par les récoltants.
 
 ###### Article 54-0 BV
@@ -5217,6 +5319,25 @@ lettres dans les cadres prévus du numéro d'ordre du document de livraison ains
 
 	  - Loi n°78-1239 du 29 décembre 1978 - art. 25 (V) JORF 30 décembre 1978
 	  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 avril 1980
+
+
+###### Article 56 AM
+
+Le document de livraison est remis au débitant. Le fournisseur est tenu d'en conserver un duplicata comportant les
+indications figurant sur la vignette dont il a été muni  y compris le numéro de cette vignette [*obligation*].
+
+Les duplicata doivent être tenus à la disposition des agents des impôts jusqu'à l'expiration du délai de six ans prévu à
+l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
 
 
 ###### Article 56 AN
@@ -5618,6 +5739,32 @@ société.
 	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
 
 
+###### Article 93 F
+
+Les feuilles de présence et tous autres documents nécessaires à la vérification de l'état fourni à l'appui du versement des
+droits conformément à l'article 93 D, doivent être conservés par la société pendant le délai prévu à l'article L. 82 du livre
+des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN4 93 D
+
+	**Modifié par**:
+
+	  - Décret n°81-860 1981-09-15 JORF 18 septembre 1981, en vigueur le 1er janvier 1982) M(Arrêté 1981-09-15 JORF 18 septembre 1981, en vigueur le 1er janvier 1982
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales A37-1 1°
+
+
 ##### B ter : Autres actes (paiement sur états)
 
 ###### Article 93 H quater C
@@ -5697,6 +5844,27 @@ timbre.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 93 H quater E
+
+Le registre prescrit par l'article 93 H quater C et tous autres documents nécessaires à la vérification de l'état fourni à
+l'appui du versement des droits de timbre doivent être conservés pendant    t le délai prévu par l'article L. 82 du livre des
+procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82 CGIAN4 93 H quater C
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales A37-1 2°
+
+
 ##### C : Paiement par timbres mobiles
 
 ###### Article 93 H quinquies
@@ -5771,6 +5939,29 @@ exigible ; ces colonnes font l'objet d'une totalisation mensuelle.
 	  - HISTO: Edition du 11 avril 1997
 
 
+###### Article 93 L
+
+Le répertoire ou document dont la tenue est prescrite par l'article 93 J et tous autres documents de comptabilité nécessaires
+pour la vérification des états fournis à l'appui du versement des droits de timbre doivent être conservés pendant le délai
+prévu à l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN4 93 J
+	  - CGIAN4 93 K
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales A37-1 3°
+
+
 ##### III : Timbre des quittances.
 
 ###### Article 99
@@ -5803,7 +5994,58 @@ réunions prévues pour la saison, ainsi que les hippodromes ou cynodromes sur l
 	  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
 
 
+###### Article 101
+
+Tous les documents de comptabilité et autres pièces nécessaires pour la vérification des états fournis à l'appui du versement
+des droits de timbre doivent être conservés pendant le délai prévu à l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+
+
 ##### IV : Timbre des contrats de transports
+
+##### A : Transports par chemins de fer
+
+##### Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages.
+
+###### Article 113
+
+Les compagnies de chemins de fer autres que la société nationale des chemins de fer français et toutes autres entreprises
+concessionnaires d'un service public de transport, autorisées à acquitter sur états le droit de timbre exigible, en vertu de
+l'article 927 du code général des impôts, sur les bulletins de bagages, versent le montant de l'impôt, pour toutes les gares
+du    s réseau, dans les derniers jours du deuxième mois qui suit celui dans lequel les droits ont dû être perçus ; le
+versement est fait à la recette des impôts qui est désignée à cet effet.
+
+A l'appui du versement, il est fourni par le transporteur un état indiquant distinctement, pour chaque gare de départ, le
+nombre des timbres dus sur les bulletins de bagages. Cet état est certifié conforme aux écritures du transporteur ; il est
+totalisé et le montant des droits est provisoirement liquidé et payé en conséquence.    Tous les documents de comptabilité et
+autres, nécessaires pour la vérification des états fournis à l'appui du versement des droits de timbre, doivent être
+conservés, pendant le délai prévu à l'article L. 82 du livre des procédures fiscales, pour être communiqués aux agents des
+impôts compétents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI 927
+	  - CGI L82
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF 19 janvier 1980
+
 
 ##### B : Expéditions en groupage.
 
@@ -5913,7 +6155,87 @@ références nécessaires pour individualiser le bordereau de groupage auquel il
 	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
+###### Article 120
+
+Tous les documents de comptabilité et autres nécessaires pour la vérification des états fournis à l'appui du versement des
+droits de timbre, et notamment ceux prescrits par l'article 116, doivent être conservés pendant le délai prévu à l'article L.
+82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN4 116
+
+
 ##### C : Transports routiers de marchandises.
+
+###### Article 121 A
+
+I. Les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises autorisés à acquitter
+sur états les droits de timbre afférents aux lettres de voiture ou documents en tenant lieu sont tenus d'établir des
+bordereaux journaliers [*obligation*] présentant pour chaque expédition dans des colonnes distinctes les indications
+suivantes [*mentions*] :
+
+a. Numéro d'ordre;
+
+b. Nom de l'expéditeur;
+
+c. Nom du destinataire;
+
+d. Nombre de colis;
+
+e. Prix du transport;
+
+f. Montant du droit de timbre exigible.
+
+Les inscriptions doivent avoir lieu sans blanc  rature ni interligne. La colonne e contenant les indications relatives au
+prix de transport et la colonne f contenant l'indication du montant des droits de timbre exigibles sont totalisées en fin de
+journée. Les totaux sont rattachés aux écritures comptables.
+
+II. Par dérogation au I, les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises
+qui par application de l'article 313 W de l'annexe III au code général des impôts  établissent des récépissés numérotés
+extraits d'un registre à souche  sont dispensés de l'établissement des bordereaux journaliers. La même dispense est
+applicable lorsqu'il est créé des feuilles d'expédition ou des feuilles de route soumises au droit de timbre  numérotées et
+extraites d'un registre à souche.
+
+III. Le montant des droits de timbre exigibles est versé à l'expiration de chaque mois et dans les vingt premiers jours du
+mois suivant à la recette des impôts qui a accordé l'autorisation [*délai, de paiement*].
+
+A l'appui de ce versement  il est fourni par le bénéficiaire de l'autorisation un état indiquant  distinctement  s'il y a
+lieu  pour chaque bureau de départ :
+
+1o Le nombre de lettres de voiture ou de récépissés établis au cours du mois considéré  ainsi que le nombre de feuilles
+d'expédition et de feuilles de route soumises au droit de timbre et créées au cours du même mois;
+
+2o Le montant des droits exigibles.
+
+Cet état  certifié conforme aux résultats de la comptabilité  est fourni en double exemplaire. L'un de ces exemplaires est
+remis à la partie versante revêtu de l'acquit du comptable des impôts         t; compétent : l'autre est conservé par ce
+comptable à l'appui de la recette des droits de timbre.
+
+IV. Les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises bénéficiaires d'une
+autorisation de paiement sur états doivent conserver  pendant le délai prévu à l'article L. 82 du livre des procédures
+fiscales [*obligation de conservation*] tous les documents nécessaires au contrôle et notamment les bordereaux visés au I,
+les registres à souche de récépissés et les carnets d'enregistrement de ces registres les souches des feuilles d'expédition
+et des feuilles de route. Ces documents sont présentés à toute réquisition des agents des impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN3 313
+
 
 ###### Article 121 A bis
 
@@ -6102,6 +6424,24 @@ droits de timbre.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 KL ter (V)
+
+
+###### Article 121 KL ter
+
+Les organismes mentionnés à l'article 121 KL bis doivent relever l'identité des personnes auxquelles les formules ont été
+délivrées ainsi que les numéros de ces dernières. Ces renseignements doivent être conservés pendant le délai prévu à
+l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN4 121 KL bis
 
 
 #### Chapitre IV : Régimes spéciaux et exonérations de portée générale
@@ -6718,9 +7058,56 @@ Les exploitants de spectacles sont comptables des recettes représentées par le
 	  - HISTO: EDITION 1979-07-01
 
 
+##### Assiette et contrôle de la taxe.
+
+###### Article 137
+
+Les différents documents - coupons de contrôle, souches de carnets, feuilles de location, d'abonnement, bordereaux des
+guichets de vente et plan sur lequel sont marquées les places occupées - établis par les organisateurs et entrepreneurs de
+spectacles pour l'assiette et le contrôle de l'impôt doivent être conservés par la direction de l'établissement jusqu'à la
+vérification des comptes par un agent ayant au moins le grade d'inspecteur principal sans que ce délai puisse excéder celui
+prévu à l'article L. 82 du livre des procédures fiscales (1).
+
+(1) Voir également livre des procédures fiscales, art. A 26-1 et A 26-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI A26-1
+	  - CGI A26-2
+	  - CGI L82
+
+
 ##### II : Dispositions particulières
 
 ##### Cercles et maisons de jeux.
+
+###### Article 146
+
+Dans les cercles et maisons de jeux  la déclaration visée à l'article 124 doit être souscrite selon les formes prescrites par
+le service des impôts.
+
+Les signataires doivent  notamment  prendre le double engagement de se soumettre à toutes les mesures de contrôle prévues par
+les articles 149 à 154 et par l'article A 26-3 du livre des procédures fiscales et de permettre aux agents des impôts l'accès
+des établissements qu'ils dirigent comme s'ils étaient membres du cercle ou clients de la maison de jeux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI 149 à CGI 154
+	  - CGI A26-3
+	  - CGIAN4 124
+
 
 ###### Article 150
 
@@ -6830,6 +7217,47 @@ Les modalités d'emploi de la machine enregistreuse feront l'objet d'un arrêté
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 152
+
+Dans les cercles où sont pratiqués seulement les jeux de commerce et dans les maisons de jeux où la cagnotte est alimentée
+soit par un droit fixe exigé de chaque joueur avant la partie  soit par une rémunération quelconque perçue à l'occasion des
+jeux  un plan de la salle est affiché près de la caisse  avec indication de l'emplacement des tables de jeux et du numéro
+d'ordre attribué à chacune d'elles.
+
+Le tarif de la cagnotte dont l'affichage est prévu à l'article 149 est complété par l'indication de la durée des séances et
+du montant du droit fixe ou de la rémunération correspondante.
+
+Le préposé chargé des encaissements est muni d'un carnet relié conforme au modèle prescrit par l'administration et destiné à
+l'enregistrement des sommes perçues par séance et par table de jeux.
+
+Le carnet ci-dessus est folioté et paraphé par le service des impôts.
+
+Au début de chaque séance  le préposé chargé de la tenue du carnet d'enregistrement de la cagnotte indique sur celui-ci le
+jour  la date et l'heure ainsi que son nom.
+
+Les encaissements sont totalisés en fin de journée. La recette est inscrite en chiffres et en lettres et certifiée exacte par
+le caissier.
+
+Les 11, 21 et 1er de chaque mois, la recette totale de la dizaine écoulée est déclarée par le président du comité de
+direction des jeux ou son suppléant  conformément aux prescriptions de l'administration [*date de déclaration*]. Lorsque le
+produit brut des jeux ne dépasse pas 10.000 F par an dans les cercles où sont pratiqués seulement les jeux de commerce et
+dans les maisons de jeux l'administration peut autoriser les associations ou les exploitants à déclarer les recettes et à
+payer l'impôt mensuellement. En outre  dans les cercles désignés au présent article et dans les maisons de jeux  des
+abonnements peuvent être consentis selon les conditions prévues par les articles 1700 du code général des impôts pour la
+généralité des établissements de spectacles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI 1700
+	  - CGIAN4 149
 
 
 ###### Article 154
@@ -8211,28 +8639,6 @@ Les impressions portées sur l'ensemble du document sont de couleur bleu foncé.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 17
-
-Les payeurs doivent s'organiser de façon que l'administration puisse vérifier dans leurs écritures l'exactitude des diverses
-mentions figurant sur les relevés par eux fournis. Ils doivent conserver  jusqu'à l'expiration du délai prévu à l'article
-2002 bis du code général des impôts  les pièces  livres ou documents qui ne seraient pas soumis à un délai de conservation
-plus étendu en vertu des dispositions légales en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 17 A
 
 1. Toute opération portant sur des coupons ou instruments représentatifs de coupons d'actions et parts sociales de sociétés
@@ -8252,13 +8658,17 @@ domicile réel ou leur siège social et l'autre aux paiements faits à des perso
 France [*à l'étranger*].
 
 4. Ces liasses ainsi que l'état visé à l'article 188 H sont conservés à la disposition de l'administration pendant le délai
-prévu à l'article 2002 bis du code général des impôts.
+prévu à l'article L. 82 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
-	  - CGI 2002 bis
+	  - CGI L82
 	  - CGIAN2 57
 	  - CGIAN2 58
 	  - CGIAN4 188 H
@@ -8267,10 +8677,6 @@ prévu à l'article 2002 bis du code général des impôts.
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 B (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 H (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 17 B
@@ -8315,25 +8721,6 @@ autres au prélèvement  les relevés individuels font l'objet d'un classement s
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 D (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 C (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 17 D
-
-Les documents  états et pièces tenus ou établis en application des articles 17 B, 17 C et 188 I sont conservés à la
-disposition de l'administration pendant le délai visé à l'article 2002 bis du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-	  - CGIAN4 17 B
-	  - CGIAN4 17 C
-	  - CGIAN4 188 I
 
 	**Liens**:
 
@@ -8923,35 +9310,6 @@ La mention du supplément de prix ne concerne pas les billets d'entrée dans les
 	**Modifié par**:
 
 	  - Arrêté 1980-11-21 art. 2 JORF 30 novembre 1980
-
-
-###### Article 50 sexies H
-
-Les exploitants de spectacles sont tenus d'établir  dès la fin de chaque journée ou représentation  un relevé comportant
-pour chaque catégorie de places [*mentions*] : les numéros des premiers et derniers billets délivrés le nombre de ceux-ci le
-prix de la place et la recette correspondante.
-
-Tous registres ou documents présentant les indications prévues ci-dessus tiennent lieu de relevé.
-
-Les relevés doivent être tenus à la disposition des agents des impôts et conservés par les exploitants pendant le délai prévu
-à l'article 2002 bis du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-
-	**Cité par**:
-
-	  - Décret n°2017-926 du 9 mai 2017 (VD)
-	  - Décret n°2017-926 du 9 mai 2017 - art. 5 (VD)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 118 (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 48 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### IMPORTATIONS.
@@ -10783,18 +11141,22 @@ présentant les mêmes indications que cette facture-congé et la vignette dont 
 Les duplicata tiennent lieu des déclarations d'enlèvement prévues à l'article 446 du code général des impôts.
 
 Ils doivent être enliassés dans l'ordre de numérotation des vignettes  conservés et tenus à la disposition des agents des
-impôts jusqu'à l'expiration du délai prévu à l'article 2002 bis du code général des impôts.
+impôts jusqu'à l'expiration du délai prévu à l'article L. 82 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Abrogé par**:
+
+	  - Arrêté 1986-03-03 art. 11 JORF 12 mars 1986
+
 	**Cite**:
 
-	  - CGI 2002 bis
 	  - CGI 446
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - CGI L82
 
 
 ###### Article 54 G
@@ -10895,38 +11257,6 @@ Les bordereaux visés au présent article sont conservés au bureau de déclarat
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 54-0 BT
-
-Lorsqu'ils sont transportés par quantités supérieures à 6 litres en volume  les spiritueux  libérés des droits  conditionnés
-en bouteilles revêtues de capsules portant les marques fiscales  doivent être accompagnés d'un bordereau de livraison
-conforme au modèle donné par l'administration et indiquant [*mentions*] :
-
-1o La date d'enlèvement;
-
-2o Par contenance et par nature des boissons  le nombre total de bouteilles chargées au départ;
-
-3o Le nom et l'adresse des destinataires ainsi que les quantités qui leur sont destinées.
-
-Au moment de la livraison  le bordereau doit être complété par la signature des destinataires et  éventuellement  par les
-quantités effectivement livrées.
-
-L'administration peut  à la demande des intéressés  agréer des modèles différents pourvu qu'ils comportent les indications
-réglementaires.
-
-Les bordereaux doivent être conservés et tenus à la disposition des agents des impôts jusqu'à l'expiration du délai prévu à
-l'article 2002 bis du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 54-0 E
 
 Les inscriptions autres que celles prévues à l'article 54-0 D peuvent être imprimées en toutes couleurs  mais en aucun cas la
@@ -10953,57 +11283,9 @@ livraison au négociant utilisateur.
 	  - HISTO: EDITION 1979-07-01
 
 
-#### REGIME ECONOMIQUE DU SUCRE DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.
-
-###### Article 56 D ter
-
-Dans le département de la Réunion  les visites et vérifications que les agents sont autorisés à faire dans les fabriques de
-sucre en vertu de l'article 219 C de l'annexe III au code général des impôts ne peuvent avoir lieu que dans les intervalles
-de temps ci-après :
-
-Pendant les mois de janvier  février  novembre et décembre  depuis 5 heures du matin jusqu'à 8 heures du soir;
-
-Pendant les mois de mars  avril  septembre et octobre depuis 6 heures du matin jusqu'à 7 heures du soir;
-
-Pendant les mois de mai  juin  juillet et août  depuis 7 heures du matin jusqu'à 6 heures du soir.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A27-1
-
-	**Cite**:
-
-	  - CGIAN3 219 C
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ### MONOPOLES FISCAUX
 
 #### TABACS.
-
-###### Article 56 AM
-
-Le document de livraison est remis au débitant. Le fournisseur est tenu d'en conserver un duplicata comportant les
-indications figurant sur la vignette dont il a été muni  y compris le numéro de cette vignette [*obligation*].
-
-Les duplicata doivent être tenus à la disposition des agents des impôts jusqu'à l'expiration du délai de six ans prévu à
-l'article 2002 bis du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 56 AQ
 
@@ -11203,28 +11485,6 @@ l'exemplaire accompagnant l'expédition.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 93 F
-
-L'administration peut faire vérifier au siège de la société l'exactitude des indications contenues dans l'état visé à
-l'article 93 D. A cet effet  la société doit conserver pendant le délai prévu à l'article 2002 bis du code général des impôts
-les feuilles de présence et tous autres documents nécessaires à la vérification [*obligation de conservation*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-	  - CGIAN4 93 D
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A37-1 1°
-
-
 ###### Article 93 H bis
 
 Les autorisations de payer [*paiement*] sur états le droit de timbre de dimension afférent aux bulletins de souscriptions
@@ -11302,28 +11562,6 @@ l'établissement bancaire autorisé) ".
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 93 H quater E
-
-En vue des vérifications qui peuvent être effectuées par l'administration  l'assujetti doit conserver  pendant le délai prévu
-à l'article 2002 bis du code général des impôts  le registre prescrit par l'article 93 H quater C et tous autres documents
-nécessaires au contrôle [*obligation de conservation*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-	  - CGIAN4 93 H quater C
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A37-1 2°
-
-
 ###### Article 93 H ter
 
 Lorsque la demande est présentée par la société elle-même  elle doit comporter l'engagement exprès [*mentions*] :
@@ -11390,53 +11628,6 @@ des droits de timbre.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 93 L
-
-L'administration peut faire vérifier l'exactitude des indications fournies dans les états prévus à l'article 93 K. A cet
-effet l'entreprise doit conserver  pendant le délai prévu à l'article 2002 bis du code général des impôts  le répertoire ou
-document visé à l'article 93 J et tous autres documents de comptabilité nécessaires pour la vérification [*obligation de
-conservation*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-	  - CGIAN4 93 J
-	  - CGIAN4 93 K
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A37-1 3°
-
-
-###### Article 101
-
-L'administration peut faire vérifier  tant au siège de la société que sur les hippodromes ou cynodromes  si elle le juge
-convenable l'exactitude des renseignements contenus dans les états visés ci-dessus.
-
-A cet effet  tous les documents de comptabilité et autres pièces nécessaires doivent être conservés pendant le délai prévu à
-l'article 2002 bis du code général des impôts [*obligation de conservation*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A37-1 4°
-
-
 ###### Article 107
 
 Les commerçants industriels et entrepreneurs de spectacles autorisés à acquitter sur états le droit de timbre des quittances
@@ -11477,21 +11668,19 @@ de l'acquit du comptable des impôts  l'autre est conservé par le service à l'
 
 ###### Article 109
 
-L'administration peut faire vérifier tant au siège de l'établissement principal que dans les établissements annexes agences
-ou succursales  si elle le juge convenable  l'exactitude des résultats présentés par les états indiqués à l'article 108. A
-cet effet  l'assujetti doit conserver  pendant le délai prévu à l'article 2002 bis du code général des impôts  tous les
-documents de comptabilité et autres nécessaires pour la vérification [*obligation de conservation*].
+Tous les documents de comptabilité et autres nécessaires pour la vérification des états fournis à l'appui du versement des
+droits de timbre doivent être conservés pendant le délai prévu à l'article L. 82 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
-	  - CGI 2002 bis
+	  - CGI L82
 	  - CGIAN4 108
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 	**Nouveaux textes**:
 
@@ -11514,122 +11703,6 @@ faciliter les opérations de contrôle.
 	**Abrogé par**:
 
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 DECEMBRE 1982
-
-
-###### Article 113
-
-Les compagnies de chemins de fer autres que la société nationale des chemins de fer français et toutes autres entreprises
-concessionnaires d'un service public de transport  autorisées à acquitter sur états le droit de timbre exigible  en vertu de
-l'article 927 du code général des impôts  sur les bulletins de bagages  acquittent ce droit dans les mêmes conditions et
-suivant les mêmes modalités que le droit de timbre de quittance applicable aux billets de place  telles qu'elles sont
-déterminées par les articles 103 à 106.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 927
-	  - CGIAN4 103
-	  - CGIAN4 104
-	  - CGIAN4 105
-	  - CGIAN4 106
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A37-1 6°
-
-
-###### Article 120
-
-En vue des vérifications de l'administration  tant au siège des entreprises que dans les établissements annexes  bureaux
-agences ou succursales  les intermédiaires de transports doivent conserver pendant le délai prévu à l'article 2002 bis du
-code général des impôts  tous les documents de comptabilité et autres nécessaires pour la vérification  et notamment ceux
-visés à l'article 116 [*obligation de conservation*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-	  - CGIAN4 116
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A37-1 7°
-
-
-###### Article 121 A
-
-I. Les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises autorisés à acquitter
-sur états les droits de timbre afférents aux lettres de voiture ou documents en tenant lieu sont tenus d'établir des
-bordereaux journaliers [*obligation*] présentant pour chaque expédition dans des colonnes distinctes les indications
-suivantes [*mentions*] :
-
-a. Numéro d'ordre;
-
-b. Nom de l'expéditeur;
-
-c. Nom du destinataire;
-
-d. Nombre de colis;
-
-e. Prix du transport;
-
-f. Montant du droit de timbre exigible.
-
-Les inscriptions doivent avoir lieu sans blanc  rature ni interligne. La colonne e contenant les indications relatives au
-prix de transport et la colonne f contenant l'indication du montant des droits de timbre exigibles sont totalisées en fin de
-journée. Les totaux sont rattachés aux écritures comptables.
-
-II. Par dérogation au I, les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises
-qui par application de l'article 313 W de l'annexe III au code général des impôts  établissent des récépissés numérotés
-extraits d'un registre à souche  sont dispensés de l'établissement des bordereaux journaliers. La même dispense est
-applicable lorsqu'il est créé des feuilles d'expédition ou des feuilles de route soumises au droit de timbre  numérotées et
-extraites d'un registre à souche.
-
-III. Le montant des droits de timbre exigibles est versé à l'expiration de chaque mois et dans les vingt premiers jours du
-mois suivant à la recette des impôts qui a accordé l'autorisation [*délai, de paiement*].
-
-A l'appui de ce versement  il est fourni par le bénéficiaire de l'autorisation un état indiquant  distinctement  s'il y a
-lieu  pour chaque bureau de départ :
-
-1o Le nombre de lettres de voiture ou de récépissés établis au cours du mois considéré  ainsi que le nombre de feuilles
-d'expédition et de feuilles de route soumises au droit de timbre et créées au cours du même mois;
-
-2o Le montant des droits exigibles.
-
-Cet état  certifié conforme aux résultats de la comptabilité  est fourni en double exemplaire. L'un de ces exemplaires est
-remis à la partie versante revêtu de l'acquit du comptable des impôts         t; compétent : l'autre est conservé par ce
-comptable à l'appui de la recette des droits de timbre.
-
-IV. Les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises bénéficiaires d'une
-autorisation de paiement sur états doivent conserver  pendant le délai prévu à l'article 2002 bis du code général des impôts
-[*obligation de conservation*] tous les documents nécessaires au contrôle et notamment les bordereaux visés au I, les
-registres à souche de récépissés et les carnets d'enregistrement de ces registres les souches des feuilles d'expédition et
-des feuilles de route. Ces documents sont présentés à toute réquisition des agents des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-	  - CGIAN3 313
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A37-1 8°
 
 
 ###### Article 121 A4
@@ -11724,24 +11797,6 @@ véhicules à moteur (art. 1635 bis D-I du code général des impôts);
 	  - CGI 966
 	  - CGI 968
 	  - CGIAN2 339 A CGIAN2 341
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 121 KL ter
-
-Les organismes mentionnés à l'article 121 KL bis doivent relever l'identité des personnes auxquelles les formules ont été
-délivrées ainsi que les numéros de ces dernières. Ces renseignements doivent être conservés pendant le délai prévu à
-l'article 2002 bis du code général des impôts [*obligation de conservation*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-	  - CGIAN4 121 KL bis
 
 	**Liens**:
 
@@ -12559,6 +12614,30 @@ réduit " sans désignation de la personne qui doit en bénéficier.
 	  - Loi n°84-1208 1984-12-29 art. 84 I 2 finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
 
 
+###### Article 138
+
+Dans tous les établissements de spectacles ainsi que pour toute séance isolée ou représentation exceptionnelle  l'impôt est
+perçu à l'entrée  en même temps que le prix des places  par les soins des directeurs ou des organisateurs. Il doit être versé
+par eux à l'issue de chaque représentation et au vu du relevé récapitulatif des entrées prévu par l'article A 26-2 du livre
+des procédures fiscales, à l'agent chargé de la perception qui en délivre quittance.
+
+Le relevé dont il s'agit est arrêté à chaque représentation par l'agent de perception et le directeur de l'établissement ou
+son représentant. Le paiement de l'impôt est effectué immédiatement en fonction des recettes  y compris la valeur des entrées
+de faveur décomptée d'après le prix normal des places  lorsque ces entrées n'entrent pas dans les prévisions de l'article
+136.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI A26-2
+	  - CGIAN4 136
+
+
 ### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES
 
 #### IMPOTS DIRECTS ET TAXES ASSIMILEES
@@ -12634,30 +12713,6 @@ interdite.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 138
-
-Dans tous les établissements de spectacles ainsi que pour toute séance isolée ou représentation exceptionnelle  l'impôt est
-perçu à l'entrée  en même temps que le prix des places  par les soins des directeurs ou des organisateurs. Il doit être versé
-par eux à l'issue de chaque représentation et au vu du relevé prévu à l'article 137, à l'agent chargé de la perception qui en
-délivre quittance.
-
-Le relevé dont il s'agit est arrêté à chaque représentation par l'agent de perception et le directeur de l'établissement ou
-son représentant. Le paiement de l'impôt est effectué immédiatement en fonction des recettes  y compris la valeur des entrées
-de faveur décomptée d'après le prix normal des places  lorsque ces entrées n'entrent pas dans les prévisions de l'article
-136.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 136
-	  - CGIAN4 137
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 145
 
 Les établissements visés à l'article 1563, deuxième alinéa  du code général des impôts sont tenus de se conformer aux
@@ -12687,8 +12742,8 @@ pendant la décade ou le mois précédent et d'acquitter  dans les trois jours s
 ce relevé.
 
 Le livre prescrit par le présent article  ainsi que la comptabilité et les pièces justificatives des opérations effectuées
-par les établissements soumis à l'impôt  doivent être conservés par l'établissement pendant le délai prévu à l'article 2002
-bis du code général des impôts [*obligation de conservation*] pour être représentés à tout vérificateur.
+par les établissements soumis à l'impôt  doivent être conservés par l'établissement pendant le délai prévu à l'article L. 82
+du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
 
 Lorsqu'un établissement  par la nature de ses opérations  n'est assujetti à l'impôt sur les spectacles qu'à certaines heures
 de la journée  ou pour des salles spéciales  les opérations à inscrire sur le carnet visé au présent article ne concernent
@@ -12697,129 +12752,37 @@ deux établissements entièrement distincts.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
 	  - CGI 1563 AL. 2
-	  - CGI 2002 bis
+	  - CGI L82
 	  - CGIAN4 127
 	  - CGIAN4 128
 	  - CGIAN4 129
 
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 146
-
-Dans les cercles et maisons de jeux  la déclaration visée à l'article 124 doit être souscrite selon les formes prescrites par
-le service des impôts.
-
-Les signataires doivent  notamment  prendre le double engagement de se soumettre à toutes les mesures de contrôle prévues par
-les articles 148 à 155 et de permettre aux agents des impôts l'accès des établissements qu'ils dirigent comme s'ils étaient
-membres du cercle ou clients de la maison de jeux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 124
-	  - CGIAN4 148 A CGIAN4 155
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 148
-
-Les agents des impôts spécialement désignés à cet effet par leur administration ont le droit de pénétrer à toute heure du
-jour et de la nuit dans les locaux des cercles où sont pratiqués les jeux de hasard  et pendant tout le temps où ils sont
-ouverts à leurs membres ou à leur clientèle dans les autres cercles et maisons de jeux.
-
-Ils peuvent assister aux jeux  au comptage des cagnottes  prendre connaissance sur place de toutes pièces et de tous
-documents relatifs au fonctionnement du cercle ou de la maison de jeux et procéder au contrôle des pourboires encaissés dans
-l'établissement.
-
-Ils peuvent également  pour une ou plusieurs tables de jeux demander le remplacement du croupier et faire procéder
-simultanément à un relevé intermédiaire du montant de la cagnotte et à un contrôle du produit de la caisse de pourboires.
-
-Les agents qualifiés du ministère de l'intérieur jouissent des mêmes droits.
-
-Les contrôles doivent être effectués de façon à n'occasionner qu'un minimum de gêne pour les joueurs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A26-3 (al. 1 du CGIAN4 148)
-	  - Livre des procédures fiscales A26-4
-
-
-###### Article 152
-
-Dans les cercles où sont pratiqués seulement les jeux de commerce et dans les maisons de jeux où la cagnotte est alimentée
-soit par un droit fixe exigé de chaque joueur avant la partie  soit par une rémunération quelconque perçue à l'occasion des
-jeux  un plan de la salle est affiché près de la caisse  avec indication de l'emplacement des tables de jeux et du numéro
-d'ordre attribué à chacune d'elles.
-
-Le tarif de la cagnotte dont l'affichage est prévu à l'article 149 est complété par l'indication de la durée des séances et
-du montant du droit fixe ou de la rémunération correspondante.
-
-Le préposé chargé des encaissements est muni d'un carnet relié conforme au modèle prescrit par l'administration et destiné à
-l'enregistrement des sommes perçues par séance et par table de jeux.
-
-Le carnet ci-dessus est folioté et paraphé par le service des impôts.
-
-Au début de chaque séance  le préposé chargé de la tenue du carnet d'enregistrement de la cagnotte indique sur celui-ci le
-jour  la date et l'heure ainsi que son nom.
-
-Les encaissements sont totalisés en fin de journée. La recette est inscrite en chiffres et en lettres et certifiée exacte par
-le caissier.
-
-Les 11, 21 et 1er de chaque mois  la recette totale de la dizaine écoulée est déclarée par le président du comité de
-direction des jeux ou son suppléant  conformément aux prescriptions de l'administration [*date de déclaration*]. Lorsque le
-produit brut des jeux ne dépasse pas 10.000 F par an dans les cercles où sont pratiqués seulement les jeux de commerce et
-dans les maisons de jeux l'administration peut autoriser les associations ou les exploitants à déclarer les recettes et à
-payer l'impôt mensuellement. En outre  dans les cercles visés au présent article et dans les maisons de jeux  des abonnements
-peuvent être consentis selon les conditions prévues par les articles 1700 et 1939-1, deuxième alinéa du code général des
-impôts pour la généralité des établissements de spectacles.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1700
-	  - CGI 1939 1 AL. 2
-	  - CGIAN4 149
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 153
 
-Tous les carnets et registres visés aux articles 148 à 152 sont servis sans rature ni surcharge.
+Tous les carnets et registres visés aux articles 149 à 152 sont servis sans rature ni surcharge.
 
 Les cercles et maisons de jeux sont tenus de représenter  à toute réquisition  les carnets d'enregistrement des cagnottes
 dont ils sont détenteurs  sous peine des sanctions prévues par les articles 1791 et 1797 du code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
 	  - CGI 1791
 	  - CGI 1797
-	  - CGIAN4 148 A CGIAN4 152
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - CGIAN4 149 A CGIAN4 152
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
@@ -13472,115 +13435,6 @@ additionnelle au droit de bail instituée par l'article 1635 A du code général
 
 #### OBLIGATIONS DES REDEVABLES
 
-###### Article 164 F bis
-
-Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts [*relatives aux bons de
-remis*] sont applicables aux viandes nettes non travaillées y compris les viandes découpées désossées ou congelées provenant
-de l'abattage des animaux désignés ci-après : bovidés ovidés équidés suidés et caprins.
-
-Pour les bovidés  ovidés  équidés et caprins  la viande nette comprend les quatre quartiers de l'animal abattu et dépouillé
-défalcation faite :
-
-1o De la tête  qui doit être enlevée par section au niveau de l'articulation de l'occiput et de la première vertèbre
-cervicale. La section est effectuée suivant un plan perpendiculaire  au grand axe des vertèbres cervicales;
-
-2o D'une partie des membres  les antérieurs ayant été sectionnés à l'articulation du genou  les postérieurs à l'articulation
-du jarret suivant les habitudes de la boucherie;
-
-3o Des organes contenus dans les cavités thoracique et abdominale.    Pour les suidés  la viande nette s'entend de l'animal
-abattu  non dépouillé  à l'exclusion des organes contenus dans les cavités thoracique et abdominale.
-
-Toutefois  quelle que soit l'espèce des animaux abattus  toute partie attenante à la carcasse ou à une partie de carcasse est
-considérée comme viande nette.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 310 quinquies A CGIAN1 310 terdecies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 164 F octies
-
-I. Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts [*relatives aux bons
-de remis*] sont applicables aux chaussures et articles chaussants de toute nature.
-
-II. Ne donnent pas lieu à l'établissement de bons de remis les transports des produits désignés au I, effectués entre leurs
-magasins de stockage et leurs succursales par les entreprises dont la vente au détail constitue l'activité principale.
-
-III. Les bons de remis sont numérotés et utilisés dans leur ordre numérique; ils doivent mentionner  dans les conditions
-prescrites par la direction générale des impôts :
-
-Les noms ou raisons sociales et adresses de l'expéditeur et du destinataire et  s'ils sont différents  les noms et adresses
-du vendeur et de l'acheteur;
-
-La date et l'heure de départ et la durée du transport;
-
-Les moyens de transport utilisés;
-
-Les références commerciales attribuées aux produits et  pour chaque référence  le nombre de paires composant le chargement.
-
-IV. Toute personne qui fabrique ou fait fabriquer pour son compte les produits désignés au I doit tenir  dans chaque
-établissement ou lieu de stockage  une comptabilité-matières comportant les indications suivantes  par référence
-commerciale :
-
-La date de fabrication; les quantités fabriquées;
-
-La date d'expédition; les quantités livrées; le numéro du bon de remis établi pour la livraison ou les nom et adresse du
-destinataire;     Les quantités détenues le dernier jour de chaque mois.
-
-V. Toute personne qui reçoit et réexpédie des chaussures doit tenir  dans chaque établissement ou lieu de stockage autre
-qu'un magasin de vente au détail  une comptabilité-matières comportant les indications suivantes  par catégorie d'usagers
-Hommes  Femmes ou Enfants :
-
-La date de la réception et les quantités reçues; les nom et adresse de l'expéditeur ou la référence au bon de remis ayant
-accompagné les produits;
-
-La date de livraison et les quantités livrées; le numéro du bon de remis établi pour la livraison ou les nom et adresse du
-destinataire;
-
-Les quantités détenues le dernier jour de chaque trimestre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 310 quinquies A CGIAN1 310 terdecies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 164 F quindecies
-
-Les dispositions des articles 310 quinquies à 310 terdecies et 325 de l'annexe I au code général des impôts [*relatives aux
-bons de remis*] sont applicables aux farines de blé de seigle et de méteil pures ou en mélanges dont les types ont été
-homologués par les arrêtés des 13 juillet et 24 décembre 1963 et aux produits dans la composition desquels entrent ces
-farines et qui sont utilisés en boulangerie pâtisserie biscuiterie biscotterie ou pour la fabrication de plats préparés.
-
-Sont toutefois placés hors du champ d'application de la réglementation les adjuvants  améliorants ou produits d'appoint
-contenant des farines mais qui ne constituent pas une matière première utilisable à l'état pur et qui sont employés à des
-doses n'excédant pas 5 %.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1963-07-13
-	  - Arrêté 1963-12-24
-	  - CGIAN1 310 quinquies A CGIAN1 310 terdecies
-	  - CGIAN1 325
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### DECLARATION DES COMPTES FINANCIERS.
 
 ###### Article 164 FA
@@ -13612,6 +13466,40 @@ une personne morale.
 
 
 ##### BONS DE REMIS.
+
+###### Article 164 F bis
+
+Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts [*relatives aux bons de
+remis*] et de l'article R. 24-1 du livre des procédures fiscales sont applicables aux viandes nettes, non travaillées, y
+compris les viandes découpées, désossées ou congelées, provenant de l'abattage des animaux désignés ci-après : bovidés ovidés
+équidés suidés et caprins.
+
+Pour les bovidés  ovidés  équidés et caprins  la viande nette comprend les quatre quartiers de l'animal abattu et dépouillé
+défalcation faite :
+
+1o De la tête  qui doit être enlevée par section au niveau de l'articulation de l'occiput et de la première vertèbre
+cervicale. La section est effectuée suivant un plan perpendiculaire  au grand axe des vertèbres cervicales;
+
+2o D'une partie des membres  les antérieurs ayant été sectionnés à l'articulation du genou  les postérieurs à l'articulation
+du jarret suivant les habitudes de la boucherie;
+
+3o Des organes contenus dans les cavités thoracique et abdominale.    Pour les suidés  la viande nette s'entend de l'animal
+abattu  non dépouillé  à l'exclusion des organes contenus dans les cavités thoracique et abdominale.
+
+Toutefois  quelle que soit l'espèce des animaux abattus  toute partie attenante à la carcasse ou à une partie de carcasse est
+considérée comme viande nette.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI R24-1
+	  - CGIAN1 310 quinquies A CGIAN1 310 terdecies
+
 
 ###### Article 164 F decies
 
@@ -13743,6 +13631,69 @@ timbrer faisant l'objet du présent article est simplement tenue d'en faire la d
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 164 F octies
+
+I. Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts et de l'article R.
+24-1 du livre des procédures fiscales [*relatives aux bons de remis*] sont applicables aux chaussures et articles chaussants
+de toute nature.
+
+II. Ne donnent pas lieu à l'établissement de bons de remis les transports des produits désignés au I, effectués entre leurs
+magasins de stockage et leurs succursales par les entreprises dont la vente au détail constitue l'activité principale.
+
+III. Les bons de remis sont numérotés et utilisés dans leur ordre numérique; ils doivent mentionner  dans les conditions
+prescrites par la direction générale des impôts :
+
+Les noms ou raisons sociales et adresses de l'expéditeur et du destinataire et  s'ils sont différents  les noms et adresses
+du vendeur et de l'acheteur;
+
+La date et l'heure de départ et la durée du transport;
+
+Les moyens de transport utilisés;
+
+Les références commerciales attribuées aux produits et  pour chaque référence  le nombre de paires composant le chargement.
+
+IV. Toute personne qui fabrique ou fait fabriquer pour son compte les produits désignés au I doit tenir  dans chaque
+établissement ou lieu de stockage  une comptabilité-matières comportant les indications suivantes  par référence
+commerciale :
+
+La date de fabrication; les quantités fabriquées;
+
+La date d'expédition; les quantités livrées; le numéro du bon de remis établi pour la livraison ou les nom et adresse du
+destinataire;     Les quantités détenues le dernier jour de chaque mois.
+
+V. Toute personne qui reçoit et réexpédie des chaussures doit tenir  dans chaque établissement ou lieu de stockage autre
+qu'un magasin de vente au détail  une comptabilité-matières comportant les indications suivantes  par catégorie d'usagers
+Hommes  Femmes ou Enfants :
+
+La date de la réception et les quantités reçues; les nom et adresse de l'expéditeur ou la référence au bon de remis ayant
+accompagné les produits;
+
+La date de livraison et les quantités livrées; le numéro du bon de remis établi pour la livraison ou les nom et adresse du
+destinataire;
+
+Les quantités détenues le dernier jour de chaque trimestre.
+
+**Nota:**
+
+[*Arrêté 1986-01-20 art. 1 : "l'application des dispositions de l'article 164 F octies de l'annexe IV au code général des
+impôts est suspendue." Cette mesure entre en vigueur à compter du 31 janvier 1986*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1986-01-20 art. 1 JORF 30 janvier 1986
+
+	**Cite**:
+
+	  - CGI R24-1
+	  - CGIAN1 310 quinquies A CGIAN1 310 terdecies
 
 
 ###### Article 164 F octodecies
@@ -14103,6 +14054,39 @@ remis pour le compte de ces producteurs.
 	**Abrogé par**:
 
 	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+
+#### BONS DE REMIS
+
+##### OBLIGATIONS DES REDEVABLES
+
+##### BONS DE REMIS.
+
+###### Article 164 F quindecies
+
+Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts et des articles R. 24-1
+et R. 213-3 du livre des procédures fiscales sont applicables aux farines de blé de seigle et de méteil pures ou en mélanges
+dont les types ont été homologués par les arrêtés des 13 juillet et 24 décembre 1963 et aux produits dans la composition
+desquels entrent ces farines et qui sont utilisés en boulangerie pâtisserie biscuiterie biscotterie ou pour la fabrication de
+plats préparés.
+
+Sont toutefois placés hors du champ d'application de la réglementation les adjuvants  améliorants ou produits d'appoint
+contenant des farines mais qui ne constituent pas une matière première utilisable à l'état pur et qui sont employés à des
+doses n'excédant pas 5 %.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1963-07-13
+	  - Arrêté 1963-12-24
+	  - CGI R213-3
+	  - CGI R24-1
+	  - CGIAN1 325
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
 
 
 #### CENTRES DE GESTION AGREES.
@@ -15160,389 +15144,5 @@ indirectes.
 	**Cite**:
 
 	  - CGI 1929 quater 4
-
-
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS
-
-###### Article 207 B
-
-Les banques admises à servir d'intermédiaires pour le paiement des contributions directes peuvent être autorisées, sur leur
-demande, à recevoir lesdits titres, en dépôt, dans les conditions prévues ci-après. Cette demande, ainsi que celle qui est
-visée à l'article 207 C, implique, tant de la part de la banque que de celle des contribuables, acceptation des dispositions
-des articles 207 C à 207 N et obligations de s'y conformer.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-1
-
-	**Cite**:
-
-	  - CGIAN4 207 C à CGIAN4 207 N
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### SURSIS DE PAIEMENT.
-
-###### Article 207 A
-
-Le contribuable qui par une réclamation introduite dans les conditions déterminées par les articles 1931 et suivants du code
-général des impôts a contesté le bien-fondé ou la quotité des impositions mises à sa charge et qui ayant fait connaître dans
-cette réclamation qu'il entend surseoir au paiement de la partie contestée desdites impositions fournit des valeurs
-mobilières en garantie de ce paiement doit sauf les exceptions prévues aux articles ci-après déposer ces valeurs à la caisse
-du comptable chargé du recouvrement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1931 ET S.
-
-	**Nouveaux textes**:
-
-	  - CGI A277-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 C
-
-Les contribuables qui affectent des valeurs mobilières à la garantie du paiement de la partie contestée de leurs impositions
-peuvent demander que les titres soient ou demeurent déposés dans un des établissements visés à l'article 207 B, sous réserve
-que cet établissement leur ait ouvert un compte de dépôt de titres et ait reçu notification de leur signature. La demande
-doit être adressée au comptable appelé à recevoir les titres.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 207 B
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A277-1
-
-
-###### Article 207 D
-
-Le dépôt fait l'objet d'un bordereau certifié par le comptable et indiquant le nom de la personne qui a remis les titres en
-garantie; il est constaté par la délivrance d'un ou de plusieurs récépissés établis au nom du comptable et se référant à la
-présente annexe.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 E
-
-Les arrérages des titres sont portés par la banque au crédit du contribuable qui les a remis en garantie  à l'exception de
-ceux qui viennent à échoir postérieurement à la date de réception par la banque de la demande visée à l'article 207 F.
-
-Les frais de garde  de timbre et tous autres occasionnés par le dépôt sont à la charge de la personne qui a remis les titres
-en garantie. Toutefois  le montant de ces frais est avancé à la banque par le Trésor  si la banque ne peut en obtenir le
-remboursement de la part du débiteur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 207 F
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A277 A (al. 1 du CGIAN4 207 E)
-	  - Livre des procédures fiscales A277-3 (al. 2 du CGIAN4 207 E)
-
-
-###### Article 207 F
-
-Les titres déposés sont remis au comptable qui a effectué le dépôt  sur sa demande et contre quittance ou récépissé
-descriptif. Dans le cas où la demande de retrait porte sur la totalité des titres décrits dans un récépissé  elle est
-accompagnée dudit récépissé dûment déchargé.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-3
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 G
-
-Les arrérages qui viennent à échoir sur les titres déposés postérieurement à la date de réception par la banque de la demande
-visée à l'article 207 F sont versés au comptable.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-4
-
-	**Cite**:
-
-	  - CGIAN4 207 F
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 H
-
-En cas de remboursement d'un des titres déposés  le contribuable peut être autorisé à disposer du montant du remboursement  à
-charge par lui de présenter une nouvelle garantie de valeur au moins égale à celle que représentait le titre remboursé.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-5
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 I
-
-La quittance ou le récépissé constatant la remise du titre au comptable libère définitivement la banque.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-3
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 J
-
-Les titres peuvent être restitués par la banque à la personne dénommée au bordereau de dépôt  contre production du ou des
-récépissés de dépôt remis au comptable  revêtus d'une mention constatant que lesdits titres ont cessé d'être affectés à la
-garantie du Trésor ou  en cas de désaffectation partielle  au vu d'une lettre adressée par le comptable à la banque.
-
-Dans ce dernier cas  il est fait mention de la sortie partielle sur le récépissé qui  à cet effet  est communiqué à la banque
-par le comptable.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-6
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 K
-
-Les valeurs mobilières sur lesquelles la banque de France consent des avances sur titres sont admises pour la somme
-déterminée par l'application au dernier cours coté au jour du dépôt du tarif appliqué par cet établissement pour la fixation
-du montant des avances.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-7
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 L
-
-Les autres valeurs mobilières cotées à une bourse française sont admises pour la valeur déterminée par l'application au
-dernier cours coté d'un pourcentage inférieur d'au moins 10 % au pourcentage minimal appliqué par la banque de France en
-matière d'avances sur titres.
-
-En aucun cas  ce pourcentage ne peut être supérieur à 40 %.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-8
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 M
-
-Les valeurs mobilières qui ne sont pas cotées à une bourse française ne peuvent être admises que si elles sont accompagnées
-d'une caution agréée par les comptables responsables du recouvrement et pour le montant de la somme cautionnée.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-9
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 207 N
-
-Des garanties supplémentaires pourront être exigées  lorsque le cours en bourse des titres déposés sera inférieur à la valeur
-pour laquelle ces titres auront été admis en garantie.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A277-10
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-## DROIT DE COMMUNICATION
-
-### OBLIGATIONS DES CAISSES DE SECURITE SOCIALE.
-
-###### Article 208
-
-Les caisses de sécurité sociale assurant la gestion des risques maladies et maternité  ainsi que les sociétés ou unions de
-sociétés de secours mutuels fonctionnant comme organismes d'assurances sociales agricoles pour les assurances maladie et
-maternité  doivent tenir  pour chaque médecin  dentiste  sage-femme  auxiliaire médical et laboratoires d'analyses médicales
-ayant donné des soins à leurs adhérents  un relevé individuel établi à leurs frais conformément au modèle arrêté par
-l'administration et présentant  dans les conditions prévues à l'article 209, les renseignements extraits des feuilles de
-maladie  de soins et de prothèse signées par ces praticiens.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGIAN4 209
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 209
-
-Le relevé individuel prévu à l'article 208 doit indiquer :
-
-a. La désignation et le siège de la caisse de sécurité sociale ou de la société ou union de sociétés de secours mutuels
-fonctionnant comme organismes d'assurances sociales agricoles;
-
-b. Les nom prénoms adresse et qualité du praticien;
-
-c. Pour chaque feuille de maladie ou de soins reçus au cours de l'année soit le numéro matricule de l'assuré soit le numéro
-de référence de la feuille de décompte le mois au cours duquel ont été réglés les honoraires le montant des honoraires bruts
-frais de déplacement compris portés obligatoirement par le praticien sur ladite feuille et le montant des honoraires
-remboursés par la caisse à l'assuré.
-
-Les relevés individuels sont remplis au fur et à mesure de la réception des feuilles de maladie ou de soins par la caisse ou
-par la société. Ils sont arrêtés au 31 décembre de chaque année et totalisés.
-
-Les caisses de sécurité sociale ou les sociétés ou unions de sociétés de secours mutuels fonctionnant comme organismes
-d'assurances sociales agricoles doivent faire parvenir sous bordereau à la direction des services fiscaux avant le 1er mars
-de l'année suivante les relevés rédigés en conformité du présent article.
-
-Lorsque les feuilles de soins n'ont pas été signées par le praticien dans l'année de leur réception par la caisse ou la
-société elles font l'objet d'un relevé complémentaire qui doit être envoyé au service des impôts avant le 30 avril de l'année
-suivante.
-
-Les caisses conservent une copie des bordereaux visés aux alinéas précédents et sur lesquels doit être mentionné le total de
-chaque relevé.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A97-1
-
-	**Cite**:
-
-	  - CGIAN4 208
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 210
-
-En vue de la vérification des relevés individuels  les agents des impôts peuvent obtenir la communication au siège de la
-caisse ou de la société des feuilles de maladie  de soins et de prothèse  à l'exclusion des ordonnances médicales  ayant
-servi à l'établissement desdits relevés.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI A97-2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### OBLIGATIONS DES DIRECTEURS DE LABORATOIRES D'ANALYSES MEDICALES.
-
-###### Article 211
-
-Les directeurs de laboratoires d'analyses médicales sont tenus de mentionner sur la feuille de maladie ou sur tout autre
-document en tenant lieu  outre la désignation du laboratoire  le nom et l'adresse du malade  la date portée sur le registre
-spécial visé à l'article 3-1o de l'arrêté du 9 juin 1966, les coefficients exprimés en " B " (1) des différents examens
-pratiqués  y compris  éventuellement  les suppléments pour service d'urgence fixés à l'article 1er  deuxième alinéa  de
-l'arrêté précité et qui devront être précédés de la mention " Supplément " ainsi que  le cas échéant  la somme totale payée.
-
-(1) Il s'agit de la lettre-clé utilisée pour la détermination des prix limites des analyses médicales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1966-06-09 ART. 1 AL. 2, ART. 3 1°
-
-	**Nouveaux textes**:
-
-	  - CGI A97-3
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 

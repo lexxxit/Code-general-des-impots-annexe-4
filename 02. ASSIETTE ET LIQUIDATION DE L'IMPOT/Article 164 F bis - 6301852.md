@@ -1,8 +1,9 @@
 # Article 164 F bis
 
 Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts [*relatives aux bons de
-remis*] sont applicables aux viandes nettes non travaillées y compris les viandes découpées désossées ou congelées provenant
-de l'abattage des animaux désignés ci-après : bovidés ovidés équidés suidés et caprins.
+remis*] et de l'article R. 24-1 du livre des procédures fiscales sont applicables aux viandes nettes, non travaillées, y
+compris les viandes découpées, désossées ou congelées, provenant de l'abattage des animaux désignés ci-après : bovidés ovidés
+équidés suidés et caprins.
 
 Pour les bovidés  ovidés  équidés et caprins  la viande nette comprend les quatre quartiers de l'animal abattu et dépouillé
 défalcation faite :
@@ -21,10 +22,11 @@ considérée comme viande nette.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
+	  - CGI R24-1
 	  - CGIAN1 310 quinquies A CGIAN1 310 terdecies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
