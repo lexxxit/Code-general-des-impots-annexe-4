@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-08-04
+Version Consolidée au 1981-09-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7748,51 +7748,6 @@ commercial.
 #### IMPOT SUR LE REVENU
 
 ##### BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*.
-
-###### Article 3
-
-Pour les exercices clos avant le 22 septembre 1972, la dotation annuelle de la provision prévue à l'article 2 peut atteindre
-10 % du bénéfice comptable de chaque exercice  en ce qui concerne la caisse nationale des marchés de l'Etat  et 5 % de ce
-bénéfice pour les autres entreprises  à l'exception du crédit national sans que le montant global de ladite provision puisse
-toutefois excéder 5 % du montant des crédits à moyen et à long terme effectivement utilisés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1981-09-15 art. 3 JORF 18 septembre 1981 : DEVENU SANS OBJET
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGIAN4 2
-
-
-###### Article 4
-
-Pour les exercices clos avant le 22 septembre 1972, en ce qui concerne le crédit national  la provision visée à l'article 2
-est représentée par la dotation annuelle faite à la réserve spéciale pour risques de contrats en cours que cet organisme est
-déjà tenu de constituer en exécution des conventions qu'il a passées avec l'Etat.
-
-Le montant global de la provision ainsi constituée à partir de la clôture de l'exercice 1945 ne peut excéder 10 % du montant
-des crédits à moyen et à long terme consentis par le crédit national et effectivement utilisés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1981-09-15  art. 4 JORF 18 septembre 1981 : devenu sans
-	  - HISTO: EDITION 1979-07-01
-	  - HISTO: objet)
-
-	**Cite**:
-
-	  - CGIAN4 2
-
 
 ###### Article 4 C bis
 
