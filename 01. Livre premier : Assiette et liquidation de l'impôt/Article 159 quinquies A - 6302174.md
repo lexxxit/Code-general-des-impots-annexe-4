@@ -4,23 +4,23 @@ I. Les contrats d'assurances sur lesquels est assise la contribution prévue aux
 impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
 branches 3 à 9 de l'article R. 321-1 du code des assurances.
 
-II. Le taux de la contribution est fixé, ((à compter du 1er février 1995 à 10 F par contrat)) (1). Les sommes correspondantes
-sont perçues par les entreprises d'assurances à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre
-((le 1er février 1995 et le 31 décembre 1995)) (1).
+II. Le taux de la contribution est fixé, ((pour 1996, à 15 F)) (M) par contrat. Les sommes correspondantes sont perçues par
+les entreprises d'assurances à l'occasion de l'émission des primes ou cotisations recouvrées par elles ((entre le 1er janvier
+1996 et le 31 décembre 1996)) (M).
 
-**Nota:**
+(M) Modifications de l'arrêté 1995-11-02.
 
-(1) Modification de l'arrêté.
+[*Cf. arrêté du 25 octobre 1996, JO du 5 novembre.*]
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1994-11-29 art. 2 JORF 30 novembre 1994
+	  - Arrêté 1995-11-02 art. 1 JORF 4 novembre 1995
 
 	**Codifié par**:
 
-	  - Arrêté 1995-12-11
+	  - Arrêté 1996-06-21
 
 	**Cite**:
 
@@ -30,4 +30,5 @@ sont perçues par les entreprises d'assurances à l'occasion de l'émission des 
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_ASSOCIE: Instruction 1996-11-08 7K-3-96

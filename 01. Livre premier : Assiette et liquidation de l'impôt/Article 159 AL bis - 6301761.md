@@ -1,20 +1,19 @@
 # Article 159 AL bis
 
-Le taux de la taxe prévu à l'article 345 de l'annexe II au code général des impôts est fixé à 0,70 p.
-100.                          
+Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé à ((0,20 % jusqu'au 31 décembre
+1996)) (M).
 
-Le produit de la taxe est versé à un compte courant ouvert au nom du comité professionnel de développement de l'horlogerie à
-la paierie générale du Trésor.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1991-12-31 art. 1 JORF 9 janvier 1991
+	  - Arrêté 1996-02-22 art. 1 JORF 24 février 1996
 
 	**Codifié par**:
 
-	  - Arrêté 1992-08-27
+	  - Arrêté 1996-06-21
 
 	**Cite**:
 
@@ -22,4 +21,4 @@ la paierie générale du Trésor.
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 12 mai 1996

@@ -6,19 +6,15 @@ autres billets et portant imprimé le montant du supplément encaissé.
 
 La mention du supplément de prix ne concerne pas les billets d'entrée dans les salles de spectacles cinématographiques.
 
-Si, après la délivrance d'un billet édité par une caisse automatisée dans les conditions prévues à l'article 50 sexies B, un
-spectateur désire changer de catégorie de place, il doit être procédé à l'annulation de son billet et à la délivrance d'un
-nouveau billet correspondant à la place qu'il souhaite occuper.
+Si, après la délivrance d'un billet édité par une caisse automatisée ou un système informatisé dans les conditions prévues à
+l'article 50 sexies B, un spectateur désire changer de catégorie de place, il doit être procédé à l'annulation de son billet
+et à la délivrance d'un nouveau billet correspondant à la place qu'il souhaite occuper.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1986-03-14 art. 2 JORF 19 mars 1986
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
+	  - Arrêté 1996-03-04 art. 2 JORF 28 mars 1996
 
 	**Cite**:
 
@@ -26,4 +22,4 @@ nouveau billet correspondant à la place qu'il souhaite occuper.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 12 mai 1996
