@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1984-07-24
+Version Consolidée au 1984-11-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14422,25 +14422,21 @@ impôts est fixé à 40 F par tonne.
 
 Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général des impôts est fixé comme suit (1) :
 
-0,47 F par quintal de fruits à cidre et à poiré;
+0,52 F par quintal de fruits à cidre et à poiré;
 
-0,62 F par hectolitre de cidre et de poiré ou par hectolitre de de moûts de pommes ou de poires ;
+0,68 F par hectolitre de cidre et de poiré ou par hectolitre de de moûts de pommes ou de poires ;
 
-11,88 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre ou de poiré;
+13,07 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre ou de poiré;
 
-11,88 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré réservés à l'Etat.
+13,07 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré réservés à l'Etat.
 
 (1) Taux applicables à compter du 1er septembre 1983.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1983-12-12 art. 1 JORF 16 décembre 1983
-
 	**Codifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1985-09-24
 
 	**Cite**:
 
