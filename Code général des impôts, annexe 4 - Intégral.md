@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1988-03-15
+Version Consolidée au 1988-03-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
