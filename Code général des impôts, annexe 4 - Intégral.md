@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1991-08-24
+Version Consolidée au 1991-10-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17201,30 +17201,31 @@ intérêt.
 
 1. La retenue opérée par les agences ou succursales des établissements de crédit peut faire l'objet de versements globaux.
 Dans ce cas l'organisme centralisateur dresse et conserve pour chaque versement un état faisant apparaître le montant des
-sommes versées pour le compte de chacune des agences ou succursales. Les liasses visées à l'article 17 A-3 sont conservées
-soit par l'organisme centralisateur soit par l'agence ou succursale.
+sommes versées pour le compte de chacune des agences ou succursales. Les liasses visées au 3 de l'article 17 A sont
+conservées soit par l'organisme centralisateur soit par l'agence ou succursale.
 
 2. La possibilité d'effectuer des versements globaux est subordonnée au dépôt d'une déclaration à la direction des services
 fiscaux de la résidence de l'organisme centralisateur. Cette déclaration  établie sur papier libre  est signée de la personne
-habilitée à engager l'établissement  justifiant de son identité et de l'étendue de ses pouvoirs et contient [*mentions*] la
-désignation de chacune des agences ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu
-où seront conservées les liasses visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle
-déclaration souscrite dans les mêmes formes. Chaque déclaration prend effet dès le versement afférent au trimestre civil en
-cours si elle intervient plus d'un mois avant l'expiration de ce trimestre.
+habilitée à engager l'établissement justifiant de son identité et de l'étendue de ses pouvoirs et contient la désignation de
+chacune des agences ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu où seront
+conservées les liasses visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle
+déclaration souscrite dans les mêmes formes. Chaque déclaration prend effet dès le versement afférent au mois au cours duquel
+elle intervient.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1991-10-28 art. 1 JORF 29 octobre 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1991-10-28 art. 2
+	  - HISTO: Edition du 4 juillet 1992
 
 	**Cite**:
 
 	  - CGIAN4 17 A 3
-
-	**Modifié par**:
-
-	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 	**Cité par**:
 
@@ -17374,14 +17375,16 @@ Ces obligations cautionnées donnent lieu au paiement d'une remise spéciale fix
 
 ###### Article 196 A
 
-A l'appui de chacun des versements bimestriels effectués au titre de la taxe sur les conventions d'assurances  les assureurs
-doivent fournir une déclaration rédigée sur des formules mises à leur disposition par l'administration [*obligation*].
+A l'appui de chacun des versements mensuels effectués au titre de la taxe sur les conventions d'assurances, les assureurs
+doivent fournir une déclaration rédigée sur des formules mises à leur disposition par l'administration (1).
+
+(1) Ces dispositions s'appliquent aux versements effectués à partir du 1er décembre 1991.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Arrêté 1991-10-28 art. 2, art. 3 JORF 29 octobre 1991
 
 
 #### 2 : Paiement en valeurs du Trésor.
