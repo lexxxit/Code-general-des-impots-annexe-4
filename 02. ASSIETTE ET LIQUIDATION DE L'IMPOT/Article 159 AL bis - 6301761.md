@@ -1,18 +1,18 @@
 # Article 159 AL bis
 
-Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1985 à 0,95
-% dont 0,70 % affecté au comité professionnel de développement de l'horlogerie et 0,25 % affecté au centre technique de
-l'industrie horlogère.
+Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1986 [*date
+limite*] à 0,80 %[*pourcentage*] dont 0,55 % affecté au comité professionnel de développement de l'horlogerie et 0,25 %
+affecté au centre technique de l'industrie horlogère.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1984-11-19 art. 1 JORF 20 novembre 1984
+	  - Arrêté 1986-02-04 art. 1 JORF 6 février 1986
 
 	**Codifié par**:
 
-	  - Arrêté 1985-09-24
+	  - Arrêté 1986-10-07
 
 	**Cite**:
 
