@@ -1,34 +1,87 @@
 # Article 50 quindecies
 
 Le montant de la somme à déposer en vue de la délivrance du récépissé de consignation prévu à l'article 302 octies du code
-général des impôts est fixé aux chiffres indiqués ci-après :
+général des impôts est fixé aux chiffres indiqués ci-après : 
 
-CARACTERISTIQUES DE L'ACTIVITE : Activité de vente de marchandises ou de prestations de services exercée sans vehicule
+<table>
+  <tbody>
+    <tr>
+      <td width="529">
 
-MONTANT de la somme à consigner (en francs) 1000.
+CARACTÉRISTIQUES DE L'ACTIVITÉ 
 
-CARACTERISTIQUES DE L'ACTIVITE : Majoration pour utilisation d'un véhicule
+</td>
+      <td width="151">
 
-MONTANT de la somme à consigner (en francs) 500.
+MONTANT 
 
-CARACTERISTIQUES DE L'ACTIVITE :
+de la somme à consigner 
 
-Majoration pour utilisation de deux vehicules
+(en euros) 
 
-MONTANT de la somme à consigner (en francs) 1000.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
 
-CARACTERISTIQUES DE L'ACTIVITE :
+Activité de vente de marchandises ou de prestations de services exercée sans véhicule 
 
-Majoration pour utilisation de plus de deux vehicules
+</td>
+      <td valign="top" width="151">
 
-MONTANT de la somme à consigner (en francs) 2000.
+150 
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+Majoration pour utilisation d'un véhicule 
+
+</td>
+      <td width="151" valign="top">
+
+76 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+Majoration pour utilisation de deux véhicules 
+
+</td>
+      <td valign="top" width="151">
+
+150 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+Majoration pour utilisation de plus de deux véhicules 
+
+</td>
+      <td valign="top" width="151">
+
+300
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 302 octies
-
 	**Modifié par**:
 
-	  - arrêté 1986-08-08 art. 1 JORF 15 août 1986, en vigueur le 1er septembre 1986
+	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 octies (V)

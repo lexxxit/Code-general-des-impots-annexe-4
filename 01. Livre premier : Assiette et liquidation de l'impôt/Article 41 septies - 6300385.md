@@ -57,7 +57,7 @@ a) Le numéro et la date de la facture ;
 b) La date et l'heure de constitution du message ;
 
 c) Les montants hors taxes et toutes taxes de la transaction ainsi que le code monnaie lorsque la facture n'est pas libellée
-en francs français ;
+en euros ;
 
 d) Les éléments d'identification de l'émetteur ou du récepteur donnés par le système de télétransmission (code, nom ou
 dénomination sociale, numéro SIRET, adresse, qualité de fournisseur ou de client) ;
@@ -97,15 +97,16 @@ organique et l'exploitation du logiciel de télétransmission.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1999-05-03 art. 1 JORF 4 mai 1999
+	  - Arrêté 2001-09-03 art. 2 II JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
+	  - HISTO: Edition du 31 mars 2002
+	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
 
 	**Cite**:
 
 	  - CGI 289 bis
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99

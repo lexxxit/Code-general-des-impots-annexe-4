@@ -5,10 +5,10 @@ Il est statué sur les demandes d'agrément présentées pour l'application des 
 1° Par le ministre chargé du budget, après avis du comité interministériel des aides à la localisation des activités institué
 par l'article 1er de l'arrêté du 10 juillet 1982 :
 
-a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 50 millions de francs
-d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à un milliard de francs
-ou dont le capital est détenu à plus de 50 p. 100 par une entreprise dont le chiffre d'affaires consolidé dépasse un milliard
-de francs ;
+a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 7,6 millions d'euros
+d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à cent cinquante
+millions d'euros ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse
+cent cinquante millions d'euros ;
 
 b. Pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
 
@@ -28,12 +28,12 @@ de contrôle fiscal dans le ressort de laquelle est situé l'établissement.
 
 	**Modifié par**:
 
-	  - Arrêté 2000-08-31 art. 2 JORF 3 septembre 2000
+	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
-	  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
-	  - HISTO: Edition du 31 mars 2001
+	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
+	  - HISTO: Edition du 31 mars 2002
 	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 	**Cité par**:

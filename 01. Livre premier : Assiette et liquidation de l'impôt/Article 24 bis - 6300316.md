@@ -1,19 +1,19 @@
 # Article 24 bis
 
 En application du d du 2° du I de l'article 262 du code général des impôts, est exonérée la livraison qui porte sur des biens
-acquis dans le même magasin et dont la valeur globale, taxe sur la valeur ajoutée comprise, excède 1.200 F.
+acquis dans le même magasin et dont la valeur globale, taxe sur la valeur ajoutée comprise, excède 175 euros.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1996-01-25 art. 1 JORF 28 janvier 1996
+	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cite**:
 
 	  - CGI 262
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-	  - TXT_ASSOCIE: Instruction 1997-01-22 3A-1-97

@@ -1,6 +1,6 @@
 # Article 41 sexies
 
-I. Les modalités de dérogation prévues au deuxième alinéa du I de l'article 96 K de l'annexe III au code général des impôts
+I. Les modalités de dérogation prévues au cinquième alinéa du I de l'article 96 K de l'annexe III au code général des impôts
 sont les suivantes :
 
 Ne sont pas tenues d'utiliser les formulaires CERFA mentionnés audit article 96 K pour satisfaire à leurs obligations en
@@ -16,13 +16,17 @@ conformité du document.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
-
 	**Codifié par**:
 
-	  - Arrêté 2001-05-21
+	  - Arrêté 2002-06-06
+
+	**Modifié par**:
+
+	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
+
+	**Abrogé par**:
+
+	  - Arrêté du 16 décembre 2010 - art. 1
 
 	**Cite**:
 
@@ -30,4 +34,4 @@ conformité du document.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 31 mars 2002

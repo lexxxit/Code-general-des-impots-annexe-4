@@ -2,56 +2,279 @@
 
 Le tarif de la redevance sanitaire d'abattage s'établit comme suit (par carcasse abattue) :
 
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2" width="529">
+
+</td>
+      <td width="151">
+
+EN EUROS
+
+</td>
+    </tr>
+    <tr>
+      <td width="151">
+
+Par carcasse abattue
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
 a) Animaux de boucherie :
 
-Pour les gros bovins : 27 Francs.
+</td>
+      <td width="151" valign="top">
 
-Pour les veaux : 11 Francs.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
 
-Pour les solipèdes domestiques : 20 Francs.
+Pour les gros bovins
+
+</td>
+      <td valign="top" width="151">
+
+4,12
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+Pour les veaux
+
+</td>
+      <td width="151" valign="top">
+
+1,68
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+Pour les solipèdes domestiques
+
+</td>
+      <td valign="top" width="151">
+
+3,05
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
 
 Pour les ovins et caprins :
 
-- d'un poids carcasse inférieur à 12 kilogrammes : 0,90 Francs.<rl kilogrammes="" d'un="" poids="" :="" carcasse="" de=""
-ou="" 1,55="" -="" 12="" <br="" francs.="" plus="">
+</td>
+      <td width="151" valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+- d'un poids carcasse inférieur à 12 kilogrammes
+
+</td>
+      <td width="151" valign="top">
+
+0,14
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+- d'un poids carcasse de 12 kilogrammes ou plus
+
+</td>
+      <td width="151" valign="top">
+
+0,24
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
 
 Pour les porcins :
 
-- d'un poids carcasse inférieur à 25 kilogrammes : 2,50 Francs.
+</td>
+      <td width="151" valign="top">
 
-- d'un poids carcasse de 25 kilogrammes ou plus : 5,15 Francs.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+- d'un poids carcasse inférieur à 25 kilogrammes
+
+</td>
+      <td valign="top" width="151">
+
+0,38
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+- d'un poids carcasse de 25 kilogrammes ou plus
+
+</td>
+      <td valign="top" width="151">
+
+0,79
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
 
 b) Volailles et lapins :
 
-Pour les volailles du genre Gallus et les pintades : 0,03 Francs.
+</td>
+      <td width="151" valign="top">
 
-Pour les canards et les oies : 0,059 Franc.
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
 
-Pour les dindes : 0,117 Franc.
+Pour les volailles du genre Gallus et les pintades
 
-Pour les lapins domestiques : 0,03 Franc.
+</td>
+      <td valign="top" width="151">
+
+0,0046
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+Pour les canards et les oies
+
+</td>
+      <td valign="top" width="151">
+
+0,01
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+Pour les dindes
+
+</td>
+      <td valign="top" width="151">
+
+0,02
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+Pour les lapins domestiques
+
+</td>
+      <td width="151" valign="top">
+
+0,0046
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
 
 c) Gibier d'élevage et sauvage :
 
-Pour le petit gibier à plumes : 0,03 Franc.
+</td>
+      <td width="151" valign="top">
 
-Pour le petit gibier à poils : 0,059 Franc.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
 
-Pour les ratites (autruche, émeu, nandou : 0,26 Franc.
+Pour le petit gibier à plumes
 
-Pour le sanglier : 8,50 Francs.
+</td>
+      <td valign="top" width="151">
 
-Pour les ruminants : 3 Francs.
+0,0046
 
-</rl>
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+Pour le petit gibier à poils
+
+</td>
+      <td valign="top" width="151">
+
+0,01
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+Pour les ratites (autruche, émeu, nandou)
+
+</td>
+      <td valign="top" width="151">
+
+0,04
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+Pour le sanglier
+
+</td>
+      <td width="151" valign="top">
+
+1,30
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+Pour les ruminants
+
+</td>
+      <td valign="top" width="151">
+
+0,46
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-09-17 art. 1 JORF 21 septembre 1999 en vigueur le 1er octobre 1999
+	  - Arrêté 2001-12-19 art. 1 JORF 23 décembre 2001 en vigueur le 1er janvier 2002
+	  - Règlement CE 1103/97 1997-06-17 art. 5 en vigueur le 1er janvier 2002
+	  - Règlement CE 2866/98 1998-12-31 art. 1 JOCE 31 décembre 1998 en vigueur le 1er janvier 2002
+	  - Règlement CE 974/98 1998-05-03 art. 14 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
-	  - SPEC_APPLI: Arrêté 1999-09-17 art. 3
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002

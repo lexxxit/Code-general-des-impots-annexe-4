@@ -1,13 +1,13 @@
-# Article 159 AM bis
+# Article 50 quaterdecies-0 A bis
 
-Le taux de la taxe mentionnée à l'article 361 bis de l'annexe II au code général des impôts est fixé à 0,74 euro par
-hectolitre de vin.
+Le tarif de la redevance sanitaire de transformation des produits de la pêche et de l'aquaculture est fixé à 0,46 euro par
+tonne.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Créé par**:
 
-	  - CGIAN2 361 bis
+	  - Arrêté 2000-05-09 art. 2 JORF 12 mai 2000 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
