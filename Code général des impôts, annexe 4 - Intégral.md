@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1984-07-20
+Version Consolidée au 1984-07-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4747,6 +4747,34 @@ d'abus.
 	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
 
 
+#### Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine
+
+##### 2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations.
+
+###### Article 56 J quater
+
+La déclaration mentionnée à l'article 56 J ter est souscrite en double exemplaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1984-07-17 art. 2 JORF 24 juillet 1984
+
+	**Abrogé par**:
+
+	  - Arrêté 2004-07-08 art. 1 JORF 17 juillet 2004
+
+	**Cite**:
+
+	  - CGIAN4 56 J ter
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 août 2004
+
+
 #### Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer.
 
 ###### Article 56 A ter
@@ -5578,6 +5606,36 @@ demande motivée à la direction des services fiscaux de leur département.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine.
+
+###### Article 56 J ter
+
+La date limite à laquelle les redevables du droit de garantie doivent remettre ou envoyer à la recette des impôts de
+rattachement du bureau de garantie dont ils dépendent la déclaration prévue à l'article 521 du code général des impôts est
+fixée comme suit :
+
+1° Pour les entreprises individuelles, avant le 10 du mois suivant ;
+
+2° Pour les sociétés à responsabilité limitée [*SARL*] et les sociétés en nom collectif [*SNC*], avant le 15 du mois
+suivant ;
+
+3° Pour les autres sociétés, avant le 20 du mois suivant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1984-07-17 art. 1 JORF 24 juillet 1984
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGI 521
 
 
 #### Chapitre I quinquies : Céréales
