@@ -4,8 +4,8 @@ Les substances minérales solides dont l'extraction peut donner droit  par appli
 B-1 du code général des impôts  à la constitution de provisions pour reconstitution de gisements dans les conditions prévues
 par les articles 10 C quinquies à 10 G de l'annexe III au code précité  sont les suivantes :
 
-Minerai d'aluminium, amiante, minerai d'andalousite, antimoine, minerai d'argent, argiles réfractaires kaoliniques, minerai
-d'arsenic, barytine, minerai de béryllium, minerai de bismuth, minerai de bore, minerai de chrome, minerai de cobalt,
+Minerai d'aluminium, amiante, minerai d'andalousite, antimoine, ardoise, minerai d'argent, argiles réfractaires kaoliniques,
+minerai d'arsenic, barytine, minerai de béryllium, minerai de bismuth, minerai de bore, minerai de chrome, minerai de cobalt,
 colombotantalite, minerai de cuivre, minerai d'étain, fluorine, kaolin, minerai de lithium, minerai de manganèse, mica,
 minerai de molybdène, minerai de nickel, minerai d'or, phosphates, minerai de platine et de la mine du platine, minerai de
 plomb même non associé au zinc, potasse, pyrites, minerais radioactifs, silice pour l'industrie, minerai de soufre, talc,
@@ -22,13 +22,19 @@ s'entend des matériaux naturels présentant une teneur sur produit sec d'au moi
 
 	**Modifié par**:
 
-	  - Arrêté 1987-07-29 art. 1 JORF 8 août 1987
+	  - Arrêté 1990-01-25 art. 1 JORF 1er février 1990
 
 	**Codifié par**:
 
-	  - Arrêté 1987-11-23
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
+	  - Arrêté 1990-10-31
 	  - CGI 39 ter B 1
-	  - CGIAN3 10 C quinquies A CGIAN3 10 G
+	  - CGIAN3 10 C quinquies à CGIAN3 10 G
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1990-10-31 art. 1 JORF 8 novembre 1990
+	  - HISTO: é

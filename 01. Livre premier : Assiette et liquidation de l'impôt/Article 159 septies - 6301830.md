@@ -6,17 +6,17 @@ suit :
 Désignation :
 
 Véhicules automobiles de transport de marchandises dont le P.A.T.C. (1) est égal ou supérieur à 3,5 tonnes et inférieur à 6
-tonnes Pour la période du 1er janvier au 31 décembre 1989 : 310 F
+tonnes A compter du 1er janvier 1990 : 380 F
 
 Désignation :
 
 Véhicules automobiles de transport de marchandises dont le P.A.T.C.   est égal ou supérieur à 6 tonnes et inférieur à 11
-tonnes Pour la période du 1er janvier au 31 décembre 1989 : 463 F 
+tonnes Pour la période du 1er janvier au 31 décembre 1989 : 573 F 
 
 Désignation :
 
 Véhicules automobiles de transport de marchandises dont le P.A.T.C. est égal  ou supérieur à 11 tonnes Tracteurs routiers
-Véhicules de transport en commun de voyageurs Pour la période du 1er janvier au 31 décembre 1989 : 695 F
+Véhicules de transport en commun de voyageurs Pour la période du 1er janvier au 31 décembre 1989 : 855 F.
 
 (1) Poids total autorisé en charge.
 
@@ -24,11 +24,11 @@ Véhicules de transport en commun de voyageurs Pour la période du 1er janvier a
 
 	**Modifié par**:
 
-	  - Arrêté 1988-12-21 art. 1 JORF 29 décembre 1988, incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1989-12-26 art. 1 JORF 29 décembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 

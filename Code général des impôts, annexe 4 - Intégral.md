@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1990-06-08
+Version Consolidée au 1990-06-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -124,81 +124,6 @@ spécial institué pour la mise en oeuvre des mesures individuelles d'encouragem
 
 	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
 	  - HISTO: Edition du 31 mars 2001
-
-
-##### 0II : Amortissement exceptionnel des constructions nouvelles.
-
-###### Article 04
-
-Les zones dans lesquelles les entreprises qui bénéficient de l'exonération temporaire de taxe professionnelle prévue par
-l'article 1465 du code général des impôts peuvent pratiquer sans agrément l'amortissement exceptionnel des constructions
-neuves mentionné à l'article 39 quinquies D du même code sont celles délimitées à l'annexe I de l'arrêté du 24 novembre 1980
-(1) et les départements d'outre-mer. Toutefois, les entreprises relevant du secteur des industries agricoles et alimentaires
-qui procèdent, hors du bassin parisien et de la région lyonnaise définis à l'annexe IV du même arrêté, à la création ou à
-l'extension d'installations industrielles peuvent également bénéficier de l'amortissement exceptionnel.
-
-(1) JO du 7 décembre 1980.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1980-11-24 annexe I, annexe IV
-	  - CGI 1465
-	  - CGI 39 quinquies D
-
-	**Créé par**:
-
-	  - Arrêté 1980-11-24 art. 3 JORF 7 décembre 1980
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1990-09-10 art. 1 JORF 11 septembre 1990
-	  - HISTO: décembre 1980)
-
-
-###### Article 05
-
-I. Lorsqu'il n'est pas applicable de plein droit en vertu de l'article 32 B de l'annexe II au code général des impôts,
-l'amortissement exceptionnel de 25 p. 100 prévu à l'article 39 quinquies D de ce code peut être accordé sur agrément aux
-entreprises exploitantes qui font édifier, à l'occasion de l'une des opérations mentionnées à l'article 1465 du même code et
-pour l'exercice de leur activité professionnelle, des constructions neuves dans les zones délimitées à l'annexe I de l'arrêté
-du 24 novembre 1980 (1) et dans les départements d'outre-mer. Les entreprises relevant du secteur des industries agricoles et
-alimentaires qui procèdent, hors des zones définies à l'annexe IV de l'arrêté précité, à la création ou à l'extension
-d'installations industrielles peuvent également bénéficier de l'amortissement exceptionnel.
-
-II. Les conditions d'emploi et d'investissement sont les mêmes que celles qui seraient exigées pour l'octroi de l'exonération
-temporaire de taxe professionnelle à l'opération en cause.
-
-III. L'autorisation de pratiquer l'amortissement exceptionnel peut, compte tenu des modalités d'exécution de l'opération,
-être limitée à une partie du programme de construction de l'entreprise.
-
-(1) J.O. du 7 décembre 1980.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1980-11-24 annexe I, annexe IV
-	  - CGI 1465
-	  - CGI 39 quinquies D
-	  - CGIAN2 32 B
-
-	**Créé par**:
-
-	  - Arrêté 1983-12-16 art. 6, art. 7, art. 8 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1990-09-10 art. 1 JORF 11 septembre 1990
 
 
 ##### I : Provisions pour fluctuation des cours
@@ -618,8 +543,8 @@ Les substances minérales solides dont l'extraction peut donner droit  par appli
 B-1 du code général des impôts  à la constitution de provisions pour reconstitution de gisements dans les conditions prévues
 par les articles 10 C quinquies à 10 G de l'annexe III au code précité  sont les suivantes :
 
-Minerai d'aluminium, amiante, minerai d'andalousite, antimoine, minerai d'argent, argiles réfractaires kaoliniques, minerai
-d'arsenic, barytine, minerai de béryllium, minerai de bismuth, minerai de bore, minerai de chrome, minerai de cobalt,
+Minerai d'aluminium, amiante, minerai d'andalousite, antimoine, ardoise, minerai d'argent, argiles réfractaires kaoliniques,
+minerai d'arsenic, barytine, minerai de béryllium, minerai de bismuth, minerai de bore, minerai de chrome, minerai de cobalt,
 colombotantalite, minerai de cuivre, minerai d'étain, fluorine, kaolin, minerai de lithium, minerai de manganèse, mica,
 minerai de molybdène, minerai de nickel, minerai d'or, phosphates, minerai de platine et de la mine du platine, minerai de
 plomb même non associé au zinc, potasse, pyrites, minerais radioactifs, silice pour l'industrie, minerai de soufre, talc,
@@ -636,16 +561,22 @@ s'entend des matériaux naturels présentant une teneur sur produit sec d'au moi
 
 	**Modifié par**:
 
-	  - Arrêté 1987-07-29 art. 1 JORF 8 août 1987
+	  - Arrêté 1990-01-25 art. 1 JORF 1er février 1990
 
 	**Codifié par**:
 
-	  - Arrêté 1987-11-23
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
+	  - Arrêté 1990-10-31
 	  - CGI 39 ter B 1
-	  - CGIAN3 10 C quinquies A CGIAN3 10 G
+	  - CGIAN3 10 C quinquies à CGIAN3 10 G
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1990-10-31 art. 1 JORF 8 novembre 1990
+	  - HISTO: é
 
 
 ##### III bis : Provision pour prêts d'installation consentis par les entreprises à leurs salariées.
@@ -1752,59 +1683,61 @@ l'établissement payeur, le mois auquel s'appliquent les relevés et le nombre d
 ###### Article 17
 
 Les payeurs doivent s'organiser de façon que l'administration puisse vérifier dans leurs écritures l'exactitude des diverses
-mentions figurant sur les relevés par eux fournis. Ils doivent conserver  jusqu'à l'expiration du délai prévu à l'article L.
-82 du livre des procédures fiscales les pièces livres ou documents qui ne seraient pas soumis à un délai de conservation plus
+mentions figurant sur les relevés par eux fournis. Ils doivent conserver selon les modalités prévues au I de l'article L. 102
+B du livre des procédures fiscales, les pièces livres ou documents qui ne seraient pas soumis à un délai de conservation plus
 étendu en vertu des dispositions légales en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI L82
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
 
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L102 B (VT)
+
 
 ###### Article 17 A
 
 1. Toute opération portant sur des coupons ou instruments représentatifs de coupons d'actions et parts sociales de sociétés
-françaises  qui fait l'objet du relevé prévu à l'article 57 de l'annexe II au code général des impôts  donne lieu à
+françaises qui fait l'objet du relevé prévu à l'article 57 de l'annexe II au code général des impôts donne lieu à
 l'établissement d'un document comportant l'indication de l'identité et du domicile réel ou du siège social du bénéficiaire
-ainsi que de la pièce éventuellement présentée pour en justifier  la désignation des valeurs mobilières dont procèdent les
-revenus payés et le décompte des sommes mises en paiement avec l'indication  le cas échéant  de la retenue opérée au profit
-du Trésor.
+ainsi que de la pièce éventuellement présentée pour en justifier, la désignation des valeurs mobilières dont procèdent les
+revenus payés et le décompte des sommes mises en paiement avec l'indication, le cas échéant, de la retenue opérée au profit
+du Trésor. 
 
-2. (Devenu sans objet).
+2. (Devenu sans objet). 
 
 3. Les pièces établies sont réunies en deux liasses relatives l'une aux paiements faits à des personnes ayant en France leur
 domicile réel ou leur siège social et l'autre aux paiements faits à des personnes domiciliées ou ayant leur siège hors de
-France [*à l'étranger*].
+France. 
 
-4. Ces liasses ainsi que l'état visé à l'article 188 H sont conservés à la disposition de l'administration pendant le délai
-prévu à l'article L. 82 du livre des procédures fiscales.
+4. Ces liasses ainsi que l'état visé à l'article 188 H sont conservés à la disposition de l'administration selon les
+modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGI L82
-	  - CGIAN2 57
-	  - CGIAN2 58
-	  - CGIAN4 188 H
+	  - Arrêté 1990-09-10
 
 	**Modifié par**:
 
-	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 57 (V)
+	  - Livre des procédures fiscales - art. L102 B (VT)
 
 	**Cité par**:
 
@@ -1880,20 +1813,21 @@ ainsi que la pièce éventuellement présentée pour en justifier.
 ###### Article 17 D
 
 Les documents  états et pièces tenus ou établis en application des articles 17 B, 17 C et 188 I sont conservés à la
-disposition de l'administration pendant le délai visé à l'article L. 82 du livre des procédures fiscales.
+disposition de l'administration selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
 
-	**Cite**:
+	**Liens**:
 
-	  - CGI L82
-	  - CGIAN4 17 B
-	  - CGIAN4 17 C
-	  - CGIAN4 188 I
+	  - HISTO: Edition du 15 juin 1990
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ##### Section III bis : Revenu global
@@ -1948,6 +1882,8 @@ laquelle il peut bénéficier de la réduction d'impôt (1).
 
 ##### 0II : Dépenses destinées à économiser l'énergie utilisée pour le chauffage
 
+##### Dépenses payées du 1er janvier 1982 au 31 décembre 1986.
+
 ###### Article 17 H
 
 La liste des dépenses destinées à économiser l'énergie ouvrant droit à la réduction d'impôt prévue à l'article 199 sexies du
@@ -2000,6 +1936,14 @@ Pose de joints d'étanchéité ;
 Fourniture et pose d'échangeurs de chaleur.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
 
 	**Cite**:
 
@@ -2089,9 +2033,13 @@ performance énergétique et d'un label solaire.
 	  - Arrêté 1983-07-05
 	  - CGI 199 sexies 2° b
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 1985-07-11 art. 3, art. 4 JORF 4 août 1985
+	  - Arrêté 1990-09-10
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
 
 
 ###### Article 17 J
@@ -2107,16 +2055,16 @@ liste établie sous la responsabilité de l'administration ou de ces organismes 
 
 	**Codifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1991-09-09
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
 
 	**Cite**:
 
 	  - CGIAN4 17 H
 	  - CGIAN4 17 I
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
 
 
 ###### Article 17 K
@@ -2129,17 +2077,17 @@ opérations visées aux articles 17 H et 17 I ne peuvent ouvrir droit à la réd
 
 	**Codifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1991-09-09
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
 
 	**Cite**:
 
-	  - CGI 17 H
-	  - CGI 17 I
-	  - CGI 17 J
-
-	**Modifié par**:
-
-	  - Loi n°83-179 1983-12-29 art. 3 I Finances pour 1984 JORF 30 décembre 1983
+	  - CGIAN4 17 H
+	  - CGIAN4 17 I
+	  - CGIAN4 17 J
 
 
 ###### Article 17 L
@@ -2199,9 +2147,142 @@ demande du service des impôts, les factures et documents administratifs visés 
 	  - CGIAN4 17 I 6
 	  - CGIAN4 17 J
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 1985-07-11 art. 5 JORF 4 août 1985
+	  - Arrêté 1991-09-09
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
+
+
+##### 1° : Dépenses payées du 1er janvier 1990 au 31 décembre 1995.
+
+###### Article 17 M
+
+La liste des dépenses d'isolation thermique ouvrant droit à réduction d'impôt dans les conditions prévues au paragraphe III
+de l'article 199 sexies C du code général de impôts est fixée comme suit :
+
+1. Isolation thermique des parois opaques
+
+Isolation thermique des parois suivantes : planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert ; toitures
+sur combles, toitures-terrasses ; murs en façade ou en pignon.
+
+Isolation thermique des portes extérieures.
+
+Les matériaux isolants utilisés à cet effet doivent faire l'objet d'un marquage attestant qu'ils bénéficient de la
+certification Acermi, ou d'une certification équivalente agréée par le ministre de l'industrie et de l'aménagement du
+territoire, garantissant des performances et des modalités de contrôle équivalentes.
+
+2. Isolation thermique des parois vitrées
+
+Fourniture et pose de vitrages isolants, châssis de fenêtres à étanchéité renforcée lorsque leur installation est rendue
+nécessaire par la mise en place de vitrages isolants.
+
+Les vitrages isolants utilisés à cet effet doivent faire l'objet d'un marquage attestant qu'ils bénéficient de la
+certification Cekal, ou d'une certification équivalente agréée par le ministre de l'industrie et de l'aménagement du
+territoire, garantissant des performances et des modalités de contrôle équivalentes.
+
+Fourniture et pose de survitrages, doubles fenêtres.
+
+3. Autres travaux d'isolation thermique
+
+Fourniture et pose de volets isolants caractérisés par une résistance thermique supérieure à 0,30 W/m2 °C et par une bonne
+étanchéité à l'air (présence de joints).
+
+Fourniture et pose de joints d'étanchéité autres que les bourrelets adhésifs et joints collés en mousses diverses.
+
+Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1990-04-17 art. 1 a, b, c JORF 25 avril 1990
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cite**:
+
+	  - CGI 199 sexies III
+
+
+###### Article 17 N
+
+Les dépenses ouvrant droit à la réduction d'impôt définies à l'article 17 M s'entendent sous déduction des subventions,
+primes ou aides accordées à ce titre aux contribuables. Les frais occasionnés par les travaux accessoires aux opérations
+visées au même article ne sont pas pris en compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1990-04-17 art. 2 JORF 25 avril 1990
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cite**:
+
+	  - CGIAN4 17 N
+
+
+###### Article 17 O
+
+1. Pour bénéficier des réductions d'impôt au titre de dépenses d'isolation thermique, les contribuables doivent joindre à
+leur déclaration de revenus les factures délivrées par les fournisseurs et installateurs des matériels et matériaux visés à
+l'article 17 M.
+
+Ces factures doivent mentionner :
+
+l'identité et l'adresse du client ;
+
+le prix des travaux et des fournitures ouvrant droit aux réductions d'impôt et la date du paiement ;
+
+la nature et la marque des matériels et matériaux ;
+
+la référence Acermi ou Cekal et, en cas de pose de volets isolants, l'attestation du fournisseur, certifiant que les
+matériels installés satisfont aux exigences techniques définies au 3c de l'article 17 M.
+
+2. Dans le cas des immeubles en copropriété, chacun des copropriétaires est admis à bénéficier de la réduction d'impôt pour
+la quote-part correspondant à sa participation aux charges communes, des dépenses définies à l'article 17 M exposées par le
+syndicat des copropriétaires. Cette quote-part est justifiée par une attestation du syndic ; ce dernier doit en outre
+produire, à la demande du service des impôts, les factures visées au 1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1990-04-17 art. 3 a, b JORF 25 avril 1990
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cite**:
+
+	  - CGIAN4 17 M
 
 
 ##### II : Monuments historiques. Charges déductibles
@@ -3053,39 +3134,6 @@ excéder 60 %, ni être e inférieure à 50 % de la valeur libératoire des titr
 
 ##### I bis : Opérations imposables sur option
 
-###### Article 23 O
-
-La liste des rémunérations assimilables à des intérêts ou agios pour l'application des dispositions de l'article 260 C-5° du
-code général des impôts est établie comme suit :
-
-commission du plus fort découvert;
-
-commission d'endos;
-
-commission d'attente  d'engagement  d'ouverture ou de confirmation de crédit;
-
-commission de caution  d'aval ou de ducroire;
-
-commission d'acceptation;
-
-commission de garantie de placement d'obligations ou de bonne fin d'augmentation de capital;
-
-commission de garantie de bonne fin d'opérations immobilières;
-
-frais de gestion réglementés perçus par les sociétés de crédit différé;
-
-perceptions forfaitaires prévues à l'article 1er  troisième alinéa  de la loi n° 66-1010 du 28 décembre 1966 ;
-
-rémunération perçue par l'intermédiaire placeur d'emprunts émis par voie d'adjudication.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 260 C 5°
-	  - Loi n°66-1010 1966-12-28 ART. 1 AL. 3
-
-
 ###### Article 23 P
 
 La liste des opérations bancaires afférentes au financement d'exportations ou d'affaires faites hors de France prévue à
@@ -3118,27 +3166,30 @@ achats fermes aux exportateurs français de créances sur clients étrangers.
 	  - HISTO: EDITION 1979-07-01
 
 
-##### II : Opérations exonérées
+##### Opérations exclues de l'imposition sur option
 
-##### Biens usagés.
+###### Article 23 O
 
-###### Article 24
+La liste des rémunérations assimilables à des intérêts ou agios pour l'application des dispositions du 5° de l'article 260 C
+du code général des impôts est établie comme suit : 
 
-I. La liste des biens usagés dans la commercialisation desquels l'application de l'exonération de taxe sur la valeur ajoutée
-prévue par l'article 261-3-1°-a du code général des impôts est susceptible de provoquer des distorsions  est fixée comme il
-suit :
+commission du plus fort découvert ; 
 
-a. Sacs d'emballage en matière textile  naturelle  artificielle ou synthétique  en feuille de papier ou en feuille
-synthétique vides;
+commission d'endos ; 
 
-b. Fûts  tonnelets  jerrycans  tambours  touques  bidons métalliques  articles de foudrerie et de tonnellerie  containers
-citernes  réservoirs  vides;
+commission d'attente, d'engagement, d'ouverture ou de confirmation de crédit ; 
 
-c. Biens inscrits à un compte d'immobilisation  autres que ceux visés ci-dessus  et vendus à des négociants en matériel
-d'occasion avant le commencement de la quatrième année qui suit celle au cours de laquelle le droit à déduction a pris
-naissance.
+commission de caution, d'aval ou de ducroire ; 
 
-II. Les biens mentionnés au I doivent être susceptibles de remploi en l'état ou après réparation.
+commission d'acceptation ; 
+
+commission de garantie de placement d'obligations ou de bonne fin d'augmentation de capital ; 
+
+commission de garantie de bonne fin d'opérations immobilières ; 
+
+frais de gestion réglementés perçus par les sociétés de crédit différé ; 
+
+rémunération perçue par l'intermédiaire placeur d'emprunts émis par voie d'adjudication.
 
 **Liens relatifs à cet article**
 
@@ -3146,14 +3197,16 @@ II. Les biens mentionnés au I doivent être susceptibles de remploi en l'état 
 
 	  - Arrêté 1990-09-10
 
+	**Modifié par**:
+
+	  - Loi n°89-1010 1989-12-31 art. 29 I 2° JORF 2 janvier 1990
+
 	**Cite**:
 
-	  - CGI 261 3 1° a
+	  - Code général des impôts, CGI. - art. 260 C (V)
 
-	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
-
+##### II : Opérations exonérées
 
 ##### Transports de voyageurs par trains internationaux.
 
@@ -3197,18 +3250,18 @@ passagers.
 
 En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
-est fixé, pour les années 1988 et 1989, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
+est fixé, pour les années 1989 et 1990, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
 demandes déposées au titre d'une année civile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-1-23 art. 1 JORF 1er février 1989, incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1990-02-06 art. 1 JORF 14 février 1990
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
@@ -4117,31 +4170,39 @@ Les agents des impôts ont accès dans la salle de spectacles pour toutes vérif
 
 ###### Article 50 sexies H
 
-Les exploitants de spectacles sont tenus d'établir  dès la fin de chaque journée ou représentation  un relevé comportant
-pour chaque catégorie de places [*mentions*] : les numéros des premiers et derniers billets délivrés le nombre de ceux-ci le
-prix de la place et la recette correspondante.
+Les exploitants de spectacles sont tenus d'établir, dès la fin de chaque journée ou représentation, un relevé comportant,
+pour chaque catégorie de places : les numéros des premiers et derniers billets délivrés le nombre de ceux-ci le prix de la
+place et la recette correspondante.
 
 Tous registres ou documents présentant les indications prévues ci-dessus tiennent lieu de relevé.
 
-Les relevés doivent être tenus à la disposition des agents des impôts et conservés par les exploitants pendant le délai prévu
-à l'article L. 82 du livre des procédures fiscales.
+Les relevés doivent être tenus à la disposition des agents des impôts et conservés par les exploitants selon les modalités
+prévues au I de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI L82
+	  - Arrêté 1990-09-10
 
 	**Cité par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 118 (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 48 (V)
 	  - Décret n°2017-926 du 9 mai 2017 (VD)
 	  - Décret n°2017-926 du 9 mai 2017 - art. 5 (VD)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 118 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 48 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+
+	**Cite**:
+
+	  - Livre des procédures fiscales L102 B I
 
 
 ##### Section VI : Importations
@@ -8676,11 +8737,11 @@ Lorsqu'ils sont transportés par quantités supérieures à 6 litres en volume  
 en bouteilles revêtues de capsules portant les marques fiscales  doivent être accompagnés d'un bordereau de livraison
 conforme au modèle donné par l'administration et indiquant [*mentions*] :
 
-1o La date d'enlèvement;
+1° La date d'enlèvement;
 
-2o Par contenance et par nature des boissons  le nombre total de bouteilles chargées au départ;
+2° Par contenance et par nature des boissons  le nombre total de bouteilles chargées au départ;
 
-3o Le nom et l'adresse des destinataires ainsi que les quantités qui leur sont destinées.
+3° Le nom et l'adresse des destinataires ainsi que les quantités qui leur sont destinées.
 
 Au moment de la livraison  le bordereau doit être complété par la signature des destinataires et  éventuellement  par les
 quantités effectivement livrées.
@@ -8688,18 +8749,22 @@ quantités effectivement livrées.
 L'administration peut  à la demande des intéressés  agréer des modèles différents pourvu qu'ils comportent les indications
 réglementaires.
 
-Les bordereaux doivent être conservés et tenus à la disposition des agents des impôts jusqu'à l'expiration du délai prévu à
-e l'article L. 82 du livre des procédures fiscales.
+Les bordereaux doivent être conservés et tenus à la disposition des agents des impôts selon les modalités prévues au I de
+l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
-	  - CGI L82
+	  - CGI L102 B I
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ##### D : Emploi des capsules représentatives des droits par les récoltants.
@@ -8820,24 +8885,24 @@ des vignettes. Les empreintes doivent comporter les mentions requises aux articl
 
 Des duplicata de factures ou de vignettes tiennent lieu des déclarations d'enlèvement prévues à l'article 446 du code général
 des impôts. Ils doivent être enliassés dans l'ordre de numérotation des vignettes, conservés et tenus à la disposition des
-agents des impôts jusqu'à l'expiration du délai prévu par l'article L. 82 du livre des procédures fiscales. Ils sont joints
-au document récapitulatif visé à l'article 54 I et restitués après vérification.
+agents des impôts selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales. Ils sont joints au
+document récapitulatif visé à l'article 54 I et restitués après vérification.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1986-10-07
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
 	  - CGI 446
-	  - CGI L82
+	  - CGI L102 B I
 	  - CGIAN4 54 I
 
 	**Modifié par**:
 
-	  - arrêté 1986-03-03 art. 6 JORF 12 mars 1986
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ###### Article 54 G
@@ -9306,18 +9371,22 @@ lettres dans les cadres prévus du numéro d'ordre du document de livraison ains
 Le document de livraison est remis au débitant. Le fournisseur est tenu d'en conserver un duplicata comportant les
 indications figurant sur la vignette dont il a été muni  y compris le numéro de cette vignette [*obligation*].
 
-Les duplicata doivent être tenus à la disposition des agents des impôts jusqu'à l'expiration du délai de six ans prévu à
-l'article L. 82 du livre des procédures fiscales.
+Les duplicata doivent être tenus à la disposition des agents des impôts selon les modalités prévues au I de l'article L. 102
+B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
-	  - CGI L82
+	  - CGI L102 B I
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ###### Article 56 AN
@@ -9796,27 +9865,30 @@ société.
 ###### Article 93 F
 
 Les feuilles de présence et tous autres documents nécessaires à la vérification de l'état fourni à l'appui du versement des
-droits conformément à l'article 93 D, doivent être conservés par la société pendant le délai prévu à l'article L. 82 du livre
-des procédures fiscales.
+droits conformément à l'article 93 D, doivent être conservés par la société selon les modalités prévues au I de l'article L.
+102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
-	  - CGI L82
 	  - CGIAN4 93 D
+	  - Livre des procédures fiscales L102 B I
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
 
 	**Modifié par**:
 
-	  - Décret n°81-860 1981-09-15 JORF 18 septembre 1981, en vigueur le 1er janvier 1982) M(Arrêté 1981-09-15 JORF 18 septembre 1981, en vigueur le 1er janvier 1982
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A37-1 1°
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ##### B : Bulletins de souscription d'actions
@@ -10037,22 +10109,22 @@ timbre.
 ###### Article 93 H quater E
 
 Le registre prescrit par l'article 93 H quater C et tous autres documents nécessaires à la vérification de l'état fourni à
-l'appui du versement des droits de timbre doivent être conservés pendant    t le délai prévu par l'article L. 82 du livre des
-procédures fiscales.
+l'appui du versement des droits de timbre doivent être conservés selon les modalités prévues au I de l'article L. 102 B du
+livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
-	  - CGI L82 CGIAN4 93 H quater C
+	  - CGI L102 B I CGIAN4 93 H quater C
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Livre des procédures fiscales A37-1 2°
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ##### C : Paiement par timbres mobiles
@@ -10167,24 +10239,30 @@ des droits de timbre.
 ###### Article 93 L
 
 Le répertoire ou document dont la tenue est prescrite par l'article 93 J et tous autres documents de comptabilité nécessaires
-pour la vérification des états fournis à l'appui du versement des droits de timbre doivent être conservés pendant le délai
-prévu à l'article L. 82 du livre des procédures fiscales.
+pour la vérification des états fournis à l'appui du versement des droits de timbre doivent être conservés selon les modalités
+prévues au I de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
+	  - Arrêté 1997-05-28
+
+	**Modifié par**:
+
+	  - Arrêté 1997-05-28 art. 1 JORF 1er juin 1997
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Cite**:
 
-	  - CGI L82
-	  - CGIAN4 93 J
-	  - CGIAN4 93 K
+	  - CGI Livre des procédures fiscales L102 B I
+	  - CGIAN4 93 K, 93 J
 
-	**Nouveaux textes**:
+	**Liens**:
 
-	  - Livre des procédures fiscales A37-1 3°
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 15 juin 1990
 
 
 ##### III : Timbre des quittances.
@@ -10222,17 +10300,29 @@ réunions prévues pour la saison, ainsi que les hippodromes ou cynodromes sur l
 ###### Article 101
 
 Tous les documents de comptabilité et autres pièces nécessaires pour la vérification des états fournis à l'appui du versement
-des droits de timbre doivent être conservés pendant le délai prévu à l'article L. 82 du livre des procédures fiscales.
+des droits de timbre doivent être conservés selon les modalités prévues au I de l'article L. 102 B du livre des procédures
+fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
+	  - Arrêté 2007-03-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Cite**:
 
-	  - CGI L82
+	  - Livre des procédures fiscales L102 B I
 
 
 ##### IV : Timbre des contrats de transports
@@ -10246,30 +10336,38 @@ des droits de timbre doivent être conservés pendant le délai prévu à l'arti
 Les compagnies de chemins de fer autres que la société nationale des chemins de fer français et toutes autres entreprises
 concessionnaires d'un service public de transport, autorisées à acquitter sur états le droit de timbre exigible, en vertu de
 l'article 927 du code général des impôts, sur les bulletins de bagages, versent le montant de l'impôt, pour toutes les gares
-du    s réseau, dans les derniers jours du deuxième mois qui suit celui dans lequel les droits ont dû être perçus ; le
-versement est fait à la recette des impôts qui est désignée à cet effet.
+du s réseau, dans les derniers jours du deuxième mois qui suit celui dans lequel les droits ont dû être perçus ; le versement
+est fait à la recette des impôts qui est désignée à cet effet.
 
 A l'appui du versement, il est fourni par le transporteur un état indiquant distinctement, pour chaque gare de départ, le
 nombre des timbres dus sur les bulletins de bagages. Cet état est certifié conforme aux écritures du transporteur ; il est
-totalisé et le montant des droits est provisoirement liquidé et payé en conséquence.    Tous les documents de comptabilité et
-autres, nécessaires pour la vérification des états fournis à l'appui du versement des droits de timbre, doivent être
-conservés, pendant le délai prévu à l'article L. 82 du livre des procédures fiscales, pour être communiqués aux agents des
-impôts compétents.
+totalisé et le montant des droits est provisoirement liquidé et payé en conséquence.
+
+Tous les documents de comptabilité et autres, nécessaires pour la vérification des états fournis à l'appui du versement des
+droits de timbre, doivent être conservés, selon les modalités prévues au I de l'article L. 102 B du livre des procédures
+fiscales, pour être communiqués aux agents des impôts compétents.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
 	  - CGI 927
-	  - CGI L82
+	  - Livre des procédures fiscales L102 B I
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 	**Modifié par**:
 
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF 19 janvier 1980
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ##### B : Expéditions en groupage.
@@ -10383,19 +10481,30 @@ références nécessaires pour individualiser le bordereau de groupage auquel il
 ###### Article 120
 
 Tous les documents de comptabilité et autres nécessaires pour la vérification des états fournis à l'appui du versement des
-droits de timbre, et notamment ceux prescrits par l'article 116, doivent être conservés pendant le délai prévu à l'article L.
-82 du livre des procédures fiscales.
+droits de timbre, et notamment ceux prescrits par l'article 116, doivent être conservés selon les modalités prévues au I de
+l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
-	  - CGI L82
 	  - CGIAN4 116
+	  - Livre des procédures fiscales L102 B I
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ##### C : Transports routiers de marchandises.
@@ -10404,62 +10513,72 @@ droits de timbre, et notamment ceux prescrits par l'article 116, doivent être c
 
 I. Les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises autorisés à acquitter
 sur états les droits de timbre afférents aux lettres de voiture ou documents en tenant lieu sont tenus d'établir des
-bordereaux journaliers [*obligation*] présentant pour chaque expédition dans des colonnes distinctes les indications
-suivantes [*mentions*] :
+bordereaux journaliers présentant pour chaque expédition dans des colonnes distinctes les indications suivantes :
 
-a. Numéro d'ordre;
+a. Numéro d'ordre ;
 
-b. Nom de l'expéditeur;
+b. Nom de l'expéditeur ;
 
-c. Nom du destinataire;
+c. Nom du destinataire ;
 
-d. Nombre de colis;
+d. Nombre de colis ;
 
-e. Prix du transport;
+e. Prix du transport ;
 
 f. Montant du droit de timbre exigible.
 
-Les inscriptions doivent avoir lieu sans blanc  rature ni interligne. La colonne e contenant les indications relatives au
+Les inscriptions doivent avoir lieu sans blanc, rature ni interligne. La colonne e contenant les indications relatives au
 prix de transport et la colonne f contenant l'indication du montant des droits de timbre exigibles sont totalisées en fin de
 journée. Les totaux sont rattachés aux écritures comptables.
 
-II. Par dérogation au I, les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises
+II. Par dérogation au I, les entrepreneurs, commissionnaires et intermédiaires de transports publics routiers de marchandises
 qui par application de l'article 313 W de l'annexe III au code général des impôts  établissent des récépissés numérotés
 extraits d'un registre à souche  sont dispensés de l'établissement des bordereaux journaliers. La même dispense est
 applicable lorsqu'il est créé des feuilles d'expédition ou des feuilles de route soumises au droit de timbre  numérotées et
 extraites d'un registre à souche.
 
 III. Le montant des droits de timbre exigibles est versé à l'expiration de chaque mois et dans les vingt premiers jours du
-mois suivant à la recette des impôts qui a accordé l'autorisation [*délai, de paiement*].
+mois suivant à la recette des impôts qui a accordé l'autorisation.
 
-A l'appui de ce versement  il est fourni par le bénéficiaire de l'autorisation un état indiquant  distinctement  s'il y a
+A l'appui de ce versement, il est fourni par le bénéficiaire de l'autorisation un état indiquant, distinctement, s'il y a
 lieu  pour chaque bureau de départ :
 
-1o Le nombre de lettres de voiture ou de récépissés établis au cours du mois considéré  ainsi que le nombre de feuilles
-d'expédition et de feuilles de route soumises au droit de timbre et créées au cours du même mois;
+1° Le nombre de lettres de voiture ou de récépissés établis au cours du mois considéré, ainsi que le nombre de feuilles
+d'expédition et de feuilles de route soumises au droit de timbre et créées au cours du même mois ;
 
-2o Le montant des droits exigibles.
+2° Le montant des droits exigibles.
 
-Cet état  certifié conforme aux résultats de la comptabilité  est fourni en double exemplaire. L'un de ces exemplaires est
-remis à la partie versante revêtu de l'acquit du comptable des impôts         t; compétent : l'autre est conservé par ce
-comptable à l'appui de la recette des droits de timbre.
+Cet état, certifié conforme aux résultats de la comptabilité, est fourni en double exemplaire. L'un de ces exemplaires est
+remis à la partie versante revêtu de l'acquit du comptable des impôts compétent ; l'autre est conservé par ce comptable à
+l'appui de la recette des droits de timbre.
 
-IV. Les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises bénéficiaires d'une
-autorisation de paiement sur états doivent conserver  pendant le délai prévu à l'article L. 82 du livre des procédures
-fiscales [*obligation de conservation*] tous les documents nécessaires au contrôle et notamment les bordereaux visés au I,
-les registres à souche de récépissés et les carnets d'enregistrement de ces registres les souches des feuilles d'expédition
-et des feuilles de route. Ces documents sont présentés à toute réquisition des agents des impôts.
+IV. Les entrepreneurs, commissionnaires et intermédiaires de transports publics routiers de marchandises bénéficiaires d'une
+autorisation de paiement sur états doivent être conservés selon les modalités prévues au I de l'article L. 102 B du livre des
+procédures fiscales tous les documents nécessaires au contrôle et notamment les bordereaux visés au I, les registres à souche
+de récépissés et les carnets d'enregistrement de ces registres les souches des feuilles d'expédition et des feuilles de
+route. Ces documents sont présentés à toute réquisition des agents des impôts.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
-	  - CGI L82
 	  - CGIAN3 313
+	  - Livre des procédures fiscales L102 B I
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ###### Article 121 A bis
@@ -10710,19 +10829,23 @@ droits de timbre.
 ###### Article 121 KL ter
 
 Les organismes mentionnés à l'article 121 KL bis doivent relever l'identité des personnes auxquelles les formules ont été
-délivrées ainsi que les numéros de ces dernières. Ces renseignements doivent être conservés pendant le délai prévu à
-l'article L. 82 du livre des procédures fiscales.
+délivrées ainsi que les numéros de ces dernières. Ces renseignements doivent être conservés selon les modalités prévues au I
+de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Cite**:
 
-	  - CGI L82
-	  - CGIAN4 121 KL bis
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 KL bis (V)
+	  - Livre des procédures fiscales - art. L102 B (VT)
 
 
 ##### V : Débite des timbres mobiles.
@@ -11169,37 +11292,6 @@ novembre 1980 (1).
 	  - Arrêté 1983-10-06
 
 
-###### Article 121 quinquies DB quater
-
-L'exonération de taxe professionnelle prévue à l'article 1465 du code général des impôts peut être accordée sur agrément dans
-les conditions définies aux articles 121 quinquies DB quinquies à 121 quinquies DB septies, 170 quinquies et 170 octies, sous
-réserve de l'appréciation des modalités techniques et financières des programmes présentés et dans la mesure où les
-entreprises intéressées n'ont commis aucune infraction fiscale grave et sont dans une situation régulière vis-à-vis des
-services de recouvrement (1).
-
-(1) En ce qui concerne les modalités et les dates de dépôt des demandes d'agrément, voir l'arrêté du 16 décembre 1983 (J.O.
-du 19 et 20 octobre).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1980-11-24 annexe III
-	  - Arrêté 1983-12-16
-	  - CGI 1465
-	  - CGIAN4 121 quinquies DB quinquies à 121 quinquies DB septies
-	  - CGIAN4 170 octies
-	  - CGIAN4 170 quinquies
-
-	**Créé par**:
-
-	  - Arrêté 1983-12-16 art. 1, art. 15 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-
 ###### Article 121 quinquies DB quinquies
 
 L'agrément ouvrant droit à l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code général des
@@ -11337,6 +11429,38 @@ sont constitués par les zones délimitées à l'annexe III de l'arrêté du 24 
 
 
 ##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire
+
+###### Article 121 quinquies DB quater
+
+L'exonération de taxe professionnelle prévue à l'article 1465 du code général des impôts peut être accordée sur agrément dans
+les conditions définies aux articles 121 quinquies DB quinquies à 121 quinquies DB septies, 170 quinquies et 170 octies, sous
+réserve de l'appréciation des modalités techniques et financières des programmes présentés et dans la mesure où les
+entreprises intéressées n'ont commis aucune infraction fiscale exclusive de bonne foi dans les quatre ans précédant
+l'opération, ont produit leur déclaration de résultat dans les délais légaux et sont dans une situation régulière vis-à-vis
+des services de recouvrement (1).
+
+(1) En ce qui concerne les modalités et les dates de dépôt des demandes d'agrément, voir l'arrêté du 16 décembre 1983 (J.O.
+du 19 et 20 octobre).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1983-12-16
+	  - CGI 1465, 121 quinquies DB quinquies à 121 quinquies DB septies, 170 quinquies, 170 octies
+
+	**Modifié par**:
+
+	  - Arrêté 1990-05-30 art. 2 JORF 8 juin 1990
+
+	**Codifié par**:
+
+	  - Arrêté 1990-09-10
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
 
 ###### Article 121 quinquies DB septies
 
@@ -12054,7 +12178,7 @@ Les différents documents - coupons de contrôle, souches de carnets, feuilles d
 guichets de vente et plan sur lequel sont marquées les places occupées - établis par les organisateurs et entrepreneurs de
 spectacles pour l'assiette et le contrôle de l'impôt doivent être conservés par la direction de l'établissement jusqu'à la
 vérification des comptes par un agent ayant au moins le grade d'inspecteur principal sans que ce délai puisse excéder celui
-prévu à l'article L. 82 du livre des procédures fiscales (1).
+prévu au premier alinéa du I de l'article L. 102 B du livre des procédures fiscales (1).
 
 (1) Voir également livre des procédures fiscales, art. A 26-1 et A 26-2.
 
@@ -12062,13 +12186,15 @@ prévu à l'article L. 82 du livre des procédures fiscales (1).
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
-	  - CGI A26-1
-	  - CGI A26-2
-	  - CGI L82
+	  - CGI Livre des procédures fiscales L102 B, A26-1, A26-2
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ##### II : Dispositions particulières
@@ -12098,8 +12224,8 @@ des impôts qui leur est désigné un relevé indiquant le montant total du chif
 le mois précédent et d'acquitter, dans les trois jours suivants, le montant de l'impôt exigible d'après ce relevé (1).
 
 Le livre prescrit par le présent article  ainsi que la comptabilité et les pièces justificatives des opérations effectuées
-par les établissements soumis à l'impôt  doivent être conservés par l'établissement pendant le délai prévu à l'article L. 82
-du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
+par les établissements soumis à l'impôt  doivent être conservés par l'établissement selon les modalités prévues au I de
+l'article L. 102 B du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
 
 Lorsqu'un établissement  par la nature de ses opérations  n'est assujetti à l'impôt sur les spectacles qu'à certaines heures
 de la journée  ou pour des salles spéciales  les opérations à inscrire sur le carnet visé au présent article ne concernent
@@ -12112,15 +12238,20 @@ deux établissements entièrement distincts.
 
 	**Codifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
-	  - CGI 1563 AL. 2
-	  - CGI L82
+	  - CGI 1563 al. 2
+	  - CGI A85-1
+	  - CGI L102 B I
 	  - CGIAN4 127
 	  - CGIAN4 128
 	  - CGIAN4 129
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ##### Cercles et maisons de jeux.
@@ -12860,127 +12991,6 @@ peut être accordée sur agrément dans les conditions définies aux articles 12
 	**Liens**:
 
 	  - HISTO: Edition du 15 juin 1990
-
-
-###### Article 155 O
-
-L'agrément ouvrant droit à la réduction du droit de mutation ou de la taxe de publicité foncière mentionnée au I de l'article
-265 de l'annexe III au code général des impôts peut être accordé aux acquisitions immobilières effectuées par l'entreprise
-exploitante nécessaires à la réalisation des opérations suivantes :
-
-1° Créations, extensions ou décentralisations par voie de transfert d'installations affectées à des activités industrielles,
-de recherche scientifique et technique, ou à des services de direction, d'études, d'ingénierie et d'informatique. Ces
-opérations s'entendent de celles susceptibles de bénéficier, dans les conditions fixées par la législation en vigueur, de
-l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code général des impôts ;
-
-<> 2° Reprises d'établissements industriels en difficulté ou reconversions qui remplissent les conditions définies par les
-articles 121 quinquies DB quinquies et 121 quinquies DB sexies pour l'application de l'exonération de taxe professionnelle.
-Aucune condition de localisation n'est exigée en ce qui concerne les reprises ; les reconversions doivent être effectuées
-hors du Bassin parisien et de la région lyonnaise définis à l'annexe IV de l'arrêté du 24 novembre 1980  (1);
-
-3° Extension, hors du Bassin parisien et de la région lyonnaise, d'une entreprise industrielle exerçant l'ensemble de ses
-activités soit en région parisienne, soit en région lyonnaise, ou encore dans les deux zones. Le nombre d'emplois créés
-localement doit être au moins égal à celui prévu au 1° de l'article 121 quinquies DB sexies ;
-
-4° Regroupements d'entreprises industrielles ou transferts dans une zone à vocation industrielle d'entreprises industrielles
-implantées dans une zone résidentielle. Ces opérations doivent être réalisées hors du Bassin parisien et de la région
-lyonnaise ; l'effectif doit être maintenu ;
-
-5° Créations de centres de formation professionnelle sur l'ensemble du territoire ;
-
-6° Acquisitions immobilières nécessaires à la réalisation de l'objet des coopératives agricoles, constituées et fonctionnant
-conformément aux dispositions législatives et réglementaires qui les régissent. Ces opérations peuvent être effectuées sur
-l'ensemble du territoire, à l'exception du Bassin parisien et de la région lyonnaise.
-
-(1) Voir J.O. du 7 décembre 1980.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1980-11-24 annexe IV
-	  - CGI 1465
-	  - CGIAN3 265
-	  - CGIAN4 121 quinquies DB quinquies à CGIAN4 121 quinquies DB sexies
-	  - CGIAN4 121 quinquies DB sexies 1°
-
-	**Créé par**:
-
-	  - Arrêté 1983-12-16 art. 9 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-	  - Arrêté 1990-09-10
-
-	**Abrogé par**:
-
-	  - Loi n°89-936 1989-12-29 art. 20 Finances rectificative pour 1989 JORF 30 décembre 1989
-
-
-###### Article 155 P
-
-L'agrément ouvrant droit à la réduction du droit de mutation mentionnée au II de l'article 265 de l'annexe III au code
-général des impôts peut être accordé aux acquisitions de fonds de commerce et de clientèle effectuées par l'entreprise
-exploitante et nécessaires à la réalisation des opérations suivantes :
-
-1° Reprises d'établissements industriels en difficulté qui remplissent les conditions définies par les articles 121 quinquies
-DB quinquies et 121 quinquies DB sexies pour l'application de l'exonération de taxe professionnelle. Aucune condition de
-localisation n'est exigée ;
-
-2° Opérations de concentration d'entreprises industrielles nécessaires à la modernisation de ces entreprises et réalisées
-hors du Bassin parisien et de la région lyonnaise définis à l'annexe IV de l'arrêté du 24 novembre 1980 (1). L'effectif doit
-être maintenu.
-
-(1) Voir J.O. du 7 décembre 1980.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1980-11-24
-	  - CGIAN3 265 II
-	  - CGIAN4 121 quinquies DB quinquies
-	  - CGIAN4 121 quinquies DB sexies
-
-	**Créé par**:
-
-	  - Arrêté 1983-12-16 art. 10 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-	  - Arrêté 1990-09-10
-
-	**Abrogé par**:
-
-	  - Loi n°89-936 1989-12-29 art. 20 Finances rectificative pour 1989 JORF 30 décembre 1989
-
-
-###### Article 155 Q
-
-Les réductions prévues aux articles 155 O et 155 P peuvent, compte tenu des modalités de réalisation de l'opération, être
-limitées à une partie des biens à acquérir ou à une fraction de leur valeur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1983-12-16 art. 11 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-	  - Arrêté 1990-09-10
-
-	**Cite**:
-
-	  - CGIAN4 155 O
-	  - CGIAN4 155 P
-
-	**Abrogé par**:
-
-	  - Loi n°89-936 1989-12-29 art. 20 Finances rectificative pour 1989 JORF 30 décembre 1989
 
 
 ### Titre I ter : Impositions régionales
@@ -14922,7 +14932,7 @@ des impôts.
 
 ###### Article 159 AL bis
 
-Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1989 [*date
+Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1990 [*date
 limite*] à 0,70 % [*pourcentage*] dont 0,45 % affecté au comité professionnel de développement de l'horlogerie et 0,25 %
 affecté au centre technique de l'industrie horlogère [*bénéficiaires*].
 
@@ -14930,15 +14940,19 @@ affecté au centre technique de l'industrie horlogère [*bénéficiaires*].
 
 	**Modifié par**:
 
-	  - Arrêté 1988-12-30 art. 1 JORF 15 janvier 1989, incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1989-12-29 art. 1 JORF 31 décembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
 	  - CGIAN2 345
+
+	**Liens**:
+
+	  - HISTO: é
 
 
 ##### Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
@@ -14946,21 +14960,25 @@ affecté au centre technique de l'industrie horlogère [*bénéficiaires*].
 ###### Article 159 AL quater
 
 Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,20 % [*pourcentage*]
-du montant hors taxes des ventes jusqu'au 31 décembre 1989 [*date limite*].
+du montant hors taxes des ventes jusqu'au 31 décembre 1990 [*date limite*].
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-12-30 art. 1 JORF 15 janvier 1989, incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1989-12-29 art. 1 JORF 31 décembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
 	  - CGIAN2 363 A
+
+	**Liens**:
+
+	  - HISTO: é
 
 
 ##### Section VII quinquies : Taxe parafiscale des industries textiles.
@@ -14968,21 +14986,25 @@ du montant hors taxes des ventes jusqu'au 31 décembre 1989 [*date limite*].
 ###### Article 159 AL quater A
 
 Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,22 %
-[*pourcentage*] jusqu'au 31 décembre 1989 [*date limite*].
+[*pourcentage*] à compter du 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-12-30 art. 1 JORF 15 janvier 1989 incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1989-12-29 art. 1 JORF 31 décembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
 	  - CGIAN2 357 A
+
+	**Liens**:
+
+	  - HISTO: é
 
 
 ##### Section IX : Taxe parafiscale des industries de l'habillement et de la maille.
@@ -14990,21 +15012,130 @@ Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code
 ###### Article 159 AL sexies
 
 Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,11 %
-[*pourcentage*] jusqu'au 31 décembre 1989 [*date limite*].
+[*pourcentage*] à compter du 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-12-30 art. 1, JORF 15 janvier 1989 incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1989-12-29 art. 1 JORF 31 décembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
 	  - CGIAN2 363 N
+
+
+##### Section X : Taxe parafiscale perçue au profit du fonds de soutien à l'expression radiophonique.
+
+###### Article 159 AL septies
+
+Le taux de la taxe parafiscale mentionnée à l'article 365 de l'annexe II au code général des impôts est fixé comme suit :
+
+I. PUBLICITE RADIODIFFUSEE.
+
+De 300.000 F à 1.5 million F inclus ... 3000 F [*francs*]
+
+De 1,5 à 3 millions F inclus ... 7.500 F
+
+De 3 à 6 millions F inclus ... 15.750 F
+
+De 6 à 9 millions F inclus ... 27.000 F
+
+De 9 à 15 millions F inclus ... 45.000 F
+
+De 15 à 21 millions F inclus ... 71.250 F
+
+De 21 à 30 millions F inclus ... 102.000 F
+
+De 30 à 45 millions F inclus ... 150.000 F
+
+De 45 à 60 millions F inclus ... 217.500 F
+
+De 60 à 90 millions F inclus ... 310.500 F
+
+De 90 à 120 millions F inclus ... 435.000 F
+
+De 120 à 150 millions F inclus ... 585.000 F
+
+De 150 à 180 millions F inclus ... 720.000 F
+
+De 180 à 210 millions F inclus ... 855.000 F
+
+De 210 à 240 millions F inclus ... 990.000 F
+
+De 240 à 270 millions F inclus ... 1.125.000 F
+
+De 270 à 300 millions F inclus ... 1.260.000 F
+
+De 300 à 330 millions F inclus ... 1.395.000 F
+
+De 330 à 360 millions F inclus ... 1.530.000 F
+
+De 360 à 390 millions F inclus ... 1.665.000 F
+
+De 390 à 420 millions F inclus ... 1.800.000 F
+
+Au-dessus de 420 millions F ... 1.965.000 F.
+
+II. PUBLICITE TELEVISEE
+
+Jusqu'à 3 millions F inclus ... 3.850 F [*francs*]
+
+De 3 à 6 millions F inclus ... 11.430 F
+
+De 6 à 15 millions F inclus ... 27.000 F
+
+De 15 à 30 millions F inclus ... 63.570 F
+
+De 30 à 60 millions F inclus ... 157.710 F
+
+De 60 à 120 millions F inclus ... 359.140 F
+
+De 120 à 180 millions F inclus ... 707.140 F
+
+De 180 à 240 millions F inclus ... 1.105.710 F
+
+De 240 à 300 millions F inclus ... 1.427.140 F
+
+De 300 à 360 millions F inclus ... 1.765.710 F
+
+De 360 à 420 millions F inclus ... 2.117.140 F
+
+De 420 à 480 millions F inclus ... 2.442.360 F
+
+De 480 à 540 millions F inclus ... 2.785.710 F
+
+De 540 à 600 millions F inclus ... 3.128.570 F
+
+De 600 à 660 millions F inclus ... 3.471.430 F
+
+De 660 à 720 millions F inclus ... 3.314.290 F
+
+De 720 à 780 millions F inclus ... 4.157.140 F
+
+De 780 à 840 millions F inclus ... 4.500.000 F
+
+De 840 à 900 millions F inclus ... 4.842.850 F
+
+Au-dessus de 900 millions F ... 5.185.710 F.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1987-10-09 art. 1 JORF 10 octobre 1987
+
+	**Codifié par**:
+
+	  - Arrêté 1990-09-10
+
+	**Cite**:
+
+	  - CGIAN2 365
 
 
 #### Chapitre II bis : Contributions indirectes
@@ -15015,38 +15146,40 @@ Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au c
 
 Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général des impôts est fixé comme suit :
 
-0,59 F par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
+0,60 F par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
 
-0,78 F par hectolitre :
+0,80 F par hectolitre :
 
 De jus de pommes à cidre et de poires à poiré et de moûts de de pommes et de poires;
 
 De cidre aromatisé ou non à due proportion de cidre contenu dans le produit fini ;
 
-De fermenté de pommes aromatisé ou non à due proportion ;
-
-De fermenté de pommes contenu dans le produit fini ;
+De fermenté de pommes aromatisé ou non à due proportion de fermenté de pommes contenu dans le produit fini ;
 
 De poiré ;
 
 De fermenté de poires ;
 
-14,94 F par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré et d'apéritifs à base de cidre et de
+15,20 F par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré et d'apéritifs à base de cidre et de
 poiré.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-08-26 art. 1 JORF 11 septembre 1988
+	  - Arrêté 1989-07-31 art. 1 JORF 15 août 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
 	  - CGIAN2 358
+
+	**Liens**:
+
+	  - HISTO: du
 
 
 ##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.
@@ -15104,28 +15237,28 @@ poiré.
 
 ###### Article 159 AO
 
-Pour l'année 1989, le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme
-suit, par kilogramme net :
+A compter du 1er janvier 1990, le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est
+fixé comme suit par kilogramme net :
 
-Viande de boeuf et la viande de veau : 0,031 F;
+" Viande de boeuf et viande de veau : 0,034 F ;
 
-Viande de porc : 0,034 F;
+" Viande de porc : 0,034 F ;
 
-Viande de mouton : 0,025 F.
+" Viande de mouton : 0,032 F ;
 
-Viandes des espèces chevaline, asine et leurs croisements :
+" Viande des espèces chevaline, asine et leurs croisements :
 
-0,031 F.
+0,034 F.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-12-30 art. 1 JORF 20 janvier 1989 incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1989-12-14 art. 1 JORF 22 décembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
@@ -15137,20 +15270,20 @@ Viandes des espèces chevaline, asine et leurs croisements :
 ###### Article 159 AP
 
 En application de l'article 363 E de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
-vins au profit de l'association nationale pour le developpement agricole est fixée comme suit jusqu'au 31 décembre 1989 :
+vins au profit de l'association nationale pour le developpement agricole est fixée comme suit à compter du 1er janvier 1990 :
 
-Vins à appellation d'origine contrôlée : 1,10 F par hectolitre    Vins délimités de qualité supérieure : 0,70 F par
-hectolitre    Autres vins : 0,40 F par hectolitre.
+Vins à appellation d'origine contrôlée : 1,23 F par hectolitre    Vins délimités de qualité supérieure : 0,78 F par
+hectolitre    Autres vins : 0,45 F par hectolitre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-12-30 art. 1 JORF 20 janvier 1989, incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1989-12-14 art. 1 JORF 22 décembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
@@ -15162,25 +15295,23 @@ hectolitre    Autres vins : 0,40 F par hectolitre.
 ###### Article 159 AR
 
 Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à l'article 363 F de l'annexe II au code général
-des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1988-1989 :
+des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1989-1990 :
 
-" Colza : 7,80 F par tonne ;
+" Colza et navette :  7,10 F par tonne ;
 
-" Navette : 7,80 F par tonne ;
-
-" Tournesol : 9,40 F par tonne ;
+" Tournesol : 8,60 F par tonne ;
 
 " Soja : 4,55 F par tonne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1988-12-21 art. 1 JORF 23 décembre 1988, incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1989-11-08 art. 1 JORF 21 novembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
@@ -15321,31 +15452,27 @@ l'article R 211-24  deuxième alinéa  du code des assurances suivant les modali
 
 I. Les contrats d'assurance sur lesquels est assise la contribution prévue aux articles 1628 quinquies du code général des
 impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
-branches 3 à 9 de l'article R. 321-1 du code des assurances.
+branches 3 à 9 de l'article R. 321-1 du code des assurances. 
 
 II. Le taux annuel de la contribution est fixé, pour 1989, à 1 F par contrat. Les sommes correspondantes sont perçues par les
 entreprises d'assurance à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre le 1er janvier et le
-31 décembre 1989.
+31 décembre 1990.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1987-10-11 art. 1 JORF 18 octobre 1988
+	  - Arrêté 1989-10-31 art. 1 JORF 1er novembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
-	  - CGI 1628 quinquies
-	  - CGIAN2 325
-	  - Code des assurances R321-1
-
-	**Liens**:
-
-	  - HISTO: Edition du 14 juillet 1989
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 325 (Dis)
+	  - Code général des impôts, CGI. - art. 1628 quinquies (Dis)
+	  - Code des assurances - art. R321-1 (V)
 
 
 ##### Section III : Taxe au profit de l'office des migrations internationales.
@@ -15384,17 +15511,17 @@ suit :
 Désignation :
 
 Véhicules automobiles de transport de marchandises dont le P.A.T.C. (1) est égal ou supérieur à 3,5 tonnes et inférieur à 6
-tonnes Pour la période du 1er janvier au 31 décembre 1989 : 310 F
+tonnes A compter du 1er janvier 1990 : 380 F
 
 Désignation :
 
 Véhicules automobiles de transport de marchandises dont le P.A.T.C.   est égal ou supérieur à 6 tonnes et inférieur à 11
-tonnes Pour la période du 1er janvier au 31 décembre 1989 : 463 F 
+tonnes Pour la période du 1er janvier au 31 décembre 1989 : 573 F 
 
 Désignation :
 
 Véhicules automobiles de transport de marchandises dont le P.A.T.C. est égal  ou supérieur à 11 tonnes Tracteurs routiers
-Véhicules de transport en commun de voyageurs Pour la période du 1er janvier au 31 décembre 1989 : 695 F
+Véhicules de transport en commun de voyageurs Pour la période du 1er janvier au 31 décembre 1989 : 855 F.
 
 (1) Poids total autorisé en charge.
 
@@ -15402,11 +15529,11 @@ Véhicules de transport en commun de voyageurs Pour la période du 1er janvier a
 
 	**Modifié par**:
 
-	  - Arrêté 1988-12-21 art. 1 JORF 29 décembre 1988, incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1989-12-26 art. 1 JORF 29 décembre 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1990-09-10
 
 	**Cite**:
 
@@ -16622,20 +16749,24 @@ L'office national des anciens combattants et victimes de guerre.
 
 ###### Article 169
 
-Sont assimilés  au point de vue de la perception des droits d'enregistrement et de timbre  à ceux des entreprises privées les
+Sont assimilés, au point de vue de la perception des droits d'enregistrement et de timbre, à ceux des entreprises privées les
 actes passés :
 
-1o Par les établissements publics de l'Etat  des départements et des communes  à l'exception des établissements publics
-scientifiques d'enseignement  d'assistance et de bienfaisance;
+1° Par les établissements publics de l'Etat, des régions, des départements et des communes, à l'exception des établissements
+publics scientifiques d'enseignement, d'assistance et de bienfaisance ;
 
-2o Par les régies municipales  intercommunales et départementales exploitant des services à caractère industriel ou
-commercial.
+2° Par les régies municipales, intercommunales, départementales et régionales exploitant des services à caractère industriel
+ou commercial.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Arrêté 1990-09-10
+
+	**Modifié par**:
+
+	  - Loi n°86-16 du 6 janvier 1986 - art. 36 (V) JORF 8 janvier 1986
 
 
 ###### Article 170
@@ -16732,20 +16863,17 @@ impôts :
 1° Par le ministre chargé du budget, après avis du comité interministériel des aides à la localisation des activités institué
 par l'article 1er de l'arrêté du 10 juillet 1982 :
 
-a) pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 50 millions de francs
+a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 50 millions de francs
 d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à un milliard de francs
 ou dont le capital est détenu à plus de 50 p. 100 par une entreprise dont le chiffre d'affaires consolidé dépasse un milliard
 de francs ;
 
-b) pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
+b. Pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
 
-c) pour les opérations au titre desquelles l'entreprise a également demandé une prime d'aménagement du territoire dont
-l'attribution est décidée par le ministre chargé de l'aménagement du territoire conformément aux dispositions de l'article 9
-du décret n° 82-379 du 6 mai 1982, modifié par l'article 4 du décret n° 87-580 du 22 juillet 1987 ;
+c. Pour les opérations liées à celles mentionnées aux a et b ;
 
-d) pour les opérations présentant des difficultés particulières et évoquées par le ministre.
-
-2° Dans les autres cas, par le directeur régional des impôts dont dépend le lieu de situation de l'établissement (1).
+d. (Abrogé) ;    2° Dans les autres cas, par le directeur régional des impôts dont dépend le lieu de situation de
+l'établissement (1).
 
 (1) Ces dispositions sont applicables aux demandes d'agrément déposées à compter du 1er janvier 1989.
 
@@ -16754,20 +16882,24 @@ d) pour les opérations présentant des difficultés particulières et évoquée
 	**Cite**:
 
 	  - Arrêté 1982-07-10 art. 1
-	  - CGI 1465
-	  - CGI 697
-	  - CGI 721
-	  - Décret n°82-379 1982-05-06 art. 9 2°, 3°, 4°
-	  - Décret n°87-580 1987-07-22 art. 4
+	  - CGI 697, 721, 1465
 
 	**Modifié par**:
 
-	  - Arrêté 1988-12-23 art. 1 JORF 12 janvier 1989
+	  - Arrêté 1990-05-30 art. 3 JORF 8 juin 1990
+
+	**Codifié par**:
+
+	  - Arrêté 1990-09-10
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article 170 septies
@@ -17255,40 +17387,6 @@ doivent fournir une déclaration rédigée sur des formules mises à leur dispos
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 197
-
-Lorsqu'en application des articles 992-II et 993-II du code général des impôts  la taxe afférente à des contrats autres que
-les contrats de rente immédiate et les contrats à primes annuelles constantes est remplacée par une redevance équivalente  le
-montant de cette redevance est déterminé comme suit :
-
-Au début de chaque année  la caisse nationale de prévoyance détermine  par un calcul qui porte sur le douzième des opérations
-liquidées au cours de l'année précédente  la part des versements effectués soumise à la taxe. Le pourcentage ainsi déterminé
-est appliqué aux versements centralisés au cours de l'année précédente toute entière et le résultat obtenu sert de base au
-calcul de la redevance forfaitaire due au titre de l'année précédente et des acomptes trimestriels à verser au titre de
-l'année en cours.
-
-Le règlement annuel de la redevance et le paiement des acomptes prévus à l'article 21 de la loi du 31 janvier 1944 modifiée
-s'effectuent dans les conditions fixées par ce texte. Le règlement annuel donne lieu à la rédaction et au dépôt d'un état
-conforme au modèle établi par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
-
-	**Cite**:
-
-	  - CGI 992 II
-	  - CGI 993 II
-	  - Loi n°1944-01-31 ART. 21
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
-
-
 #### 2 : Paiement en valeurs du Trésor.
 
 ###### Article 198 bis
@@ -17449,7 +17547,7 @@ l'article R* 121-2 du même code.
 ###### Article 198 octies
 
 La fiche de liquidation des impositions dont la délivrance du permis de construire constitue le fait générateur est transmise
-par l'autorité administrative au directeur des services fiscaux et au titulaire du permis de construire.
+par l'autorité administrative au trésorier payeur général et au titulaire du permis de construire.
 
 Une fiche modificative est également transmise en cas de modification apportée au permis de construire ou à l'autorisation
 tacite de construire lorsque cette modification a une incidence sur l'assiette d'une taxe.
@@ -17458,7 +17556,11 @@ tacite de construire lorsque cette modification a une incidence sur l'assiette d
 
 	**Codifié par**:
 
-	  - Arrêté 1985-09-24
+	  - Arrêté 1990-09-10
+
+	**Modifié par**:
+
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
 
 
 ### Section V : Dispositions communes
