@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-01-09
+Version Consolidée au 1981-01-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -213,6 +213,45 @@ crédit agricole ne sont pas retenus par celle-ci pour le calcul de la provision
 	**Cite**:
 
 	  - CGIAN4 2
+
+
+###### Article 3 bis
+
+I. Pour les exercices clos à compter du 22 septembre 1972, la dotation annuelle de la provision prévue à l'article 2 ne peut
+excéder :
+
+a. Par rapport au bénéfice comptable de chaque exercice, 5 % de de ce bénéfice en ce qui concerne les entreprises autres que
+le crédit national ;
+
+b. Par rapport au montant des crédits à moyen et à long terme effectivement utilisés  à l'exclusion des prêts sur avances du
+fonds de développement économique et social mis en place pour le compte de l'Etat et des prêts garantis en tout ou partie par
+l'Etat, 0,50 % de ce montant en ce qui concerne le crédit national.
+
+II. Pour les mêmes exercices, la dotation globale à cette provision ne peut excéder :
+
+a. Par rapport au montant des crédits à moyen terme et à long terme effectivement utilisés, 0,50 % de ce montant en ce qui
+concerne les entreprises autres que le crédit national ;
+
+b. Par rapport au montant visé au b du I, 3 % de ce montant en ce qui concerne le crédit national.
+
+III. Dans la mesure où, à la clôture du premier exercice arrêté après le 22 septembre 1972, le montant global de la provision
+déjà constituée est supérieur au montant maximum fixé au II ci-dessus l'excédent correspondant doit être rapporté par
+fractions égales aux résultats de l'exercice susvisé et des quatre exercices suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 2
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°81-73 1981-01-30 art. 1 JORF 31 janvier 1981)
+
+	**Modifié par**:
+
+	  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
+	  - Décret n°80-1076 du 23 décembre 1980 - art. 4 (V) JORF 28 décembre 1980
 
 
 ##### II bis : Provisions pour risques afférents aux crédits à moyen terme résultant de ventes ou de travaux effectués à l'étranger
@@ -7649,46 +7688,6 @@ toutefois excéder 5 % du montant des crédits à moyen et à long terme effecti
 	**Cite**:
 
 	  - CGIAN4 2
-
-
-###### Article 3 bis
-
-I. Pour les exercices clos à compter du 22 septembre 1972, la dotation annuelle de la provision prévue à l'article 2 ne peut
-excéder :
-
-a. Par rapport au bénéfice comptable de chaque exercice  40 %, 10 % et 5 % de ce bénéfice en ce qui concerne respectivement :
-
-1o La caisse centrale de crédit hôtelier  commercial et industriel;
-
-2o La caisse nationale des marchés de l'Etat;
-
-3o Les autres entreprises à l'exception du crédit national;
-
-b. Par rapport au montant des crédits à moyen et à long terme effectivement utilisés  à l'exclusion des prêts sur avances du
-fonds de développement économique et social mis en place pour le compte de l'Etat et des prêts garantis en tout ou partie par
-l'Etat  0,50 % de ce montant en ce qui concerne le crédit national.
-
-II. Pour les mêmes exercices  la dotation globale à cette provision ne peut excéder :
-
-a. Par rapport au montant des crédits à moyen terme et à long terme effectivement utilisés  0,50 % de ce montant en ce qui
-concerne la caisse nationale des marchés de l'Etat et les autres entreprises à l'exception de la caisse centrale de crédit
-hôtelier  commercial et industriel et du crédit national;
-
-b. Par rapport au montant visé au I-b  3 % de ce montant en ce qui concerne les deux derniers établissements précités.
-
-III. Dans la mesure où  à la clôture du premier exercice arrêté après le 22 septembre 1972, le montant global de la provision
-déjà constituée est supérieur au montant maximum fixé au II ci-dessus l'excédent correspondant doit être rapporté par
-fractions égales aux résultats de l'exercice susvisé et des quatre exercices suivants.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 4
