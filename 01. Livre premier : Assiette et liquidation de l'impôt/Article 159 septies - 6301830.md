@@ -3,15 +3,19 @@
 Les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général des impôts sont fixés comme
 suit :
 
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est égal ou supérieur à 3,5 tonnes et
-inférieur à 6 tonnes.
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est inférieur ou égal à 3,5 tonnes :
 
-A compter du 1er janvier 1991 : 425 F
+A compter du 1er janvier 1992 : 95 F
+
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est supérieur à 3,5 tonnes et inférieur à 6
+tonnes.
+
+A compter du 1er janvier 1992 : 467 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal ou supérieur à 6 tonnes et inférieur à
 11 tonnes.
 
-A compter du 1er janvier 1991 : 635 F
+A compter du 1er janvier 1992 : 698 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal  ou supérieur à 11 tonnes
 
@@ -19,7 +23,7 @@ Tracteurs routiers
 
 Véhicules de transport en commun de personnes
 
-A compter du 1er janvier 1991 : 955 F
+A compter du 1er janvier 1992 : 1050 F
 
 (1) Poids total autorisé en charge.
 
@@ -27,11 +31,12 @@ A compter du 1er janvier 1991 : 955 F
 
 	**Modifié par**:
 
-	  - Arrêté 1991-01-14 art. 1 JORF 16 janvier 1991
+	  - Arrêté 1991-07-22 art. 1 JORF 6 août 1991
+	  - Arrêté 1991-12-03 art. 1 JORF 12 décembre 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 1992-08-27
 
 	**Cite**:
 

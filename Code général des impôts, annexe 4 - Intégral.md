@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1992-03-03
+Version Consolidée au 1992-07-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -27,6 +27,251 @@ des non-résidents 9, rue d'Uzès, à Paris.
 ##### Section I : Bénéfices industriels et commerciaux
 
 ##### 0I : Amortissement dégressif des matériels destinés à économiser l'énergie ou les matières premières.
+
+###### Article 02
+
+1. Pour bénéficier de l'amortissement dégressif accéléré mentionné au 2° de l'article 39 AA du code général des impôts, les
+matériels destinés à économiser l'énergie énumérés aux A et B de la liste donnée au 2 doivent pouvoir être séparés des
+appareils auxquels ils ont été adjoints sans les rendre définitivement inutilisables.
+
+2. La liste des matériels est fixée ainsi qu'il suit :
+
+A. Matériels de récupération de force ou de chaleur produite par l'emploi d'hydrocarbures liquides ou gazeux  de combustibles
+minéraux solides ou d'électricité.
+
+A. 1. Matériel permettant directement la récupération d'énergie et le transport de l'énergie récupérée.
+
+Chaudière de récupération sur effluents thermiques ou gaz pauvre de procédé : chaudière à vapeur, à eau chaude, à fluide
+thermique.
+
+Echangeurs thermiques récupérateurs sur fluides liquides ou gazeux : échangeurs à plaques, à caloducs par fluide caloporteur,
+rotatifs, à tapis lorsque ces matériels sont destinés à la production d'eau chaude ou de vapeur, de fluide thermique, d'air,
+l'énergie échangée étant utilisée pour le séchage de produits ou le chauffage de locaux le préchauffage d'air de combustion,
+de produits, de combustibles ou de fluides utilisés dans des cycles binaires, la récupération de frigories sur des fluides
+détendus.
+
+Installation de préchauffage de produits par échange direct avec des rejets thermiques.
+
+Incinérateurs de sous-produits de fabrication ou de déchets avec récupération d'énergie et installations annexes de stockage,
+de manutention et de préparation.
+
+Hottes et dispositifs de captation de la chaleur de refroidissement de solides après une opération nécessitant une élévation
+de la température.
+
+Matériel permettant la récupération, le transport, le stockage, la préparation et la valorisation énergétique de gaz fatals
+issus comme sous-produits de procédés industriels.
+
+Dispositifs mécaniques ou électromécaniques permettant la récupération de l'énergie mécanique potentielle de fluides sous-
+pression : turbines turbo-alternateurs mus par la détente de gaz ou de fluides sous pression destinés à ou provenant d'un
+procédé de fabrication.
+
+Pompes à chaleur et matériels permettant la thermocompression directe de fluides avec recyclage de l'énergie ainsi récupérée.
+
+Matériel permettant la récupération de l'énergie contenue dans les fluides de refroidissement utilisés pour les moteurs
+diesel et les fours électriques à induction.
+
+Matériel permettant la récupération des condensats de vapeur.
+
+Turbine à condensation pour la production d'électricité dans le cas où la vapeur est produite pour l'essentiel lors de
+l'incinération de déchets industriels ou ménagers.
+
+A. 2. Matériel permettant la production combinée de chaleur et de force.
+
+Turbine de détente de vapeur en contrepression.
+
+Turbine à gaz avec chaudière de récupération sur le gaz d'échappement.
+
+Turbine de détente de fluides utilisés dans des cycles binaires de production d'électricité à partir de rejets thermiques à
+bas niveau.
+
+Matériel permettant la transformation en énergie électrique ou en énergie mécanique de l'énergie cinétique des turbines
+mentionnées ci-dessus. Matériel constitutif d'une centrale diesel à énergie totale.
+
+B. Matériels destinés à l'amélioration du rendement énergétique d'appareils ou d'installations consommant de l'énergie.
+
+Matériel de régulation améliorant les performances énergétiques des matériels suivants : fours  chaudières  séchoirs
+appareils de chauffage  de climatisation ou de ventilation  moteurs ou machines-outils.
+
+Matériel de mesure ou enregistreurs permettant un meilleur contrôle du rendement énergétique des installations.
+
+Matériel permettant de réaliser des économies d'énergie par l'optimisation et la commande centralisée de la gestion d'un
+ensemble de dispositifs consommateurs d'énergie et affecté exclusivement à cet usage : système informatique centralisé de
+mesure et de commande ou système réparti par micro-processeurs.
+
+Matériel permettant la diminution des pertes de réseaux de transports de fluides énergétiques : purgeurs de vapeur.
+
+Matériel permettant de diminuer la consommation d'énergie réactive d'installations électriques : batteries de condensateurs.
+
+Matériel variateur de vitesse permettant d'adapter la consommation énergétique d'un moteur ou d'une machine à sa charge
+instantanée.
+
+Déflecteurs ajoutés à des véhicules routiers existants dont ils réduisent la trainée aérodynamique.
+
+C. Matériels de captage et d'utilisation de sources d'énergie autres que les hydrocarbures liquides ou gazeux les
+combustibles minéraux solides et l'électricité.
+
+Matériel permettant la récupération d'énergie solaire pour le préchauffage de fluide, la préparation d'eau de chaudière,
+d'eau de procédé d'eau chaude sanitaire.
+
+Matériel permettant l'utilisation d'énergie éolienne ou géothermique.
+
+D. Matériels permettant le stockage d'énergie quand la réutilisation ultérieure de cette énergie permet des économies
+globales d'énergie primaire.
+
+Matériel permettant le stockage d'énergie sous forme d'énergie mécanique potentielle (matériels permettant par pompage sur
+les ouvrages hydro-électriques la remontée d'eau de l'aval vers la retenue) ou cinétique (volants d'inertie de grande
+puissance).
+
+Batterie d'accumulateurs permettant le stockage d'électricité quand ce stockage permet l'arrêt permanent de matériels
+générateurs d'électricité exclusivement affectés à la fourniture instantanée d'énergie électrique en secours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-07-30 art. 1, art. 2 JORF 31 août 1991
+
+	**Cite**:
+
+	  - CGI 39 AA 2°
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
+
+###### Article 02 bis
+
+1. Pour bénéficier de l'amortissement exceptionnel prévu au premier alinéa de l'article 39 AB du code général des impôts, les
+matériels destinés à économiser l'énergie mentionnés sur la liste donnée au 2 doivent pouvoir être séparés des matériels
+auxquels ils ont été adjoints sans être rendus définitivement inutilisables.
+
+2. La liste des matériels est fixée ainsi qu'il suit :
+
+A. - Matériels de récupération de force ou de chaleur produite par l'emploi d'hydrocarbures liquides ou gazeux de
+combustibles minéraux solides ou d'électricité.
+
+1. Matériel permettant directement la récupération d'énergie et le transport de l'énergie récupérée. Chaudière de
+récupération sur effluents thermiques ou gaz pauvre de procédé : chaudière à vapeur, à eau chaude, à fluide thermique, à
+condensation, à haut rendement (soit supérieur à 80 p. 100 PCS) :
+
+Echangeurs thermiques récupérateurs sur fluides liquides ou gazeux : échangeurs à plaques, à caloducs, par fluide
+caloporteur, rotatifs, à tapis lorsque ces matériels sont destinés à la production d'eau chaude ou de vapeur, de fluide
+thermique, d'air, l'énergie échangée étant utilisée pour le séchage de produits ou le chauffage de locaux, le préchauffage
+d'air de combustion, de produits, de combustibles ou de fluides utilisés dans des cycles binaires, la récupération de
+frigories sur des fluides détendus ;
+
+Installation de préchauffage de produits par échange direct avec des rejets thermiques ;
+
+Incinérateurs de sous-produits de fabrication ou de déchets, avec récupération d'énergie et installations annexes de
+stockage, de manutention et de préparation ;
+
+Hottes et dispositifs de captation de la chaleur de refroidissement de solides après une opération nécessitant une élévation
+de température ;
+
+Matériel permettant la récupération, le transport, le stockage, la préparation et la valorisation énergétique de gaz fatals,
+issus comme sous-produits de procédés industriels ;
+
+Dispositifs mécaniques ou électromécaniques permettant la récupération de l'énergie mécanique potentielle de fluides sous
+pression : turbines, turboalternateurs mus par la détente de gaz ou de fluides sous pression destinés à (ou provenant d') un
+procédé de fabrication ;
+
+Matériel de chauffage permettant de favoriser les concentrations énergétiques dans les espaces limités en remplacement d'un
+chauffage classique : générateurs d'air chaud, aérothermes directs, générateurs de ventilation tempérée ;
+
+Pompes à chaleur à recompression mécanique de vapeur et matériels permettant la thermocompression directe de fluides avec
+recyclage de l'énergie ainsi récupérée ;
+
+Matériel permettant la récupération de l'énergie contenue dans les fluides de refroidissement utilisés pour les moteurs
+Diesel et les fours électriques à induction ;
+
+Turbine à condensation pour la production d'électricité dans le cas où la vapeur est produite pour l'essentiel lors de
+l'incinération de déchets industriels ou ménagers ou par récupération sur un procédé de fabrication excédentaire en énergie.
+
+2. Matériel de cogénération permettant la production combinée de chaleur et de force-turbine de détente de vapeur en contre-
+pression :
+
+Turbine à gaz avec chaudières de récupération sur le gaz d'échappement ;
+
+Turbine de détente de fluides utilisés dans des cycles binaires de production d'électricité à partir de rejets thermiques à
+bas niveau ;
+
+Matériel permettant la transformation en énergie électrique ou en énergie mécanique de l'énergie cinétique des turbines
+mentionnées ci-dessus.
+
+Matériel constitutif d'une centrale diesel à énergie totale.
+
+B. - Matériels destinés à l'amélioration du rendement énergétique d'appareils ou d'installations consommant de l'énergie :
+
+Matériel de combustion performant acquis en remplacement d'un matériel de combustion classique : brûleurs autorécupérateurs,
+brûleurs régénératifs.
+
+Matériel de régulation améliorant les performances énergétiques des matériels suivants ; fours, chaudières, séchoirs,
+appareils de chauffage, de climatisation ou de ventilation, moteurs ou machines-outils.
+
+Matériels permettant une chauffe en surface ou dans la masse en remplacement d'un chauffage global classique : chauffage
+infrarouge (gaz ou électricité), à haute fréquence, par rayonnement ultraviolet,
+
+Matériel de mesure ou enregistreurs permettant un meilleur contrôle du rendement énergétique des installations ;
+
+Matériel de séparation performant en substitution d'un système de séparation classique permettant d'éviter des procédés
+thermiques :
+
+membranes polymères, membranes minérales, membranes cryogéniques,
+
+Matériel permettant de réaliser des économies d'énergie par l'optimisation et la commande centralisée de la gestion d'un
+ensemble de dispositifs consommateurs d'énergie et affecté exclusivement à cet usage : système informatique centralisé de
+mesure et de commande ou système réparti par microprocesseurs ;
+
+Matériel permettant la réduction des pertes sur les réseaux de fluides énergétiques (réseau de condensats, réseau de vapeur,
+réseau d'air comprimé, réseau de vide, réseau de fluide frigorigène) tels que les purgeurs de vapeur ;
+
+Matériel d'isolation certifié utilisé dans le secteur tertiaire et industriel permettant de limiter les déperditions
+thermiques des matériels utilisant ou transportant de l'énergie, des parois opaques (isolation de locaux achevés avant le 12
+avril 1988 et de procédés de fabrication) ;
+
+Matériel permettant de diminuer la consommation d'énergie réactive d'installations électriques : batteries de condensateurs ;
+
+Matériel variateur de vitesse permettant d'adapter la consommation énergétique d'un moteur ou d'une machine à sa charge
+instantanée ;
+
+Déflecteur ajouté à des véhicules routiers existants dont ils réduisent la traînée aérodynamique ;
+
+Système de gestion embarquée.
+
+C. - Matériels de captage et d'utilisation de sources d'énergie autres que les hydrocarbures liquides ou gazeux, les
+combustibles minéraux solides et l'électricité :
+
+Matériel permettant la récupération d'énergie solaire pour le préchauffage de fluide, la préparation d'eau de chaudière,
+d'eau de procédé, d'eau chaude sanitaire pour la production d'électricité et son raccordement au réseau ;
+
+Matériel permettant l'utilisation d'énergie éolienne ou géothermique. Matériel d'exploitation de la biomasse : chaudières
+avec ses auxiliaires, digesteurs associés à une utilisation du biogaz.
+
+D. - Matériels permettant le stockage d'énergie quand la réutilisation ultérieure de cette énergie permet des économies
+globales d'énergie primaire :
+
+Matériel permettant le stockage d'énergie sous forme d'énergie mécanique potentielle (matériels permettant par pompage sur
+les ouvrages hydroélectriques la remontée d'eau de l'aval vers la retenue) ou cinématique (volants d'inertie de grande
+puissance) ;
+
+Batterie d'accumulateurs permettant le stockage d'électricité quand ce stockage permet l'arrêt permanent de matériels
+générateurs d'électricité exclusivement affectés à la fourniture instantanée d'énergie électrique en secours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-07-30 art. 1, art. 2 JORF 3 août 1991
+
+	**Codifié par**:
+
+	  - Arrêté 1992-08-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+
 
 ###### Article 03
 
@@ -2574,6 +2819,96 @@ les sociétés agréées aux constructeurs  fournisseurs et autres ayants droit 
 	  - Loi n°88-1149 du 23 décembre 1988 - art. 75 (V) JORF 28 décembre 1988 incorporée à l'annexe 4 le 14 juillet 1989
 
 
+##### Section I bis : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger.
+
+###### Article 23 bis A
+
+Les opérations mentionnées à l'article 118 de l'annexe II au code général des impôts s'entendent :
+
+a) De la distribution de dividendes entre sociétés dont les résultats sont pris en compte dans le résultat consolidé, pour la
+quote-part de frais et charges réintégrée en application du II de l'article 216 du code général des impôts ;
+
+b) De la dotation aux provisions constituées par des sociétés dont les résultats sont pris en compte dans le résultat
+consolidé en vue de faire face aux dépréciations des créances sur d'autres sociétés comprises dans le périmètre de
+consolidation ou de participation dans de telles sociétés, ainsi que des risques qu'elles encourent du fait de ces mêmes
+sociétés ;
+
+c) De l'octroi de subventions directes ou indirectes et d'abandons de créances, à caractère financier et dont une quote-part
+n'est pas déductible au sens de l'article 216 A du code général des impôts, entre sociétés dont les résultats sont pris en
+compte dans le résultat consolidé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1992-02-06 art. 1 JORF 13 février 1992
+
+	**Codifié par**:
+
+	  - Arrêté 1992-08-27
+
+	**Cite**:
+
+	  - CGI 216, 216 A
+	  - CGIAN2 118
+
+
+###### Article 23 bis B
+
+Le résultat consolidé défini à l'article 116 de l'annexe II au code général des impôts est rectifié, dans la proportion
+mentionnée au c et au d du 1 de ce même article, à raison des opérations mentionnées à l'article 23 bis A.
+
+1. Il est diminué de la quote-part de frais et charges visée au I de l'article 216 du code général des impôts qui est
+comprise dans les résultats d'une société retenus pour la détermination du résultat consolidé à raison de sa participation
+dans une société qui répond à la même condition.
+
+2. Lorsque les résultats des sociétés mentionnées ci-après sont retenus pour la détermination du résultat consolidé ou
+compris dans le résultat d'ensemble d'un groupe constitué par la société agréée ou l'une de ses exploitations indirectes en
+application des dispositions de l'article 223 A du code général des impôts, le résultat consolidé est majoré :
+
+1° Du montant des dotations complémentaires aux provisions constituées :
+
+a) Par une société en vue de faire face à la dépréciation des créances qu'elle détient sur une autre société ou aux risques
+qu'elle encourt du fait d'une telle société ;
+
+b) A raison des participations détenues dans une autre société dans la proportion existant entre le taux réduit d'imposition
+prévu au premier alinéa du a du I de l'article 219 du code général des impôts et le taux normal prévu au deuxième alinéa du I
+du même article ;
+
+c) En application des dispositions des articles 39 octies A, 39 octies B ou 39 octies D du code général des impôts, par une
+société française à raison des investissements réalisés à l'étranger. Si le résultat de l'exploitation étrangère qui a fait
+l'objet de l'investissement n'est pas retenu pour la détermination du résultat consolidé, la réintégration est limitée à la
+fraction de la provision qui excède le déficit de cette exploitation déterminé selon les modalités prévues au III de
+l'article 39 octies B ou au III de l'article 39 octies D du code déjà cité ;
+
+2° Des déductions effectuées au titre des dispositions du 2 de l'article 39 quinquies A et du II de l'article 238 bis HA du
+code général des impôts par une société à raison des sommes versées pour la souscription au capital d'une autre société.
+
+3. Dans la situation visée au 2, le résultat consolidé est minoré de la fraction des subventions et abandons de créances qui
+n'est pas déductible, au sens de l'article 216 A du code général des impôts, du résultat imposable de la société qui a
+accordé la subvention ou consenti l'abandon. Toutefois, le résultat consolidé n'est pas modifié lorsque la société débitrice
+est susceptible de bénéficier des dispositions de ce même article.
+
+4. Si les résultats d'une exploitation sont imposables selon les modalités prévues à l'article 217 bis du code général des
+impôts, les sommes qui sont ajoutées ou retranchées pour la détermination du résultat consolidé ne sont retenues que pour les
+deux tiers de leur montant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1992-02-06 art. 2 JORF 13 février 1992
+
+	**Codifié par**:
+
+	  - Arrêté 1992-08-27
+
+	**Cite**:
+
+	  - CGI 23 bis A, 216, 223 A, 219, 39 octies A, 39 octies B, 39 octies D, 238 bis HA, 39 quinquies A, 216 A, 217 bis
+	  - CGIAN2 116
+
+
 ##### Section II : Lieu d'imposition
 
 ##### Lieu d'imposition des personnes morales qui exercent des activités en France ou y possèdent des biens, sans y avoir leur siège social
@@ -4211,22 +4546,23 @@ prévues au I de l'article L. 102 B du livre des procédures fiscales.
 
 ###### Article 50 decies
 
-1. L'exonération de la taxe sur la valeur ajoutée est applicable sous réserve des dispositions du 2, aux biens visés à
-l'article 50 nonies-1 lorsqu'ils sont destinés :
+1. L'exonération de la taxe sur la valeur ajoutée est applicable sous réserve des dispositions du 2 aux oeuvres d'art
+originales, timbres, objets de collection ou d'antiquité repris aux numéros 97-04, 97-05 et 97-06 du tarif des droits de
+douane d'importation lorsqu'ils sont destinés :
 
-1° A la Réunion des musées nationaux;
+1° A la Réunion des musées nationaux ;
 
-2° Aux musées de l'Etat  des départements et des communes;
+2° Aux musées de l'Etat  des départements et des communes ;
 
 3° Aux fondations  associations et autres établissements justifiant de leur agrément par le ministre d'Etat chargé des
 affaires culturelles.
 
-2. L'exonération est subordonnée [*condition*] à la production à l'appui de la déclaration d'importation d'une attestation
-signée par le directeur de l'établissement certifiant que les objets importés sont destinés audit établissement et comportant
+2. L'exonération est subordonnée à la production à l'appui de la déclaration d'importation d'une attestation signée par le
+directeur de l'établissement certifiant que les objets importés sont destinés audit établissement et comportant
 l'engagement :
 
-1° De ne pas céder  à titre onéreux ou gratuit  lesdits objets sans avoir au préalable acquitté auprès du service des douanes
-la taxe sur la valeur ajoutée;
+1° De ne pas céder, à titre onéreux ou gratuit  lesdits objets sans avoir au préalable acquitté auprès du service des douanes
+la taxe sur la valeur ajoutée ;
 
 2° De présenter au bureau des douanes d'importation  dans un délai de trente jours  un certificat de prise en charge desdits
 objets dans l'inventaire de l'établissement destinataire.
@@ -4235,50 +4571,21 @@ objets dans l'inventaire de l'établissement destinataire.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1992-08-27
+
 	**Cite**:
 
 	  - CGIAN4 50 nonies 1
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 50 nonies
-
-1. L'exonération de la taxe sur la valeur ajoutée prévue à l'article 291-II-8° du code général des impôts en faveur des
-oeuvres d'art originales timbres objets de collection ou d'antiquité repris aux numéros 97-04, 97-05 et 97-06 du tarif des
-droits de douane d'importation importés par des négociants en vue de leur revente est subordonnée à la production à l'appui
-de la déclaration d'importation d'une attestation en double exemplaire conforme au modèle annexé à l'arrêté du 23 décembre
-1967 (1).
-
-2. Cette attestation doit être signée par le négociant importateur et visée par le service des impôts qui certifie la qualité
-d'assujetti à la taxe sur la valeur ajoutée dudit négociant. Elle doit comporter l'engagement du bénéficiaire de
-l'exonération d'acquitter auprès du service des douanes la taxe sur la valeur ajoutée au cas où les objets importés ne
-recevraient pas la destination déclarée sans préjudice des pénalités éventuelles.
-
-(1) Voir J.O. du 29 décembre 1967.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1967-12-23
-	  - CGI 291 II 8°
-
-	**Codifié par**:
-
-	  - Arrêté 1988-10-20 modifie et complète l'annexe 4 au 15 juillet 1988
-	  - Arrêté 1992-08-27
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1992-08-27 art. 1 JORF 29 août 1992
 	  - HISTO: Edition du 4 juillet 1992
 
 	**Modifié par**:
 
-	  - Règlement CEE n°2658/87 1987-07-23 (conseil
+	  - Loi n°91-716 1991-07-26 art. 5 IV, VII JORF 27 juillet 1991
 
 
 ##### Section VII : Régimes spéciaux
@@ -10691,8 +10998,8 @@ industrielle, artisanale ou agricole (art. 949 et 950 du code général des imp�
 
 3° (Abrogé);
 
-4° Les passeports, laissez-passer, sauf-conduits pour l'étranger et les titres de voyages délivrés aux réfugiés ou apatrides
-(art. 953 et 954 du code général des impôts);
+4° Les passeports pour l'étranger et les titres de voyages délivrés aux réfugiés ou apatrides (art. 953 et 954 du code
+général des impôts);
 
 5° Les certificats internationaux pour automobiles et les permis internationaux de conduire (art. 966 du code général des
 impôts);
@@ -10708,26 +11015,18 @@ véhicules à moteur (art. 1599 terdecies du code général des impôts);
 	**Cite**:
 
 	  - Accord 1968-09-27 art. 7 bis
-	  - CGI 1599 quindecies
-	  - CGI 1599 terdecies
-	  - CGI 947
-	  - CGI 948
-	  - CGI 949
-	  - CGI 950
-	  - CGI 953
-	  - CGI 954
-	  - CGI 966
-	  - CGIAN2 339 A CGIAN2 341
+	  - CGI 947, 948, 949, 950, 953, 954, 966, 1599 terdecies, 1599 quindecies
+	  - CGIAN2 339 à CGIAN2 341
 	  - Décret n°69-243 1969-03-18
 	  - Décret n°86-320 1986-03-07
 
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
+	  - Arrêté 1992-08-27
 
 	**Modifié par**:
 
-	  - Arrêté 1988-10-20 modifie et complète l'annexe 4 au 15 juillet 1988 : Conséquence du transfert des dispositions de l'article 1635 bis D
+	  - Loi n°91-716 du 26 juillet 1991 - art. 32 (V) JORF 27 juillet 1991
 
 
 ###### Article 121 KB
@@ -11291,36 +11590,6 @@ visées à l'article 1656 du code général des impôts sont fixées par les art
 #### Chapitre premier : Impôts directs et taxes assimilées
 
 ##### Section II : Taxe professionnelle
-
-##### Exonération des meubles classés dans les conditions prévues a l'article 58-I de la loi n° 65-997 du 29 novembre 1965.
-
-###### Article 121 quinquies DB
-
-Pour l'octroi de l'exonération de taxe professionnelle prévue à l'article 1459-4° du code général des impôts  les
-déclarations souscrites en vue du classement dans les conditions fixées par l'arrêté interministériel du 28 décembre 1976
-portant application des dispositions de l'article 58 de la loi n° 65-997 du 29 novembre 1965 prennent effet à compter de
-l'année suivant celle au cours de laquelle elles ont été déposées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1976-12-28 INTERMINISTERIEL
-	  - CGI 1459 4°
-	  - Loi n°65-997 1965-11-29 ART. 58 I
-
-	**Abrogé par**:
-
-	  - Arrêté 1976-12-28 art. 7 JORF 29 décembre 1976
-
-	**Codifié par**:
-
-	  - Arrêté 1992-08-27
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire
 
@@ -13089,28 +13358,36 @@ peut être accordée sur agrément dans les conditions définies aux articles 12
 	  - HISTO: Edition du 15 juin 1990
 
 
-### Titre I ter : Impositions régionales
-
-#### Région de Corse.
+### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse.
 
 ###### Article 155 bis
 
-Les dispositions des articles 155 C et 155 M sont applicables à la taxe différentielle sur les véhicules à moteur perçue au
-profit de la région de Corse.
+Les dispositions des articles 155 C à 155 M sont applicables à la taxe différentielle sur les véhicules à moteur perçue au
+profit de la collectivité territoriale de Corse.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1992-08-27
+	  - Arrêté 2007-03-30
+
 	**Cite**:
 
-	  - CGIAN4 155 C CGIAN4 155 M
+	  - CGIAN4 155 C à 155 M
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 4 juillet 1992
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 	**Créé par**:
 
-	  - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-	**Modifié par**:
-
-	  - Loi n°85-695 1985-07-11 art. 18-1 JORF 12 juillet 1985
+	  - Loi n°91-428 du 13 mai 1991 - art. 2 (Ab) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991
+	  - Loi n°91-428 du 13 mai 1991 - art. 89 (Ab) JORF 14 mai 1991
 
 
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
@@ -14829,8 +15106,8 @@ Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 
 
 ###### Article 159 AL bis
 
-Le taux de la taxe prévu à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1991 à 0,70
-p. 100.
+Le taux de la taxe prévu à l'article 345 de l'annexe II au code général des impôts est fixé à 0,70 p.
+100.                          
 
 Le produit de la taxe est versé à un compte courant ouvert au nom du comité professionnel de développement de l'horlogerie à
 la paierie générale du Trésor.
@@ -14839,63 +15116,104 @@ la paierie générale du Trésor.
 
 	**Modifié par**:
 
-	  - Arrêté 1991-04-10 art. 1 JORF 11 avril 1991
+	  - Arrêté 1991-12-31 art. 1 JORF 9 janvier 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 1992-08-27
 
 	**Cite**:
 
 	  - CGIAN2 345
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
 
 ###### Article 159 AL quater
 
-Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,20 % [*pourcentage*]
-du montant hors taxes des ventes jusqu'au 31 décembre 1991 [*date limite*].
+Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,20 % du montant hors
+taxes des ventes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1991-04-10 art. 1 JORF 11 avril 1991
+	  - Arrêté 1991-12-31 art. 1 JORF 9 janvier 1992
 
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 1995-12-11
+
+	**Liens**:
+
+	  - DISJONCTION: Arrêté 1995-12-11 art. 1 JORF 13 décembre 1995
+	  - HISTO: Edition du 27 octobre 1995
 
 	**Cite**:
 
 	  - CGIAN2 363 A
 
 
+##### Section VII quater A : Taxe parafiscale sur certaines viandes.
+
+###### Article 159 AL quater-0 A
+
+Le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme suit par kilogramme
+net :
+
+Viande de boeuf et viande de veau : 0,034 F ;
+
+Viande de porc : 0,036 F ;
+
+Viande de mouton : 0,032 F ;
+
+Viandes des espèces chevaline, asine et leurs croisements :
+
+0,034 F.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1992-04-15 art. 1 JORF 22 avril 1992
+
+	**Codifié par**:
+
+	  - Arrêté 1992-08-27
+
+	**Cite**:
+
+	  - CGIAN2 363 D
+
+	**Anciens textes**:
+
+	  - CGIAN4 159 AO
+
+
 ##### Section VII quinquies : Taxe parafiscale des industries textiles.
 
 ###### Article 159 AL quater A
 
-Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,22 %
-[*pourcentage*] à compter du 1er janvier 1990.
+Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,14 p. 100 pour
+le textile et à 0,11 p. 100 pour la maille jusqu'au 31 décembre 1992.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-12-29 art. 1 JORF 31 décembre 1989
+	  - Arrêté 1991-08-21 art. 1 JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1992-08-27
 
 	**Cite**:
 
 	  - CGIAN2 357 A
-
-	**Liens**:
-
-	  - HISTO: é
 
 
 ##### Section IX : Taxe parafiscale des industries de l'habillement et de la maille.
@@ -14903,17 +15221,17 @@ Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code
 ###### Article 159 AL sexies
 
 Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,11 %
-[*pourcentage*] à compter du 1er janvier 1990.
+[*pourcentage*] jusqu'au 31 décembre 1992.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-12-29 art. 1 JORF 31 décembre 1989
+	  - Arrêté 1991-08-21 art. 1 JORF 22 août 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1992-08-27
 
 	**Cite**:
 
@@ -15124,65 +15442,25 @@ poiré.
 	  - CGIAN2 364
 
 
-##### Section III : Taxes parafiscale sur certaines viandes.
-
-###### Article 159 AO
-
-A compter du 1er janvier 1991, le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est
-fixé comme suit par kilogramme net :
-
-" Viande de boeuf et viande de veau : 0,034 F ;
-
-" Viande de porc : 0,034 F ;
-
-" Viande de mouton : 0,032 F ;
-
-" Viande des espèces chevaline, asine et leurs croisements :
-
-0,034 F.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1990-12-27 art. 1 JORF 1er janvier 1991
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Cite**:
-
-	  - CGIAN2 363 D
-
-	**Nouveaux textes**:
-
-	  - CGIAN4 159 AL quater-0A
-
-	**Transféré par**:
-
-	  - Décret n°91-470 du 14 mai 1991 - art. 1 (V) JORF 17 mai 1991
-
-
-#### Section IV : Taxe parafiscale sur les vins.
+##### Section IV : Taxe parafiscale sur les vins.
 
 ###### Article 159 AP
 
 En application de l'article 363 E de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
-vins au profit de l'association nationale pour le developpement agricole est fixée comme suit à compter du 1er janvier 1991 :
+vins au profit de l'association nationale pour le developpement agricole est fixée comme suit :
 
-Vins à appellation d'origine contrôlée : 1,23 F par hectolitre    Vins délimités de qualité supérieure : 0,78 F par
-hectolitre    Autres vins : 0,45 F par hectolitre.
+Vins à appellation d'origine contrôlée : 1,70 F par hectolitre    Vins délimités de qualité supérieure : 1,10 F par
+hectolitre    Autres vins : 0,50 F par hectolitre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1990-12-27 art. 1 JORF 1er janvier 1991
+	  - Arrêté 1992-04-15 art. 1 JORF 29 avril 1992
 
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 1992-08-27
 
 	**Cite**:
 
@@ -15194,7 +15472,7 @@ hectolitre    Autres vins : 0,45 F par hectolitre.
 ###### Article 159 AR
 
 Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à l'article 363 F de l'annexe II au code général
-des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1990-1991 :
+des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1991-1992 :
 
 Colza : 6,40 F par tonne ;
 
@@ -15208,11 +15486,11 @@ Soja : 4,10 F par tonne.
 
 	**Modifié par**:
 
-	  - Arrêté 1990-11-08 art. 1 JORF 13 novembre 1990
+	  - Arrêté 1992-01-17 art. 1 JORF 18 janvier 1992
 
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 1992-08-27
 
 	**Cite**:
 
@@ -15298,45 +15576,70 @@ Sont déposées à l'appui de l'état et en même temps que lui :
 
 ###### Article 159 quinquies
 
-I. La contribution des assurés prévue à l'article 322 de l'annexe II au code général des impôts est recouvrée [*recouvrement,
-paiement*] et reversée suivant les modalités applicables en matière de taxe unique sur les conventions d'assurances.
+I. La contribution des assurés prévue à l'article 322 de l'annexe II au code général des impôts est recouvrée et reversée
+suivant les modalités applicables en matière de taxe unique sur les conventions d'assurances.
 
 Elle fait l'objet de versements distincts à l'appui desquels il est déposé :
 
-1o Par les entreprises d'assurances des états spéciaux établis en double exemplaire pour chaque versement trimestriel;
+1° Par les entreprises d'assurances des états spéciaux établis en double exemplaire pour chaque versement mensuel (1) ;
 
-2o Par les courtiers et intermédiaires visés à l'article 388 de l'annexe III au code général des impôts  une déclaration en
-double exemplaire indiquant [*mentions*] le montant des sommes stipulées au profit des assureurs au cours du trimestre
-considéré et de leurs accessoires ainsi que le montant de la contribution correspondante.
+2° Par les courtiers et intermédiaires visés à l'article 388 de l'annexe III au code général des impôts une déclaration en
+double exemplaire indiquant le montant des sommes stipulées au profit des assureurs au cours du mois considéré (1) et de
+leurs accessoires ainsi que le montant de la contribution correspondante.
 
 Les états et déclaration prévus aux deux précédents alinéas sont établis sur des formules imprimées mises à la disposition
 des assujettis par le service des impôts.
 
-II. Le montant de la contribution prévue à l'article 322 E de l'annexe II au code général des impôts est fixé comme suit
-[*tarif*] :
+II. Le montant de la contribution prévue à l'article 322 E de l'annexe II au code général des impôts est fixé comme suit :
 
-1o Véhicules terrestres à moteur pour lesquels  aux termes de l'article R. 211-7 du code des assurances  l'assurance doit
-être souscrite sans limitation de somme :
+1° Véhicules terrestres à moteur pour lesquels aux termes de l'article R. 211-7 du code des assurances l'assurance doit être
+souscrite sans limitation de somme :
 
-Pour une garantie limitée à huit jours    10 F  Pour une garantie limitée à quinze jours    20  Pour une garantie limitée à
-trente jours    40    2o Véhicules terrestres à moteur à deux roues ainsi que tricycles et triporteurs à moteur d'une
-cylindrée n'excédant pas 125 cm3 :
+Pour une garantie limitée à huit jours : 10 F
 
-Pour une garantie limitée à huit jours     2 F  Pour une garantie limitée à quinze jours     3  Pour une garantie limitée à
-trente jours     6    3o Autres véhicules terrestres à moteur :
+Pour une garantie limitée à quinze jours : 20 F
 
-Pour une garantie limitée à huit jours     3 F  Pour une garantie limitée à quinze jours     6  Pour une garantie limitée à
-trente jours    10    4° Autres véhicules, notamment remorques :
+Pour une garantie limitée à trente jours : 40 F
 
-Pour une garantie limitée à huit jours     4 F  Pour une garantie limitée à quinze jours     7  Pour une garantie limitée à
-trente jours    10    Le montant de la contribution est intégralement reversé par l'organisme d'assurance mentionné à
-l'article R 211-24  deuxième alinéa  du code des assurances suivant les modalités prévues au paragraphe I du présent article.
+2° Véhicules terrestres à moteur à deux roues ainsi que tricycles et triporteurs à moteur d'une cylindrée n'excédant pas 125
+cm3 :
+
+Pour une garantie limitée à huit jours : 2 F
+
+Pour une garantie limitée à quinze jours : 3F
+
+Pour une garantie limitée à trente jours : 6F
+
+3° Autres véhicules terrestres à moteur :
+
+Pour une garantie limitée à huit jours : 3 F
+
+Pour une garantie limitée à quinze jours : 6 F
+
+Pour une garantie limitée à trente jours : 10 F
+
+4° Autres véhicules, notamment remorques :
+
+Pour une garantie limitée à huit jours : 4 F
+
+Pour une garantie limitée à quinze jours : 7 F
+
+Pour une garantie limitée à trente jours : 10 F
+
+Le montant de la contribution est intégralement reversé par l'organisme d'assurance mentionné à l'article R 211-24 deuxième
+alinéa du code des assurances suivant les modalités prévues au paragraphe I du présent article.
+
+(1) Ces dispositions s'appliquent aux versements effectués à partir du 1er décembre 1991.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1991-10-28 art. 1, art. 3 JORF 29 octobre 1991
+
 	**Codifié par**:
 
-	  - Arrêté 1987-11-23
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
@@ -15345,6 +15648,11 @@ l'article R 211-24  deuxième alinéa  du code des assurances suivant les modali
 	  - CGIAN3 388
 	  - Code des assurances - art. R*211-7 (M)
 	  - Code des assurances R211-24 AL. 2
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994, article sans objet
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### Section II bis : Fonds de garantie des victimes des actes de terrorisme et d'autres infractions
@@ -15355,9 +15663,9 @@ I. Les contrats d'assurance sur lesquels est assise la contribution prévue aux 
 impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
 branches 3 à 9 de l'article R. 321-1 du code des assurances.
 
-II. Le taux annuel de la contribution est fixé, pour 1991, à 4 F par contrat. Les sommes correspondantes sont perçues par les
-entreprises d'assurance à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre le 1er janvier et le
-31 décembre 1991.
+Le taux de la contribution est fixé, à compter du 1er juillet 1992, à 9 F par contrat. Les sommes correspondantes sont
+perçues par les entreprises d'assurance à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre le
+1er juillet 1992 et le 30 juin 1993.
 
 **Liens relatifs à cet article**
 
@@ -15367,7 +15675,7 @@ entreprises d'assurance à l'occasion de l'émission des primes ou cotisations r
 
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 1992-08-27
 
 	**Cite**:
 
@@ -15383,15 +15691,19 @@ entreprises d'assurance à l'occasion de l'émission des primes ou cotisations r
 Les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général des impôts sont fixés comme
 suit :
 
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est égal ou supérieur à 3,5 tonnes et
-inférieur à 6 tonnes.
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est inférieur ou égal à 3,5 tonnes :
 
-A compter du 1er janvier 1991 : 425 F
+A compter du 1er janvier 1992 : 95 F
+
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est supérieur à 3,5 tonnes et inférieur à 6
+tonnes.
+
+A compter du 1er janvier 1992 : 467 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal ou supérieur à 6 tonnes et inférieur à
 11 tonnes.
 
-A compter du 1er janvier 1991 : 635 F
+A compter du 1er janvier 1992 : 698 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal  ou supérieur à 11 tonnes
 
@@ -15399,7 +15711,7 @@ Tracteurs routiers
 
 Véhicules de transport en commun de personnes
 
-A compter du 1er janvier 1991 : 955 F
+A compter du 1er janvier 1992 : 1050 F
 
 (1) Poids total autorisé en charge.
 
@@ -15407,11 +15719,12 @@ A compter du 1er janvier 1991 : 955 F
 
 	**Modifié par**:
 
-	  - Arrêté 1991-01-14 art. 1 JORF 16 janvier 1991
+	  - Arrêté 1991-07-22 art. 1 JORF 6 août 1991
+	  - Arrêté 1991-12-03 art. 1 JORF 12 décembre 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 1992-08-27
 
 	**Cite**:
 
@@ -17027,31 +17340,26 @@ NOTA : Ces dispositions s'appliquent aux demandes d'agrément déposées à comp
 
 ###### Article 170 sexies
 
-Il est statué par le directeur régional des impôts sur les demandes d'agrément présentées en application du II de l'article
-209 du code général des impôts pour obtenir le maintien des déficits de la société bénéficiaire des apports, lorsque les
-capitaux propres de cette société n'excèdent pas 25 millions F et sauf difficultés particulières tenant aux conditions de
-réalisation de l'opération.
+Il est statué par le directeur régional des impôts sur les demandes d'agrément présentées en application du II et du III de
+l'article 209 du code général des impôts lorsque les capitaux propres des sociétés en cause n'excèdent pas 25 millions de
+francs.
 
 Dans les autres cas, la décision est prise par le ministre de l'économie, des finances et du budget après avis du conseil de
-direction du fonds de développement économique et social (1).
-
-(1) Dispositions applicables aux demandes d'agrément déposées à compter du 1er janvier 1984. Les agréments délivrés par les
-directeurs des services fiscaux sur des demandes déposées avant cette date peuvent être retirés soit par le directeur des
-services fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts territorialement compétent.
+direction du fonds de développement économique et social.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1983-12-16 art. 3 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
+	  - Arrêté 1991-10-28 art. 1 JORF 29 octobre 1991
 
 	**Cite**:
 
-	  - CGI 209 II
+	  - CGI 209
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
@@ -17160,14 +17468,19 @@ En ce qui concerne les personnes physiques et les personnes morales autres que c
 
 ###### Article 188 D
 
-L'impôt frappant les intérêts payés au cours de chaque trimestre est acquitté dans les vingt premiers jours du trimestre
-suivant [*délai, date de paiement*].
+L'impôt frappant les intérêts payés au cours de chaque mois est acquitté dans les quinze premiers jours du mois suivant(1).
+
+(1) Ces dispositions s'appliquent aux intérêts payés à partir de la date d'entrée en vigueur de l'arrêté.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Arrêté 1991-10-28 art. 1, art. 2 JORF 29 octobre 1991
+
+	**Codifié par**:
+
+	  - Arrêté 1992-08-27
 
 
 ###### Article 188 E
