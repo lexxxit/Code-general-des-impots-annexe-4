@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1992-07-04
+Version Consolidée au 1992-11-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1179,83 +1179,74 @@ Production de gelée royale.
 	  - HISTO: EDITION 1979-07-01
 
 
-##### Passage du régime du forfait à un régime de bénéfice réel.
+##### 3° : Passage du régime du forfait à un régime de bénéfice réel
 
 ###### Article 4 O
 
-En cas de passage d'un exploitant agricole du régime du forfait à un régime d'imposition d'après le bénéfice réel  les
-produits de la viticulture en stock à la date de changement de régime sont évalués en appliquant au cours du jour à la même
-date une décote calculée comme suit :
+En cas de passage d'un exploitant agricole du régime du forfait à un régime d'imposition d'après le bénéfice réel, les
+produits de la viticulture en stock à la date de ce changement de régime sont évalués en appliquant au cours du jour du vin
+en vrac à la même date une décote calculée comme suit :
 
 1° Décote applicable aux vins :
 
-Vins provenant de la dernière récolte levée à la date du changement de régime : 0 %;
+a) Vins provenant de la dernière récolte levée à la date du changement de régime : 0% ;
 
-Vins provenant de la deuxième et de la troisième récolte antérieure au changement de régime : 8 %;
+b) Vins provenant de la deuxième et de la troisième récolte antérieure au changement de régime : 8% ;
 
-Vins provenant de la quatrième   de la cinquième et de la sixième récolte antérieure au changement de régime : 20 %;
+c) Vins provenant de la quatrième, de la cinquième et de la sixième récolte antérieure au changement de régime : 20% ;
 
-Vins provenant de récoltes plus anciennes : 30 %.
-
-2° Décote applicable aux eaux-de-vie :
-
-Eaux-de-vie provenant de la dernière récolte levée à la date du changement de régime : 0 %;
-
-Eaux-de-vie provenant de la deuxième et de la troisième récolte antérieure au changement de régime : 5 %;
-
-Eaux-de-vie provenant de la quatrième récolte antérieure au changement de régime : 10 %;
-
-Eaux-de-vie provenant de la cinquième récolte antérieure au changement de régime : 15 %;
-
-Eaux-de-vie provenant de récoltes plus anciennes : 20 %.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### Passage du régime transitoire d'imposition à un régime de bénéfice réel.
-
-###### Article 4 P
-
-En cas de passage d'un exploitant agricole du régime transitoire d'imposition à un régime de bénéfice réel, les produits de
-la viticulture levés sous le régime du forfait, en stock à la date de ce changement de régime, sont évalués en appliquant au
-cours du jour à la même date une décote calculée comme suit :
-
-1° Décote applicable aux vins :
-
-Vins provenant de la dernière récolte levée à la date du passage du forfait au régime transitoire : 0 p. 100 ;
-
-Vins provenant de la deuxième et de la troisième récolte antérieure au passage du forfait au régime transitoire : 8 p. 100 ;
-Vins provenant de la quatrième, de la cinquième et de la sixième récolte antérieure au passage du forfait au régime
-transitoire :
-
-20 p. 100 ;
-
-Vins provenant de récoltes plus anciennes : 30 p. 100 ;
+d) Vins provenant d'une récolte plus ancienne : 30%.
 
 2° Décote applicable aux eaux-de-vie :
 
-Eaux-de-vie provenant de la dernière récolte levée à la date du passage du forfait au régime transitoire : 0 p. 100 ;
+a) Eaux-de-vie provenant de la dernière récolte levée à la date du changement de régime : 0% ;
 
-Eaux-de-vie provenant de la deuxième et de la troisième récolte antérieure au passage du forfait au régime transitoire : 5 p.
-100 ;     Eaux-de-vie provenant de la quatrième récolte antérieure au passage du forfait au régime transitoire : 10 p. 100 ;
+b) Eaux-de-vie provenant de la deuxième et de la troisième récolte antérieure au changement de régime : 5% ;
 
-Eaux-de-vie provenant de la cinquième récolte antérieure au passage du forfait au régime transitoire : 15 p. 100 ;
+c) Eaux-de-vie provenant de la quatrième récolte antérieure au changement de régime : 10% ;
 
-Eaux-de-vie provenant de récoltes plus anciennes : 20 p. 100.
+d) Eaux-de-vie provenant de la cinquième récolte antérieure au changement de régime : 15% ;
+
+e)Eaux-de-vie provenant d'une récolte plus ancienne : 20%.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1987-08-06 art. 1 JORF 8 août 1987
+	  - Arrêté 1992-11-04 art. 1 JORF 11 novembre 1992
 
 	**Codifié par**:
 
-	  - Arrêté 1987-11-23
+	  - Arrêté 1993-09-24
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
+
+
+##### 4° : Passage du régime transitoire d'imposition à un régime de bénéfice réel.
+
+###### Article 4 P
+
+En cas de passage d'un exploitant agricole du régime transitoire d'imposition à un régime d'imposition d'après le bénéfice
+réel, les produits de la viticulture en stock à la date de ce changement de régime sont évalués en appliquant au cours du
+jour du vin en vrac à la même date une décote calculée selon les modalités prévues à l'article 4 O.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1992-11-04 art. 2 JORF 11 novembre 1992
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Cite**:
+
+	  - CGIAN4 4 O
 
 
 ##### Section II : Traitements et salaires
