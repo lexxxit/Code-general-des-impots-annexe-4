@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1991-02-01
+Version Consolidée au 1991-02-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10601,6 +10601,45 @@ voiture ;
 
 
 ##### Section II : Droits de délivrance de documents et perceptions diverses
+
+##### I : Cartes d'entrée dans les casinos
+
+###### Article 121 B
+
+Les redevables qui demandent à payer sur états le droit de timbre exigible sur les cartes d'entrée dans les casinos versent à
+l'expiration de chaque mois le montant des droits au comptable des impôts qui a accordé l'autorisation du paiement sur états
+prévue à l'article 405 H de l'annexe III. Le versement intervient dans les vingt premiers jours du mois suivant celui au
+titre duquel les droits sont dus.
+
+L'autorisation de paiement sur états prend effet le 1er du mois suivant celui de sa notification au redevable.
+
+A l'appui de chaque versement, il est fourni un état indiquant les numéros des première et dernière cartes délivrées par
+série (journée, semaine, mois et saison) au cours du mois considéré ainsi que le montant de l'impôt correspondant.
+
+Cet état, certifié conforme aux écritures, est fourni en double exemplaire dont l'un est rendu au déposant après avoir été
+revêtu de l'acquit du comptable des impôts compétent ; l'autre est conservé par le service à l'appui de la recette des droits
+de timbre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-01-28 art. 1 JORF 3 février 1991
+
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
+	**Cite**:
+
+	  - CGIAN3 405 H
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 24 juin 1991
+	  - PEREMPTION: Loi n°2005-1720 du 30 décembre 2005 - art. 112 (V) JORF 31 décembre 2005
+
 
 ##### IV : Régies de recettes des préfectures et sous-préfectures
 
