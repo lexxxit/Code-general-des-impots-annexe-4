@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-08-08
+Version Consolidée au 1987-08-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11084,6 +11084,59 @@ Sont déposées à l'appui de l'état et en même temps que lui :
 	  - PEREMPTION: Loi - art. 68 () JORF 29 décembre 2001
 
 
+##### Section II : Fonds de garantie des assurances obligatoires de dommages
+
+###### Article 159 quinquies
+
+I. La contribution des assurés prévue à l'article 322 de l'annexe II au code général des impôts est recouvrée [*recouvrement,
+paiement*] et reversée suivant les modalités applicables en matière de taxe unique sur les conventions d'assurances.
+
+Elle fait l'objet de versements distincts à l'appui desquels il est déposé :
+
+1o Par les entreprises d'assurances des états spéciaux établis en double exemplaire pour chaque versement trimestriel;
+
+2o Par les courtiers et intermédiaires visés à l'article 388 de l'annexe III au code général des impôts  une déclaration en
+double exemplaire indiquant [*mentions*] le montant des sommes stipulées au profit des assureurs au cours du trimestre
+considéré et de leurs accessoires ainsi que le montant de la contribution correspondante.
+
+Les états et déclaration prévus aux deux précédents alinéas sont établis sur des formules imprimées mises à la disposition
+des assujettis par le service des impôts.
+
+II. Le montant de la contribution prévue à l'article 322 E de l'annexe II au code général des impôts est fixé comme suit
+[*tarif*] :
+
+1o Véhicules terrestres à moteur pour lesquels  aux termes de l'article R. 211-7 du code des assurances  l'assurance doit
+être souscrite sans limitation de somme :
+
+Pour une garantie limitée à huit jours    10 F  Pour une garantie limitée à quinze jours    20  Pour une garantie limitée à
+trente jours    40    2o Véhicules terrestres à moteur à deux roues ainsi que tricycles et triporteurs à moteur d'une
+cylindrée n'excédant pas 125 cm3 :
+
+Pour une garantie limitée à huit jours     2 F  Pour une garantie limitée à quinze jours     3  Pour une garantie limitée à
+trente jours     6    3o Autres véhicules terrestres à moteur :
+
+Pour une garantie limitée à huit jours     3 F  Pour une garantie limitée à quinze jours     6  Pour une garantie limitée à
+trente jours    10    4° Autres véhicules, notamment remorques :
+
+Pour une garantie limitée à huit jours     4 F  Pour une garantie limitée à quinze jours     7  Pour une garantie limitée à
+trente jours    10    Le montant de la contribution est intégralement reversé par l'organisme d'assurance mentionné à
+l'article R 211-24  deuxième alinéa  du code des assurances suivant les modalités prévues au paragraphe I du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
+
+	**Cite**:
+
+	  - CGIAN2 322
+	  - CGIAN2 322 E
+	  - CGIAN3 388
+	  - Code des assurances - art. R*211-7 (M)
+	  - Code des assurances R211-24 AL. 2
+
+
 ### Titre III : Dispositions communes
 
 #### Frais d'assiette et de perception
@@ -12516,25 +12569,6 @@ fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts
 
 	  - CGI 156 I 3°, II 1° ter
 	  - CGIAN3 41 H
-
-
-###### Article 17 quinquies B
-
-LES DIVIDENDES ET AUTRES PRODUITS VISES A L'ARTICLE 139 TER DU CODE GENERAL DES IMPOTS QUI SONT DISTRIBUES PAR LES SOCIETES
-IMMOBILIERES D'INVESTISSEMENT ET LES SOCIETES IMMOBILIERES DE GESTION A COMPTER DU 1ER JANVIER 1967 OUVRENT DOIT A LA
-DEDUCTION DE 20 % PREVUE A L'ARTICLE 159 QUINQUIES II DU MEME CODE.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 139 ter
-	  - CGI 159 quinquies II
-
-	**Liens**:
-
-	  - PEREMPTION: Conséquence du décret 87-940 1987-11-23 JORF 26 novembre 1987 en vigueur le 10 août 1987 : article devenu sans objet
-	  - HISTO: EDITION 1979-07-01
 
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES
@@ -14124,60 +14158,6 @@ hectolitre    Autres vins : 0,40 F par hectolitre.
 
 ### ENREGISTREMENT
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.
-
-###### Article 159 quinquies
-
-I. La contribution des assurés prévue à l'article 305 AA-3o de l'annexe I au code général des impôts est recouvrée
-[*recouvrement, paiement*] et reversée suivant les modalités applicables en matière de taxe unique sur les conventions
-d'assurances.
-
-Elle fait l'objet de versements distincts à l'appui desquels il est déposé :
-
-1o Par les entreprises d'assurances des états spéciaux établis en double exemplaire pour chaque versement trimestriel;
-
-2o Par les courtiers et intermédiaires visés à l'article 388 de l'annexe III au code général des impôts  une déclaration en
-double exemplaire indiquant [*mentions*] le montant des sommes stipulées au profit des assureurs au cours du trimestre
-considéré et de leurs accessoires ainsi que le montant de la contribution correspondante.
-
-Les états et déclaration prévus aux deux précédents alinéas sont établis sur des formules imprimées mises à la disposition
-des assujettis par le service des impôts.
-
-II. Le montant de la contribution prévue à l'article 305 AF de l'annexe I au code général des impôts est fixé comme suit
-[*tarif*] :
-
-1o Véhicules terrestres à moteur pour lesquels  aux termes de l'article R. 211-7 du code des assurances  l'assurance doit
-être souscrite sans limitation de somme :
-
-Pour une garantie limitée à huit jours    10 F  Pour une garantie limitée à quinze jours    20  Pour une garantie limitée à
-trente jours    40    2o Véhicules terrestres à moteur à deux roues ainsi que tricycles et triporteurs à moteur d'une
-cylindrée n'excédant pas 125 cm3 :
-
-Pour une garantie limitée à huit jours     2 F  Pour une garantie limitée à quinze jours     3  Pour une garantie limitée à
-trente jours     6    3o Autres véhicules terrestres à moteur :
-
-Pour une garantie limitée à huit jours     3 F  Pour une garantie limitée à quinze jours     6  Pour une garantie limitée à
-trente jours    10    4° Autres véhicules, notamment remorques :
-
-Pour une garantie limitée à huit jours     4 F  Pour une garantie limitée à quinze jours     7  Pour une garantie limitée à
-trente jours    10    Le montant de la contribution est intégralement reversé par l'organisme d'assurance mentionné à
-l'article R 211-24  deuxième alinéa  du code des assurances suivant les modalités prévues au paragraphe I du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGIAN1 305 AA 3°
-	  - CGIAN1 305 AF
-	  - CGIAN3 388
-	  - Code des assurances - art. R*211-7 (M)
-	  - Code des assurances R211-24 AL. 2
-
-
 #### TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.
 
 ###### Article 159 sexies
@@ -14403,36 +14383,39 @@ additionnelle au droit de bail instituée par l'article 1635 A du code général
 
 ###### Article 164 F bis
 
-Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts [*relatives aux bons de
-remis*] et de l'article R. 24-1 du livre des procédures fiscales sont applicables aux viandes nettes, non travaillées, y
-compris les viandes découpées, désossées ou congelées, provenant de l'abattage des animaux désignés ci-après : bovidés ovidés
-équidés suidés et caprins.
+Les dispositions des articles 368 à 368 G de l'annexe II au code général des impôts et de l'article R. 24-1 du livre des
+procédures fiscales sont applicables aux viandes nettes, non travaillées, y compris les viandes découpées, désossées ou
+congelées, provenant de l'abattage des animaux désignés ci-après : bovidés ovidés équidés suidés et caprins.
 
-Pour les bovidés  ovidés  équidés et caprins  la viande nette comprend les quatre quartiers de l'animal abattu et dépouillé
+Pour les bovidés ovidés équidés et caprins la viande nette comprend les quatre quartiers de l'animal abattu et dépouillé
 défalcation faite :
 
-1o De la tête  qui doit être enlevée par section au niveau de l'articulation de l'occiput et de la première vertèbre
-cervicale. La section est effectuée suivant un plan perpendiculaire  au grand axe des vertèbres cervicales;
+1o De la tête qui doit être enlevée par section au niveau de l'articulation de l'occiput et de la première vertèbre
+cervicale. La section est effectuée suivant un plan perpendiculaire au grand axe des vertèbres cervicales;
 
-2o D'une partie des membres  les antérieurs ayant été sectionnés à l'articulation du genou  les postérieurs à l'articulation
-du jarret suivant les habitudes de la boucherie;
+2o D'une partie des membres les antérieurs ayant été sectionnés à l'articulation du genou les postérieurs à l'articulation du
+jarret suivant les habitudes de la boucherie;
 
-3o Des organes contenus dans les cavités thoracique et abdominale.    Pour les suidés  la viande nette s'entend de l'animal
-abattu  non dépouillé  à l'exclusion des organes contenus dans les cavités thoracique et abdominale.
+3o Des organes contenus dans les cavités thoracique et abdominale. Pour les suidés la viande nette s'entend de l'animal
+abattu non dépouillé à l'exclusion des organes contenus dans les cavités thoracique et abdominale.
 
-Toutefois  quelle que soit l'espèce des animaux abattus  toute partie attenante à la carcasse ou à une partie de carcasse est
+Toutefois quelle que soit l'espèce des animaux abattus toute partie attenante à la carcasse ou à une partie de carcasse est
 considérée comme viande nette.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1988-10-20
 
 	**Cite**:
 
 	  - CGI R24-1
-	  - CGIAN1 310 quinquies A CGIAN1 310 terdecies
+	  - CGIAN2 368 à CGIAN2 368 G
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 ###### Article 164 F decies
@@ -14500,8 +14483,7 @@ carnet peut être remplacé par une attestation à caractère permanent.
 
 ###### Article 164 F nonies
 
-Les dispositions des articles 368 A à 368 C de l'annexe II au code général des impôts [*relatives aux bons de remis*] sont
-applicables aux produits suivants :
+Les dispositions des articles 369 à 369 B de l'annexe II au code général des impôts sont applicables aux produits suivants :
 
 1o Légumes à l'état frais.
 
@@ -14512,7 +14494,7 @@ oignons; échalotes; aulx; persil.
 
 2o Fruits à l'état frais.
 
-Bananes; ananas; avocats; agrumes; figues; raisins; pommes; poires; abricots; pêches  y compris les brugnons et nectarines;
+Bananes; ananas; avocats; agrumes; figues; raisins; pommes; poires; abricots; pêches y compris les brugnons et nectarines;
 cerises; prunes; fraises; framboises; groseilles et cassis; melons; pastèques.
 
 3o Fruits à l'état frais ou sec.
@@ -14521,23 +14503,27 @@ Noix; châtaignes et marrons.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
 	**Cite**:
 
-	  - CGIAN2 368 A
-	  - CGIAN2 368 B
-	  - CGIAN2 368 C
+	  - CGIAN2 369
+	  - CGIAN2 369 A
+	  - CGIAN2 369 B
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 ###### Article 164 F novodecies
 
-Est autorisée l'utilisation des machines à timbrer qui  suivant les prévisions de l'article 310 octies de l'annexe I du code
-général des impôts  sont destinées à apposer les empreintes fiscales authentifiant les documents de livraison utilisés par
-les expéditeurs de marchandises passibles de la taxe sur la valeur ajoutée [*TVA*] et dont le transport est soumis à la
-formalité prévue par l'article 1649 ter du même code.
+Est autorisée l'utilisation des machines à timbrer qui suivant les prévisions de l'article 368 C de l'annexe II du code
+général des impôts sont destinées à apposer les empreintes fiscales authentifiant les documents de livraison utilisés par les
+expéditeurs de marchandises passibles de la taxe sur la valeur ajoutée et dont le transport est soumis à la formalité prévue
+par l'article 1649 ter du même code.
 
 Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
 
@@ -14545,61 +14531,64 @@ les mots : " Bons de remis ";
 
 un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération;
 
-les date et heure d'enlèvement  exprimées en chiffres.
+les date et heure d'enlèvement exprimées en chiffres.
 
 L'empreinte apposée sur chaque bon de remis doit être reproduite par décalque sur le duplicata de ce document qui en
 constitue la souche.
 
-Par dérogation aux dispositions du premier alinéa de l'article 164 AD  toute personne qui désire utiliser une machine à
-timbrer faisant l'objet du présent article est simplement tenue d'en faire la déclaration au service des impôts
-[*obligation*].
+Par dérogation aux dispositions du premier alinéa de l'article 164 AD toute personne qui désire utiliser une machine à
+timbrer faisant l'objet du présent article est simplement tenue d'en faire la déclaration au service des impôts.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
 
 	**Cite**:
 
 	  - CGI 1649 ter
-	  - CGIAN1 164 AD
-	  - CGIAN1 310 octies
+	  - CGIAN2 368 C
+	  - CGIAN4 164 AD
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 ###### Article 164 F octies
 
-I. Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts et de l'article R.
-24-1 du livre des procédures fiscales [*relatives aux bons de remis*] sont applicables aux chaussures et articles chaussants
-de toute nature.
+I. Les dispositions des articles 368 à 368 G de l'annexe II au code général des impôts et de l'article R. 24-1 du livre des
+procédures fiscales sont applicables aux chaussures et articles chaussants de toute nature.
 
 II. Ne donnent pas lieu à l'établissement de bons de remis les transports des produits désignés au I, effectués entre leurs
 magasins de stockage et leurs succursales par les entreprises dont la vente au détail constitue l'activité principale.
 
-III. Les bons de remis sont numérotés et utilisés dans leur ordre numérique; ils doivent mentionner  dans les conditions
+III. Les bons de remis sont numérotés et utilisés dans leur ordre numérique; ils doivent mentionner dans les conditions
 prescrites par la direction générale des impôts :
 
-Les noms ou raisons sociales et adresses de l'expéditeur et du destinataire et  s'ils sont différents  les noms et adresses
-du vendeur et de l'acheteur;
+Les noms ou raisons sociales et adresses de l'expéditeur et du destinataire et s'ils sont différents les noms et adresses du
+vendeur et de l'acheteur;
 
 La date et l'heure de départ et la durée du transport;
 
 Les moyens de transport utilisés;
 
-Les références commerciales attribuées aux produits et  pour chaque référence  le nombre de paires composant le chargement.
+Les références commerciales attribuées aux produits et pour chaque référence le nombre de paires composant le chargement.
 
-IV. Toute personne qui fabrique ou fait fabriquer pour son compte les produits désignés au I doit tenir  dans chaque
-établissement ou lieu de stockage  une comptabilité-matières comportant les indications suivantes  par référence
-commerciale :
+IV. Toute personne qui fabrique ou fait fabriquer pour son compte les produits désignés au I doit tenir dans chaque
+établissement ou lieu de stockage une comptabilité-matières comportant les indications suivantes par référence commerciale :
 
 La date de fabrication; les quantités fabriquées;
 
 La date d'expédition; les quantités livrées; le numéro du bon de remis établi pour la livraison ou les nom et adresse du
-destinataire;     Les quantités détenues le dernier jour de chaque mois.
+destinataire;
 
-V. Toute personne qui reçoit et réexpédie des chaussures doit tenir  dans chaque établissement ou lieu de stockage autre
-qu'un magasin de vente au détail  une comptabilité-matières comportant les indications suivantes  par catégorie d'usagers
-Hommes  Femmes ou Enfants :
+Les quantités détenues le dernier jour de chaque mois.
+
+V. Toute personne qui reçoit et réexpédie des chaussures doit tenir dans chaque établissement ou lieu de stockage autre qu'un
+magasin de vente au détail une comptabilité-matières comportant les indications suivantes par catégorie d'usagers Hommes
+Femmes ou Enfants :
 
 La date de la réception et les quantités reçues; les nom et adresse de l'expéditeur ou la référence au bon de remis ayant
 accompagné les produits;
@@ -14609,25 +14598,23 @@ destinataire;
 
 Les quantités détenues le dernier jour de chaque trimestre.
 
-**Nota:**
-
-[*Arrêté 1986-01-20 art. 1 : "l'application des dispositions de l'article 164 F octies de l'annexe IV au code général des
-impôts est suspendue." Cette mesure entre en vigueur à compter du 31 janvier 1986*].
+(1) La formalité du bon de remis applicable aux chaussures et autres articles chaussants a été suspendue par l'arrêté du 20
+janvier 1986 (JO du 30).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1986-01-20 art. 1 JORF 30 janvier 1986
+	  - Arrêté 1988-10-20
 
 	**Cite**:
 
 	  - CGI R24-1
-	  - CGIAN1 310 quinquies A CGIAN1 310 terdecies
+	  - CGIAN2 368 à CGIAN2 368 G
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 ###### Article 164 F octodecies
@@ -14693,25 +14680,29 @@ dans la comptabilité-matières.
 
 ###### Article 164 F quaterdecies
 
-Les dispositions de l'article 368 A-I de l'annexe II au code général des impôts [*relatives aux bons de remis*] ne sont pas
-applicables aux transports effectués par quantités inférieures ou égales à :
+Les dispositions de l'article 369 de l'annexe II au code général des impôts ne sont pas applicables aux transports effectués
+par quantités inférieures ou égales à :
 
-1o 25 kg pour les légumes à l'état frais suivants : pommes de terre de primeur  choux autres que les choux de Bruxelles
-carottes navets  betteraves potagères  céleris raves  céleris à côtes artichauts  tomates  concombres  poireaux  courges et
-courgettes potirons  oignons secs;
+1o 25 kg pour les légumes à l'état frais suivants : pommes de terre de primeur choux autres que les choux de Bruxelles
+carottes navets betteraves potagères céleris raves céleris à côtes artichauts tomates concombres poireaux courges et
+courgettes potirons oignons secs;
 
 2o 10 kg pour chacun des autres produits ou catégories de produits énumérés à l'article 164 F nonies.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
 	**Cite**:
 
-	  - CGIAN2 368 A I
+	  - CGIAN2 369
 	  - CGIAN4 164 F nonies
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 ###### Article 164 F quinquies
@@ -14998,11 +14989,10 @@ remis pour le compte de ces producteurs.
 
 ###### Article 164 F quindecies
 
-Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts et des articles R. 24-1
-et R. 213-3 du livre des procédures fiscales sont applicables aux farines de blé de seigle et de méteil pures ou en mélanges
-dont les types ont été homologués par les arrêtés des 13 juillet et 24 décembre 1963 et aux produits dans la composition
-desquels entrent ces farines et qui sont utilisés en boulangerie pâtisserie biscuiterie biscotterie ou pour la fabrication de
-plats préparés.
+Les dispositions des articles 368 à 368 G de l'annexe II au code général des impôts et des articles R. 24-1 et R. 213-3 du
+livre des procédures fiscales sont applicables aux farines de blé de seigle et de méteil pures ou en mélanges dont les types
+ont été homologués par les arrêtés des 13 juillet et 24 décembre 1963 et aux produits dans la composition desquels entrent
+ces farines et qui sont utilisés en boulangerie pâtisserie biscuiterie biscotterie ou pour la fabrication de plats préparés.
 
 Sont toutefois placés hors du champ d'application de la réglementation les adjuvants  améliorants ou produits d'appoint
 contenant des farines mais qui ne constituent pas une matière première utilisable à l'état pur et qui sont employés à des
@@ -15010,17 +15000,19 @@ doses n'excédant pas 5 %.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Arrêté 1963-07-13
-	  - Arrêté 1963-12-24
-	  - CGI R213-3
-	  - CGI R24-1
-	  - CGIAN1 325
-
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGI R213-3
+	  - CGI R24-1
+	  - CGIAN2 368 à CGIAN2 368 G
+
+	**Abrogé par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
 #### REGLEMENTATION DES MACHINES A TIMBRER.

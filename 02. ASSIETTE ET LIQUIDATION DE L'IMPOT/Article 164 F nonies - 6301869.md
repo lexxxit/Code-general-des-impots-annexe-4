@@ -1,7 +1,6 @@
 # Article 164 F nonies
 
-Les dispositions des articles 368 A à 368 C de l'annexe II au code général des impôts [*relatives aux bons de remis*] sont
-applicables aux produits suivants :
+Les dispositions des articles 369 à 369 B de l'annexe II au code général des impôts sont applicables aux produits suivants :
 
 1o Légumes à l'état frais.
 
@@ -12,7 +11,7 @@ oignons; échalotes; aulx; persil.
 
 2o Fruits à l'état frais.
 
-Bananes; ananas; avocats; agrumes; figues; raisins; pommes; poires; abricots; pêches  y compris les brugnons et nectarines;
+Bananes; ananas; avocats; agrumes; figues; raisins; pommes; poires; abricots; pêches y compris les brugnons et nectarines;
 cerises; prunes; fraises; framboises; groseilles et cassis; melons; pastèques.
 
 3o Fruits à l'état frais ou sec.
@@ -21,12 +20,16 @@ Noix; châtaignes et marrons.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
 	**Cite**:
 
-	  - CGIAN2 368 A
-	  - CGIAN2 368 B
-	  - CGIAN2 368 C
+	  - CGIAN2 369
+	  - CGIAN2 369 A
+	  - CGIAN2 369 B
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
