@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2004-06-12
+Version Consolidée au 2004-07-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9923,64 +9923,6 @@ du budget.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 191 (V)
 
 
-##### 2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations.
-
-###### Article 56 J quater
-
-La déclaration mentionnée à l'article 56 J ter est souscrite en double exemplaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1984-07-17 art. 2 JORF 24 juillet 1984
-
-	**Abrogé par**:
-
-	  - Arrêté 2004-07-08 art. 1 JORF 17 juillet 2004
-
-	**Cite**:
-
-	  - CGIAN4 56 J ter
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 56 J ter
-
-La date limite à laquelle les redevables du droit spécifique sur les ouvrages mentionnés à l'article 522 du code général des
-impôts doivent remettre ou envoyer à la recette des douanes et droits indirect dans le ressort de laquelle ils sont établis
-la déclaration prévue à l'article 527 du code précité est fixée comme suit :
-
-1° Pour les entreprises individuelles, avant le 10 du mois suivant ;
-
-2° Pour les sociétés à responsabilité limitée et les sociétés en nom collectif, avant le 15 du mois suivant ;
-
-3° Pour les autres sociétés, avant le 20 du mois suivant.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1994-05-04 art. 1 JORF 14 mai 1994
-
-	**Abrogé par**:
-
-	  - Arrêté 2004-07-08 art. 1 JORF 17 juillet 2004
-
-	**Cite**:
-
-	  - CGI 522, 527
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-	  - HISTO: Edition du 31 août 2004
-
-
 ##### 3° : Les commissionnaires en garantie
 
 ###### Article 56 J decies
@@ -10475,6 +10417,31 @@ de sortie.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 56 J vicies
+
+Pour l'application de l'article 209-0 A de l'annexe III au code général des impôts, la fiche d'apport à la marque, conforme à
+un modèle fixé par l'administration, reprend le nombre d'ouvrages en or, alliage d'or, argent et platine apportés par les
+opérateurs au bureau de garantie ou à l'organisme de contrôle agréé pour y être essayés et marqués. Ce document est
+préalablement rempli par l'opérateur. Il est annoté par le bureau de garantie ou par l'organisme de contrôle agréé au fur et
+à mesure des opérations de marquage et de restitution des ouvrages. Lorsque les ouvrages sont poinçonnés par le bureau de
+garantie, une copie de la fiche d'apport, annotée par le service, doit accompagner la déclaration de paiement de la
+contribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2004-07-08 art. 1 JORF 17 juillet 2004
+
+	**Cite**:
+
+	  - CGIAN3 209-0 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
 
 
 #### Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer.
