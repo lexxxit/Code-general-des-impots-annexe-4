@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1994-11-06
+Version Consolidée au 1995-10-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -889,21 +889,21 @@ s'entend des matériaux naturels présentant une teneur sur produit sec d'au moi
 
 La provision prévue au I bis de l'article 39 octies A du code général des impôts peut être égale au montant de
 l'investissement lorsque l'implantation est réalisé, dans les conditions prévues à cet article, dans un Etat qui n'est pas
-membre de la Communauté économique européenne.
+membre de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1987-04-22 art. 1 JORF 28 mai 1987
-
 	**Codifié par**:
 
-	  - Arrêté 1987-11-23
+	  - Arrêté 1995-12-11
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
 
 	**Cite**:
 
-	  - CGI 39 octies A I bis
+	  - Code général des impôts, CGI. - art. 39 octies A (VT)
 
 
 ##### VIII : Contrôle des frais généraux. Obligations des entreprises
@@ -911,30 +911,34 @@ membre de la Communauté économique européenne.
 ###### Article 4 J
 
 Les entreprises exerçant une activité industrielle ou commerciale et soumises à l'impôt sur le revenu d'après leur bénéfice
-réel ainsi que les entreprises passibles de l'impôt sur les sociétés sont tenues de fournir  à l'appui de la déclaration des
-résultats de chaque exercice  le relevé détaillé des catégories de frais généraux prévu à l'article 54 quater du code général
-des impôts lorsque ces frais excèdent  pour une ou plusieurs desdites catégories  l'un des chiffres suivants :
+réel ainsi que les entreprises passibles de l'impôt sur les sociétés sont tenues de fournir, à l'appui de la déclaration des
+résultats de chaque exercice, le relevé détaillé des catégories de frais généraux prévu à l'article 54 quater du code général
+des impôts lorsque ces frais excèdent, pour une ou plusieurs desdites catégories, l'un des chiffres suivants :
 
-1° 1.600.000 F ou 800.000 F pour l'ensemble des rémunérations directes ou indirectes versées aux 10 ou 5 personnes les mieux
-rémunérées  suivant que l'effectif du personnel dépasse ou non 200 salariés  ou 260.000 F pour l'une d'entre elles prise
-individuellement;
+1° 2.000.000 F ou 1.000.000 F pour l'ensemble des rémunérations directes ou indirectes versées aux 10 ou 5 personnes les
+mieux rémunérées, suivant que l'effectif du personnel dépasse ou non 200 salariés, ou 325.000 F pour l'une d'entre elles
+prise individuellement ;
 
-2° 60.000 F pour les frais de voyage et de déplacement exposés par ces personnes;
+2° 100.000 F pour les frais de voyage et de déplacement exposés par ces personnes ;
 
-3° 100.000 F pour le total, d'une part, des dépenses et charges afférentes aux véhicules et autres biens dont elles peuvent
+3° 200.000 F pour le total, d'une part, des dépenses et charges afférentes aux véhicules et autres biens dont elles peuvent
 disposer en dehors des locaux professionnels et, d'autre part, des dépenses et charges de toute nature afférentes aux
 immeubles qui ne sont pas affectés à l'exploitation ;
 
-4° 10.000 F pour les cadeaux de toute nature, à l'exception des objets spécialement conçus pour la publicité et dont la
+4° 20.000 F pour les cadeaux de toute nature, à l'exception des objets spécialement conçus pour la publicité et dont la
 valeur unitaire ne dépasse pas 200 F par bénéficiaire ;
 
-5° 26.000 F pour les frais de réception, y compris les frais de restaurant et de spectacles.
+5° 40.000 F pour les frais de réception, y compris les frais de restaurant et de spectacles.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-03-21 art. 1 JORF 31 mars 1988
+	  - Arrêté 1994-11-15 art. 1 JORF 23 novembre 1994
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
@@ -944,6 +948,10 @@ valeur unitaire ne dépasse pas 200 F par bénéficiaire ;
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 K (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 L (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 4 K
@@ -2842,60 +2850,64 @@ Egal ou supérieur à 150 % du montant du capital vie : 55 %.
 
 ###### Article 18
 
-Pour l'année 1994, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 1995, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 Taux applicable : 0 p.100
 
 Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-Moins de : 58.150 F / Année
+Moins de : 58.960 F / Année
 
-14.538 F / Trimestre
+14.740 F / Trimestre
 
-4.846 F / Mois
+4.914 F / Mois
 
-1.119 F / Semaine
+1.134 F / Semaine
 
-187 F / Jour ou fraction de jour
+189 F / Jour ou fraction de jour
 
 Taux applicable : 15 p. 100
 
 Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-De : 58.150 F à 168.730 F / Année
+De : 58.960 F à 171.090 F / Année
 
-De : 14.538 F à 42.183 F / Trimestre
+De : 14.470 F à 42.773 F / Trimestre
 
-De : 4.846 F à 14.061 F / Mois
+De : 4.914 F à 14.258 F / Mois
 
-De : 1.119 F à 3.245 F / Semaine
+De : 1.134 F à 3.291 F / Semaine
 
-De : 187 F à 541 F / Jour ou fraction de jour
+De : 189 F à 549 F / Jour ou fraction de jour
 
 Taux applicable : 25 p. 100
 
 Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de : 168.730 F / Année
+Au-delà de : 171.090 F / Année
 
-42.183 F / Trimestre
+42.773 F / Trimestre
 
-14.061 F / Mois
+14.258 F / Mois
 
-3.245 F / Semaine
+3.291 F / Semaine
 
-541 F / Jour ou fraction de jour.
+549 F / Jour ou fraction de jour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1994-01-10 art. 1 JORF 15 janvier 1994
+	  - Arrêté 1995-01-11 art. 1 JORF 14 janvier 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 27 octobre 1995
 
 
 #### Chapitre II : Impôt sur les sociétés
@@ -3730,6 +3742,67 @@ passagers.
 	  - Code général des impôts, CGI. - art. 262 (V)
 
 
+##### 3° : Exonérations des livraisons par les comptoirs de vente.
+
+###### Article 24 B
+
+L'exonération prévue à l'article 262 quater du code général des impôts est applicable :
+
+I. - Aux livraisons de biens dont la valeur globale ne dépasse pas, par personne et par voyage, 600 F.
+
+Lorsque la valeur de plusieurs biens, ou de plusieurs livraisons, excède cette limite, l'exonération est accordée jusqu'à
+concurrence de ce montant. La valeur d'un bien ne peut pas être fractionnée ;
+
+II. 1. Aux livraisons de certains produits de tabac, alcool et boissons alcooliques pour les quantités suivantes :
+
+a) Produits de tabac :
+
+- cigarettes : 200 pièces, ou
+
+- cigarillos (cigares d'un poids maximal de 3 grammes par pièce) :
+
+100 pièces, ou
+
+- cigares : 50 pièces, ou
+
+- tabac à fumer : 250 grammes ;
+
+b) Alcools et boissons alcooliques :
+
+- boissons distillées et boissons spiritueuses ayant un titre alcoométrique supérieur à 22 p. 100 vol., alcool éthylique non
+dénaturé de 80 p. 100 vol. et plus : 1 litre, ou
+
+- boissons distillées et boissons spiritueuses, apéritifs à base d vin ou d'alcool, tafia, saké ou boissons similaires ayant
+un titre alcoométrique inférieur ou égal à 22 p. 100 vol., vins mousseux, vins de liqueur : 2 litres, et
+
+- vins tranquilles : 2 litres ;
+
+c) Parfums : 50 grammes et eaux de toilette : 0,25 litre.
+
+2. Les voyageurs âgés de moins de dix-sept ans ne bénéficient d'aucune exonération pour les biens mentionnés aux a et b du 1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-05-02 art. 1 JORF 6 mai 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+	  - Arrêté 2000-06-02
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2000-06-02 art. 1 JORF 3 juin 2000
+	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 mars 2000
+
+	**Cite**:
+
+	  - CGI 262 quater
+
+
 ##### Section III : Liquidation de la taxe
 
 ##### I : Remboursement de la taxe aux assujettis établis hors de France.
@@ -3738,8 +3811,10 @@ passagers.
 
 En application de l'article 242-0 P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée [*TVA*] dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0 M de la même
-annexe est fixé, pour les années ((1993 et 1994)) (1), à 1400 F pour les demandes déposées au titre d'un trimestre civil et à
+annexe est fixé, pour les années ((1994 et 1995)) (1), à 1400 F pour les demandes déposées au titre d'un trimestre civil et à
 170 F pour les demandes déposées au titre d'une année civile.
+
+**Nota:**
 
 (1) Modification de l'arrêté.
 
@@ -3747,13 +3822,20 @@ annexe est fixé, pour les années ((1993 et 1994)) (1), à 1400 F pour les dema
 
 	**Modifié par**:
 
-	  - Arrêté 1994-02-18 art. 1 JORF 26 février 1994
-	  - Modifications directes incorporées dans l'édition du 2 septembre 1994
+	  - Arrêté 1995-03-02 art. 1 JORF 10 mars 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
 	  - CGIAN2 242-0 M
 	  - CGIAN2 242-0 P
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 28-0 A
@@ -4265,51 +4347,53 @@ l'annexe susvisée  ainsi que la valeur correspondante, taxe comprise, des même
 	  - Décret n°79-1163 du 29 décembre 1979 - art. 9 (V) JORF 31 décembre 1979
 
 
-##### Tenue des registres.
+##### B : Tenue des registres
 
 ###### Article 41 bis
 
 Le registre des biens prévu au I de l'article 286 quater du code général des impôts comporte les mentions nécessaires à
 l'identification de l'expédition ou du transport de biens sur le territoire d'un autre Etat membre de la Communauté
-économique européenne et destinés dans cet Etat à être utilisés à titre temporaire ou à faire l'objet de travail à façon dans
-les conditions prévues aux a et b du III de l'article 256 du code général des impôts :
+européenne et destinés dans cet Etat à être utilisés à titre temporaire ou à faire l'objet de travail à façon dans les
+conditions prévues aux a et b du III de l'article 256 du code général des impôts :
 
-" a) Désignation des biens ou matériaux ;
+a) Désignation des biens ou matériaux ;
 
-" b) Quantité exprimée en poids, volume ou unité ;
+b) Quantité exprimée en poids, volume ou unité ;
 
-" c) Lieu de destination ;
+c) Lieu de destination ;
 
-" d) Date de l'expédition ou du transport ;
+d) Date de l'expédition ou du transport ;
 
-" e) Date du retour ;
+e) Date du retour ;
 
-" f) Nature de l'opération ;
+f) Nature de l'opération ;
 
-" g) S'il y a lieu, désignation par son numéro d'assujetti à la TVA du façonnier établi dans un autre Etat membre, auquel les
+g) S'il y a lieu, désignation par son numéro d'assujetti à la TVA du façonnier établi dans un autre Etat membre, auquel les
 biens ont été expédiés en vue d'un travail à façon.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1992-12-04 art. 1 JORF 11 décembre 1992
-
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
 	  - CGI 286 quater, 256
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 quinquies (V)
 
+	**Liens**:
 
-##### B : Tenue des registres
+	  - HISTO: Edition du 27 octobre 1995
+
 
 ###### Article 41 quater
 
@@ -4526,23 +4610,30 @@ l'article 284 de ce code ou susceptibles de bénéficier des dispositions prévu
 
 2° A l'article 275 du même code, lorsqu'elles réalisent des exportations, des livraisons exonérées en vertu du I de l'article
 262 ter ou de l'article 262 quater dudit code ou des livraisons dont le lieu est situé sur le territoire d'un autre Etat
-membre de la Communauté économique européenne en application de l'article 258 A du code précité.
+membre de la Communauté européenne en application de l'article 258 A du code précité.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 1993-02-09 art. 2 JORF 17 février 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
-	  - CGI 276, 284, 261 4 10°, 275, 262 ter , 262 quater, 258 A
+	  - CGI 276, 284, 261 4 10°, 275, 262 ter, 262 quater, 258 A
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 50
@@ -6721,6 +6812,97 @@ MONTANT de la somme à consigner (en francs) 2000.
 
 
 ### Titre III : Contributions indirectes
+
+#### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés
+
+##### 1° bis : Attestation de consignation
+
+###### Article 50-0 A
+
+I. L'attestation de consignation des droits dus par un opérateur non enregistré, visée à l'article 302 N du code général des
+impôts, pour la réception en France de produits expédiés en suspension d'accise d'un autre Etat membre de la Communauté
+européenne, est établie par la recette des douanes et droits indirects conformément aux modèles repris selon la nature des
+produits en annexe à l'arrêté du 24 décembre 1992 (Journal officiel du 30).
+
+II. Cette attestation est établie en deux exemplaires. L'exemplaire n° 1 est remis, par la recette des douanes et droits
+indirects ayant effectué la consignation, à l'opérateur non enregistré. Ce dernier se charge de l'adresser à l'entrepositaire
+agréé expéditeur qui doit le joindre au document d'accompagnement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1992-12-24 annexe
+	  - CGI 302 N
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
+
+#### Chapitre 0I : Echanges intracommunautaires des alcools, boissons alcooliques et tabacs manufacturés
+
+##### Exonération des livraisons par les comptoirs de vente.
+
+###### Article 50-0 B
+
+1. L'exonération prévue à l'article 302 F du code général des impôts est applicable aux livraisons de certains produits de
+tabac, alcool et boissons alcooliques pour les quantités suivantes :
+
+a. Produits de tabac :
+
+cigarettes : 200 pièces, ou
+
+cigarillos (cigares d'un poids maximal de 3 grammes par pièce) :
+
+100 pièces, ou
+
+cigares : 50 pièces, ou
+
+tabac à fumer : 250 grammes ;
+
+b. Alcools et boissons alcooliques :
+
+boissons distillées et boissons spiritueuses ayant un titre alcoométrique supérieur à 22 p. 100 vol., alcool éthylique non
+dénaturé de 80 p. 100 vol. et plus : 1 litre, ou
+
+boissons distillées et boissons spiritueuses, apéritifs à base de vin ou d'alcool, tafia, saké, ou boissons similaires ayant
+un titre alcoométrique inférieur ou égal à 22 p. 100 vol., vins mousseux, vins de liqueur : 2 litres, et
+
+vins tranquilles : 2 litres ;
+
+c) Parfums : 50 grammes et eaux de toilette : 0,25 litre.
+
+2. Les voyageurs âgés de moins de dix-sept ans ne bénéficient d'aucune exonération pour les biens mentionnés aux a et b du 1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-05-02 art. 2 JORF 6 mai 1995
+
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2000-06-02 art. 1 JORF 3 juin 2000
+	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 mars 2000
+
+	**Cite**:
+
+	  - CGI 302 F
+
 
 #### Chapitre premier : Boissons
 
@@ -9645,6 +9827,347 @@ la déclaration prévue à l'article 527 du code précité est fixée comme suit
 	  - HISTO: Edition du 31 août 2004
 
 
+##### 3° : Les commissionnaires en garantie
+
+###### Article 56 J decies
+
+Le commissionnaire en garantie agit dans le cadre de mandats écrits qui lui sont confiés et qu'il présente à toute
+réquisition du service des douanes et droits indirects. 
+
+Le commissionnaire en garantie conserve tous les documents justificatifs de ses activités pendant un délai de trois ans à
+compter de la date de l'accomplissement des formalités pour le compte des fabricants ou des marchands visés au I de l'article
+535 du code général des impôts. Ces documents sont tenus à la disposition du service des douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-27 art. 6 JORF 5 mai 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 535 (V)
+
+
+###### Article 56 J nonies
+
+Le commissionnaire en garantie est tenu de porter à la connaissance de la direction générale des douanes et droits indirects
+tout changement affectant les justificatifs visés à l'article 56 J quinquies ainsi que tout changement relatif aux personnes
+physiques habilitées à représenter les personnes morales agréées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-27 art. 5 JORF 5 mai 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quinquies (V)
+
+
+###### Article 56 J quinquies
+
+Les personnes physiques ou morales qui veulent exercer la profession de commissionnaire en garantie prévue au I de l'article
+535 du code général des impôts doivent déposer auprès de la direction générale des douanes et droits indirects une demande
+écrite en vue de leur agrément indiquant leurs nom et adresse et le ou les bureaux de garantie auprès desquels ils désirent
+exercer leur activité. 
+
+La demande est accompagnée, pour les personnes physiques, de l'extrait du casier judiciaire ou, à défaut, toute pièce en
+tenant lieu, et d'un justificatif d'identité, pour les personnes morales, de l'extrait du registre du commerce et des
+sociétés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-27 art. 1 JORF 5 mai 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J nonies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J septies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 535 (V)
+
+
+###### Article 56 J sexies
+
+La direction générale des douanes et droits indirects accuse réception de la demande et procède sans délai à une enquête.
+
+La direction générale des douanes et droits indirects peut se faire présenter toute pièce complémentaire nécessaire à
+l'instruction de la demande et statue dans le délai de deux mois suivant la date de réception de la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-27 art. 2 JORF 5 mai 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+
+###### Article 56 J undecies
+
+En cas de manquement aux dispositions légales ou réglementaires applicables en matière de garantie des métaux précieux,
+l'agrément est retiré par décision motivée du directeur général des douanes et droits indirects et mention du retrait de
+l'agrément est faite au Bulletin officiel des douanes.
+
+Le directeur général des douanes et droits indirects peut, sans délai, à titre conservatoire, suspendre l'agrément d'une
+personne morale ou physique qui ne respecte pas ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-27 art. 7 JORF 5 mai 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+
+##### 4° : Convention d'habilitation
+
+###### Article 56 J duodecies
+
+Le cahier des charges prévu à l'article 275  bis C de l'annexe II au code général des impôts comprend les trois
+documentations décrites à l'article 56 J terdecies, propres à garantir le titre des ouvrages produits.
+
+La direction nationale de la garantie et des services industriels approuve le cahier des charges préalablement à la mise en
+oeuvre de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-03-06 art. 1 JORF 14 mars 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGIAN2 275 bis C
+	  - CGIAN4 56 J terdecies
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+##### 4° bis : Organismes de contrôle agréés
+
+###### Article 56 J terdecies
+
+Le cahier des charges mentionné à l'article 56 J duodecies est composé de :
+
+a. Une documentation relative à la mise en place des procédures ; elle comprend :
+
+1° La description des responsabilités de la direction de l'entreprise pour tout ce qui concerne la politique de qualité et
+son organisation ;
+
+2° Les documents relatifs au système de qualité mis en oeuvre et les instructions données au personnel dans ce cadre ;
+
+3° La procédure de gestion des documents et des données relatives à la politique de qualité ;
+
+b. Une documentation relative au fonctionnement de la procédure et aux contrôles à opérer ; elle recouvre la description :
+
+1° Des sources d'approvisionnement des alliages, apprêts et accessoires et des méthodes d'évaluation de leur qualité ainsi
+que des méthodes de contrôle des métaux précieux et alliages de toutes natures mises en oeuvre depuis leur acquisition
+jusqu'aux produits finis ; ce contrôle permet la maîtrise des procédés de production qui ont une incidence sur le titre ;
+
+2° Des analyses et essais, qui peuvent se situer tout au long du processus de production, de la réception des matières
+premières à la livraison des produits finis ;
+
+3° Des moyens mis en oeuvre pour la maîtrise des équipements d'analyse et d'essai destinés à démontrer le respect du titre ;
+
+4° De l'organisation de la gestion des produits non conformes au titre légal prévu, au moyen de procédures documentées qui
+assurent que ces produits ne seront pas insculpés du poinçon de titre ou commercialisés ; le responsable de l'examen et de la
+destination de la production non conforme doit être désigné ;
+
+5° De la mise en oeuvre d'actions correctives ;
+
+c. Une documentation relative aux modalités d'observation et d'enregistrement des procédures suivies ; elle comprend les
+modalités :
+
+1° D'enregistrement des procédures d'identification, de collecte, de classement, d'archivage et de mise à jour des données
+relatives au titre ;
+
+2° De mise en oêuvre des audits internes de qualité destinés à permettre la vérification de la conformité de la politique de
+qualité du titre appliquée avec le cahier des charges ;
+
+3° De mise en oeuvre des formations nécessaires pour assurer la compétence du personnel impliqué dans la procédure de respect
+du titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-03-06 art. 2 JORF 14 mars 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGIAN4 56 J duodecies
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+##### 5° : Obligations des redevables
+
+###### Article 56 J novodecies
+
+1. La direction générale des douanes et droits indirects reçoit les déclarations prévues à l'article 533 du code général des
+impôts. 
+
+2. En cas de changement d'organisme de contrôle agréé, le fabricant doit joindre à sa déclaration désignant le nouvel
+organisme de contrôle agréé qu'il choisit, l'accusé de réception de la dénonciation du contrat avec le précédent organisme de
+contrôle agréé, la copie de cette dénonciation et le quitus de cet organisme valant décharge de toutes ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-09-07 art. 1, art. 2 JORF 26 septembre 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGI 533
+	  - Code général des impôts, CGI. - art. 533 (V)
+
+
+###### Article 56 J quaterdecies
+
+Les personnes physiques ou morales désignées à l'article 537 du code général des impôts doivent tenir un registre de leurs
+achats, ventes, réceptions et livraisons (même si ces réceptions et ces livraisons ne sont pas consécutives à des achats ou à
+des ventes) de matières d'or, d'argent ou de platine ou d'ouvrages contenant ces matières.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-07-05 art. 1 JORF 19 juillet 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGI 537
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J octodecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J septdecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J sexdecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 56 J quindecies
+
+A l'exception des cas prévus par la loi, et sans préjudice des articles 56 J sexdecies à 56 J octodecies, le registre prévu à
+l'article 56 J quaterdecies indique, sur justification de leur identité, les noms, prénoms et adresses des personnes ayant
+vendu ou ayant confié les matières ou les ouvrages repris à l'article 56 J quaterdecies.
+
+Il comporte également la nature, le nombre, le poids, le titre et l'origine de ces matières ou de ces ouvrages afin de
+permettre leur identification individuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-07-05 art. 2 JORF 19 juillet 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGIAN4 56 J sexdecies à 56 J octodecies, 56 J quaterdecies
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J septdecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J sexdecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 56 J septdecies
+
+Les ouvrages confiés pour réparation peuvent faire l'objet, en fin de journée, d'une inscription globale des entrées et des
+sorties sur le registre prévu à l'article 56 J quaterdecies à condition que leur situation puisse être justifiée à tout
+moment par tout document probant (tel qu'étiquettes, sachets individualisés, carnets à souche) indiquant le nom du client, la
+nature de l'objet et la date du dépôt.
+
+De même, la présentation des documents comptables tenant lieu de registre est autorisée pour de tels ouvrages lorsque les
+conditions prévues à l'article 56 J sexdecies, pour les ouvrages neufs, sont respectées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-07-05 art. 4 JORF 19 juillet 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGIAN4 56 J quaterdecies, 56 J sexdecies
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
 #### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine
 
 ##### 1° : Organisation des bureaux de garantie.
@@ -9675,6 +10198,139 @@ correspondantes sont comptabilisées aux produits divers du budget.
 	**Liens**:
 
 	  - HISTO: Edition du 10 août 1987
+
+
+##### 3° : Les commissionnaires en garantie.
+
+###### Article 56 J octies
+
+L'agrément est accordé par le directeur général des douanes et droits indirects, pour une durée indéterminée, pour un ou
+plusieurs bureaux de garantie.
+
+Les décisions d'agrément sont notifiées aux bénéficiaires et publiées au Bulletin officiel des douanes.
+
+Les décisions rejetant les demandes d'agrément sont motivées et notifiées aux requérants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-27 art. 4 JORF 5 mai 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+##### 5° : Obligations des redevables.
+
+###### Article 56 J octodecies
+
+Les officiers ministériels qui effectuent des ventes publiques sont dispensés de la tenue du registre prévu à l'article 537
+du code général des impôts sous réserve que les opérations soient inscrites sur le registre des salles de vente ou sur le
+registre des commissaires-priseurs, conformément aux dispositions du 2 du premier alinéa de l'article 56 J sexdecies
+relatives aux ouvrages d'occasion.
+
+Les caisses de crédit municipal n'inscrivent sur leur registre que les ouvrages mis en vente, à l'exclusion des ouvrages
+détenus en gage.
+
+Les chirurgiens-dentistes et les prothésistes dentaires sont dispensés de registre pour les matières qu'ils détiennent au
+titre de leur profession.
+
+Les représentants de commerce ne réalisant que des commandes sur présentation d'échantillons qui leur sont confiés et
+n'effectuant aucune livraison d'ouvrage sont également dispensés de registre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-07-05 art. 5 JORF 19 juillet 1995
+
+	**Cite**:
+
+	  - CGI 537
+	  - CGIAN4 56 J sexdecies
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 56 J sexdecies
+
+Le registre prévu à l'article 56 J quaterdecies peut prendre, au choix de l'opérateur, les formes suivantes :
+
+1. Pour les ouvrages neufs :
+
+a. Un registre coté et paraphé par l'administration municipale territorialement compétente qui peut :
+
+1° Soit ne comporter que des renvois aux documents comptables relatifs aux matières ou ouvrages repris à l'article 56 J
+quaterdecies. Dans ce cas, les indications reprises à l'article 56 J quindecies devront y figurer. Toutefois, l'indication du
+poids et du titre des ouvrages n'est pas exigée si leur identification est possible par un catalogue ou tout document de
+nature comptable ;
+
+2° Soit renvoyer à des fiches de stock et d'inventaire numérotées en continu, appuyées de tout document probant reprenant la
+désignation complète et détaillée des ouvrages et des matières confiées telle qu'énoncée à l'article 56 J quindecies ;
+
+b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles 8 à 11 du code de commerce ou aux
+spécifications du 3° de l'article 286 du code général des impôts si les documents prévus à cet article sont accompagnés de
+fiches de stock ou d'un inventaire permanent ;
+
+c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente des stocks, par référence de produits,
+permettant l'identification des ouvrages et offrant toutes garanties en matière de preuve.
+
+2. Pour les ouvrages d'occasion :
+
+a. Un registre coté et paraphé par l'administration municipale territorialement compétente ;
+
+b. Ou le registre prévu à l'article 321-7 du code pénal sur lequel les ouvrages contenant des métaux précieux doivent être
+portés individuellement, quelle que soit leur valeur, avec une encre de couleur différente de celle utilisée pour les autres
+objets (1) ;
+
+c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des stocks prévu au c du 1 du présent article,
+sous réserve que les enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par
+création d'un nouvel enregistrement avec indication de son motif et que le répertoire contenant ces informations soit
+spécifique et comprenne un système d'identification des pages par chiffre de contrôle, contenant un algorithme fondé entre
+autres sur la date, reporté en fin et en tête des pages imprimées quotidiennement.
+
+Outre les mentions énoncées à l'article 56 J quindecies, le registre doit comporter, pour chacun des ouvrages d'occasion en
+métal précieux acheté, confié pour la vente ou mis en dépôt, l'indication de sa provenance ainsi que de sa date d'entrée et
+de sortie.
+
+(1) Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-07-05 art. 3 JORF 19 juillet 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGI 286
+	  - CGIAN4 56 J quaterdecies, 56 J quindecies
+	  - Code de commerce 8 à 11
+	  - Code pénal - art. 321-7 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 14, art. 15, ordonnance relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte ainsi qu'à l'extension et à la modification de certaines d
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J octodecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies (V)
 
 
 #### Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer.
@@ -10179,39 +10835,6 @@ conditions prévues aux articles 54 E à 54 G et 54 I et 54 J.
 
 ### Titre III : Contributions indirectes et monopoles fiscaux
 
-#### Chapitre 0I : Echanges intracommunautaires des alcools, boissons alcooliques et tabacs manufacturés.
-
-###### Article 50-0 A
-
-I. - L'attestation de consignation des droits dus par un opérateur non enregistré, visée à l'article 302 N du code général
-des impôts, pour la réception en France de produits expédiés en suspension d'accise d'un autre Etat membre de la Communauté
-économique européenne, est établie par la recette des douanes et droits indirects conformément aux modèles repris selon la
-nature des produits en annexe à l'arrêté du 24 décembre 1992 (Journal officiel du 30).
-
-II. - Cette attestation est établie en deux exemplaires. L'exemplaire n° 1 est remis, par la recette des douanes et droits
-indirects ayant effectué la consignation, à l'opérateur non enregistré. Ce dernier se charge de l'adresser à l'entrepositaire
-agréé expéditeur qui doit le joindre au document d'accompagnement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1992-12-24 annexe
-	  - CGI 302 N
-
-	**Créé par**:
-
-	  - Arrêté 1992-12-24 art. 1, art. 2 JORF 30 décembre 1992
-
-	**Codifié par**:
-
-	  - Arrêté 1994-10-17
-
-	**Abrogé par**:
-
-	  - Article incorporé dans l'édition du 2 septembre 1994
-
-
 #### Chapitre premier : Boissons
 
 ##### Section I : Alcools
@@ -10259,6 +10882,37 @@ TOTAL 204.050 hl
 	**Modifié par**:
 
 	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 rectificatif JORF 13 juillet 1985
+
+
+#### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine
+
+##### 3°.: Les commissionnaires en garantie.
+
+###### Article 56 J septies
+
+L'agrément en tant que commissionnaire en garantie est délivré à titre personnel.
+
+Les personnes morales obtiennent cet agrément pour elles-mêmes et pour les personnes physiques nommément désignées habilitées
+à les représenter. Ces personnes physiques doivent justifier de leur appartenance au personnel de la personne morale et
+présenter les documents visés au deuxième alinéa de l'article 56 J quinquies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1995-04-27 art. 3 JORF 5 mai 1995, arrêté 1995-09-11 art. 1 JORF 26 septembre 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGIAN4 56 J septies
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -10480,36 +11134,40 @@ Au-dessus de 265 000 F : 90 %.
 
 ###### Article 71
 
-Est autorisée l'utilisation des machines à timbrer qui  suivant les prévisions des articles 301, 304, 313 AA et 313 AR de
-l'annexe III du code général des impôts  sont destinées respectivement au timbrage :
+Est autorisée l'utilisation des machines à timbrer qui, suivant les prévisions des articles 301, 304, 313 AA, 313 AR et 313
+BR bis de l'annexe III au code général des impôts, sont destinées respectivement au timbrage :
 
-des actes soumis au timbre de dimension;
+a) Des actes soumis au timbre de dimension ;
 
-des effets de commerce;
+b) Des effets de commerce ;
 
-des lettres de voiture ou titres assimilés;
+c) Des lettres de voiture ou titres assimilés ;
 
-des cartes d'entrée dans les casinos.
+d) Des cartes d'entrée dans les casinos ;
 
-(1) VOIR LES CONDITIONS GENERALES D'UTILISATION PRESCRITES PAR LES ARTICLES 164 L A 164 AL.
+e) Des requêtes.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1995-02-21 art. 1 JORF 1er mars 1995
+
 	**Codifié par**:
 
-	  - Arrêté 1983-10-06
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
-	  - CGIAN3 301, 304, 313 AA, 313 AR
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF JORF 30 décembre 1982
+	  - CGIAN3 301, 304, 313 AA, 313 AR, 313 BR bis
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 M (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 72
@@ -10826,92 +11484,123 @@ ter.
 
 ###### Article 93 H ter
 
-Lorsque la demande est présentée par la société elle-même  elle doit comporter l'engagement exprès [*mentions*] :
+Lorsque la demande est présentée par la société elle-même  elle doit comporter l'engagement exprès ;
 
-1° D'acquitter les droits exigibles pour le compte des souscripteurs [*paiement*] ;
+1° D'acquitter les droits exigibles pour le compte des souscripteurs ;
 
-2° De porter sur les bulletins de souscription la formule visée à l'article 405 I de l'annexe III au code général des impôts;
+2° De porter sur les bulletins de souscription la formule visée à l'article 405 I de l'annexe III au code général des
+impôts ;
 
 3° D'effectuer le versement des droits au service des impôts compétent pour accorder l'autorisation  dans les vingt jours
-suivant la clôture des opérations de centralisation de l'émission et  en tout état de cause  avant la déclaration de
-souscription et de versement prévue à l'article 78 de la loi no 66-537 du 24 juillet 1966;
+suivant la clôture des opérations de centralisation de l'émission et  en tout état de cause avant la déclaration de
+souscription et de versement prévue à l'article 78 modifié de la loi n° 66-537 du 24 juillet 1966 ;
 
-4° De mentionner  dans cette déclaration de souscription et de versement  le nombre de bulletins souscrits  le montant des
-droits de timbre versés au Trésor  le service des impôts auquel ces droits ont été payés ainsi que la date et le numéro de la
-recette;
+4° De mentionner, dans cette déclaration de souscription et de versement, le nombre de bulletins souscrits, le montant des
+droits de timbre versés au Trésor, le service des impôts auquel ces droits ont été payés ainsi que la date et le numéro de la
+recette ;
 
-5° De déposer  à l'appui du versement de l'impôt  un état succinct faisant connaître le montant du capital émis  la date de
-la clôture des opérations de centralisation de l'émission  le nombre de bulletins souscrits et le montant de l'impôt
+5° De déposer, à l'appui du versement de l'impôt, un état succinct faisant connaître le montant du capital émis, la date de
+la clôture des opérations de centralisation de l'émission, le nombre de bulletins souscrits et le montant de l'impôt
 exigible.
 
-Lorsqu'il s'agit de bulletins émis à l'occasion de la constitution d'une société nouvelle  il faut  en outre  que :
+Lorsqu'il s'agit de bulletins émis à l'occasion de la constitution d'une société nouvelle, il faut, en outre, que :
 
 - l'engagement des fondateurs soit assorti d'un engagement solidaire d'un établissement de crédit ou du notaire appelé à
 recevoir la déclaration de souscription et de versement ;
 
-- la formule d'engagement désigne le service des impôts  en principe celui du futur siège social  où seront versés les droits
-qui devront être acquittés  en tout état de cause  dans les six mois du dépôt des statuts au greffe.
+- la formule d'engagement désigne le service des impôts, en principe celui du futur siège social, où seront versés les droits
+qui devront être acquittés, en tout état de cause, dans les six mois du dépôt des statuts au greffe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1995-12-11
+
+	**Modifié par**:
+
+	  - Arrêté 1995-12-11 art. 1 JORF 13 décembre 1995
 
 	**Cite**:
 
 	  - CGIAN3 405 I
-	  - Loi n°66-537 1966-07-24 ART. 78
-
-	**Modifié par**:
-
-	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+	  - Loi n°66-537 1966-07-24 art. 78
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### B ter : Autres actes (paiement sur états)
 
 ###### Article 93 H quater C
 
-Les redevables qui demandent à payer sur états le droit de timbre de dimension exigible sur les écrits autres que les
+I. Les redevables qui demandent à payer sur états le droit de timbre de dimension exigible sur les écrits autres que les
 bulletins de souscription d'actions et que les pouvoirs de représentation aux assemblées générales des membres des sociétés
-par actions doivent s'engager à tenir  jour par jour  un registre fournissant  pour chaque acte  les renseignements suivants
-[*mentions*] :
+par actions doivent s'engager à tenir  jour par jour  un registre fournissant  pour chaque acte, les renseignements
+suivants :
 
-a. Le numéro d'ordre spécialement affecté à l'acte dans le registre  cette numérotation étant faite dans une série
-ininterrompue;
+a. Le numéro d'ordre spécialement affecté à l'acte dans le registre, cette numérotation étant faite dans une série
+ininterrompue ;
 
-b. La date de l'acte;
+b. La date de l'acte ;
 
-c. Sa nature;
+c. Sa nature ;
 
-d. Les noms et prénoms usuels des parties;
+d. Les noms et prénoms usuels des parties ;
 
-e. S'il s'agit d'actes sous seings privés  le nombre des originaux créés  abstraction faite  le cas échéant  de ceux
-dispensés du droit de timbre de dimension;
+e. S'il s'agit d'actes sous seings privés  le nombre des originaux créés, abstraction faite, le cas échéant, de ceux
+dispensés du droit de timbre de dimension ;
 
 f. Le nombre de feuillets du format de la demi-feuille de papier normal utilisés pour la rédaction des minutes  brevets ou
-originaux soumis au droit de timbre;
+originaux soumis au droit de timbre ;
 
-g. Le montant de l'impôt correspondant;
+g. Le montant de l'impôt correspondant ;
 
-h. Le nombre des expéditions  copies ou extraits soumis au droit de timbre;
+h. Le nombre des expéditions, copies ou extraits soumis au droit de timbre ;
 
-i. Le nombre des feuillets  du format de la demi-feuille de papier normal  utilisés pour ces expéditions  copies ou extraits;
+i. Le nombre des feuillets, du format de la demi-feuille de papier normal, utilisés pour ces expéditions, copies ou
+extraits ;
 
 j. Le montant de l'impôt correspondant.
 
-Ce registre  qui peut être fusionné avec les répertoires prévus par le code général des impôts pour certaines catégories de
-redevables  est présenté  au cours du mois de février de chaque année au visa de l'agent chargé de la perception des droits
+Ce registre, qui peut être fusionné avec les répertoires prévus par le code général des impôts pour certaines catégories de
+redevables, est présenté, au cours du mois de février de chaque année au visa de l'agent chargé de la perception des droits
 de timbre.
 
 Chaque acte porté sur le registre doit être annoté de son numéro d'ordre. Les colonnes correspondant aux indications
-mentionnées ci-dessus aux f  g  i et j font l'objet d'une totalisation mensuelle.
+mentionnées ci-dessus aux f, g, i et j font l'objet d'une totalisation mensuelle.
+
+((II. Les redevables qui demandent à payer sur états le droit de timbre prévu par l'article 1089 B du code général des impôts
+doivent s'engager à tenir un registre sur lequel, jour par jour et pour chaque requête, sont mentionnés les renseignements
+suivants :
+
+((a) Le numéro d'ordre spécialement affecté à la requête dans le registre, cette numérotation étant faite dans une série
+ininterrompue ;
+
+((b) La date d'expédition ou de dépôt de la requête ;
+
+((c) Le nom des parties au litige ;
+
+((d) Le montant de l'impôt.
+
+((Chaque registre est complété du numéro de l'affaire attribué par la juridiction.)) (1).
+
+(1) Texte ajouté par l'arrêté.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1995-02-21 art. 2 JORF 1er mars 1995
+
+	**Cite**:
+
+	  - CGI 1089 B
 
 	**Cité par**:
 
@@ -10920,56 +11609,58 @@ mentionnées ci-dessus aux f  g  i et j font l'objet d'une totalisation mensuell
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 93 H quater D
 
 Le montant des droits est versé au comptable des impôts qui a accordé l'autorisation de paiement sur états  à l'expiration de
-chaque mois et dans les vingt premiers jours du mois suivant [*délai*].
+chaque mois et dans les vingt premiers jours du mois suivant.
 
-A l'appui de ce versement  il est produit un état faisant connaître :
+A l'appui de ce versement il est produit un état faisant connaître :
 
-Les numéros des premier et dernier actes inscrits sur le registre au cours du mois considéré;
+a) Les numéros des premier et dernier actes ou requêtes inscrits sur le registre au cours du mois considéré ;
 
-Le nombre de ces actes;
+b) Le nombre de ces actes ou requêtes ;
 
-Le total mensuel des colonnes correspondant aux indications mentionnées à l'article 93 H quater C, f  g  i et j.
+c) Le total mensuel des colonnes correspondant aux indications mentionnées aux f, g, i et j du I de l'article 93 H quater C
+ou de la colonne correspondant au d du II du même article.
 
-Cet état  certifié conforme aux écritures  est fourni en double exemplaire; le premier est rendu au déposant  après avoir été
-revêtu de l'acquit du comptable des impôts; le second est conservé par le service à l'appui de la recette des droits de
+Cet état certifié conforme aux écritures  est fourni en double exemplaire ; le premier est rendu au déposant après avoir été
+revêtu de l'acquit du comptable des impôts ; le second est conservé par le service à l'appui de la recette des droits de
 timbre.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1995-02-21 art. 3 JORF 1er mars 1995
+
 	**Cite**:
 
-	  - CGIAN4 93 H quater C f, g, i, j
+	  - CGI 93 H quater C
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 93 H quater E
 
-Le registre prescrit par l'article 93 H quater C et tous autres documents nécessaires à la vérification de l'état fourni à
+Les registres prescrits par l'article 93 H quater C et tous autres documents nécessaires à la vérification de l'état fourni à
 l'appui du versement des droits de timbre doivent être conservés selon les modalités prévues au I de l'article L. 102 B du
 livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1995-02-21 art. 4 JORF 1er mars 1995
 
 	**Cite**:
 
-	  - CGI L102 B I CGIAN4 93 H quater C
-
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater C (V)
+	  - Livre des procédures fiscales - art. L102 B (VT)
 
 
 ##### C : Paiement par timbres mobiles
@@ -11499,23 +12190,23 @@ donnant lieu à la perception des droits de timbre dans les régies de recettes 
 Peuvent notamment être timbrés par ce procédé :
 
 1° Les cartes d'identité professionnelle des voyageurs ou représentants de commerce [*VRP*] et autres cartes d'identité, les
-cartes de séjour de ressortissant d'un Etat membre de la communauté économique européenne, les certificats de résidence
-prévus à l'article 7 bis de l'accord du 27 septembre 1968 modifié, publié par les décrets n° 69-243 du 18 mars 1969 et n°
-86-320 du 7 mars 1986 (art. 947 et 948 du code général des impôts);
+cartes de séjour de ressortissant d'un Etat membre de la communauté européenne, les certificats de résidence prévus à
+l'article 7 bis de l'accord du 27 septembre 1968 modifié, publié par les décrets n° 69-243 du 18 mars 1969 et n° 86-320 du 7
+mars 1986 (art. 947 et 948 du code général des impôts) ;
 
 2° Les cartes de séjour des étrangers, les cartes spéciales délivrées aux étrangers exerçant une profession commerciale
-industrielle, artisanale ou agricole (art. 949 et 950 du code général des impôts);
+industrielle, artisanale ou agricole (art. 949 et 950 du code général des impôts) ;
 
-3° (Abrogé);
+3° (Abrogé) ;
 
 4° Les passeports pour l'étranger et les titres de voyages délivrés aux réfugiés ou apatrides (art. 953 et 954 du code
-général des impôts);
+général des impôts) ;
 
 5° Les certificats internationaux pour automobiles et les permis internationaux de conduire (art. 966 du code général des
 impôts);
 
-6° Les permis de conduire les véhicules automobiles  les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
-véhicules à moteur (art. 1599 terdecies du code général des impôts);
+6° Les permis de conduire les véhicules automobiles les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
+véhicules à moteur (art. 1599 terdecies du code général des impôts) ;
 
 7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur (cartes grises) (art.
 1599 quindecies du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
@@ -11532,11 +12223,15 @@ véhicules à moteur (art. 1599 terdecies du code général des impôts);
 
 	**Codifié par**:
 
-	  - Arrêté 1992-08-27
+	  - Arrêté 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 32 (V) JORF 27 juillet 1991
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
 
 
 ###### Article 121 KB
@@ -12561,6 +13256,54 @@ la nature du spectacle doit entraîner une modification du taux de l'impôt appl
 	  - Code général des impôts, CGI. - art. 1565 (V)
 
 
+###### Article 124 B
+
+La déclaration prévue à l'article 1560 ter du code général des impôts est souscrite par l'exploitant en trois exemplaires
+extraits d'un carnet à souches.
+
+Un exemplaire de ce document est conservé par l'exploitant et le dépositaire qui doivent le présenter à toute réquisition des
+agents du service des douanes et droits indirects. ((Le troisième exemplaire est adressé par l'exploitant, dans les vingt-
+quatre heures qui suivent l'installation de l'appareil, au bureau ou à la recette locale des douanes et droits indirects qui
+reçoit la déclaration visée à l'article 124 A. Ce bureau, ou cette recette, transmet le troisième exemplaire au centre des
+impôts du lieu de souscription des déclarations de bénéfices de l'exploitant.)) (M)
+
+Chaque déclaration comporte les indications ci-dessous :
+
+a. Le nom et l'adresse de l'exploitant de l'appareil ;
+
+b. Le nom et l'adresse du dépositaire ;
+
+c. L'adresse de l'établissement où l'appareil est mis en service ;
+
+d. La date d'installation de l'appareil chez le dépositaire ;
+
+e. Le pourcentage de répartition des recettes entre l'exploitant e le dépositaire ;
+
+f. ((La nature, la marque, le type et le numéro de l'appareil ;
+
+g. ((L'adresse du centre des impôts du lieu de souscription des déclarations de bénéfices de l'exploitant)) (M).
+
+(M) Modification de l'arrêté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1995-01-10 art. 1, art. 2 JORF 20 janvier 1995
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGI 1560 ter
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+
 ##### 2° : Classement des spectacles
 
 ###### Article 126
@@ -13221,44 +13964,6 @@ dater de l'établissement de la déclaration des recettes mensuelles.
 ##### Impôt sur les spectacles, jeux et divertissements
 
 ##### I : Dispositions générales
-
-##### Déclaration d'existence.
-
-###### Article 124 B
-
-La déclaration prévue à l'article 1560 ter du code général des impôts est souscrite par l'exploitant en trois exemplaires
-extraits d'un carnet à souches.
-
-Un exemplaire de ce document est conservé par l'exploitant et le dépositaire qui doivent le présenter à toute réquisition des
-agents du service des douanes et droits indirects. Le troisième exemplaire est adressé par l'exploitant, dans les vingt-
-quatre heures qui suivent l'installation de l'appareil, au centre des impôts du lieu de souscription de ses déclarations de
-bénéfices.
-
-Chaque déclaration comporte les indications ci-dessous :
-
-Le nom et l'adresse de l'exploitant de l'appareil ;
-
-Le nom et l'adresse du dépositaire ;
-
-L'adresse de l'établissement où l'appareil est mis en service ;
-
-La date d'installation de l'appareil chez le dépositaire ;
-
-Le pourcentage de répartition des recettes entre l'exploitant et le dépositaire ;
-
-La nature, la marque, le type et le numéro de série de l'appareil.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-	**Cite**:
-
-	  - CGI 1560 ter
-
 
 ##### 1° : Déclaration d'existence.
 
@@ -15747,33 +16452,6 @@ la paierie générale du Trésor.
 	  - HISTO: Edition du 4 juillet 1992
 
 
-##### Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
-
-###### Article 159 AL quater
-
-Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,20 % du montant hors
-taxes des ventes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1991-12-31 art. 1 JORF 9 janvier 1992
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
-
-	**Liens**:
-
-	  - DISJONCTION: Arrêté 1995-12-11 art. 1 JORF 13 décembre 1995
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Cite**:
-
-	  - CGIAN2 363 A
-
-
 ##### Section VII quater A : Taxe parafiscale sur certaines viandes.
 
 ###### Article 159 AL quater-0 A
@@ -15781,25 +16459,34 @@ taxes des ventes.
 Le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme suit par kilogramme
 net :
 
-Viande de boeuf et viande de veau : 0,034 F ;
+Viande de boeuf et viande de veau : 0,044 F ;
 
 Viande de porc : 0,036 F ;
 
-Viande de mouton : 0,032 F ;
+Viande de mouton : 0,042 F ;
 
-Viandes des espèces chevaline, asine et leurs croisements :
+Viandes des espèces chevaline, asine et de leurs croisements :
 
-0,034 F.
+0,044 F.
+
+[*Cf. Instruction 1996-01-26 3Q-1-96, décret 95-1338 1995-12-28 et arrêté 1995-12-28.*]
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1992-04-15 art. 1 JORF 22 avril 1992
+	  - Arrêté 1994-12-30 art. 1 JORF 31 décembre 1994
 
 	**Codifié par**:
 
-	  - Arrêté 1992-08-27
+	  - Arrêté 1995-12-11
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1995-12-28
+	  - TXT_ASSOCIE: Décret n°95-1338 1995-12-28
+	  - HISTO: Edition du 27 octobre 1995
+	  - TXT_ASSOCIE: Instruction 1996-01-26 3Q-1-96
 
 	**Cite**:
 
@@ -15810,12 +16497,14 @@ Viandes des espèces chevaline, asine et leurs croisements :
 	  - CGIAN4 159 AO
 
 
-##### Section VII quinquies : Taxe parafiscale des industries textiles.
+##### Section VII quinquies : Taxe parafiscale des industries du textile et de la maille.
 
 ###### Article 159 AL quater A
 
 Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,14 p. 100 pour
-le textile et à 0,11 p. 100 pour la maille (( du 1er janvier 1994 au 31 décembre 1994 )) (1).
+le textile et à 0,11 p. 100 pour la maille ((du 1er janvier 1995 au 31 décembre 1995)) (1).
+
+**Nota:**
 
 (1) Modification de l'arrêté.
 
@@ -15823,24 +16512,32 @@ le textile et à 0,11 p. 100 pour la maille (( du 1er janvier 1994 au 31 décemb
 
 	**Modifié par**:
 
-	  - Arrêté 1993-12-28 art. 1 JORF 31 décembre 1993
-	  - Modification incorporée dans l'édition du 2 septembre 1994
+	  - Arrêté 1994-12-30 art. 1 JORF 31 décembre 1994
 
 	**Codifié par**:
 
-	  - Arrêté 1994-10-17
+	  - Arrêté 1995-12-11
+	  - Arrêté 1996-06-21
 
 	**Cite**:
 
 	  - CGIAN2 357 A
 
+	**Liens**:
 
-##### Section IX : Taxe parafiscale des industries de l'habillement et de la maille.
+	  - DISJONCTION: Décret n°96-81 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 27 octobre 1995
+
+
+##### Section IX : Taxe parafiscale des industries de l'habillement.
 
 ###### Article 159 AL sexies
 
-Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,11 %
-[*pourcentage*] ((du 1er janvier 1994 au 31 décembre 1994)) (1).
+Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,11 % ((du
+1er janvier 1995 au 31 décembre 1995)) (1).
+
+**Nota:**
 
 (1) Modification de l'arrêté.
 
@@ -15848,15 +16545,22 @@ Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au c
 
 	**Modifié par**:
 
-	  - Arrêté 1993-12-28 art. 1 JORF 31 décembre 1993
+	  - Arrêté 1994-12-30 art. 1 JORF 31 décembre 1994
 
 	**Codifié par**:
 
-	  - Arrêté 1994-10-17
+	  - Arrêté 1995-12-11
+	  - Arrêté 1996-06-21
 
 	**Cite**:
 
 	  - CGIAN2 363 N
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°96-82 du 24 janvier 1996 - art. 4 (V) JORF 2 février 1996
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### Section X : Taxe parafiscale perçue au profit du fonds de soutien à l'expression radiophonique.
@@ -15864,7 +16568,7 @@ Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au c
 ###### Article 159 AL septies
 
 Le taux de la taxe parafiscale mentionnée à l'article 365 de l'annexe II au code général des impôts est fixé, pour les
-recettes perçues jusqu'au 31 décembre 1994, comme suit :
+recettes perçues ((à compter du 1er janvier 1995)) (M) comme suit :
 
 I. - Publicité radiodiffusée
 
@@ -15912,57 +16616,67 @@ De 390 à 420 millions inclus : 2 070 000 F ;
 
 Au-dessus de 420 millions : 2 259 750 F.
 
-II. - Publicité télévisée
+((II. - Publicité télévisée
 
-Jusqu'à 3 millions inclus : 4 430 F ;
+((Jusqu'à 3 millions inclus : 6 500 F ;
 
-De 3 à 6 millions inclus : 13 140 F ;
+((De 3 à 6 millions inclus : 19 300 F ;
 
-De 6 à 15 millions inclus : 31 050 F ;
+((De 6 à 15 millions inclus : 45 610 F ;
 
-De 15 à 30 millions inclus : 78 860 F ;
+((De 15 à 30 millions inclus : 115 840 F ;
 
-De 30 à 60 millions inclus : 181 370 F ;
+((De 30 à 60 millions inclus : 266 430 F ;
 
-De 60 à 120 millions inclus : 413 010 F ;
+((De 60 à 120 millions inclus : 606 710 F ;
 
-De 120 à 180 millions inclus : 813 210 F ;
+((De 120 à 180 millions inclus : 1 194 600 F ;
 
-De 180 à 240 millions inclus : 1 271 570 F ;
+((De 180 à 240 millions inclus : 1 867 930 F ;
 
-De 240 à 300 millions inclus : 1 641 210 F ;
+((De 240 à 300 millions inclus : 2 410 930 F ;
 
-De 300 à 360 millions inclus : 2 030 570 F ;
+((De 300 à 360 millions inclus : 2 982 900 F ;
 
-De 360 à 420 millions inclus : 2 434 710 F ;
+((De 360 à 420 millions inclus : 3 576 580 F ;
 
-De 420 à 480 millions inclus : 2 809 290 F ;
+((De 420 à 480 millions inclus : 4 126 840 F ;
 
-De 480 à 540 millions inclus : 3 203 570 F ;
+((De 480 à 540 millions inclus : 4 706 040 F ;
 
-De 540 à 600 millions inclus : 3 597 860 F ;
+((De 540 à 600 millions inclus : 5 285 250 F ;
 
-De 600 à 660 millions inclus : 3 992 140 F ;
+((De 600 à 660 millions inclus : 5 864 450 F ;
 
-De 660 à 720 millions inclus : 4 386 400 F ;
+((De 660 à 720 millions inclus : 6 443 620 F ;
 
-De 720 à 780 millions inclus : 4 780 710 F ;
+((De 720 à 780 millions inclus : 7 022 860 F ;
 
-De 780 à 840 millions inclus : 5 175 000 F ;
+((De 780 à 840 millions inclus : 7 602 070 F ;
 
-De 840 à 900 millions inclus : 5 569 270 F ;
+((De 840 à 900 millions inclus : 8 181 250 F ;
 
-Au-dessus de 900 millions : 5 963 570 F.
+((Au-dessus de 900 millions : 8 760 480 F (M).
+
+(M) Modification de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1994-10-13 art. 1 JORF 6 novembre 1994
+	  - Arrêté 1994-12-30 art. 1 JORF 31 décembre 1994
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
 	  - CGIAN2 365
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 #### Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées
@@ -16093,29 +16807,33 @@ de vin.
 
 Le taux de la taxe mentionnée à l'article 364 de l'annexe II au code général des impôts est fixé comme suit :
 
-23,60 F par hectolitre d'alcool pur pour les eaux-de-vie ayant droit à une appellation d'origine contrôlée " Calvados " et
-les eaux-de-vie ayant droit à une appellation d'origine contrôlée " Calvados du Pays d'Auge " ainsi que les produits composés
+((25 F)) (M) par hectolitre d'alcool pur pour les eaux-de-vie ayant droit à une appellation d'origine contrôlée "Calvados" et
+les eaux-de-vie ayant droit à une appellation d'origine contrôlée "Calvados du Pays d'Auge" ainsi que les produits composés
 élaborés avec ces eaux-de-vie ;
 
-11,75 F par hectolitre d'alcool pur pour ((les pommeaux)) (1) les eaux-de-vie de cidre et de poiré ayant droit à une
+((12,40 F)) (M) par hectolitre d'alcool pur pour les pommeaux les eaux-de-vie de cidre et de poiré ayant droit à une
 appellation d'origine réglementée de Normandie, Bretagne et du Maine et pour les produits composés élaborés avec ces eaux-de-
 vie de cidre et de poiré.
 
-(1) Modification de l'arrêté.
+(M) Modification de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1994-03-14 art. 1 JORF 16 mars 1994
+	  - Arrêté 1995-01-02 art. 1 JORF 27 janvier 1995
 
 	**Codifié par**:
 
-	  - Arrêté 1994-10-17
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
 	  - CGIAN2 364
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### Section IV : Taxe parafiscale sur les vins.
@@ -16125,53 +16843,63 @@ vie de cidre et de poiré.
 En application de l'article 363 E de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
 vins au profit de l'association nationale pour le developpement agricole est fixée comme suit :
 
-Vins à appellation d'origine contrôlée : 1,70 F par hectolitre    Vins délimités de qualité supérieure : 1,10 F par
-hectolitre    Autres vins : 0,50 F par hectolitre.
+Vins d'appellation d'origine contrôlée : 2,47 F par hectolitre ;
+
+Vins délimités de qualité supérieure : 1,60 F par hectolitre ;
+
+Autres vins : 0,73 F par hectolitre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1992-04-15 art. 1 JORF 29 avril 1992
+	  - Arrêté 1994-12-30 art. 1 JORF 3 janvier 1995
 
 	**Codifié par**:
 
-	  - Arrêté 1992-08-27
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
 	  - CGIAN2 363 E
 
+	**Liens**:
 
-#### Section VI : Taxe parafiscale sur les graines oléagineuses.
+	  - HISTO: Edition du 27 octobre 1995
+
+
+##### Section VI : Taxe parafiscale sur les graines oléagineuses.
 
 ###### Article 159 AR
 
 Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à l'article 363 F de l'annexe II au code général
-des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1993-1994 :
+des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1995-1996 :
 
-Colza : 4,90 F par tonne ;
+Colza : 2,45 F par tonne ;
 
-Navette : 4,90 F par tonne ;
+Navette : 2,45 F par tonne ;
 
-Tournesol : 5,95 F par tonne ;
+Tournesol : 3 F par tonne ;
 
-Soja : 3,15 F par tonne.
+Soja : 1,60 F par tonne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-09-06 art. 1 JORF 11 septembre 1993
-	  - Modification incorporée dans l'édition du 2 septembre 1994
+	  - Arrêté 1995-09-22 art. 1 JORF 24 septembre 1995
 
 	**Codifié par**:
 
-	  - Arrêté 1994-10-17
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
 	  - CGIAN2 363 F
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 #### Chapitre III : Enregistrement
@@ -16251,68 +16979,28 @@ Sont déposées à l'appui de l'état et en même temps que lui :
 
 ##### Section II : Fonds de garantie des assurances obligatoires de dommages
 
-###### Article 159 quinquies
+###### Article 159 quinquies-0 A
 
-I. La contribution des assurés prévue à l'article 322 de l'annexe II au code général des impôts est recouvrée et reversée
-suivant les modalités applicables en matière de taxe unique sur les conventions d'assurances.
+Les taux des contributions prévues pour l'alimentation du Fonds de garantie contre les accidents de circulation et de chasse
+en application des articles 322 et 322 A de l'annexe II au code général des impôts sont fixés comme suit :
 
-Elle fait l'objet de versements distincts à l'appui desquels il est déposé :
+a) Contribution des entreprises d'assurance : 5 p. 100 de la totalité des charges du fonds de garantie (1) ;
 
-1° Par les entreprises d'assurances des états spéciaux établis en double exemplaire pour chaque versement mensuel (1) ;
+b) Contribution des responsables d'accidents non assurés :
 
-2° Par les courtiers et intermédiaires visés à l'article 388 de l'annexe III au code général des impôts une déclaration en
-double exemplaire indiquant le montant des sommes stipulées au profit des assureurs au cours du mois considéré (1) et de
-leurs accessoires ainsi que le montant de la contribution correspondante.
+1° Taux normal : 10 p. 100 des indemnités restant à leur charge ;
 
-Les états et déclaration prévus aux deux précédents alinéas sont établis sur des formules imprimées mises à la disposition
-des assujettis par le service des impôts.
+2° Taux réduit : 5 p. 100 ;
 
-II. Le montant de la contribution prévue à l'article 322 E de l'annexe II au code général des impôts est fixé comme suit :
+c) Contribution des assurés : 0,5 p. 100 des primes (1).
 
-1° Véhicules terrestres à moteur pour lesquels aux termes de l'article R. 211-7 du code des assurances l'assurance doit être
-souscrite sans limitation de somme :
-
-Pour une garantie limitée à huit jours : 10 F
-
-Pour une garantie limitée à quinze jours : 20 F
-
-Pour une garantie limitée à trente jours : 40 F
-
-2° Véhicules terrestres à moteur à deux roues ainsi que tricycles et triporteurs à moteur d'une cylindrée n'excédant pas 125
-cm3 :
-
-Pour une garantie limitée à huit jours : 2 F
-
-Pour une garantie limitée à quinze jours : 3F
-
-Pour une garantie limitée à trente jours : 6F
-
-3° Autres véhicules terrestres à moteur :
-
-Pour une garantie limitée à huit jours : 3 F
-
-Pour une garantie limitée à quinze jours : 6 F
-
-Pour une garantie limitée à trente jours : 10 F
-
-4° Autres véhicules, notamment remorques :
-
-Pour une garantie limitée à huit jours : 4 F
-
-Pour une garantie limitée à quinze jours : 7 F
-
-Pour une garantie limitée à trente jours : 10 F
-
-Le montant de la contribution est intégralement reversé par l'organisme d'assurance mentionné à l'article R 211-24 deuxième
-alinéa du code des assurances suivant les modalités prévues au paragraphe I du présent article.
-
-(1) Ces dispositions s'appliquent aux versements effectués à partir du 1er décembre 1991.
+(1) Taux applicable à compter du 1er février 1995.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Arrêté 1991-10-28 art. 1, art. 3 JORF 29 octobre 1991
+	  - Arrêté 1994-11-29 art. 1 JORF 30 novembre 1994
 
 	**Codifié par**:
 
@@ -16320,15 +17008,51 @@ alinéa du code des assurances suivant les modalités prévues au paragraphe I d
 
 	**Cite**:
 
-	  - CGIAN2 322
-	  - CGIAN2 322 E
-	  - CGIAN3 388
-	  - Code des assurances - art. R*211-7 (M)
-	  - Code des assurances R211-24 AL. 2
+	  - CGIAN2 322, 322 A
 
 	**Liens**:
 
-	  - PEREMPTION: Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 30 novembre 1994, article sans objet
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 159 quinquies-0 B
+
+Les taux des contributions prévues pour l'alimentation du Fonds de garantie contre les accidents de circulation et de chasse
+en application des articles 323 et 323 A de l'annexe II au code général des impôts sont fixés comme suit :
+
+a) Contribution des entreprises d'assurance : 5 p. 100 de la totalité des charges du fonds de garantie ;
+
+b) Contribution des responsables d'accidents corporels non assurés :
+
+1° Taux normal : 10 p. 100 des indemnités restant à leur charge ;
+
+2° Taux réduit lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des
+articles L. 227-6 à L. 227-9 du code rural : 5 p. 100 ;
+
+c) Contribution forfaitaire des assurés : 0,50 F par personne garantie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1994-11-29 art. 2 JORF 30 novembre 1994
+	  - Loi n°91-363 du 15 avril 1991 - art. 2 (V) JORF 17 avril 1991
+
+	**Codifié par**:
+
+	  - Arrêté 1995-12-11
+
+	**Cite**:
+
+	  - CGIAN2 323, 323 A
+	  - Code rural L227-6 à L227-9
+
+	**Créé par**:
+
+	  - Décret n°89-804 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+
+	**Liens**:
+
 	  - HISTO: Edition du 27 octobre 1995
 
 
@@ -16340,9 +17064,11 @@ I. Les contrats d'assurances sur lesquels est assise la contribution prévue aux
 impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
 branches 3 à 9 de l'article R. 321-1 du code des assurances.
 
-II. Le taux de la contribution est fixé, ((à compter du 1er janvier 1994 à 9 F par contrat)) (1) . Les sommes correspondantes
+II. Le taux de la contribution est fixé, ((à compter du 1er février 1995 à 10 F par contrat)) (1). Les sommes correspondantes
 sont perçues par les entreprises d'assurances à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre
-((le 1er janvier 1994 et le 31 décembre 1994)) (1).
+((le 1er février 1995 et le 31 décembre 1995)) (1).
+
+**Nota:**
 
 (1) Modification de l'arrêté.
 
@@ -16350,17 +17076,21 @@ sont perçues par les entreprises d'assurances à l'occasion de l'émission des 
 
 	**Modifié par**:
 
-	  - Arrêté 1993-10-13 art. 1 JORF 22 octobre 1993
+	  - Arrêté 1994-11-29 art. 2 JORF 30 novembre 1994
 
 	**Codifié par**:
 
-	  - Arrêté 1994-10-17
+	  - Arrêté 1995-12-11
 
 	**Cite**:
 
 	  - CGI 1628 quinquies
 	  - CGIAN2 325
 	  - Code des assurances R321-1
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
@@ -16709,49 +17439,79 @@ Dispositions devenues sans objet en conséquence de l'article 5-I [87°] et 7 du
 
 ###### Article 164 F novodecies B
 
-1. La déclaration faite en application de l'article 344 I bis de l'annexe III au code général des impôts est déposée auprès
-du service des douanes de la frontière.
+1. La déclaration faite en application des 1 et 2 de l'article 344 I bis de l'annexe III au code général des impôts est
+déposée auprès du service des douanes de la frontière. 
 
-" Elle comporte, sur un document daté et signé, les mentions suivantes :
+Elle comporte, sur un document daté et signé, les mentions suivantes relatives à la personne transportant les sommes, titres
+ou valeurs visés à l'article 164 F novodecies A : 
 
-" - les nom, prénoms, nationalité, date et lieu de naissance ;
+a) Nom, prénoms, nationalité, date et lieu de naissance ; 
 
-" - l'adresse du domicile principal ;
+b) Adresse du domicile principal ; 
 
-" - la formule : "Je déclare être porteur des sommes, titres ou valeurs énumérés ci-dessous, dont le montant total est égal
-ou supérieur à 50 000 FF" ;
+c) La formule : " Je déclare être porteur des sommes, titres ou valeurs énumérés ci-dessous, dont le montant total est égal
+ou supérieur à 50 000 FF " ; 
 
-" - l'indication de l'importation ou de l'exportation des sommes, titres ou valeurs ;
+d) L'indication de l'importation ou de l'exportation des sommes, titres ou valeurs ; 
 
-" - la description par nature des sommes, titres ou valeurs avec indication de leur montant.
+e) La description par nature des sommes, titres ou valeurs avec indication de leur montant. 
 
-" Cette déclaration est établie en trois/exemplaires, dont un est restitué au déclarant après visa par le service des
-douanes.
+Cette déclaration est établie en trois exemplaires dont un est restitué au déclarant après visa par le service des douanes. 
 
-" 2. Pour les envois postaux, la déclaration visée au 3 de l'article 344 I bis de l'annexe III au code général des impôts
-sera :
+2. Pour les transferts qui ont comme première destination ou dernière provenance un Etat de la Communauté européenne, la
+déclaration citée aux 1 et 2 de l'article 344 I bis de l'annexe III au code général des impôts est établie préalablement au
+transfert. 
 
-" - soit un document administratif unique (D.A.U.) lorsqu'il s'agit de lingots d'or ou de pièces d'or ou d'argent cotées sur
-un marché officiel ;
+Elle est adressée, par la voie postale, au service des autorisations financières et commerciales, Safico, 42, rue de Clichy,
+75009 Paris, au minimum quinze jours avant la date du voyage, accompagnée d'une enveloppe sur laquelle est indiquée l'adresse
+à laquelle le déclarant souhaite recevoir l'exemplaire de la déclaration visé par le Safico. Cet exemplaire visé doit être
+présenté, lors du voyage, à toute demande du service des douanes. 
 
-" - soit, dans tous les autres cas, une déclaration en douane conforme au modèle C 2/CP 3.
+Lorsque la déclaration n'a pu être déposée dans les conditions visées au deuxième alinéa, elle peut être : 
 
-" 3. Si le transfert est opéré pour le compte d'un tiers, la déclaration visée aux 1 et 2 comportera l'identification du
-propriétaire des sommes, titres ou valeurs transportés. "
+a) Soit déposée, préalablement à la sortie de France, dans tous bureaux de douane, aux heures normales d'ouverture de ces
+bureaux. Après visa, un exemplaire est immédiatement remis au déclarant, qui doit en être détenteur lors du transfert ; 
+
+b) Soit remise, à l'entrée ou à la sortie de France, aux agents de la douane ; 
+
+c) Soit déposée, après compostage, dans les boîtes aux lettres implantées dans certains grands points de passage. 
+
+La déclaration, établie en trois exemplaires sur un formulaire disponible dans les bureaux de douane, dans les consulats ou
+ambassades de France des Etats membres de la Communauté européenne ou, à défaut, sur papier libre, comporte les
+renseignements visés au 1, auxquels il est ajouté, le cas échéant, la date prévue pour le transfert. 
+
+3. Pour les transferts de sommes, titres ou valeurs par la voie postale, la déclaration citée au 3 de l'article 344 I bis de
+l'annexe III au code général des impôts sera établie, sauf dans le cas visé au second alinéa, sur un formulaire C2/ CP3
+disponible dans tous les bureaux de poste et dans les gares. 
+
+Lorsqu'il s'agit de lingots d'or ou de pièces d'or ou d'argent cotées sur un marché officiel importés ou exportés de pays
+n'appartenant pas à la Communauté européenne, la déclaration sera établie sur un document administratif unique (D. A. U.). 
+
+4. Lorsque le transfert est opéré pour le compte d'un tiers, la déclaration citée aux 1,2 et 3 comportera l'identification du
+propriétaire des sommes, titres ou valeurs transportés.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 5-I [87°] et 7 du décret n° 2005-1007 du 2 août 2005.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1990-12-18 art. 1 JORF 19 décembre 1990
+	  - Arrêté 1993-07-16 art. 1 à 4 JORF 24 août 1993
 
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 1995-12-11
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - CGIAN3 344 I bis
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I bis
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies A (P)
 
 
 #### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales
@@ -16828,25 +17588,26 @@ Article devenu sans objet en conséquence de l'article 3 de l'arrêté du 2 avri
 
 Les adhérents qui confient la tenue ou la centralisation de leurs documents comptables à un centre de gestion agréé habilité
 à cet effet, dans les conditions prévues aux articles 344 IA à 344 ID de l'annexe III au code général des impôts, choisissent
-le membre de l'ordre des experts-comptables et comptables agréés ou l'expert-comptable stagiaire autorisé qui exercera la
-surveillance de leur dossier et visera leur déclaration de résultats.
+le membre de l'ordre des experts-comptables ou l'expert-comptable stagiaire autorisé qui exercera la surveillance de leur
+dossier et visera leur déclaration de résultats.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1983-05-11 art. 1 JORF 17 mai 1983
-
 	**Codifié par**:
 
-	  - Arrêté 1983-07-10
+	  - Arrêté 1995-12-11
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - CGIAN3 344 IA
-	  - CGIAN3 344 IB
-	  - CGIAN3 344 IC
-	  - CGIAN3 344 ID
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IA
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies B (P)
 
 
 ###### Article 164 F unvicies B
@@ -16875,41 +17636,40 @@ l'adhérent et le professionnel de la comptabilité désigné à l'article 164 F
 
 ###### Article 164 F unvicies C
 
-Le professionnel de la comptabilité s'engage :
+Le professionnel de la comptabilité s'engage : 
 
-1° A effectuer les travaux suivants :
+1° A effectuer les travaux suivants : 
 
-a. Appréciation des procédures comptables mises en oeuvre par le centre de gestion agréé à l'égard de son client ;
+a. Appréciation des procédures comptables mises en oeuvre par le centre de gestion agréé à l'égard de son client ; 
 
 b. Contrôle par épreuves, au cours de l'exercice, de la régularité de l'enregistrement des opérations et rapprochement avec
-les pièces justificatives ;
+les pièces justificatives ; 
 
 c. Examen et vérification de la balance annuelle des comptes ainsi que des options nécessaires à la détermination du résultat
-de l'exercice ;
+de l'exercice ; 
 
-d. Contrôle des écritures d'inventaire, du bilan et du compte de résultats.
+d. Contrôle des écritures d'inventaire, du bilan et du compte de résultats. 
 
-2° A suivre dans l'accomplissement de sa mission les recommandations établies par l'ordre des experts-comptables et des
-comptables agréés.
+2° A suivre dans l'accomplissement de sa mission les recommandations établies par l'ordre des experts-comptables. 
 
 3° A informer immédiatement l'adhérent des anomalies relevées et de la nature des rectifications à opérer, ainsi que, le cas
-échéant, des raisons qui le conduiraient à ne pas délivrer le visa mentionné à l'article 1649 quater D-I du code général des
-impôts si ses observations n'étaient pas suivies d'effet avant la clôture des comptes de l'exercice au cours duquel elles ont
-été formulées.
+échéant, des raisons qui le conduiraient à ne pas délivrer le visa mentionné au I de l'article 1649 quater D du code général
+des impôts si ses observations n'étaient pas suivies d'effet avant la clôture des comptes de l'exercice au cours duquel elles
+ont été formulées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1983-05-11 art. 3 JORF 17 mai 1983
-
 	**Codifié par**:
 
-	  - Arrêté 1983-07-10
+	  - Arrêté 1995-12-11
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - CGI 1649 quater D I
+	  - Code général des impôts, CGI. - art. 1649 quater D
 
 
 ###### Article 164 F unvicies D
@@ -18144,76 +18904,36 @@ direction du fonds de développement économique et social (1).
 ###### Article 170 septies B
 
 Il est statué par le directeur régional des impôts dont dépend le lieu de situation de l'entreprise sur les demandes
-d'agrément présentées en application du troisième alinéa de l'article 151 octies-II du code général des impôts lorsque la
-valeur brute des éléments de l'actif immobilisé apportés en société n'excède pas 10 millions de francs [*montant maximum,
-plafond*].
+d'agrément présentées en application du b du premier alinéa du II de l'article 151 octies du code général des impôts lorsque
+la valeur brute des éléments de l'actif immobilisé apportés en société n'excède pas 10 millions de francs .
 
 La décision est prise par le ministre de l'économie, des finances et du budget lorsque la condition prévue au premier alinéa
 n'est pas remplie ou lorsque l'affaire est évoquée par le ministre.
 
 **Nota:**
 
-NOTA : Ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 1er mai 1985.
+Nota : Ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 1er mai 1985.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1985-03-26 art. 1 JORF 18 avril 1985
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGI 151 octies II al. 3
-
-
-###### Article 170 septies C
-
-Il est statué sur les demandes d'agrément présentées pour l'application du troisième alinéa de l'article 44 quater du code
-général des impôts :
-
-1. Par le ministre de l'économie, des finances et du budget, après avis du conseil de direction du fonds de développement
-économique et social :
-
-a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 25 millions de francs
-d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 500 millions de
-francs ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse 500
-millions de francs ;
-
-b. Pour les opérations au titre desquelles l'entreprise a également demandé l'agrément permettant l'application de
-l'exonération temporaire de taxe professionnelle ou la réduction du droit de mutation et dont l'attribution relève du niveau
-central en application de l'article 170 quinquies ;
-
-c. Pour les opérations présentant des difficultés particulières et évoquées par le ministre.
-
-2. Dans les autres cas, par le directeur régional des impôts dont dépend le lieu de situation de l'établissement.
-
-**Nota:**
-
-NOTA : Ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 1er mai 1985.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1985-03-26 art. 2 JORF 18 avril 1985
 
 	**Codifié par**:
 
 	  - Arrêté 1995-12-11
+	  - Arrêté 1997-05-28
+
+	**Modifié par**:
+
+	  - Arrêté 1995-12-11 art. 1 JORF 13 décembre 1995
 
 	**Liens**:
 
-	  - PEREMPTION: Arrêté 1995-12-11 art. 1 JORF 13 décembre 1995, conséquence de la péremption des articles 44 bis à 44 quinquies
+	  - PEREMPTION: Arrêté 1997-05-28 art. 1 JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
 	  - HISTO: Edition du 27 octobre 1995
 
 	**Cite**:
 
-	  - CGI 170 quinquies
-	  - CGI 44 quater al. 3
+	  - CGI 151 octies II al. 3
 
 
 ###### Article 170 septies E
