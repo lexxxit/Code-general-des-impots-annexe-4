@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-06-25
+Version Consolidée au 1985-07-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8835,6 +8835,105 @@ nouveau certificat d'immatriculation. Le cachet de ce service est apposé au ver
 	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
 
 
+###### Article 155 J
+
+Tout propriétaire d'un véhicule dispensé ou exonéré de la taxe différentielle en raison de sa qualité personnelle est tenu de
+demander à la recette des impôts dont il dépend, en fournissant les justifications dont la nature est fixée par
+l'administration, la délivrance d'une vignette gratis qui est utilisée dans les mêmes conditions que les vignettes de la
+série normale. Doivent également être munis d'une vignette gratis les véhicules répondant aux normes figurant au III de
+l'annexe I du décret n° 79-80 du 25 janvier 1979 relatif aux transports sanitaires privés utilisés par une entreprise agréée
+conformément à l'article 1er dudit décret.
+
+La vignette gratis est également délivrée sur justification :
+
+a. Pour les véhicules visés au 3° de l'article 317 decies de l'annexe II au code général des impôts lorsqu'ils ne portent
+aucune marque extérieure susceptible d'identifier leur affectation ;
+
+b. Pour les véhicules autres que ceux visés aux alinéas précédents qui, cessant en cours d'année d'être en situation de
+bénéficier d'une exonération, continuent néanmoins, en vertu du I de l'article 317 duodecies de l'annexe précitée, à échapper
+à la taxe jusqu'à la fin de ladite période.
+
+Le titre justificatif produit à l'appui de la demande d'exonération est annoté de la date de la délivrance de la vignette
+suivie de la mention "gratis".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Abrogé par**:
+
+	  - Arrêté 2001-12-19 art. 1 JORF 22 décembre 2001
+
+	**Cite**:
+
+	  - CGIAN2 317 duodecies I, 317 decies 3°
+	  - Décret n°79-80 1979-01-25 art. 1, annexe I, III
+	  - Décret n°79-80 du 25 janvier 1979 - art. 1 ()
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 31 mars 2002
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+
+###### Article 155 K
+
+Sont dispensés de la taxe différentielle sur les véhicules à moteur :
+
+1° Les véhicules immatriculés dans les séries spéciales "CMD", "CD" "C" et "K", à l'exclusion de ceux dont le numéro
+d'immatriculation comprend la lettre "X" apposée à droite du dernier groupe de chiffres ;
+
+2° Les véhicules immatriculés dans les séries spéciales "TT" à l'exclusion des véhicules immatriculés "TTW" et "TTQ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+	  - Arrêté 2007-03-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+
+###### Article 155 L
+
+En cas de régularisation de la situation douanière des véhicules immatriculés dans la série spéciale TT, la taxe
+différentielle sur les véhicules à moteur devient immédiatement exigible au titre de la période en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+	  - Arrêté 2007-03-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+
 ###### Article 155 M
 
 Sont exonérés de la taxe différentielle sur les véhicules à moteur instituée par l'article 1599 C du code général des impôts,
@@ -8971,6 +9070,39 @@ transports sanitaires privés utilisés par une entreprise agréée conformémen
 
 #### Chapitre premier : Taxes sur les véhicules à moteur.
 
+###### Article 155 C
+
+I. Le paiement de la taxe différentielle sur les véhicules à moteur, instituée par l'article 1599 C du code général des
+impôts, est constaté au moyen de la délivrance d'une vignette mobile constituée d'un reçu et d'un timbre adhésif, dont les
+conditions d'utilisation sont définies à l'article 155 H.
+
+II. Outre la série normale des vignettes payantes, dont les types correspondent aux différentes catégories d'imposition, il
+existe une vignette spéciale destinée à la délivrance des duplicata et une vignette gratuite devant permettre d'identifier
+certaines catégories de véhicules exonérés de la taxe. Ces vignettes sont constituées des mêmes éléments que les vignettes
+payantes.
+
+III. Les modèles de vignettes sont fixés par décision du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Cite**:
+
+	  - CGI 1599 C
+	  - CGIAN4 155 H
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+
 ###### Article 155 H
 
 Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
@@ -9034,6 +9166,36 @@ Les duplicata sont utilisés dans les mêmes conditions que les vignettes de la 
 #### Chapitre II : Droits d'enregistrement et taxe de publicité foncière
 
 ##### Réduction accordée dans le cadre de l'aménagement du territoire
+
+###### Article 155 N
+
+La réduction du droit de mutation ou de taxe de publicité foncière prévue aux articles 697 et 721 du code général des impôts
+peut être accordée sur agrément dans les conditions définies aux articles 155 O à 155 Q, 170 quinquies et 170 octies sous
+réserve de l'appréciation des modalités techniques et financières des programmes présentés et dans la mesure où les
+entreprises intéressées n'ont commis aucune infraction fiscale grave et sont dans une situation régulière vis-à-vis des
+services de recouvrement (1).
+
+(1) En ce qui concerne les modalités et les dates de dépôt des des demandes d'agrément, voir l'arrêté du 16 décembre 1983
+(J.O. des 17 et 20).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1983-12-16 art. 1, art. 15 JORF 20 décembre 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGI 697
+	  - CGI 721
+	  - CGIAN4 155 O à CGIAN4 155 Q
+	  - CGIAN4 170 octies
+	  - CGIAN4 170 quinquies
+
 
 ###### Article 155 O
 
@@ -9154,6 +9316,30 @@ limitées à une partie des biens à acquérir ou à une fraction de leur valeur
 	**Abrogé par**:
 
 	  - Loi n°89-936 1989-12-29 art. 20 Finances rectificative pour 1989 JORF 30 décembre 1989
+
+
+### Titre I ter : Impositions régionales
+
+#### Région de Corse.
+
+###### Article 155 bis
+
+Les dispositions des articles 155 C et 155 M sont applicables à la taxe différentielle sur les véhicules à moteur perçue au
+profit de la région de Corse.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 155 C CGIAN4 155 M
+
+	**Créé par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
+
+	**Modifié par**:
+
+	  - Loi n°85-695 1985-07-11 art. 18-1 JORF 12 juillet 1985
 
 
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
@@ -13725,38 +13911,6 @@ afférente à l'année suivant celle au cours de laquelle ils ont été établis
 
 ### IMPOSITIONS DEPARTEMENTALES.
 
-###### Article 155 C
-
-I. Le paiement de la taxe différentielle sur les véhicules à moteur et de la taxe spéciale sur les voitures d'une puissance
-fiscale supérieure à 16 CV, instituées par l'article 1599 C du code général des impôts, est constaté au moyen de la
-délivrance d'une vignette mobile constituée d'un reçu et d'un timbre adhésif, dont les conditions d'utilisation sont définies
-à l'article 155 H.
-
-II. Outre la série normale des vignettes payantes, dont les types correspondent aux différentes catégories d'imposition, il
-existe une vignette spéciale destinée à la délivrance des duplicata et une vignette gratuite devant permettre d'identifier
-certaines catégories de véhicules exonérés de la taxe. Ces vignettes sont constituées des mêmes éléments que les vignettes
-payantes.
-
-III. Les modèles de vignettes sont fixés par décision du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
-	  - Loi n°72-1121 1972-12-20 art. 16 Finances pour 1973 JORF 21 décembre 1972
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
-
-	**Cite**:
-
-	  - CGI 1599 C
-	  - CGIAN4 155 H
-
-
 ###### Article 155 D
 
 Les vignettes mentionnées aux I et II de l'article 155 C sont délivrées par les recettes des impôts désignées par
@@ -13784,113 +13938,6 @@ leur bureau de déclarations.
 	**Cite**:
 
 	  - CGIAN4 155 C I, II
-
-
-###### Article 155 J
-
-Tout propriétaire d'un véhicule dispensé ou exonéré de la taxe différentielle ou de la taxe spéciale en raison de sa qualité
-personnelle est tenu de demander à la recette des impôts dont il dépend, en fournissant les justifications dont la nature est
-fixée par l'administration, la délivrance d'une vignette gratis qui est utilisée dans les mêmes conditions que les vignettes
-de la série normale. Doivent également être munis d'une vignette gratis les véhicules répondant aux normes figurant au III de
-l'annexe I du décret n° 79-80 du 25 janvier 1979 relatif aux transports sanitaires privés utilisés par une entreprise agréée
-conformément à l'article 1er dudit décret.
-
-La vignette gratis est également délivrée sur justification :
-
-a. Pour les véhicules visés à l'article 317 decies-3° de l'annexe II au code général des impôts lorsqu'ils ne portent aucune
-marque extérieure susceptible d'identifier leur affectation ;
-
-b. Pour les véhicules autres que ceux visés aux alinéas précédents qui, cessant en cours d'année d'être en situation de
-bénéficier d'une exonération, continuent néanmoins, en vertu de l'article 317 duodecies-I de l'annexe précitée, à échapper à
-la taxe jusqu'à la fin de ladite période.
-
-Le titre justificatif produit à l'appui de la demande d'exonération est annoté de la date de la délivrance de la vignette
-suivie de la mention "gratis".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1956-10-19 art. 8 JORF 23 octobre 1956
-	  - Arrêté 1981-02-24 art. 2 JORF 27 février 1981
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
-
-	**Cite**:
-
-	  - CGIAN2 317 decies 3°
-	  - CGIAN2 317 duodecies I
-	  - Décret n°79-80 1979-01-25 art. 1, annexe I, III
-	  - Décret n°79-80 du 25 janvier 1979 - art. 1 ()
-
-
-###### Article 155 K
-
-Sont dispensés de la taxe différentielle sur les véhicules à moteur [*vignette*] et de la taxe spéciale sur les véhicules
-d'une puissance fiscale supérieure à 16 CV :
-
-1° Les véhicules immatriculés dans les séries spéciales "CMD", "CD" "C" et "K", à l'exclusion de ceux dont le numéro
-d'immatriculation comprend la lettre "X" apposée à droite du dernier groupe de chiffres ;
-
-2° Les véhicules immatriculés dans les séries spéciales "TT" à l'exclusion des véhicules immatriculés "TTW" et "TTQ".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1956-11-09 art. 1 JORF 10 novembre 1956
-	  - Arrêté 1966-11-29 art. 1 JORF 10 décembre 1966
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
-
-
-###### Article 155 L
-
-En cas de régularisation de la situation douanière des véhicules immatriculés dans la série spéciale TT, la taxe
-différentielle sur les véhicules à moteur [*vignette*] ou, le cas échéant, la taxe spéciale sur les véhicules d'une puissance
-fiscale supérieure à 16 CV devient immédiatement exigible au titre de la période en cours.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1956-11-09 art. 2 JORF 10 novembre 1956
-	  - Circulaire 1967-05-10 équipement et logement JORF 10 juin 1967
-	  - Loi n°72-1121 1972-12-20 art. 16 Finances pour 1973 JORF 21 décembre 1972
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
-
-
-### IMPOSITIONS REGIONALES.
-
-###### Article 155 N
-
-Les dispositions des articles 155 C à 155 M sont applicables à la taxe différentielle [*vignette*] sur les véhicules à moteur
-et à la taxe spéciale sur les voitures particulières d'une puissance fiscale supérieure à 16 CV perçues au profit de la
-région de Corse.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
-
-	**Cite**:
-
-	  - CGIAN4 155 C à CGIAN4 155 M
-
-	**Créé par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
