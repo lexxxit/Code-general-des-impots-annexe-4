@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-02-06
+Version Consolidée au 1987-02-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -772,6 +772,27 @@ e. Pour les frais visés au 5°, des frais de réception, y compris les frais de
 	**Cite**:
 
 	  - CGIAN4 4 J
+
+
+###### Article 4 L
+
+Les entreprises relevant de l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux, à l'exclusion
+de toute société, sont dispensées de produire les renseignements concernant les catégories de frais énumérés sous les
+rubriques 1° à 3° de l'article 4 J.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1982-02-08 art. 1 JORF 17 février 1987
+
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 J (V)
 
 
 ##### IX : Evaluation des stocks et des travaux en cours
@@ -12242,23 +12263,6 @@ unitaire ne dépasse pas 200 F par bénéficiaire ;
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 K (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 L (V)
-
-
-###### Article 4 L
-
-Les entreprises relevant de l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux  à l'exclusion
-de toute société  sont dispensées de produire les renseignements concernant les catégories de frais énumérés sous les
-rubriques 1o à 4o de l'article 4 J.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 4 J 1°, 2°, 3°, 4°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### REVENU DES CAPITAUX MOBILIERS.
