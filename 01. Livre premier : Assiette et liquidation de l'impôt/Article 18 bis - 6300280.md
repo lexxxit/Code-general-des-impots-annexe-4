@@ -53,21 +53,31 @@ télégestion de chaufferie assurant les fonctions de régulation et de programm
 régulation centrale des équipements de production d'eau chaude sanitaire dans le cas de production combinée d'eau chaude
 sanitaire et d'eau destinée au chauffage.
 
+7. Installation ou remplacement d'équipements spécialement conçus pour les personnes âgées ou handicapées :
+
+a) Equipements sanitaires attachés à perpétuelle demeure : éviers et lavabos à hauteur réglable ; baignoires à porte ;
+cabines de douche intégrales ; bacs et portes de douche, sièges de douche muraux, WC pour personnes handicapées ;
+
+b) Autres équipements de sécurité et d'accessibilité attachés à perpétuelle demeure : mains courantes, barres de maintien ou
+d'appui, poignées de rappel de portes ; rampes fixes ; systèmes de commande, de signalisation ou d'alerte ; dispositifs de
+fermeture, d'ouverture ou systèmes de commande des installations électriques, d'eau, de gaz et de chauffage ; mobiliers à
+hauteur réglable.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2004-03-24 art. 1 JORF 28 mars 2004
 
 	**Cité par**:
 
 	  - Arrêté du 30 mars 2009 - art. 3 (V)
 	  - Arrêté du 25 mai 2011 - art. 4 (V)
-	  - Décret n°2013-832 du 17 septembre 2013 - art. Annexe I (V)
 	  - Arrêté du 2 décembre 2014 (V)
+	  - Décret n°2013-832 du 17 septembre 2013 - art. Annexe I (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 30-0 D (V)
-
-	**Modifié par**:
-
-	  - Arrêté 2002-04-12 art. 1 JORF 20 avril 2002
 
 	**Cite**:
 
@@ -75,4 +85,4 @@ sanitaire et d'eau destinée au chauffage.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 1er janvier 2004
