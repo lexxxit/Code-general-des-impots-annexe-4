@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-10-06
+Version Consolidée au 1982-10-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9145,41 +9145,6 @@ Les mêmes dispositions s'appliquent aux documents prévus au 4.
 	**Cite**:
 
 	  - CGI 156 II 7° a, b
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 17 F
-
-Pour l'application des dispositions de l'article 75-0A-3o-c de l'annexe II au code général des impôts les pompes à chaleur
-doivent être conçues et fabriquées pour le seul chauffage de l'eau chaude sanitaire ou de locaux d'habitation. Sont exclus
-des dispositions de l'article précité tous appareils dont la conception permet l'usage à des fins telles que le
-refroidissement ou le rafraîchissement de l'eau ou des locaux. Sont en particulier exclus les pompes à chaleur pouvant
-assurer soit le chauffage  soit le refroidissement ou rafraîchissement (pompes dites " réversibles ") et les climatiseurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 75-0 A 3° C
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 17 G
-
-Les factures de livraison et de pose de pompes à chaleur admises en déduction doivent mentionner les caractéristiques
-définies à l'article 17 F et en particulier la non-possibilité de production de froid ou de fraîcheur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 17 F
 
 	**Liens**:
 
