@@ -13,11 +13,12 @@ livraisons.
 Les exploitants de spectacles qui achètent leurs billets directement à l'étranger sont considérés comme importateurs et
 astreints aux déclarations prévues au présent article.
 
-Lorsqu'elles concernent les livraisons de billets ou de cartes d'entrée dans les salles de spectacles cinématographiques, les
-déclarations prévues au présent article sont souscrites par le centre national de la cinématographie française.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1980-11-21 art. 3 JORF 30 novembre 1980
+	  - Arrêté 2004-01-02 art. 3 JORF 15 janvier 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004

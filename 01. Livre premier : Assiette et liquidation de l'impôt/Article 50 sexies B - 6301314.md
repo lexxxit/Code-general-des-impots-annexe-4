@@ -33,22 +33,18 @@ Centre national de la cinématographie, chargés du contrôle, de vérifier à t
 conforme aux cahiers des charges et de s'assurer du respect de la réglementation en vigueur.
 
 Les caisses automatisées et les systèmes informatisés peuvent être équipés d'un dispositif permettant la vente, par avance,
-de billets d'entrée à une séance déterminée. Dans ce cas, les billets ne peuvent être délivrés que pour la semaine
-cinématographique en cours.
+de billets d'entrée à une séance déterminée. Dans ce cas, les billets ne peuvent être délivrés qu'au maximum sept jours à
+l'avance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-03-04 art. 1 JORF 28 mars 1996
-
-	**Codifié par**:
-
-	  - Arrêté 1996-06-21
+	  - Arrêté 2004-01-02 art. 2 JORF 15 janvier 2004
 
 	**Cite**:
 
-	  - CGI 290 quater I
+	  - CGI 290 quater
 
 	**Cité par**:
 
@@ -59,4 +55,4 @@ cinématographique en cours.
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 1er janvier 2004
