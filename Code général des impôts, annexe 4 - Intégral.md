@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1979-07-01
+Version Consolidée au 1979-07-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13150,6 +13150,27 @@ des impôts est fixé à 0,30 % pour la période du 1er février 1979 au 31 déc
 
 
 ### CONTRIBUTIONS INDIRECTES
+
+###### Article 159 AQ
+
+Le taux de la taxe sur certains lubrifiants mis à la consommation prévue à l'article 363 T de l'annexe II au code général des
+impôts est fixé à 40 F par tonne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arreté 1986-10-07
+	  - Arrêté 1981-09-15
+
+	**Créé par**:
+
+	  - Arrêté 1979-06-30 art. 1 JORF 7 juillet 1979
+
+	**Cite**:
+
+	  - CGIAN2 363 T
+
 
 #### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.
 
