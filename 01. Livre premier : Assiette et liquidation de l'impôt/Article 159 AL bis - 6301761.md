@@ -1,7 +1,7 @@
 # Article 159 AL bis
 
 Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé à ((0,20 % jusqu'au 31 décembre
-1996)) (M).
+1997)) (M).
 
 (M) Modification.
 
@@ -9,11 +9,11 @@ Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des
 
 	**Modifié par**:
 
-	  - Arrêté 1996-02-22 art. 1 JORF 24 février 1996
+	  - Arrêté 1996-12-05 art. 1 JORF 18 décembre 1996
 
 	**Codifié par**:
 
-	  - Arrêté 1996-06-21
+	  - Arrêté 1997-05-28
 
 	**Cite**:
 
@@ -21,4 +21,4 @@ Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 11 avril 1997

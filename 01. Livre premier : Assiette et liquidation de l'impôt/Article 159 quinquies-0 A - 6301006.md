@@ -3,7 +3,7 @@
 Les taux des contributions prévues pour l'alimentation du Fonds de garantie contre les accidents de circulation et de chasse
 en application des articles 322 et 322 A de l'annexe II au code général des impôts sont fixés comme suit :
 
-a) Contribution des entreprises d'assurance : 5 p. 100 de la totalité des charges du fonds de garantie (1) ;
+a) Contribution des entreprises d'assurance : 1 p. 100 de la totalité des charges du fonds de garantie (1) ;
 
 b) Contribution des responsables d'accidents non assurés :
 
@@ -11,19 +11,19 @@ b) Contribution des responsables d'accidents non assurés :
 
 2° Taux réduit : 5 p. 100 ;
 
-c) Contribution des assurés : 0,5 p. 100 des primes (1).
+c) Contribution des assurés : 0,1 p. 100 des primes (1).
 
-(1) Taux applicable à compter du 1er février 1995.
+(1) Taux applicable à compter du 1er janvier 1997.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1994-11-29 art. 1 JORF 30 novembre 1994
+	  - Arrêté 1996-11-06 art. 1 JORF 7 novembre 1996
 
 	**Codifié par**:
 
-	  - Arrêté 1995-12-11
+	  - Arrêté 1997-05-28
 
 	**Cite**:
 
@@ -31,4 +31,4 @@ c) Contribution des assurés : 0,5 p. 100 des primes (1).
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 11 avril 1997

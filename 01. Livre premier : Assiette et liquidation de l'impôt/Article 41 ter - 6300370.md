@@ -1,26 +1,20 @@
 # Article 41 ter
 
-La nature et les quantités de matériaux et de produits transformés, mentionnées au II de l'article 286 quater du code général
-des impôts relatif au registre spécial des façonniers sont appréciées, pour chaque donneur d'ordre, à la date d'entrée et de
-sortie de ces matériaux et produits. A l'issue de ces opérations, ce registre indique les stocks détenus.
+La nature et les quantités de matériaux et de produits transformés, mentionnées au 1 du II de l'article 286 quater du code
+général des impôts relatif au registre spécial des façonniers sont appréciées, pour chaque donneur d'ordre, à la date
+d'entrée et de sortie de ces matériaux et produits. A l'issue de ces opérations, ce registre indique les stocks détenus. 
 
-L'identification particulière prévue sur le registre mentionné au premier alinéa est constituée par le numéro d'assujetti à
-la TVA du donneur d'ouvrage établi dans un autre Etat membre.
+Lorsque des biens destinés à faire l'objet d'un travail à façon sont expédiés à partir d'un autre Etat membre de la
+Communauté européenne par ou pour le compte d'un assujetti identifié à la taxe sur la valeur ajoutée dans cet Etat, le
+registre mentionné au premier alinéa comporte le numéro d'identification à la taxe sur la valeur ajoutée du donneur
+d'ouvrage.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1992-12-04 art. 2 JORF 11 décembre 1992
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
+	  - Arrêté 1996-09-04 art. 2 JORF 6 septembre 1996
 
 	**Cite**:
 
-	  - CGI 286 quater
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, CGI. - art. 286 quater (V)

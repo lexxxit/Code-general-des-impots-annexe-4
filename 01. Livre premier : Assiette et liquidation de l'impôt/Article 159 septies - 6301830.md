@@ -5,33 +5,22 @@ suit :
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est inférieur ou égal à 3,5 tonnes :
 
-A compter du 1er janvier 1994 : 130 F
-
-A compter du 1er janvier 1995 : 148 F
+Prix (en francs) : 154 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est supérieur à 3,5 tonnes et inférieur à 6
 tonnes.
 
-A compter du 1er janvier 1994 : 573 F
-
-A compter du 1er janvier 1995 : 608 F
+Prix (en francs) : 632 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal ou supérieur à 6 tonnes et inférieur à
 11 tonnes.
 
-A compter du 1er janvier 1994 : 856 F
+Prix (en francs) : 948 F
 
-A compter du 1er janvier 1995 : 912 F
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal  ou supérieur à 11 tonnes, tracteurs
+routiers, véhicules de transport en commun de voyageurs.
 
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal  ou supérieur à 11 tonnes
-
-Tracteurs routiers
-
-Véhicules de transport en commun de personnes
-
-A compter du 1er janvier 1994 : 1288 F
-
-A compter du 1er janvier 1995 : 1368 F
+Prix (en francs) : 1423 F
 
 (1) Poids total autorisé en charge.
 
@@ -39,11 +28,11 @@ A compter du 1er janvier 1995 : 1368 F
 
 	**Modifié par**:
 
-	  - Arrêté 1993-12-21 art. 1 JORF 31 décembre 1993
+	  - Arrêté 1996-07-29 art. 1 JORF 1er août 1996
 
 	**Codifié par**:
 
-	  - Arrêté 1994-10-17
+	  - Arrêté 1997-05-28
 
 	**Cite**:
 
@@ -51,4 +40,4 @@ A compter du 1er janvier 1995 : 1368 F
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 11 avril 1997
