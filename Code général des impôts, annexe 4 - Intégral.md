@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1984-12-30
+Version Consolidée au 1985-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7924,6 +7924,27 @@ cartes invendues qui sont représentées.
 
 ##### 6° : Assiette et contrôle de la taxe
 
+###### Article 138
+
+Dans tous les établissements de spectacles ainsi que pour toute séance isolée ou représentation exceptionnelle, l'impôt est
+perçu à l'entrée, en même temps que le prix des places, par les soins des directeurs ou des organisateurs. Il doit être versé
+par eux dans lese conditions fixées à l'article 1565 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 84 I 3 finances pour 1985 JORF 30 décembre 1985
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1565 bis (V)
+
+
 ###### Article 139
 
 Les directeurs des établissements ou organisateurs de réunions et séances exceptionnelles peuvent sur leur demande et si
@@ -8087,6 +8108,32 @@ service des impôts et qui est communiqué à la première demande des agents du
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Réunions sportives.
+
+###### Article 126 F
+
+L'exemption [*exonération*] totale de l'impôt sur les spectacles prévue par l'article 1561-3o-b premier alinéa du code
+général des impôts est applicable :
+
+a. aux compétitions relevant des activités sportives ci-après :
+
+athlétisme  aviron  natation  gymnastique et escrime;
+
+b. jusqu'au 31 décembre 1988 aux compétitions relevant des activités sportives ci-après : aikido, boxe française, canne,
+canoe-kayak, haltérophilie, handball, hockey sur gazon, judo, karaté,kendo, lutte pelote basque  ski  tennis de table  tir et
+volley-ball.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Cite**:
+
+	  - CGI 1561 3° b AL. 1
 
 
 ##### Contrôle des entrées dans les salles - Billets.
@@ -11055,10 +11102,10 @@ signée par tous les associés ou participants. Il en est délivré récépissé
 
 L'option ainsi exercée est irrévocable.
 
-Toutefois jusqu'au 31 décembre 1985 les sociétés de personnes qui ont opté avant le 1er janvier 1981 pour leur
-assujettissement à l'impôt sur les sociétés peuvent renoncer à leur option si elles sont formées entre personnes parentes en
-ligne directe ou entre frères et soeurs ainsi que les conjoints. La renonciation doit être adressée au service des impôts
-auprès duquel est souscrite la déclaration de résultats avant la date d'ouverture du premier exercice auquel elle s'applique.
+Toutefois les sociétés de personnes qui  ont opté avant le 1er janvier 1981 pour leur assujettissement à l'impôt sur les
+sociétés peuvent renoncer à leur option si elles sont formées entre personnes parentes en ligne directe ou entre frères et
+soeurs ainsi que les conjoints. La renonciation doit être adressée au service des impôts auprès duquel est souscrite la
+déclaration de résultats avant la date d'ouverture du premier exercice auquel elle s'applique.
 
 Pour les exercices ou périodes d'imposition ouverts en 1981, la renonciation peut être effectuée jusqu'à la date d'expiration
 du délai de déclaration des résultats de ces exercices ou périodes d'imposition et, si ce délai expire après le 31 décembre
@@ -11072,13 +11119,17 @@ sociétés.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 1981-10-01 art. 1 JORF 3 octobre 1981
+	  - Arrêté 1985-09-24
 
 	**Cite**:
 
 	  - CGI 206 3
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 83 III Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
 
 	**Cité par**:
 
@@ -13419,19 +13470,17 @@ véhicules à moteur (art. 1635 bis D-I du code général des impôts);
 Les débitants de tabac perçoivent sur le prix de vente des papiers timbrés et timbres mobiles de toute nature, dont ils
 assurent la débite, une remise calculée au moyen du barème ci-après :
 
-4 % jusqu'à 7.000 F de ventes annuelles;
+4 % jusqu'à 8.500 F de ventes annuelles;
 
-3 % de 7.001 à 35.000 F de ventes annuelles;
+3 % de 8.501 F à 45.000 F de ventes annuelles;
 
-2 % de 35.001 à 80.000 F de ventes annuelles;
+2 % de 45.001 F à 95.000 F de ventes annuelles;
 
-1 % au-dessus de 80.000 F de ventes annuelles (1).
+1 % au-dessus de 95.000 F de ventes annuelles.
 
-La remise est liquidée et payée semestriellement.
+La remise est liquidée et payée trimestriellement.
 
 Les dispositions du présent article s'appliquent dans les départements de la Corse.
-
-(1) Barème applicable à compter du 1er janvier 1983.
 
 **Liens relatifs à cet article**
 
@@ -13441,11 +13490,7 @@ Les dispositions du présent article s'appliquent dans les départements de la C
 
 	**Modifié par**:
 
-	  - Arrêté 1983-02-25 art. 1 JONC 30 mars 1983, en vigueur le 1er janvier 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1983-10-06
+	  - Arrêté 1985-02-15 art. 1 JORF 6 mars 1985, en vigueur le 1er janvier 1985
 
 
 ### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE
@@ -13649,167 +13694,6 @@ afférente à l'année suivant celle au cours de laquelle ils ont été établis
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### CONTRIBUTIONS INDIRECTES
-
-##### IMPOT SUR LES SPECTACLES, JEUX ET DIVERTISSEMENTS.
-
-###### Article 126 F
-
-L'exemption [*exonération*] totale de l'impôt sur les spectacles prévue par l'article 1561-3o-b premier alinéa du code
-général des impôts est applicable :
-
-aux compétitions relevant des activités sportives ci-après :
-
-athlétisme  aviron  natation  gymnastique et escrime;
-
-jusqu'au 31 décembre 1984 aux compétitions relevant des activités sportives ci-après : aikido  boxe française  canoe-kayak
-haltérophilie  handball  hockey sur gazon  judo  karaté  lutte pelote basque  ski  tennis de table  tir et volley-ball.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1980-08-20 art. 1 JORF 12 septembre 1980
-
-	**Cite**:
-
-	  - CGI 1561 3° b AL. 1
-
-
-###### Article 132
-
-Quelles que soient les stipulations des cahiers des charges l'exemption de l'impôt prévue à l'article 1561-6° du code général
-des impôts s'applique, en raison de leurs fonctions, au médecin, à l'officier ou sous-officier, au commissaire de police ou
-au chef de la police municipale de service, au personnel rémunéré de l'établissement et aux journalistes membres de la
-critique sportive.
-
-Cette exemption s'applique également aux membres de la commission centrale, départementale ou communale de sécurité contre
-l'incendie, titulaires d'une carte d'identité spéciale délivrée par le ministre de l'intérieur, le préfet ou le maire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1980-07-04 art. 1 JORF 19 juillet 1980
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGI 1561 6°
-
-	**Abrogé par**:
-
-	  - Loi n°84-1208 1984-12-29 art. 84 I 2 finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-
-###### Article 134
-
-Les entrées exonérées ne peuvent  en aucun cas  donner lieu  en faveur des exploitants de spectacles  au paiement d'une
-redevance quelconque ni être utilisées pour la rémunération de services.
-
-Les bons  cartes  etc.  donnant droit à des billets d'entrée exonérés doivent porter d'une façon apparente  les mots " entrée
-gratuite exonérée de l'impôt "; ils peuvent mentionner le nom du bénéficiaire.
-
-Les entrées exonérées doivent être constatées par la délivrance de billets extraits de carnets spéciaux. Ces billets  établis
-sur papier de couleur différente de celle des autres tickets d'entrée  doivent porter  en plus des indications habituelles
-la mention " entrée gratuite exonérée de l'impôt ", ainsi que l'indication de la date à laquelle ils sont utilisés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°84-1208 1984-12-29 art. 84 I 2 finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-
-###### Article 135
-
-Sont considérées comme entrées à titre gratuit  imposables  en vertu de l'article 1563 du code général des impôts  au prix
-normal de la place occupée  les places délivrées à titre personnel  telles que celles qui sont attribuées sur présentation
-d'une carte d'invitation ou qui sont accordées à des personnes ne bénéficiant pas des exonérations prévues à l'article 1561
-dudit code. Entrent dans cette catégorie les places attribuées aux actionnaires  propriétaires d'établissements
-concessionnaires  les entrées délivrées en rémunération d'un service rendu (rémunération partielle ou totale du personnel  du
-service de publicité  d'affichage  etc.).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGI 1561
-	  - CGI 1563
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - loi 84-1208 1984-12-29 art. 84 I 2 finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-
-###### Article 136
-
-Sont considérées comme entrées à prix réduits imposables à ce prix les entrées répondant à un procédé régulier d'exploitation
-c'est-à-dire celles à caractère commercial distribuées sans considération de la personne qui en est bénéficiaire et à
-condition que la somme déboursée par le spectateur ne soit pas inférieure à celle qui serait payée pour la même place  au
-seul titre d'impôts droits et taxes  par le porteur d'un billet gratuit.
-
-Les billets  cartes  etc.  à prix réduit  doivent indiquer ce prix et porter d'une façon apparente la mention " entrée à prix
-réduit " sans désignation de la personne qui doit en bénéficier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°84-1208 1984-12-29 art. 84 I 2 finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-
-###### Article 138
-
-Dans tous les établissements de spectacles ainsi que pour toute séance isolée ou représentation exceptionnelle  l'impôt est
-perçu à l'entrée  en même temps que le prix des places  par les soins des directeurs ou des organisateurs. Il doit être versé
-par eux à l'issue de chaque représentation et au vu du relevé récapitulatif des entrées prévu par l'article A 26-2 du livre
-des procédures fiscales, à l'agent chargé de la perception qui en délivre quittance.
-
-Le relevé dont il s'agit est arrêté à chaque représentation par l'agent de perception et le directeur de l'établissement ou
-son représentant. Le paiement de l'impôt est effectué immédiatement en fonction des recettes  y compris la valeur des entrées
-de faveur décomptée d'après le prix normal des places  lorsque ces entrées n'entrent pas dans les prévisions de l'article
-136.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI A26-2
-	  - CGIAN4 136
 
 
 ### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES
