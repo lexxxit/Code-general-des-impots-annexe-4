@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1979-08-24
+Version Consolidée au 1979-11-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8554,44 +8554,6 @@ dessus.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 50 quater
-
-Les entreprises et agents visés à l'article 50 ter sont soumis aux obligations prévues à l'article 286-3o du code général des
-impôts.
-
-Chaque inscription sur la comptabilité ou le livre spécial visé audit article doit indiquer la date la désignation sommaire
-et le montant des courtages commissions ou rémunérations payés ainsi que le nom et l'adresse du bénéficiaire.
-
-Le montant des opérations inscrites sur le livre est totalisé à la fin de chaque trimestre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 286 3°
-	  - CGIAN4 50 ter
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 50 quinquies
-
-Les entreprises et agents établissent à la fin de chaque trimestre soit d'après leur comptabilité soit d'après leur livre un
-relevé indiquant le montant total des courtages commissions et rémunérations payés pendant le trimestre à des personnes ou
-sociétés passibles de la taxe sur la valeur ajoutée.
-
-Le relevé est certifié daté et signé par le représentant légal de l'entreprise ou l'agent ou par leur mandataire dûment
-autorisé.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 50 sexies B
 
 Toute entrée dans les établissements de spectacles visés à l'article 290 quater du code général des impôts doit être
@@ -8689,28 +8651,6 @@ Les relevés doivent être tenus à la disposition des agents des impôts et con
 	  - Décret n°2017-926 du 9 mai 2017 - art. 5 (VD)
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 118 (V)
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 48 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 50 ter
-
-Sont astreints à souscrire la déclaration visée à l'article 286-1o du code général des impôts :
-
-1° Les entreprises françaises d'assurances de capitalisation et d'épargne ainsi que les entreprises étrangères de même nature
-possédant en France un établissement une succursale une agence ou un représentant qui payent des commissions courtages ou
-autres rémunérations à des personnes ou sociétés passibles de la taxe sur la valeur ajoutée;
-
-2° Les agents mandatés des entreprises désignées au 1o lorsqu'ils payent à titre personnel de tels courtages commissions ou
-rémunérations à ces mêmes personnes ou sociétés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 286 1°
 
 	**Liens**:
 
