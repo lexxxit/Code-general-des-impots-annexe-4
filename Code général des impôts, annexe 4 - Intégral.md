@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-12-19
+Version Consolidée au 1981-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8211,6 +8211,28 @@ Les impressions portées sur l'ensemble du document sont de couleur bleu foncé.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 17
+
+Les payeurs doivent s'organiser de façon que l'administration puisse vérifier dans leurs écritures l'exactitude des diverses
+mentions figurant sur les relevés par eux fournis. Ils doivent conserver  jusqu'à l'expiration du délai prévu à l'article
+2002 bis du code général des impôts  les pièces  livres ou documents qui ne seraient pas soumis à un délai de conservation
+plus étendu en vertu des dispositions légales en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 2002 bis
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
 ###### Article 17 A
 
 1. Toute opération portant sur des coupons ou instruments représentatifs de coupons d'actions et parts sociales de sociétés
@@ -8674,15 +8696,20 @@ national du crédit interviennent en qualité de prêteurs ou d'emprunteurs;
 5o Les contrats de prêts réalisés sous la forme d'émission de bons de caisse par des banques ou d'émission publique
 d'obligations.
 
+Toutefois, la dispense de déclaration des contrats de prêts prévue aux 1° à 5° ci-dessus ne s'applique pas aux bons ou titres
+mentionnés au 2° du III bis de l'article 125 A du code général des impôts lorsque leur détenteur communique son identité et
+son domicile fiscal à l'établissement qui assure le paiement des intérêts ou le remboursement de ces bons ou titres.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1981-12-30 art. 1 JORF 31 décembre 1981
 
 	**Cite**:
 
+	  - CGI 125 A III bis 2°
 	  - CGIAN3 49 B 2 b
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*
@@ -10868,6 +10895,38 @@ Les bordereaux visés au présent article sont conservés au bureau de déclarat
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 54-0 BT
+
+Lorsqu'ils sont transportés par quantités supérieures à 6 litres en volume  les spiritueux  libérés des droits  conditionnés
+en bouteilles revêtues de capsules portant les marques fiscales  doivent être accompagnés d'un bordereau de livraison
+conforme au modèle donné par l'administration et indiquant [*mentions*] :
+
+1o La date d'enlèvement;
+
+2o Par contenance et par nature des boissons  le nombre total de bouteilles chargées au départ;
+
+3o Le nom et l'adresse des destinataires ainsi que les quantités qui leur sont destinées.
+
+Au moment de la livraison  le bordereau doit être complété par la signature des destinataires et  éventuellement  par les
+quantités effectivement livrées.
+
+L'administration peut  à la demande des intéressés  agréer des modèles différents pourvu qu'ils comportent les indications
+réglementaires.
+
+Les bordereaux doivent être conservés et tenus à la disposition des agents des impôts jusqu'à l'expiration du délai prévu à
+l'article 2002 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 2002 bis
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
 ###### Article 54-0 E
 
 Les inscriptions autres que celles prévues à l'article 54-0 D peuvent être imprimées en toutes couleurs  mais en aucun cas la
@@ -12957,52 +13016,6 @@ huiles végétales ou    des huiles d'animaux marins dans une    proportion :
 
 
 #### FONDS NATIONAL DU LIVRE
-
-###### Article 159 AB
-
-La commission paritaire prévue à l'article 1609 decies B du code général des impôts est divisée en quatre sections
-spécialisées pour l'examen des demandes d'exonération portant respectivement sur les manuels scolaires  les ouvrages
-scientifiques  les ouvrages de piété ou les éditions critiques.
-
-Pour l'examen des demandes présentées par les éditeurs  les sections sont présidées par un magistrat de la cour des comptes.
-
-Dans le cas où les représentants de la profession sont personnellement intéressés dans la discussion  ils sont remplacés par
-des membres suppléants désignés dans les mêmes conditions que les membres titulaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 decies B
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°81-1160 du 30 décembre 1981 - art. 24 () JORF 31 DECEMBRE 1981 : ARTICLE DEVENU SANS OBJET
-
-
-###### Article 159 AC
-
-Les demandes sont soumises à une section spécialisée de la commission fonctionnant dans les conditions indiquées à l'article
-159 AB.
-
-A l'issue de l'examen auquel il a été procédé  l'avis de ladite section  portant le visa de son président  est mentionné sur
-les deux exemplaires de la demande.
-
-L'un des deux certificats est renvoyé à l'éditeur intéressé à toutes fins utiles  le visa favorable du président de la
-section spécialisée étant seul pris en considération pour l'octroi des dégrèvements prévus par la loi.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 159 AB
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°81-1160 du 30 décembre 1981 - art. 24 () JORF 31 DECEMBRE 1981 : ARTICLE DEVENU SANS OBJET
-
 
 ###### Article 159 AD
 
