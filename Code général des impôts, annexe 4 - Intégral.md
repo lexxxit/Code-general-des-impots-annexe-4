@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1991-02-03
+Version Consolidée au 1991-03-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5975,6 +5975,66 @@ timbrer faisant l'objet du présent article est simplement tenue d'en faire la d
 
 	  - PEREMPTION: Décret n°2006-1041 du 24 août 2006 - art. 1 () JORF 25 août 2006
 	  - HISTO: Edition du 1er janvier 2007
+
+
+#### Chapitre II : Redevance sanitaire d'abattage
+
+###### Article 50 terdecies
+
+Le tarif de la redevance sanitaire d'abattage perçue jusqu'au 31 décembre 1991 s'établit comme suit :
+
+Pour les gros bovins : 86 F par tonne, 0,086 F par kilogramme.
+
+Pour les veaux : 101 F par tonne, 0,101 F par kilogramme.
+
+Pour les animaux des espèces chevaline, asine et leur croisement :
+
+72 F par tonne, 0,072 F par kilogramme.
+
+Pour les ovins : 63 F par tonne, 0,063 F par kilogramme.
+
+Pour les caprins : 63 F par tonne, 0,063 F par kilogramme.
+
+Pour les porcins : 75 F par tonne, 0,075 F par kilogramme.
+
+Pour les volailles : 22 F par tonne, 0,022 F par kilogramme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-03-20 art. 1 JORF 22 mars 1991
+
+	**Modifié par**:
+
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
+
+
+#### Chapitre III : Redevance sanitaire de découpage
+
+###### Article 50 quaterdecies
+
+Le tarif de la redevance sanitaire de découpage perçue jusqu'au 31 décembre 1991 s'établit comme suit :
+
+Pour les espèces d'animaux de boucherie : 11 F par tonne, 0,011 F par kilogramme.
+
+Pour les volailles du genre Gallus : 1,2 F par tonne, 0,0012 F par kilogramme.
+
+Pour les dindes : 7,0 F par tonne, 0,007 F par kilogramme.
+
+Pour les canards : 7,9 F par tonne, 0,0079 F par kilogramme.
+
+Pour les pintade : 0,4F par tonne, 0,0004 F par kilogramme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-03-20 art. 2 JORF 22 mars 1991
+
+	**Modifié par**:
+
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
