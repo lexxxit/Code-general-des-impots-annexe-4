@@ -16,9 +16,8 @@ c. Pour les opérations liées à celles mentionnées aux a et b ;
 
 d. (Abrogé) ;
 
-2° Dans les autres cas, par le directeur régional des impôts dont dépend le lieu de situation de l'établissement (1).
-
-(1) Ces dispositions sont applicables aux demandes d'agrément déposées à compter du 1er janvier 1989.
+2° Dans les autres cas, par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction
+de contrôle fiscal dans le ressort de laquelle est situé l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -27,20 +26,17 @@ d. (Abrogé) ;
 	  - Arrêté 1982-07-10 art. 1
 	  - CGI 721, 1465
 
-	**Codifié par**:
-
-	  - Arrêté 1999-05-18
-
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 39 I 4 Finances pour 1999 JORF 31 décembre 1998
+	  - Arrêté 2000-08-31 art. 2 JORF 3 septembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00

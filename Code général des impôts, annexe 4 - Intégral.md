@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2001-03-01
+Version Consolidée au 2001-03-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1948,27 +1948,29 @@ déclaration visée à l'article 17 quater est joint à la déclaration des reve
 ###### Article 17 quinquies A
 
 L'agrément prévu à l'article 41 H de l'annexe III au code général des impôts pour l'application du 3° du I et du 1° ter du II
-de l'article 156 du même code est délivré par le directeur régional des impôts dont relève le lieu de situation de l'immeuble
-concerné. Si la demande présente des difficultés particulières tenant notamment à la nature de l'immeuble ou aux conditions
-de son occupation, la décision est prise par le ministre de l'économie, des finances et du budget (1).
+de l'article 156 du même code est délivré par le directeur des services fiscaux du département au chef-lieu duquel est
+localisée la direction de contrôle fiscal dans le ressort de laquelle est situé l'immeuble concerné. Si la demande présente
+des difficultés particulières tenant notamment à la nature de l'immeuble ou aux conditions de son occupation, la décision est
+prise par le ministre de l'économie, des finances et du budget.
 
-L'agrément est délivré par le délégué régional dans la région d'Ile-de-France, par le directeur des services fiscaux de la
-Corse du Sud dans les départements de Corse et par le directeur des services fiscaux territorialement compétent dans les
-départements d'outre-mer.
-
-(1) Disposition applicable aux demandes déposées à compter du 1er janvier 1984. Les agréments délivrés par les directeurs des
-services fiscaux sur des demandes déposées avant le 1er janvier 1984 peuvent être retirés soit par le directeur des services
-fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts territorialement compétent.
+L'agrément est délivré pour la région d'Ile-de-France par le directeur chargé de la direction spécialisée des impôts pour la
+région d'Ile-de-France et pour Paris et dans les départements d'outre-mer par le directeur des services fiscaux
+territorialement compétent.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-07-04 art. 1 JORF 22 août 1989
+	  - Arrêté 2000-08-31 art. 1 JORF 3 septembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
+	  - HISTO: Edition du 31 mars 2001
 
 	**Cite**:
 
-	  - CGI 156 I 3°, II 1° ter
+	  - CGI 156
 	  - CGIAN3 41 H
 
 
@@ -2013,29 +2015,22 @@ limitée sont assimilés aux établissements de crédits constitués sous forme 
 ###### Article 17 septies
 
 Les établissements de crédit visés à l'article 41 N de l'annexe III au code général des impôts peuvent ouvrir des comptes
-d'épargne s'ils justifient d'un capital au moins égal à celui fixé par l'article 16 modifié de la loi n° 84-46 du 24 janvier
-1984 relative à l'activité et au contrôle des établissements de crédit.
+d'épargne s'ils justifient d'un capital au moins égal à celui fixé par l'article L. 511-11 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
-
-	**Cite**:
-
-	  - CGIAN3 41 N
-	  - Loi n°84-46 1984-01-24 art. 16
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - Arrêté 2001-05-21
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 2 () JORF 27 juillet 1991
-	  - Loi n°92-665 du 16 juillet 1992 - art. 40 () JORF 17 juillet 1992
-	  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 73° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 N (V)
+	  - Code monétaire et financier - art. L511-11 (VT)
 
 	**Cité par**:
 
@@ -2064,60 +2059,60 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2000, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2001, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 Taux applicable : 0 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Moins de 62 650 F / Année
+Moins de 63 520 F / Année
 
-Moins de 15 663 F / Trimestre
+Moins de 15 880 F / Trimestre
 
-Moins de 5 221 F / Mois
+Moins de 5 293 F / Mois
 
-Moins de 1 205 F / Semaine
+Moins de 1 222 F / Semaine
 
-Moins de 201 F / Jour ou fraction de jour
+Moins de 204 F / Jour ou fraction de jour
 
 Taux applicable : 15 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-De 62 650 à 181 760 F / Année
+De 63 520 à 184 310 F / Année
 
-De 15 663 à 45 440 F / Trimestre
+De 15 880 à 46 078 F / Trimestre
 
-De 5 221 à 15 147 F / Mois
+De 5 293 à 15 359 F / Mois
 
-De 1 205 à 3 495 F / Semaine
+De 1 222 à 3 544 F / Semaine
 
-De 201 à 583 F / Jour ou fraction de jour
+De 204 à 591 F / Jour ou fraction de jour
 
 Taux applicable : 25 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de 181 760 F / Année
+Au-delà de 184 310 F / Année
 
-Au-delà de 45 440 F / Trimestre
+Au-delà de 46 078 F / Trimestre
 
-Au-delà de 15 147 F / Mois
+Au-delà de 15 359 F / Mois
 
-Au-delà de 3 495 F / Semaine
+Au-delà de 3 544 F / Semaine
 
-Au-delà de 583 F / Jour ou fraction de jour.
+Au-delà de 591 F / Jour ou fraction de jour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2000-01-24 art. 1 JORF 27 janvier 2000
+	  - Arrêté 2000-12-30 art. 1 JORF 31 décembre 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -3060,23 +3055,27 @@ passagers.
 
 En application de l'article 242-0 P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0 M de la même annexe
-est fixé, pour les années 1999 et 2000, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
-demandes déposées au titre d'une année civile.
+est fixé, pour l'année 2001, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les demandes
+déposées au titre d'une année civile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-12-29 art. 1 JORF 30 décembre 1999
+	  - Arrêté 2001-03-16 art. 1 JORF 20 mars 2001
 
 	**Cite**:
 
 	  - CGIAN2 242-0 P, 242-0 M
 
+	**Abrogé par**:
+
+	  - Décret n°2002-02-20 art. 1 JORF 27 février 2002
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1998-04-10 3D-3-98
+	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article 28-0 A
@@ -4057,11 +4056,12 @@ d'ouvrage.
 
 ###### Article 41 sexies
 
-I. Les modalités de dérogation prévues au deuxième alinéa du I de l'article 96 K de l'annexe III sont les suivantes :
+I. Les modalités de dérogation prévues au deuxième alinéa du I de l'article 96 K de l'annexe III au code général des impôts
+sont les suivantes :
 
-ne sont pas tenues d'utiliser les formulaires CERFA n° 30-2943 ou n° 30-2944 pour satisfaire à leurs obligations en matière
-de déclaration d'échanges de biens les entreprises qui, au cours de l'année civile précédente, ont déclaré, pour chaque flux,
-moins de 100 lignes par mois en moyenne.
+Ne sont pas tenues d'utiliser les formulaires CERFA mentionnés audit article 96 K pour satisfaire à leurs obligations en
+matière de déclaration d'échanges de biens les entreprises qui, au cours de l'année civile précédente, ont déclaré, pour
+chaque flux, moins de 100 lignes par mois en moyenne.
 
 II. Les entreprises mentionnées au I doivent présenter la déclaration d'échanges de biens sous forme d'un document qui
 respecte l'ordre et l'intitulé des rubriques ; l'en-tête reprenant les données communes à tous les articles de la déclaration
@@ -4072,13 +4072,13 @@ conformité du document.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1996-07-12 art. 1, art. 2 JORF 19 juillet 1996
+	  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -4086,7 +4086,7 @@ conformité du document.
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 41 sexies A
@@ -4105,6 +4105,35 @@ mensuelle pour les opérateurs dont le montant annuel des échanges intracommuna
 	**Créé par**:
 
 	  - Arrêté 2000-12-26 art. 1, art. 2, art. 3 JORF 30 décembre 2000
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Cite**:
+
+	  - CGIAN3 96 L
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 41 sexies B
+
+I. - Le montant annuel en valeur du seuil d'assimilation est fixé à 650 000 F à l'introduction comme à l'expédition.
+
+II. - Le montant annuel en valeur du seuil de simplification est fixé à 1 500 000 F à l'introduction et à 3 000 000 F à
+l'expédition.
+
+III. - Un seuil annuel de 15 000 000 F est institué au-delà duquel les déclarations d'échanges de biens entre Etats membres
+doivent comporter l'ensemble des données prévues par l'article 96 L de l'annexe III au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
 
 	**Codifié par**:
 
@@ -6643,15 +6672,15 @@ Pour les viandes de gibier d'élevage :
 Les taux d'imposition de la taxe visée à l'article 302 bis ZD du code général des impôts sont fixés par tranche d'achats
 mensuels hors taxe sur la valeur ajoutée à :
 
-0,5 p. 100 jusqu'à 125 000 F ;
+2 % jusqu'à 125 000 F ;
 
-0,9 p. 100 au-delà de 125 000 F.
+3,8 % au-delà de 125 000 F.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1996-12-31 art. 1 JORF 7 janvier 1997
+	  - Arrêté 2000-12-29 art. 1 JORF 31 décembre 2000
 
 	**Cite**:
 
@@ -6659,7 +6688,7 @@ mensuels hors taxe sur la valeur ajoutée à :
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2001
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -6706,29 +6735,403 @@ MONTANT de la somme à consigner (en francs) 2000.
 
 #### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés
 
-###### Article 50-0 F
+##### 1° : Comptabilité matières des entrepositaires agréés
 
-Les caractéristiques et obligations prévues aux articles 54-0 F, 54-0 G, 54-0 X, 54-0 AA et 54-0 AC relatives aux
-entrepositaires agréés et négociants sont applicables aux entrepositaires agréés d'autres Etats membres de la Communauté
-européenne.
+###### Article 50-00 A
+
+Pour l'application des dispositions du a du 1° du I de l'article 286 J de l'annexe II au code général des impôts, la
+comptabilité matières des entrepositaires agréés n'est pas soumise à l'agrément du directeur régional des douanes et droits
+indirects lorsqu'elle est constituée par les documents repris en annexe de l'arrêté du 25 août 2000 (JO du 31 août 2000). 
+
+Dans ce cas, chacun des comptes de la comptabilité matières est tenu sous forme de colonnes, qui reprennent, au titre des
+renseignements particuliers prévus au IX de l'article 286 J précité, les informations visées à l'article 50-00 C. 
+
+Pour la déclaration récapitulative mensuelle, les comptes doivent faire apparaître, outre les informations prévues à
+l'article 50-00 G : 
+
+a) Une ligne " stock début de période " et une ligne " stock fin de période " ; 
+
+b) Une ligne " total " ; 
+
+c) Une ligne " solde ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2000-08-25 art. 1 JORF 31 août 2000
 
 	**Cite**:
 
-	  - CGI 54-0 F, 54-0 G, 54-0 X, 54-0 AA, 54-0 AC
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 G (V)
+
+
+###### Article 50-00 B
+
+I.-Le site d'exploitation mentionné à l'article 286 H de l'annexe II au code général des impôts est constitué de tout ou
+partie des chais ou locaux désignés : 
+
+a) Par les entrepositaires agréés produisant des produits vitivinicoles, situés dans un même arrondissement ou les cantons
+limitrophes ; 
+
+b) Par les autres entrepositaires agréés, situés dans une même commune de moins de 30 000 habitants. 
+
+II.-L'entrepositaire agréé désigne au service des douanes et droits indirects le lieu, dénommé " siège du site d'exploitation
+", où est tenue la comptabilité matières, ainsi que tout ou partie des chais ou locaux concernés par cette comptabilité. 
+
+III.-Le directeur régional des douanes et droits indirects ayant dans le ressort territorial de sa circonscription le siège
+du site d'exploitation peut autoriser les entrepositaires agréés qui en font la demande à rattacher un ou plusieurs chais ou
+locaux au site d'exploitation lorsqu'ils sont situés en dehors des limites fixées au I.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-08-25 art. 1 JORF 31 août 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 H (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+
+###### Article 50-00 C
+
+Au titre des renseignements particuliers prévus à l'article 286 J de l'annexe II au code général des impôts, et en fonction
+de l'activité des entrepositaires agréés concernés, chacun des comptes de la comptabilité matières doit reprendre notamment
+les informations suivantes :
+
+1° La nature, le numéro et la date de départ ou de réception du document d'accompagnement mentionné à l'article 302 M dudit
+code ou des pièces justificatives des productions, des transformations, des détentions, des entrées et sorties de produits
+des chais ou locaux du site d'exploitation ;
+
+2° La date des déclarations de mise en production d'alcool, de fabrication de mistelles, vermouths, vins de liqueur ou
+apéritifs à base de vin, de cidre ou de poiré, de fabrication de boissons de raisins secs, de fabrication de vins mousseux,
+de fabrication de vins doux naturels et d'ajout de sucre à la vendange, prévues aux articles 312, 343, 352, 413, 416 et 422
+dudit code ;
+
+3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407, 408 et 410 bis dudit code ;
+
+4° La date de la prise en charge des produits alcooligènes visés à l'article 338 du même code ;
+
+5° La nature et la date de toute autre opération constituant une "entrée" ou une "sortie" selon le B du IX de l'article 286 J
+de l'annexe II au code général des impôts ;
+
+6° La date de la déclaration récapitulative mensuelle mentionnée au IV de l'article 286 J précité ;
+
+7° L'espèce, la qualité et la nature des produits mentionnés au III de l'article 302 G dudit code et, le cas échéant :
+
+a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
+
+b) Les références aux contrats d'achat soumis au visa de l'office national interprofessionnel des vins, pour les transactions
+soumises à cette procédure ;
+
+c) Les références aux certificats d'agrément ou de labellisation ;
+
+d) Les numéros d'enregistrement des contrats d'achat et les numéros des déclarations de transactions soumis préalablement aux
+interprofessions tels que prévus dans les accords interprofessionnels étendus ;
+
+e) L'avis de blocage, l'engagement de garantie ou la mainlevée du porteur de warrant agricole ou du porteur de l'engagement
+de garantie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-08-25 art. 1 JORF 31 août 2000
+
+	**Cite**:
+
+	  - CGI 302 M, 312, 343, 352, 413, 416, 422, 407, 408, 410 bis, 338, 302 G
+	  - CGIAN2 286 J
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 A (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 H (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
-	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+###### Article 50-00 D
+
+Pour la tenue de la comptabilité matières notamment sous la forme de registres vitivinicoles, selon une procédure
+informatisée, le système informatique doit répondre aux prescriptions ci-après :
+
+1° Tenue de la comptabilité matières et des registres vitivinicoles.
+
+La comptabilité matières et les registres vitivinicoles informatisés sont tenus selon une ou plusieurs suites chronologiques
+ininterrompues.
+
+Le système informatique doit être pourvu d'un compteur d'enregistrement des entrées d'informations dans la comptabilité
+matières et dans les registres vitivinicoles.
+
+Ce compteur affecte à chaque entrée d'informations dans la comptabilité matières et dans les registres vitivinicoles un
+numéro suivant une série croissante ininterrompue, ainsi que la date à laquelle est effectuée ladite entrée d'informations.
+Ce numéro et cette date doivent être reproduits dans la comptabilité matières et les registres vitivinicoles.
+
+Ce compteur doit être inaccessible à l'utilisateur. Sa remise à zéro par l'utilisateur est interdite.
+
+Après validation par l'utilisateur de la saisie des informations sur la machine émettrice, leur annulation ou modification
+devient impossible.
+
+2° Enregistrement des entrées d'information.
+
+Le système informatique doit également enregistrer automatiquement et chronologiquement dans un fichier chacune des entrées
+d'informations dans la comptabilité matières et dans les registres vitivinicoles pour en conserver la trace.
+
+Le numéro affecté par le compteur d'enregistrement à chaque entrée d'informations, conformément au troisième alinéa du 1°,
+correspond à celui de l'opération mémorisée par le système.
+
+3° Dispositions en vue de l'exercice des contrôles.
+
+Le système informatique doit comporter des fonctions d'interrogation en temps réel afin de permettre aux agents des douanes
+et droits indirects de visualiser et/ou d'éditer à tout moment les informations nécessaires à la vérification de la cohérence
+entre les deux éléments suivants :
+
+a) Les fichiers informatiques se rapportant au traitement mis en oeuvre pour l'application des dispositions du présent
+article ;
+
+b) L'édition de la comptabilité matières et des registres vitivinicoles.
+
+Si les transmissions ou réceptions d'informations comportent des mentions codées, le système doit permettre de restituer les
+informations en clair.
+
+4° Sécurités.
+
+Toutes les opérations gérées par le système informatique doivent être assorties de procédures permettant d'en garantir
+l'authenticité dans les conditions prévues par un arrêté du ministre chargé du budget.
+
+5° Conservation des informations.
+
+En cas de changement d'un élément matériel ou logiciel du système informatique, toutes les mesures utiles doivent être prises
+pour permettre la conservation et la restitution des informations.
+
+Les entrepositaires agréés doivent, à toute réquisition des agents des douanes et droits indirects, permettre à ces agents de
+vérifier à tout moment que les systèmes informatiques sont conformes aux prescriptions fixées par le présent article et
+comportent les sécurités prévues par ces prescriptions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-08-25 art. 1 JORF 31 août 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 H (V)
+
+
+###### Article 50-00 E
+
+Pour l'application du V de l'article 286 I de l'annexe II au code général des impôts les registres vitivinicoles, tenant lieu
+de comptabilité matières, peuvent être constitués par des annotations au verso des déclarations de récolte et des stocks
+visées aux articles 407 et 408 dudit code sous réserve : 
+
+1° De l'inscription des mentions requises par la réglementation communautaire et des informations mentionnées au 1° du II de
+l'article 286 I précité ; 
+
+2° Que ces annotations soient lisibles ; 
+
+3° Qu'elles reprennent la totalité des opérations réalisées par l'entrepositaire agréé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-08-25 art. 1 JORF 31 août 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
+	  - Code général des impôts, CGI. - art. 407 (V)
+
+
+###### Article 50-00 F
+
+Pour l'application du VII de l'article 286 I de l'annexe II au code général des impôts les registres vitivinicoles peuvent
+être regroupés sur un seul document à la condition : 
+
+1° Que les opérations réalisées par l'entrepositaire agréé au cours d'une campagne viticole soient limitées de telle sorte
+que, pour chaque type d'opérations, elles puissent être enregistrées sur un seul feuillet ; 
+
+2° Que la page de garde du registre précise le nombre de feuillets affecté à chaque type d'opérations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-08-25 art. 1 JORF 31 août 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
+
+
+###### Article 50-00 G
+
+I. - Pour l'application du III de l'article 286 I et du IV de l'article 286 J de l'annexe II au code général des impôts,
+l'entrepositaire agréé établit une déclaration récapitulative mensuelle distincte pour chacun de ses entrepôts fiscaux
+suspensifs des droits d'accises.
+
+A défaut d'opération de production, de transformation, d'entrée et de sortie de produits de l'entrepôt fiscal suspensif des
+droits d'accises, l'entrepositaire agréé adresse au service des douanes et droits indirects la déclaration mensuelle en y
+indiquant le stock théorique en début de période, le stock théorique en fin de période, annotée de la mention "Néant".
+
+1° La déclaration récapitulative mensuelle comporte, pour chaque compte de la comptabilité matières, les renseignements
+suivants :
+
+a) Les noms ou raison sociale et adresse du siège social ;
+
+b) Le numéro d'identification de l'entrepôt fiscal suspensif des droits d'accises ;
+
+c) L'adresse de l'entrepôt fiscal suspensif des droits d'accises pour lequel est établie la déclaration mensuelle ;
+
+d) Le lieu où est tenue la comptabilité matières ;
+
+e) L'année au titre de laquelle la déclaration est établie ;
+
+f) Le mois au titre duquel la déclaration est établie ;
+
+g) Les date et lieu d'établissement de la déclaration et la signature du déclarant appuyée du cachet de son entreprise ;
+
+h) La raison sociale de la caution ou, le cas échéant, la mention "Dispense".
+
+2° La déclaration récapitulative mensuelle indique, le cas échéant :
+
+a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
+
+b) Les références aux contrats d'achat soumis au visa de l'Office national interprofessionnel des vins, pour les transactions
+soumises à cette procédure ;
+
+c) Les références aux certificats d'agrément ou de labellisation ;
+
+d) Les numéros d'enregistrement des contrats d'achat et les numéros des déclarations de transactions soumis préalablement aux
+interprofessions tels que prévus dans les accords interprofessionnels étendus ;
+
+e) L'avis de blocage, l'engagement de garantie ou la mainlevée du porteur de warrant agricole ou du porteur de l'engagement
+de garantie.
+
+3° La déclaration récapitulative mensuelle indique le stock début de période, le stock fin de période, le total des entrées
+et sorties de produits du mois précédent et le solde :
+
+a) Pour les entrepositaires agréés produisant des alcools, des produits intermédiaires et des produits visés à l'article 438
+du code général des impôts, par appellation d'origine ou dénomination de produits ;
+
+b) Pour les autres entrepositaires agréés par nature de produit et/ou par tarif d'imposition, sous réserve des règlements ou
+accords interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural.
+
+II. - 1° Conformément au III de l'article 302 D du code général des impôts, l'entrepositaire agréé liquide l'impôt sur la
+déclaration récapitulative mensuelle prévue au I.
+
+Outre les renseignements prévus au 1° du I, la déclaration comporte les informations suivantes nécessaires à la liquidation
+et au paiement de l'impôt :
+
+a) Le régime fiscal assigné à la déclaration, soit la lettre A pour accises au titre de l'article 302 D précité ou la lettre
+D pour douane en cas d'option pour le régime de l'article 1698 C dudit code ;
+
+b) La désignation commerciale des produits imposables, nombre et type de récipients, volume nominal des récipients, titre
+alcoométrique volumique (% vol.) et degré alcoométrique (pour les bières) et, pour les déclarations d'apposition de capsules,
+empreintes, vignettes, ou marques représentatives de droits indirects, leur nature et leur nombre ;
+
+c) Les quantités imposables par nature de produits ;
+
+d) Les tarifs d'imposition ;
+
+e) Le montant des droits à acquitter par nature de produits et tarif d'imposition, ainsi que le montant global de l'ensemble
+de ces droits ;
+
+f) Le moyen de paiement utilisé (numéraire, chèque, virement ou obligation cautionnée) ;
+
+g) Pour les utilisateurs de matériels de validation, les numéros d'empreintes de début et de fin de période.
+
+2° Deux cases et une colonne réservées à l'administration font référence aux codes taxes, à la réception de la déclaration de
+liquidation (date et numéro) et à sa prise en recette (montant, date et numéro de caisse, visa du service des douanes et
+droits indirects et nature de la garantie dont bénéficie l'entrepositaire agréé).
+
+3° Lorsque le bénéfice de la compensation est demandé au titre de l'article 286 M de l'annexe II au code général des impôts,
+une sous-rubrique est créée au regard de chaque catégorie de produit concerné. Cette compensation se traduit par
+l'inscription, d'une part, des quantités de produits ayant préalablement supporté l'impôt et replacées en suspension de
+droits dans l'entrepôt fiscal suspensif des droits d'accises et, d'autre part, par une écriture négative du montant des
+droits qui s'y rattache.
+
+4° Lorsque la compensation n'a pas été possible au terme des trois mois qui suivent le dépôt de la demande, le crédit d'impôt
+subsistant est alors remboursé au bénéficiaire, sur sa demande.
+
+III. - Pour l'application des articles 111 H quater et 111 H sexies de l'annexe III au code général des impôts, aux termes du
+délai d'information prévu par l'article 302 P du code général des impôts, l'entrepositaire agréé établit un relevé des
+documents d'accompagnement non apurés mentionnés au I de l'article 302 M dudit code ou des opérations réalisées en suspension
+des droits d'accises conformément à l'article 443 du même code, dénommé ci-après "relevé de non-apurement".
+
+Le relevé de non-apurement est conforme au modèle annexé à l'arrêté du 25 août 2000 (JO du 31 août 2000).
+
+Le relevé de non-apurement est établi de manière distincte pour chacun des entrepôts fiscaux suspensifs des droits d'accises
+de l'entrepositaire agréé.
+
+Ce relevé est transmis par l'entrepositaire agréé au service des douanes et droits indirects dont il dépend selon les mêmes
+modalités et dans les conditions prévues pour la déclaration récapitulative mensuelle.
+
+Un exemplaire de chaque document d'accompagnement non apuré ou une copie du document mentionné au c du II de l'article 111 H
+sexies précité est annexé au relevé de non-apurement.
+
+Outre les renseignements prévus au 1° du I, le relevé de non-apurement comporte les renseignements suivants :
+
+a) Le numéro du document d'accompagnement ou les références du document mentionné au c du II de l'article 111 H sexies
+précité ;
+
+b) La date de départ du document ;
+
+c) Les nom ou raison sociale et l'adresse du destinataire ;
+
+d) Le numéro d'identification du destinataire.
+
+Si toutes les opérations réalisées par l'entrepositaire agréé ont fait l'objet d'un apurement, ce dernier annote la
+déclaration récapitulative mensuelle de la mention "Pas de défaut d'apurement".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 2000-08-25 Annexe
+	  - CGI 438, 302 D, 1698 C, 302 P, 302 M, 443
+	  - CGIAN2 286 J, 286 I, 286 M
+	  - CGIAN3 111 H quater, 111 H sexies
+	  - Code rural L632-1 à L632-7
+
+	**Créé par**:
+
+	  - Arrêté 2000-08-25 art. 1 JORF 31 août 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 50-00 H
+
+Les dispositions prévues aux articles 50-00 C à 50-00 G relatives aux registres vitivinicoles peuvent également être mises en
+oeuvre par les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-08-25 art. 1 JORF 31 août 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 C (V)
 
 
 ##### 1° bis : Attestation de consignation
@@ -6762,6 +7165,101 @@ agréé expéditeur qui doit le joindre au document d'accompagnement.
 	**Modifié par**:
 
 	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
+
+##### 3° : Capsules représentatives de droits
+
+###### Article 50-0 C
+
+Les capsules représentatives de droits destinées à être apposées, dans les autres Etats membres de la Communauté européenne,
+sur les bouteilles et récipients doivent comporter les mentions suivantes : 
+
+a) Le numéro d'agrément délivré par l'administration des douanes et droits indirects précédé du sigle du pays (DE pour
+Allemagne, IT pour Italie, FI pour Finlande, SE pour Suède, AT pour Autriche, BE pour Belgique, DK pour Danemark, EL pour
+Grèce, ES pour Espagne, GB pour Grande-Bretagne, IE pour Irlande, LU pour Luxembourg, NL pour Pays-Bas et PT pour
+Portugal) ; 
+
+b) La marque du fabricant des capsules ou, le cas échéant, celle du fabricant des marques fiscales servant à la fabrication
+des capsules. 
+
+Ces mentions sont apposées conformément à la description qui en est faite au II de l'article 164 AM. 
+
+Les indications reprises au a doivent concorder avec celles figurant soit sur les étiquettes apposées sur les bouteilles ou
+récipients, soit sur les bouteilles ou récipients eux-mêmes. Ces indications doivent être apposées avant leur livraison à
+l'utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2000-09-22 art. 1 JORF 5 octobre 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 D (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 B (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+
+
+###### Article 50-0 D
+
+Les capsules visées à l'article 50-0 C sont conformes à la description qui en est faite à l'article 54-0 D.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2000-09-22 art. 1 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 D (V)
+
+
+###### Article 50-0 E
+
+Le bon de commande mentionné à l'article 111 J de l'annexe III, établi en double exemplaire, est daté et visé par
+l'administration des douanes et droits indirects. Il comporte notamment : 
+
+a) Le nom et l'adresse du fournisseur des marques fiscales ou des capsules ; 
+
+b) Le nom et l'adresse de l'entrepositaire agréé destinataire ainsi que ses numéros d'accise et d'agrément ; 
+
+c) Le nombre de marques fiscales ou de capsules commandées, par catégorie (volume net exprimé en centilitres, couleur des
+capsules, pour les vins, vin tranquille ou vin mousseux et, le cas échéant, titre alcoométrique volumique). 
+
+L'un des exemplaires est remis au fabricant, l'autre est conservé au dossier ouvert au nom du commanditaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2000-09-22 art. 1 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 J (V)
+
+
+###### Article 50-0 F
+
+Les caractéristiques et obligations prévues aux articles 54-0 A à 54-0 AC relatives aux entrepositaires agréés sont
+applicables aux entrepositaires agréés d'autres Etats membres de la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2000-09-22 art. 1 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 A (V)
 
 
 #### Chapitre premier : Boissons
@@ -7091,29 +7589,11 @@ convenable agréé par l'administration.
 	  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
 
 
-###### Article 51 septies C
+###### Article 51 septies D
 
-Les bacs de réserve et les bacs de recette prévus à l'article 68 de l'annexe I au code général des impôts doivent répondre
-aux caractéristiques suivantes :
-
-Etre installés sous abri ;
-
-Etre indéformables sous la pression du maximum de liquide qu'ils peuvent contenir ;
-
-Etre conçus de telle sorte que l'unité de lecture  de cinq millimètres au moins  sur l'échelle des contenances représente
-deux millièmes de la contenance totale du bac ;
-
-Etre disposés de telle sorte que toutes les parois puissent être examinées facilement ;
-
-Ne présenter que les ouvertures indispensables à l'usage pour lequel ils sont prévus et à leur nettoyage. Tous ces orifices
-doivent être pourvus d'un dispositif de scellement agréé par n l'administration, s'opposant à toute soustraction d'alcool
-avant sa prise en charge.
-
-La contenance des bacs de réserve doit être telle qu'ils puissent renfermer la production totale de quarante-huit heures.
-Celle des bacs de recette doit être suffisante pour recueillir la production de quinze jours consécutifs.
-
-Le débit des pompes d'évacuation doit être calculé de telle sorte que le contenu maximal du bac ou des bacs jumelés puisse
-être vidé dans un délai d'une heure au plus.
+L'intérieur des bacs ou récipients de stockage doit être maintenu en état de propreté. Les agents du service des douanes et
+droits indirects peuvent exiger sans entraver l'activité de la distillerie que les fonds de ces bacs ou récipients soient
+débarrassés des dépôts susceptibles de fausser l'échelle des contenances.
 
 **Liens relatifs à cet article**
 
@@ -7121,26 +7601,9 @@ Le débit des pompes d'évacuation doit être calculé de telle sorte que le con
 
 	  - Arrêté 2001-05-21
 
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
-
-
-###### Article 51 septies D
-
-L'intérieur des bacs de réserve et de recette ainsi que tous autres bacs ou récipients de stockage doit être maintenu en état
-de propreté. Les agents du service des douanes et droits indirects peuvent exiger sans entraver l'activité de la distillerie
-que les fonds de ces bacs ou récipients soient débarrassés des dépôts susceptibles de fausser l'échelle des contenances.
-
-**Liens relatifs à cet article**
-
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
 ###### Article 51 septies E
@@ -7182,65 +7645,6 @@ Les résultats des relevés sont consignés par les mêmes agents sur un registr
 	**Modifié par**:
 
 	  - Arrêté 1993-01-04 art. 3 JORF 5 janvier 1993
-
-
-###### Article 51 septies G
-
-Le compte de magasin prévu à l'article 69 de l'annexe I au code général des impôts est tenu en alcool pur. 
-
-Aux charges de ce compte sont inscrites les quantités d'alcool :
-
-Existantes en magasin à l'inventaire de fin de campagne
-
-Obtenues dans l'usine
-
-Introduites dans la distillerie sous le couvert de titres de mouvement
-
-Reconnues extraites des appareils de rectification ou de déshydratation par les agents du service des douanes et droits
-indirects
-
-Dégagées en excédent lors des inventaires. 
-
-Aux décharges de ce compte sont portées les quantités d'alcool :
-
-Régulièrement expédiées sous le couvert de titres de mouvement
-
-Renfermées dans les échantillons prélevés par les agents du service des douanes et droits indirects aux fins d'analyse et
-régulièrement expédiées à cet effet à des laboratoires notamment à celui de la direction générale des douanes et droits
-indirects :
-
-Déclarées soumises à un repassage une rectification ou une déshydratation ;
-
-Constituées d'alcools imparfaits et déclarées être ajoutées aux matières à distiller lorsque ces alcools ont déjà été pris en
-charge ;
-
-Dénaturées sur place dans les conditions réglementaires ;
-
-Dont la perte accidentelle ou la destruction est régulièrement constatée ;
-
-Dégagées en manquant lors des inventaires. 
-
-Les quantités d'alcool utilisées pour la macération de fruits ne sont pas portées aux décharges du compte de magasin.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 2001-05-21
-
-	**Cite**:
-
-	  - CGIAN1 69
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 51 septies H
@@ -7414,181 +7818,6 @@ Le numéro des bacs ou récipients dans lesquels ces produits sont recueillis.
 
 
 
-###### Article 51 octies C
-
-Le compte spécial d'entrepôt, ouvert conformément aux dispositions de l'article 86 de l'annexe I au code général des impôts,
-comporte selon la nature des produits mis en oeuvre et l'activité de la distillerie, la tenue des comptes de subdivisions
-suivants :
-
-Compte des fruits
-
-Ce compte est ouvert dans les distilleries qui mettent en oeuvre des fruits passibles des droits indirects sur les boissons.
-
-Le compte des fruits est tenu en poids.
-
-Aux charges de ce compte sont inscrites les quantités de fruits :
-
-Existantes à la clôture du compte correspondant de la campagne précédente ;
-
-Introduites dans la distillerie sous le couvert de titres de mouvements ;
-
-Dégagées en excédent lors des inventaires.
-
-Aux décharges de ce compte sont portées les quantités de fruits :
-
-Réexpédiées en l'état sous le couvert de titres de mouvement ;
-
-Déclarées mises en oeuvre ;
-
-Dont la perte accidentelle ou la destruction est régulièrement constatée ;
-
-Dégagées en manquant lors des inventaires.
-
-Compte des moûts
-
-Ce compte est ouvert dans les distilleries qui, mettant en oeuvre des fruits suivis au compte précédent, obtiennent des moûts
-susceptibles d'être commercialisés en l'état ou mis en fermentation.
-
-Le compte des moûts est tenu en volume.
-
-Aux charges de ce compte sont inscrites les quantités de moûts non fermentés :
-
-Existantes à la clôture du compte correspondant de la campagne précédente ;
-
-Introduites dans la distillerie sous le couvert de titres de mouvement ;
-
-Déclarées produites sur place ;
-
-Dégagées en excédent lors des inventaires.
-
-Aux décharges de ce compte sont portées les quantités de moûts non fermentés :
-
-Expédiées en l'état sous le couvert de titres de mouvement ;
-
-Déclarées mises en fermentation ;
-
-Dont la perte accidentelle ou la destruction est réguliérement constatée ;
-
-Dégagées en manquant lors des inventaires.
-
-Compte des boissons, dilutions alcooliques et matières fermentées
-
-Ce compte est tenu, à la fois, en volume, degré et alcool pur.
-
-Aux charges de ce compte sont inscrites les quantités de boissons, dilutions alcooliques et matières fermentées :
-
-Existantes à la clôture du compte correspondant de la campagne précédente ;
-
-Introduites dans la distillerie sous le couvert de titres de mouvement ;
-
-Déclarées obtenues sur place par fermentation, traitement physique ou chimique ;
-
-Dégagées en excédent lors des inventaires.
-
-Aux décharges de ce compte sont portées les quantités de boissons, dilutions alcooliques et matiéres fermentées :
-
-Expédiées en l'état sous le couvert de titres de mouvement ;
-
-Déclarées soumises sur place à un traitement physique ou chimique les rendant propres à la distillation ;
-
-Déclarées mises en distillation ;
-
-Dont la perte accidentelle ou la destruction est régulièrement constatée ;
-
-Dégagées en manquant lors des inventaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2001-05-21
-
-	**Cite**:
-
-	  - CGIAN1 86
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 51 octies D
-
-Le compte de magasin des alcools, ouvert conformément aux dispositions de l'article 86 de l'annexe I au code général des
-impôts dans toutes les distilleries soumises au régime spécial, est tenu en volume, degré et alcool pur.
-
-Aux charges de ce compte sont inscrites les quantités d'alcool :
-
-Existances à la clôture du compte correspondant de la campagne précédente ;
-
-Déclarées obtenues dans la distillerie ;
-
-Introduites dans la distillerie sous le couvert de titres de mouvement ;
-
-Dégagées en excédent lors des inventaires.
-
-Aux décharges de ce compte sont portées les quantités d'alcool :
-
-Expédiées en l'état sous le couvert de titres de mouvement ;
-
-Déclarées soumises à un repassage ou ajoutées à des matières fermentées ;
-
-Dont la perte accidentelle ou la destruction est régulièrement constatée ;
-
-Dégagées en manquant lors des inventaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2001-05-21
-
-	**Cite**:
-
-	  - CGIAN1 86
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 51 octies E
-
-Le compte annexe de production  prévu à l'article 86 de l'annexe I au code général des impôts est ouvert  pour la liquidation
-de la campagne  dans toutes les distilleries soumises au régime spécial, et tenu en alcool pur.
-
-Aux charges de ce compte sont inscrites les quantités d'alcool :
-
-Existantes dans les appareils au début de la campagne ou des travaux de distillation ;
-
-Successivement déclarées mises en distillation par l'exploitant.
-
-Aux décharges de ce compte sont portées les quantités d'alcool :
-
-Successivement déclarées extraites des appareils par l'exploitant ;
-
-Existantes dans les appareils à la fin de la campagne ou des travaux de distillation ;
-
-Dont la perte accidentelle est régulièrement constatée dans les appareils en cours de distillation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2001-05-21
-
-	**Cite**:
-
-	  - CGIAN1 86
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
-	  - HISTO: Edition du 31 mars 2001
-
-
 ##### E : Teneur en alcool des produits de parfumerie et de toilette
 
 ###### Article 52
@@ -7727,34 +7956,26 @@ sont caducs.
 ###### Article 54-0 A
 
 Les dispositions de l'article 444 du code général des impôts relatives à l'apposition sur les récipients de capsules
-représentatives des droits indirects sont rendues applicables aux vins  aux cidres et aux spiritueux dans les conditions
-précisées aux articles 54-0 B à 54-0 CD.
+représentatives des droits indirects sont rendues applicables aux vins aux cidres et aux spiritueux dans les conditions
+précisées aux articles 54-0 B à 54-0 BX. 
 
 L'apposition de ces capsules se substitue au document mentionné au II de l'article 302 M du code précité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGI 444, 302 M
-	  - CGIAN4 54-0 B à 54-0 CD
-
 	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Arrêté 2000-09-22 art. 2 JORF 5 octobre 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 F (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 B (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - Code général des impôts, CGI. - art. 302 M (V)
+	  - Code général des impôts, CGI. - art. 444 (V)
 
 
 ##### A : Capsules représentatives des droits sur les vins et les cidres
@@ -7763,32 +7984,26 @@ L'apposition de ces capsules se substitue au document mentionné au II de l'arti
 
 ###### Article 54-0 B
 
-Les capsules visées à l'article 54-0 A doivent être en métal ou en matière plastique; elles peuvent être apposées sur les
-bouteilles ou faire partie intégrante du récipient lui-même; elles comportent sur fond blanc  un timbre circulaire d'un
-diamètre au moins égal à 13 millimètres  conforme au modèle, établi par l'Imprimerie nationale, annexé à l'arrêté du 17 mars
-1993, à l'intérieur duquel sont mentionnés les mots "République française", le sigle "D.G.D.D.I." (direction générale des
-douanes et droits indirects) et la capacité de la bouteille exprimée en nombre de centilitres sur laquelle est apposée la
-capsule. Le remplacement de la couleur blanche par la teinte naturelle de la capsule peut être autorisé par l'administration.
+Les capsules représentatives de droits visées au II de l'article 302 M du code général des impôts sont conformes à la
+description des marques fiscales faite au 2° du II de l'article 164 AM. 
+
+Au sens des articles 50-0 C à 50-0 F, 54-0 A à 54-0 BX et 164 AM à 164 AW, le terme " capsules " recouvre les marques
+fiscales imprimées directement sur celles-ci, qui se composent d'une jupe ou d'une coiffe et d'une tête. Il désigne également
+les marques fiscales imprimées en séries sur des feuilles métalliques ou en autres matières, ou à l'unité sur des vignettes
+ou timbres, et destinées à être apposées soit sur les têtes ou des coiffes, soit directement sur les systèmes de fermeture
+des bouteilles et récipients.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Arrêté 1993-03-17
-	  - CGI 54-0 A
-
 	**Modifié par**:
 
-	  - Arrêté 1993-03-17 art. 1 JORF 28 mars 1993
+	  - Arrêté 2000-09-22 art. 3 JORF 5 octobre 2000
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Arrêté 1993-09-24
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 C (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 	**Cité par**:
 
@@ -7801,37 +8016,36 @@ capsule. Le remplacement de la couleur blanche par la teinte naturelle de la cap
 
 Sur les capsules doivent figurer les mentions ci-après :
 
-a. Le nom du négociant utilisateur ou sa raison sociale, ainsi que le nom de la localité dans laquelle il exerce son
-activité. Toutes ces indications peuvent être remplacées par la marque de commerce du négociant  suivie du numéro d'agrément
-de ce dernier ou par la mention "négociant" suivie du même numéro d'agrément.
+a) Le numéro d'agrément de la personne responsable de l'embouteillage du produit. Ce numéro d'agrément, délivré par le
+directeur régional des douanes et droits indirects territorialement compétent, se compose du mot "Récoltant" ou "Non
+récoltant", qui peut être remplacé respectivement par les lettres "R" (récoltant), ou "N" (non récoltant), encadré, à gauche,
+du numéro du département de la personne agréée et, à droite, d'un numéro d'ordre d'enregistrement de l'administration. Les
+récoltants dont les syndicats viticoles, les groupements professionnels, les caves coopératives et leurs unions embouteillant
+leur récolte pour leur compte ou pour leurs adhérents bénéficient du mot "Récoltant" ou de la lettre "R".
 
-Toutefois, lorsque les capsules sont apposées par des négociants qui embouteillent des boissons pour le compte de tiers, les
-indications à faire figurer sur les capsules sont celles qui se rapportent à ces tiers.
+b) La marque du fabricant des capsules.
 
-Ces indications doivent concorder avec celles figurant éventuellement soit sur les étiquettes apposées sur les bouteilles
-soit sur les bouteilles elles-mêmes.
+Les mentions indiquées au a sont apposées dans la couronne de la capsule décrite au 2° du II de l'article 164 AM. La mention
+indiquée au b est apposée, au choix du fabricant, sur la jupe ou la coiffe, ou dans cette couronne.
 
-Dans le cas où un négociant est autorisé à embouteiller les vins pour le compte d'un ou plusieurs autres entrepositaires
-agréés l'administration peut autoriser l'utilisation de capsules portant au lieu et place du nom, de la raison sociale, de la
-marque ou du numéro d'agrément de l'utilisateur, la mention "négociant", suivie du numéro d'agrément de l'embouteilleur. Les
-bouteilles portant de telles capsules doivent être revêtues, par les soins de l'embouteilleur, d'étiquettes mentionnant
-obligatoirement le nom et l'adresse de l'entrepositaire agréé pour le compte duquel l'embouteillage a été réalisé.
+Les indications reprises au a du premier alinéa doivent concorder avec celles figurant soit sur les étiquettes apposées sur
+les bouteilles ou récipients, soit sur les bouteilles ou récipients eux-mêmes. Ces indications doivent être apposées avant
+leur livraison à l'utilisateur.
 
-b. La marque du fabricant des capsules ou  le cas échéant  celle du fabricant des feuilles imprimées servant à la fabrication
-des capsules.
-
-Les mentions visées au a doivent être apposées autour du timbre visé à l'article 54-0 B, la mention visée au b doit être
-apposée sur la jupe des capsules.
+Dans le cas où un négociant est autorisé à embouteiller des boissons alcooliques pour le compte d'un ou plusieurs autres
+entrepositaires agréés, les bouteilles ou récipients doivent être revêtus, par le soin de l'embouteilleur, d'étiquettes
+mentionnant obligatoirement le nom et l'adresse de l'entrepositaire agréé pour le compte duquel l'embouteillage a été
+réalisé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2000-09-22 art. 3 JORF 5 octobre 2000
 
 	**Cite**:
 
-	  - CGIAN4 54-0 B
+	  - CGIAN4 164 AM
 
 	**Cité par**:
 
@@ -7839,86 +8053,74 @@ apposée sur la jupe des capsules.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 D
 
-Le timbre et l'indication des contenances doivent être imprimés :
+Le numéro d'agrément du responsable de l'embouteillage figurant sur la couronne, la marque fiscale, l'indication de la
+contenance et, le cas échéant, le titre alcoométrique volumique figurant au centre de la couronne sont indiqués sur fond :
 
-En vert (étalon M de la norme Afnor NF-X 08-002 homologuée le 31 août 1963) pour les vins tranquilles ou mousseux à
-appellation d'origine contrôlée, les vins délimités de qualité supérieure et les doux naturels soumis au régime fiscal des
-vins.
+a) Vert (étalon A 455 de la norme AFNOR NF-X 08-002 homologuée en mars 1983) pour les vins tranquilles ou mousseux à
+appellation d'origine contrôlée et les vins délimités de qualité supérieure. Pour les vins mousseux à appellation d'origine
+contrôlée "champagne", ce nom d'appellation doit figurer sur la couronne ;
 
-Pour les vins mousseux à appellation d'origine contrôlée "champagne" et les vins doux naturels bénéficiant du régime fiscal
-des vins  le nom de l'appellation ou la mention "V.D.N." doit être accolé au timbre et imprimé en vert sur fond blanc.
+b) Bleu (étalon A 540 de la norme AFNOR NF-X 08-002 homologuée en mars 1983) pour tous les autres vins, y compris les
+boissons fiscalement assimilées au vin. Pour les boissons fiscalement assimilées au vin, la mention "BFAV" doit figurer sur
+la couronne ;
 
-En bleu (étalon T de la norme Afnor NF-X 08-002 homologuée le 31 août 1963) pour tous les autres vins.
+c) Orange (étalon A 130 de la norme AFNOR NF-X 08-002 homologuée en mars 1983) pour les produits intermédiaires bénéficiant
+d'une appellation d'origine contrôlée. Pour les vins doux naturels bénéficiant d'une appellation d'origine contrôlée, la
+mention "VDN" doit figurer sur la couronne ;
 
-En violet (étalon V de la norme Afnor NF-X 08-002 homologuée le 31 août 1963) pour les cidres.
+d) Gris (étalon A 625 de la norme AFNOR NF-X 08-002 homologuée en mars 1983) pour les autres produits intermédiaires ;
+
+e) Jaune d'or (étalon A 310 de la norme AFNOR NF-X 08-002 homologuée en mars 1983) pour le cognac et l'armagnac ;
+
+f) Rouge (étalon A 805 de la norme AFNOR NF-X 08-002 homologuée en mars 1983) pour le rhum repris au 1° du I de l'article 403
+du code général des impôts ;
+
+g) Blanc (étalon A 665 de la norme AFNOR NF-X 08-002 homologuée en mars 1983) pour les autres alcools.
+
+Les couleurs du fond et de ces indications doivent être suffisamment contrastées pour en permettre une lecture aisée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1982-01-25 art. 1 JONC 6 février 1982
+	  - Arrêté 2000-09-22 art. 3 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - CGI 403
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 D (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 E (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
 
 ###### Article 54-0 E
 
-Les inscriptions autres que celles prévues à l'article 54-0 D peuvent être imprimées en toutes couleurs, mais en aucun cas la
-couleur verte ne peut être employée sur les capsules apposées sur s des bouteilles contenant des vins ne bénéficiant pas
-d'une appellation d'origine contrôlée ou de l'appellation "Vin délimité de qualité supérieure".
-
-Pour les vins à appellation d'origine contrôlée et les vins délimités de qualité supérieure ces mentions doivent être
-apposées sur fond vert.
-
-Sur les capsules représentatives de droits  les mentions prévues à l'article 54-0 C peuvent être apposées par estampage ou
-être moulées s'il s'agit de capsules en matière plastique.
-
-L'indication desdites mentions doit figurer sur les capsules bandes ou récipients portant impression du timbre avant leur
-livraison au négociant utilisateur.
+A l'exception du blanc, les couleurs citées à l'article 54-0 D ne peuvent être employées pour les capsules et supports
+portant un timbre d'une autre couleur.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 54-0 D, 54-0 C
 
 	**Modifié par**:
 
-	  - arrêté 1982-01-25 art. 2 JONC 6 février 1982
+	  - Arrêté 2000-09-22 art. 3 JORF 5 octobre 2000
 
+	**Cite**:
 
-###### Article 54-0 F
-
-Les capsules métalliques doivent être déchirables ou présenter des points de moindre résistance disposés de telle manière que
-l'ouverture de la bouteille entraîne obligatoirement leur détérioration.
-
-Sur les capsules de surbouchage, l'administration peut autoriser le remplacement des points de moindre résistance par un
-encollage donnant des garanties suffisantes de non-réutilisation des capsules.
-
-Les capsules en matière plastique ne sont agréées par l'administration aux conditions qu'elle détermine dans chaque cas
-particulier que dans la mesure où elles sont rendues inutilisables lors de l'ouverture de la bouteille.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+	  - CGIAN4 54-0 D
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
 	  - HISTO: Edition du 31 mars 2001
 
 
@@ -7926,431 +8128,303 @@ particulier que dans la mesure où elles sont rendues inutilisables lors de l'ou
 
 ###### Article 54-0 G
 
-Les feuilles métalliques et les capsules, portant impression du timbre  ne peuvent être fabriquées et livrées que par les
-fabricants dûment ((agréés par le ministre de l'économie, des finances et de l'industrie, dans les conditions qu'il détermine
-et sous son contrôle.)) (M)
-
-(M) Modification.
+Chaque fabricant doit, préalablement à la première mise en fabrication d'un type de capsule, le faire agréer par
+l'administration des douanes et droits indirects. Cet agrément n'est possible que si l'ouverture de la bouteille ou du
+récipient empêche la réutilisation de la capsule. Cet agrément vaut pour tous les utilisateurs de ce type de capsule.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 54-0 H
 
-Avant le commencement de leurs travaux les fabricants agréés doivent remettre au service des douanes et droits indirects dont
-ils dépendent un état présentant la description sommaire des locaux et ateliers de leur usine et indiquant le nombre de
-presses à imprimer d'appareils à vernir et de machines à emboutir pouvant servir à la fabrication des capsules. 
+Quel que soit le support, la marque fiscale ne peut être fabriquée qu'après déclaration de profession du fabricant.
 
-Ils doivent également fournir un cautionnement dont le montant sera fixé par l'administration d'après l'importance de leur
-production.
+Cette déclaration de profession est accompagnée d'un état présentant la description des locaux et indiquant le type et le
+nombre des machines pouvant servir à la fabrication des marques fiscales ou des capsules.
+
+Le fabricant doit fournir une caution garantissant le paiement des droits correspondant aux marques fiscales ou aux capsules
+produites.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 
 ###### Article 54-0 I
 
-Les travaux d'impression des feuilles métalliques ainsi que les travaux de confection des capsules sont surveillés en
-permanence par le service des douanes et droits indirects qui a libre accès dans toutes les parties de l'établissement. Les
-travaux d'impression du timbre ne peuvent avoir lieu que sur des machines munies de compteurs plombés et agréés par
-l'administration.
+Le service des douanes et droits indirects a libre accès dans toutes les parties de l'établissement pour l'exercice de ses
+contrôles. 
+
+Les travaux relatifs aux marques fiscales ne peuvent avoir lieu que sur des machines munies de compteurs agréés par
+l'administration des douanes et droits indirects en application de l'article 164 AP.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP (V)
+
 
 ###### Article 54-0 J
 
-Les clichés servant à l'impression des feuilles métalliques destinées à la confection des capsules sont déposés dans une
-armoire fermant à clef placée dans le magasin spécial servant à l'emmagasinement des feuilles métalliques imprimées. Ce
-magasin ne peut avoir qu'une seule issue; celle-ci est fermée avec deux serrures différentes  l'une des clefs étant conservée
-par l'industriel et l'autre par le service chargé de la surveillance de l'usine.
-
-
-
-###### Article 54-0 K
-
-Les clichés visés à l'article 54-0 J qui sont détenus par le fabricant sont pris en compte et ne peuvent être utilisés qu'en
-présence de l'agent chargé du contrôle.
-
-Les clichés hors d'usage doivent être détruits en présence de cet agent.
+Les clichés, matrices, cylindres et autres matériels servant à la confection des marques fiscales sont conservés dans un
+magasin spécial, sous la responsabilité du fabricant, dans des conditions de sécurité qui empêchent leur utilisation
+frauduleuse.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 J
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 
 ###### Article 54-0 L
 
-Après impression du timbre visé à l'article 54-0 B, les feuilles métalliques sont déposées dans le magasin spécial prévu à
-l'article 54-0 J.
+Après confection, les marques fiscales sont déposées dans un magasin spécial. 
 
-Elle sont prises en charge à un compte de magasin tenu par le service au vu d'une déclaration d'introduction indiquant  en
-toutes lettres  le nombre de feuilles et  par destinataire et catégorie  le nombre de capsules qu'elles représentent. Ce
-nombre est vérifié contradictoirement par le fabricant ou son préposé et l'agent de l'administration.
+Elles sont inscrites dans une comptabilité matières, tenue sur place, au fur et à mesure des mouvements. Sont repris dans
+cette comptabilité matières : 
+
+a) En entrée, le nombre de marques fiscales déposées dans le magasin spécial et, par destinataire et catégorie (volume net
+exprimé en centilitres, couleur, pour les vins, vin tranquille ou vin mousseux, et, le cas échéant, titre alcoométrique
+volumique...), le nombre de capsules qu'elles représentent ; 
+
+b) En sortie, par destinataire et par catégorie, le nombre de marques fiscales utilisées et expédiées, avec les références au
+document mentionné au I de l'article 302 M du code général des impôts. 
+
+Cette comptabilité matières ainsi que les marques fiscales détenues par le fabricant sont tenues à la disposition des agents
+des douanes et droits indirects à fin de contrôle. 
+
+Le fabricant effectue mensuellement la balance des entrées et sorties de la comptabilité matières et transmet ce document au
+service des douanes et droits indirects dont il dépend, au plus tard le cinquième jour du mois suivant.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
 	**Cite**:
 
-	  - CGIAN4 54-0 B, 54-0 J
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
 ###### Article 54-0 M
 
-Les décharges du compte magasin sont constituées par les sorties des feuilles imprimées. Celles-ci ne peuvent être expédiées
-que sous le couvert d'un document mentionné au I de l'article 302 M du code général des impôts établi dans les conditions
-précisées à l'article 54-0 T et à destination seulement d'entrepositaires agréés utilisateurs visés à l'article 54-0 U ou de
-fabricants de capsules agréés par le ministre de l'économie, des finances et de l'industrie dans les conditions prévues à
-l'article 54-0 G.
+Les marques fiscales reçues par les fabricants de capsules sont conservées dans un magasin spécial. 
 
-Le document mentionné au I de l'article 302 M du code général des impôts doit indiquer le nombre de feuilles par catégorie et
-par destinataire  ainsi que le nombre de capsules qu'elles représentent.
+Elles sont inscrites dans une comptabilité matières, tenue sur place, au fur et à mesure des mouvements. Sont repris dans
+cette comptabilité matières : 
+
+a) En entrée, le nombre de marques fiscales reçues dans le magasin spécial, y compris les retours, et, par destinataire et
+catégorie (volume net exprimé en centilitres, couleur, pour les vins, vin tranquille ou vin mousseux, et, le cas échéant,
+titre alcoométrique volumique...), le nombre de capsules qu'elles représentent ; 
+
+b) En sortie, par destinataire et par catégorie, le nombre de capsules expédiées, avec les références au document mentionné
+au I de l'article 302 M du code général des impôts. 
+
+Cette comptabilité matières ainsi que les marques fiscales détenues par le fabricant sont tenues à la disposition des agents
+des douanes et droits indirects à fin de contrôle. 
+
+Le fabricant effectue mensuellement la balance des entrées et sorties de la comptabilité matières et transmet ce document au
+service des douanes et droits indirects dont il dépend, au plus tard le cinquième jour du mois suivant. 
+
+Cet article s'applique également à toute personne qui détient des capsules dans le cadre des livraisons à destination des
+entrepositaires agréés et personnes habilitées définies à l'article 54-0 BW.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
 
 	**Cite**:
 
-	  - CGI 302 M
-	  - CGIAN4 54-0 G, 54-0 T, 54-0 U
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
 ###### Article 54-0 N
 
-Les feuilles métalliques revêtues du timbre, reçues par les fabricants de capsules  sont déposées dans un magasin répondant
-aux prescriptions prévues à l'article 54-0 J.
+Les capsules fabriquées sont conservées dans un magasin spécial.
+
+La comptabilité matières est annotée :
+
+a) Du nombre des capsules fabriquées, par destinataire et par catégorie, soit au vu du duplicata du bon de sortie, soit, en
+cas de fabrication continue, au vu d'une déclaration d'introduction ;
+
+b) Du nombre de capsules mises au rebut et détruites.
+
+Le fabricant informe, par tout moyen, le service des douanes et droits indirects dont il dépend des destructions de capsules
+afin qu'il puisse en contrôler les conditions de mise en oeuvre.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN4 54-0 J
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
 
 
 ###### Article 54-0 O
 
-Au fur et à mesure des besoins  les feuilles visées à l'article 54-0 N sont remises au fabricant de capsules  au vu d'un bon
-de sortie établi par ses soins  en double exemplaire  et indiquant notamment la date, le nombre de feuilles par catégorie, le
-nombre de capsules à fabriquer et le nom des destinataires des capsules.
+Doivent figurer dans la comptabilité matières du fabricant de capsules, avec référence au document mentionné au I de
+l'article 302 M du code général des impôts, les quantités de capsules expédiées à destination des entrepositaires agréés
+utilisateurs et des personnes habilitées citées à l'article 54-0 BW. La comptabilité matières est tenue à disposition des
+agents des douanes et droits indirects lors de leurs contrôles. Elle est transmise au service des douanes et droits indirects
+dont dépend le fabricant, au plus tard le cinquième jour du mois suivant.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN4 54-0 N
-
-
-###### Article 54-0 P
-
-Les capsules fabriquées sont déposées dans un magasin répondant aux prescriptions prévues à l'article 54-0 J.
-
-Elles sont prises en charge à un compte de magasin  soit au vu du duplicata du bon de sortie prévu à l'article 54-0 O, soit,
-en cas de fabrication continue, au vu d'une déclaration d'introduction.
-
-Sur cette déclaration ou au verso du duplicata du bon de sortie le fabricant doit indiquer, par catégorie et par
-destinataire, le nombre des capsules fabriquées et des capsules mises au rebut. Ces dernières sont après vérification,
-détruites en présence de l'agent de l'administration.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
 
 	**Cite**:
 
-	  - CGIAN4 54-0 J, 54-0 O
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 Q
-
-Les capsules introduites dans le magasin prévu à l'article 54-0 P et les capsules mises au rebut doivent correspondre au
-total des quantités figurant au recto du duplicata du bon de sortie  qui doit être apuré en une seule fois.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 P
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 R
-
-Le compte de magasin visé à l'article 54-0 P est déchargé des quantités de capsules sorties ; celles-ci ne peuvent être
-expédiées que sous le couvert d'un document mentionné au I de l'article 302 M du code général des impôts établi dans les
-conditions précisées à l'article 54-0 T et à destination seulement d'entrepositaires agréés utilisateurs visés à l'article
-54-0 U.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 302 M
-	  - CGIAN4 54-0 P, 54-0 U, 54-0 T
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
 ###### Article 54-0 S
 
-Les feuilles métalliques et les capsules, revêtues du timbre, ne peuvent être expédiées que sur présentation du bon de
-commande visé à l'article 54-0 AB.
+Les marques fiscales et les capsules ne sont fabriquées qu'après réception d'un bon de commande visé à l'article 54-0 AB.
+Elles sont expédiées aux seuls entrepositaires agréés et personnes habilitées citées à l'article 54-0 BW.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
 	**Cite**:
 
-	  - CGIAN4 54-0 AB
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 AB (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
 
 
 ###### Article 54-0 T
 
-Les feuilles métalliques et les capsules, revêtues du timbre, ne peuvent circuler que sous le couvert d'un document mentionné
-au I de l'article 302 M du code général des impôts.
+Les marques fiscales et les capsules circulent sous couvert du document mentionné au I de l'article 302 M du code général des
+impôts. 
 
-Elles doivent être expédiées directement par le fabricant au destinataire, en caisses ou en boîtes de carton rigide, scellées
-par le fabricant.
+Elles sont expédiées par le fabricant au destinataire, dans des contenants en assurant la sécurité. 
 
-Ces caisses ou boîtes doivent porter, soit sur une étiquette collée, soit directement sur un côté, l'indication du numéro
-d'ordre du poids brut, du nombre et de la catégorie des capsules qu'elles renferment ainsi que les noms du fabricant et du
-destinataire.
+Le document mentionné au premier alinéa indique le numéro d'ordre, le nombre et la catégorie des marques fiscales, avec le
+nombre de capsules qu'elles représentent, ou des capsules que le ou les contenants renferment ainsi que les noms du fabricant
+et du destinataire. 
 
-L'agent chargé de la surveillance de l'usine doit apposer son cachet d'authenticité sur l'étiquette ou directement sur le
-côté de la caisse ou de la boîte portant ces indications.
+Les dispositions qui précèdent s'appliquent dans les mêmes conditions à la circulation des capsules en retour auprès des
+fournisseurs.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
 
 	**Cite**:
 
-	  - CGI 302 M
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
 ##### 3 : Utilisation des capsules
 
 ###### Article 54-0 AA
 
-Les négociants ne peuvent détenir dans leurs chais des capsules ou des feuilles métalliques, revêtues du timbre, autres que
-celles du modèle agréé par l'administration, établies soit à leur nom, soit au nom d'autres entrepositaires pour lesquels ils
-sont autorisés à effectuer la mise en bouteilles. La vente, la cession ou l'échange de capsules sont interdits.
+Les entrepositaires agréés et les personnes habilitées visées à l'article 54-0 BW ne peuvent détenir dans leurs entrepôts des
+capsules autres que celles établies à leur nom ou au nom des personnes pour lesquelles ils embouteillent. La vente, la
+cession ou l'échange de capsules sont interdits.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+	  - Arrêté 2000-09-22 art. 10 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
 
 
 ###### Article 54-0 AB
 
-Les feuilles métalliques ou les capsules, revêtues du timbre, sont livrées à l'entrepositaire agréé sur présentation d'un bon
-de commande établi en double exemplaire et comportant notamment :
+Les marques fiscales et les capsules représentatives de droits sont fabriquées et livrées aux entrepositaires agréés et aux
+personnes habilitées visées à l'article 54-0 BW sur présentation d'un bon de commande établi en double exemplaire et
+comportant notamment : 
 
-1° Le nom et l'adresse de l'entrepositaire agréé ;
+1° Le nom et l'adresse du fournisseur des marques fiscales ou des capsules ; 
 
-2° Le nom et l'adresse du fournisseur des feuilles ou des capsules ;
+2° Le nom, l'adresse et le numéro d'agrément du client ; 
 
-3° Par contenance et nature de boissons, le nombre de capsules commandées.
+3° Le nombre de marques fiscales ou de capsules commandées, par volume net exprimé en centilitres, couleur des capsules, pour
+les vins, vin tranquille ou vin mousseux et, le cas échéant, titre alcoométrique volumique. 
 
-Les deux exemplaires du bon de commande sont datés et visés par le chef de service local des douanes et droits indirects ;
-l'un des exemplaires est remis à l'entrepositaire agréé qui l'adresse à son fournisseur ; l'autre est conservé au dossier de
-l'entrepositaire agréé.
+Ce bon de commande doit être visé et daté par le service local des douanes et droits indirects dont dépend l'entrepositaire
+agréé ou la personne habilitée visée à l'article 54-0 BW. L'un des exemplaires est remis à l'entrepositaire agréé ou à la
+personne habilitée, qui l'adresse à son fournisseur, l'autre est conservé par le service. 
+
+Le bon de commande est apuré en une ou plusieurs livraisons dans les douze mois suivant son visa.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
 	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Arrêté 2000-09-22 art. 10 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 S (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
 
 ###### Article 54-0 AC
 
-Il est interdit aux fabricants, aux entrepositaires agréés de boissons et aux débitants de boissons de reprendre à leurs
-clients ou d'utiliser des capsules ayant déjà servi.
+Il est interdit aux fabricants, aux entrepositaires agréés, aux personnes habilitées visées à l'article 54-0 BW et aux
+débitants de boissons de reprendre à leurs clients ou d'utiliser des capsules ayant déjà servi.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
 
 	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Arrêté 2000-09-22 art. 10 JORF 5 octobre 2000
 
+	**Cite**:
 
-###### Article 54-0 AD
-
-Les entrepositaires agréés utilisant les capsules doivent tenir un carnet de conditionnement et de livraison conforme au
-modèle donné par l'administration et préalablement côté et paraphé par le chef local du service des douanes et droits
-indirects.
-
-Sur ce carnet doivent être inscrits, sans blanc ni rature, en fin de journée, par contenance de bouteilles et nature de
-boissons :
-
-1° Le nombre de capsules utilisées et le volume total de boissons représenté par les bouteilles ainsi conditionnées ;
-
-2° Le nombre de bouteilles reçues revêtues de capsules par les soins d'un autre entrepositaire agréé, ainsi que le volume
-total de boissons qu'elles représentent ;
-
-3° Le nombre de bouteilles ainsi conditionnées effectivement livrées et le volume total de boissons qu'elles représentent.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 AE
-
-Les entrepositaires agréés qui utilisent des capsules doivent déclarer, le premier jour ouvrable de chaque mois, les
-quantités de boissons mises en bouteilles revêtues de capsules au cours du mois précédent.
-
-Ces quantités sont émargées en sorties du compte de gros.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 AF
-
-Les bouteilles revêtues de capsules doivent être entreposées à part chez les entrepositaires agréés et ne doivent pas être
-reprises lors des inventaires.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
 
 
 ###### Article 54-0 AG
 
-Sauf autorisation spéciale délivrée par l'administration, aux conditions qu'elle détermine, les bouteilles de boissons
-destinées à l'exportation ne doivent pas être revêtues de capsules timbrées.
+Les bouteilles ou récipients de boissons destinés à l'exportation ou à la livraison vers un autre Etat membre de la
+Communauté européenne peuvent être revêtus de capsules représentatives de droits.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+	  - Arrêté 2000-09-22 art. 11 JORF 5 octobre 2000
 
 
 ###### Article 54-0 U
@@ -8362,618 +8436,119 @@ bouteilles ou en récipients de trois litres au plus.
 Pour des raisons d'ordre économique ou technique l'administration peut accorder des dérogations à l'emploi obligatoire des
 capsules fiscales pour le conditionnement des vins visés à l'alinéa précédent.
 
-Lorsque l'utilisation de capsules n'est pas obligatoire en vertu des dispositions du premier alinéa, les entrepositaires
-agréés de boissons peuvent être admis par le directeur régional des douanes et droits indirects à utiliser les capsules
-fiscales pour leurs livraisons de vins et cidres.
+Sous réserve des dispositions prévues à l'article 54-0 BV pour ce qui concerne le vin, les entrepositaires agréés fournissent
+une caution garantissant le paiement des droits correspondant aux capsules reçues, utilisées ou ressortant en manquants aux
+inventaires ou à la comptabilité matières visée à l'article 54-0 Y.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2000-09-22 art. 7 JORF 5 octobre 2000
 
 	**Cite**:
 
 	  - CGI 302 G, 444
+	  - CGIAN4 54-0 BV, 54-0 Y
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
-
-
-###### Article 54-0 V
-
-Les capsules ou les feuilles métalliques, revêtues du timbre, sont fournies aux intéressés dans les conditions prévues à
-l'article 54-0 AB.
-
-Les entrepositaires agréés peuvent toutefois être autorisés à apposer eux-mêmes, sur les capsules qu'ils utilisent, le timbre
-et les mentions visées aux articles 54-0 C et 54-0 D. Il est procédé à cette apposition par insculpation ou impression à
-l'aide de machines agréées par l'administration et munies de compteurs plombés enregistrant, par tarif d'imposition, le
-volume des boissons mises en bouteilles revêtues de capsules.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGIAN4 54-0 AB, 54-0 C, 54-0 D
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-
-###### Article 54-0 W
-
-Les entrepositaires agréés sont tenus de fournir un cautionnement spécial garantissant le paiement des droits correspondant
-aux capsules ou aux feuilles métalliques  revêtues du timbre  utilisées ou ressortant en manquants au compte de magasin visé
-à l'article 54-0 Y.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 Y
 
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2001
 
 
-###### Article 54-0 X
+###### Article 54-0 V
 
-Les appareils utilisés par les entrepositaires agréés doivent assurer un sertissage efficace de la capsule, tel que
-l'ouverture de la bouteille rende impossible le réemploi de ladite capsule.
+Les capsules ou les feuilles métalliques ou en autres matières, revêtues de marques fiscales, sont fournies aux intéressés
+dans les conditions prévues à l'article 54-0 AB. 
+
+Les entrepositaires agréés peuvent toutefois être autorisés à apposer eux-mêmes, sur les capsules qu'ils utilisent, la marque
+fiscale et les autres mentions visées au 2° du II de l'article 164 AM. Il est procédé à cette apposition par impression à
+l'aide de machines agréées par l'administration enregistrant, par tarif d'imposition, le volume et, le cas échéant, le titre
+alcoométrique volumique des boissons mises en bouteilles ou en récipients revêtus de capsules.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2000-09-22 art. 8 JORF 5 octobre 2000
 
-	**Liens**:
+	**Cité par**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 AB (V)
+
+
+###### Article 54-0 X
+
+Les appareils utilisés par les entrepositaires agréés doivent assurer un sertissage ou une apposition efficace de la capsule,
+tel que l'ouverture de la bouteille ou du récipient rende impossible le réemploi de ladite capsule.
+
+**Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Arrêté 2000-09-22 art. 9 JORF 5 octobre 2000
 
 
 ###### Article 54-0 Y
 
-Les entrepositaires agréés sont comptables des droits et taxes représentés tant par les timbres imprimés sur les feuilles
-métalliques ou sur les capsules reçues dans leurs entrepôts que par les timbres insculpés ou imprimés dans les conditions
-prévues à l'article 54-0 V.
+Les entrepositaires agréés sont comptables des droits représentés par les capsules reçues. 
 
-Ces timbres sont pris en charge, dans les conditions fixées par l'administration à un compte ouvert à cet effet. Ce compte
-est déchargé des quantités dont l'utilisation a été déclarée dans les conditions fixées par l'article 54-0 AD.
-
-Lors des inventaires, les manquants de timbres sont passibles des droits qu'ils représentent.
+Ils intègrent dans la comptabilité matières prévue aux articles 286 I et 286 J de l'annexe II au code général des impôts,
+ainsi que dans la déclaration mensuelle mentionnée auxdits articles, les mouvements des capsules qu'ils détiennent,
+reçoivent, utilisent et expédient avec les bouteilles et récipients sur lesquels elles sont apposées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2000-09-22 art. 10 JORF 5 octobre 2000
 
 	**Cite**:
 
-	  - CGIAN4 54-0 AD, 54-0 V
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
 
 ###### Article 54-0 Z
 
-En aucun cas, il ne peut être fait remise des droits et taxes représentés par les timbres imprimés sur les feuilles
-métalliques ou sur les capsules perdues, volées, détruites ou détériorées.
+En aucun cas il n'est fait remise des droits représentés par les marques fiscales et les capsules perdues ou volées et
+détériorées ou détruites sans constatation du service des douanes et droits indirects.
 
-Seules peuvent être autorisées la restitution ou la remise des droits et taxes afférents aux bouteilles défectueuses,
-couleuses ou cassées ; cette restitution ou cette remise ne peuvent avoir lieu que sur présentation, par l'entrepositaire
-agréé, des bouteilles ou goulots revêtus de capsules intactes. Après vérification, les capsules correspondantes doivent être
-immédiatement détruites par le service.
+Seule peut être autorisée la restitution ou la remise des droits afférents aux bouteilles ou récipients défectueux ou cassés.
+Cette restitution ou cette remise a lieu sur présentation au service des douanes et droits indirects, par l'entrepositaire
+agréé, des bouteilles, goulots ou récipients revêtus de capsules intactes. Après vérification, les capsules correspondantes
+sont détruites.
+
+Sont réputées détruites les capsules représentatives de droits des bouteilles et récipients de vin expédiées hors de France.
+La restitution ou la remise des droits est accordée après constatation par le service des douanes et droits indirects de la
+preuve de la sortie du produit de la Communauté européenne ou présentation du document mentionné au I de l'article 302 M du
+code général des impôts, pris en charge par le destinataire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
 	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Arrêté 2000-09-22 art. 10 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - CGI 302 M
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-
-##### C : Capsules représentatives des droits sur les spiritueux
-
-##### 1 : Caractéristiques des capsules.
-
-###### Article 54-0 BB
-
-Les capsules représentatives des droits indirects sur les spiritueux visés à l'article 54-0 A, doivent être agréées par
-l'administration. Elles doivent présenter une partie métallique d'une épaisseur suffisante pour recevoir les marques
-fiscales.
-
-A la demande de l'administration, le système de bouchage peut comporter un dispositif interdisant, après vidange, tout
-nouveau remplissage de la bouteille.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 A
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BC
-
-Les marques fiscales qui attestent du paiement ou de la constatation des droits sont constituées par :
-
-a. Une empreinte circulaire d'un diamètre au moins égal à 13 millimètres conforme au modèle établi par l'administration ;
-
-b. Le volume et le degré alcoolique du liquide renfermé dans la bouteille ;
-
-c. Le nom, la raison sociale ou la marque de commerce de l'utilisateur de capsule ;
-
-d. Le numéro d'agrément de l'utilisateur ;
-
-e. La marque du fabricant des capsules.
-
-Lorsque les capsules sont apposées par des entrepositaires agréés qui embouteillent pour le compte de tiers, les mentions
-relatives à l'utilisation de capsules sont celles qui se rapportent à ces tiers.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BD
-
-L'empreinte circulaire et l'indication du volume et du degré alcoolique du liquide sont apposées par l'utilisateur au moment
-de l'embouteillage. Les autres mentions visées aux c, d, e de l'article 54-0 BC doivent être imprimées par le fabricant de
-capsules avant livraison aux utilisateurs.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 BC c, d, e
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BE
-
-Pour les spiritueux renfermés dans les flacons d'une contenance au plus égale à 10 cl l'administration peut autoriser
-l'impression des marques fiscales dans des conditions semblables à celles prévues pour les capsules représentatives des
-droits sur les vins et les cidres.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BF
-
-Les marques fiscales prévues par les a et b de l'article 54-0 BC doivent être apposées sur le dessus de la capsule, les
-marques fiscales prévues par les c, d, e de l'article 54-0 BC doivent être imprimées sur la jupe de la capsule dans les
-conditions fixées par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 BC a, b, c, d
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BG
-
-Les marques fiscales prévues par les a et b de l'article 54-0 BC doivent être imprimées :
-
-en rouge pour les rhums et les crèmes de cassis ;
-
-en noir pour les autres spiritueux, sur un fond de couleur constitué par une surface circulaire de 15 mm de diamètre au
-moins :
-
-Jaune d'or pour les cognacs et les armagnacs, à condition que ceux-ci soient mis en bouteilles dans des magasins séparés par
-la voie publique de tout local renfermant des spiritueux de tout autre origine ;
-
-Blanc pour les autres eaux-de-vie à appellation contrôlée ou réglementée et les rhums détenus dans les conditions prévues aux
-articles 471 et 473 du code général des impôts ;
-
-Orange pour les vins de liqueur bénéficiant d'une appellation d'origine contrôlée ;
-
-Gris pour les autres spiritueux.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 471, 473
-	  - CGIAN4 54-0 BC a, b
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BH
-
-L'apposition des marques fiscales doit être effectuée de telle manière que l'ouverture de la bouteille entraîne leur
-détérioration partielle et empêche leur réutilisation.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-##### 2 : Fabrication des capsules.
-
-###### Article 54-0 BI
-
-Les fabricants de capsules représentatives des droits sur les spiritueux sont soumis  en ce qui concerne l'agrément des
-modèles types  l'impression des marques fiscales et l'expédition de ces capsules aux utilisateurs  aux obligations prévues
-par les articles 54-0 G à 54-0 T relatifs aux capsules représentatives des droits sur les vins et les cidres.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 G à CGIAN4 54-0 T
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-##### 3 : Utilisation des capsules.
-
-###### Article 54-0 BJ
-
-Les entrepositaires agréés de boissons bénéficiant du crédit d'enlèvement de un mois ou du crédit mensuel de liquidation
-peuvent être admis par le directeur régional des douanes et droits indirects à utiliser les capsules prévues par l'article
-444 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 444
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BK
-
-L'apposition de l'empreinte circulaire doit être effectuée  dans les chais des négociants autorisés  à l'aide de machines
-agréées par l'administration dans les conditions prévues aux articles 54 octies, 54 nonies et 164 L à 164 AL et munies de
-compteurs plombés enregistrant par tarif d'imposition le volume et l'alcool pur des spiritueux mis en bouteilles revêtues de
-capsules.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54 octies, 54 nonies, 164 L à 164 AL
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BL
-
-Les négociants en gros sont tenus de fournir une caution garantissant le paiement de droits correspondant aux capsules
-revêtues de l'empreinte dans les conditions prévues à l'article 54-0 BK.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 BK
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BM
-
-Les appareils à capsuler utilisés par les entrepositaires agréés doivent assurer un sertissage efficace de la capsule, tel
-que l'ouverture de la bouteille rende impossible le réemploi desdites capsules.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BN
-
-En aucun cas il ne peut être fait remise des droits représentés par les marques fiscales apposées sur les capsules perdues,
-volées détruites ou détériorées.
-
-Seules peuvent être autorisées la restitution ou la remise du droit de consommation afférent aux bouteilles défectueuses,
-couleuses ou cassées ; cette restitution et cette remise ne peuvent avoir lieu que sur présentation par l'entrepositaire
-agréé embouteilleur des bouteilles ou goulots revêtus de capsules intactes. Après vérification, les capsules correspondantes
-doivent être immédiatement détruites par le représentant de l'administration.
-
-Lorsque l'entrepositaire agréé embouteilleur est lui-même redevable du droit de fabrication, ce droit est restitué ou remis
-dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BO
-
-Les négociants autorisés à utiliser des capsules ne peuvent détenir dans leurs chais des capsules  revêtues ou non de
-l'empreinte visée au a de l'article 54-0 BC autres que celles du modèle agréé par l'administration, établies soit à leur nom,
-soit au nom d'autres entrepositaires pour lesquels ils sont autorisés à effectuer la mise en bouteilles. En aucun cas, ils ne
-peuvent détenir de capsules portant l'empreinte précitée et où ne figureraient pas les mentions complémentaires constituant
-la marque fiscale.
-
-La vente, la cession ou l'échange de capsules représentatives des droits sur les spiritueux sont interdits.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 BC a
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BP
-
-Il est interdit aux fabricants de capsules, aux entrepositaires agréés de boissons et aux débitants de reprendre à leurs
-clients ou d'utiliser des capsules ayant déjà servi.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BQ
-
-Les entrepositaires agréés autorisés à utiliser les capsules doivent tenir un carnet de conditionnement et de livraison
-conforme au modèle donné par l'administration et préalablement coté et paraphé par le représentant de l'administration.
-
-Sur ce carnet doivent être inscrits, sans blancs ni ratures, en fin de journée, par contenance de bouteilles et nature de
-boissons :
-
-1° Le nombre de capsules utilisées et par tarif le volume d'alcool pur représenté par les bouteilles ainsi conditionnées ;
-
-2° Le nombre de bouteilles reçues revêtues de capsules par les soins d'un autre entrepositaire agréé ainsi que le volume
-d'alcool pur qu'elles représentent ;
-
-3° Le nombre de bouteilles ainsi conditionnées effectivement livrées et le volume d'alcool pur qu'elles représentent.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BR
-
-Les utilisateurs de capsules représentatives des droits sur les spiritueux doivent déclarer, le premier jour ouvrable de
-chaque mois, les quantités de boissons mises en bouteilles au cours du mois précédent.
-
-Ces quantités sont émergées en sortie du compte de gros.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BS
-
-Les bouteilles revêtues de capsules représentatives des droits sur les spiritueux doivent être entreposées à part chez les
-entrepositaires agréés et ne doivent pas être reprises lors des inventaires.
-
-En aucun cas des bouteilles revêtues de capsules représentatives des droits sur les spiritueux ne peuvent être mises en
-circulation si ces capsules ne comportent pas la totalité des marques fiscales prévues à l'article 54-0 BC.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 BC
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BT
-
-Lorsqu'ils sont transportés par quantités supérieures à 6 litres en volume les spiritueux libérés des droits conditionnés en
-bouteilles revêtues de capsules portant les marques fiscales doivent être accompagnés d'un bordereau de livraison conforme au
-modèle donné par l'administration et indiquant :
-
-1° La date d'enlèvement ; 
-
-2° Par contenance et par nature des boissons le nombre total de bouteilles chargées au départ ; 
-
-3° Le nom et l'adresse des destinataires ainsi que les quantités qui leur sont destinées. 
-
-Au moment de la livraison le bordereau doit être complété par la signature des destinataires et éventuellement par les
-quantités effectivement livrées. 
-
-L'administration peut à la demande des intéressés agréer des modèles différents pourvu qu'ils comportent les indications
-réglementaires. 
-
-Les bordereaux doivent être conservés et tenus à la disposition des agents du service des douanes et droits indirects selon
-les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI L102 B I
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BU
-
-Sauf autorisation spéciale délivrée par l'administration aux conditions qu'elle détermine, les bouteilles de boissons
-destinées à l'exportation ne doivent pas être revêtues de capsules portant les marques fiscales.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
 
 	**Liens**:
 
@@ -8984,54 +8559,77 @@ destinées à l'exportation ne doivent pas être revêtues de capsules portant l
 
 ###### Article 54-0 BV
 
-Les viticulteurs et les coopératives viticoles peuvent être admis par le directeur régional des douanes et droits indirects à
-utiliser les capsules représentatives des droits sur les vins prévues par l'article 444 du code général des impôts.
+Les entrepositaires agréés ayant la qualité de récoltant sont admis : 
+
+a) D'une part, à détenir en droits acquittés les capsules destinées à être apposées sur les bouteilles ou récipients de vin,
+commandées collectivement par l'intermédiaire des personnes habilitées visées à l'article 54-0 BW ; 
+
+b) D'autre part, à acquitter le droit de consommation ainsi que, le cas échéant, la cotisation sur les boissons alcooliques
+prévue à l'article L. 245-7 du code de la sécurité sociale et toute autre taxe exigible, à la première mise en circulation
+des bouteilles et récipients de produits intermédiaires et d'alcools munis de capsules représentatives de droits. Ils
+doivent, dans cette hypothèse, fournir une caution garantissant le paiement des droits correspondant aux capsules sorties des
+chais.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 12 JORF 5 octobre 2000
 
 	**Cite**:
 
-	  - CGI 444
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
+	  - Code de la sécurité sociale. - art. L245-7 (M)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
 
 ###### Article 54-0 BW
 
-Pour être admis à recevoir détenir et utiliser des capsules dans les conditions définies par les articles 54-0 A à 54-0 AG,
-les viticulteurs et les coopératives viticoles doivent :
+La répartition des capsules collectives représentatives des droits destinées aux récoltants ne peut être réalisée que par les
+personnes habilitées après agrément du directeur régional des douanes et droits indirects territorialement compétent. Ne
+peuvent être habilités que les syndicats viticoles ou les groupements professionnels.
 
-Justifier de leur qualité d'assujetti à la taxe sur la valeur ajoutée ; 
+Les personnes habilitées à détenir des capsules représentatives de droits sont comptables des droits représentés par les
+marques fiscales détenues. Elles fournissent un cautionnement garantissant le paiement des droits correspondant aux capsules
+détenues ainsi qu'aux droits sur les capsules expédiées aux récoltants sous le couvert du document mentionné au I de
+l'article 302 M du code général des impôts.
 
-Fournir un cautionnement spécial garantissant le paiement des droits correspondant aux capsules ou aux feuilles métalliques
-revêtues du timbre utilisées ou ressortant en manquants au compte de magasin ; 
+Une personne habilitée peut être autorisée par le directeur régional des douanes et droits indirects à percevoir le droit de
+circulation et les taxes parafiscales lors de la répartition des capsules à ses seuls adhérents. Ces droits sont reversés
+mensuellement à la recette des douanes et droits indirects dont dépend la personne habilitée.
 
-Déclarer au bureau de déclarations de la direction générale des douanes et droits indirects la contenance des vaisseaux
-foudres et autres récipients d'une capacité supérieure à 10 hectolitres dont la contenance doit être vérifiée dans les
-conditions réglementaires et marqués sur chacun d'eux ; 
+Ces personnes doivent tenir une comptabilité matières dans laquelle sont repris :
 
-S'engager par écrit à supporter sans formalités les visites et vérifications du service des douanes et droits indirects dans
-leurs magasins caves et celliers pour le contrôle de la régularité de leurs opérations.
+a) En entrée, avec les références au document mentionné au I de l'article 302 M du code général des impôts, le nombre de
+capsules reçues, par catégorie (volume net exprimé en centilitres, couleur, pour les vins, vin tranquille ou vin mousseux,
+et, le cas échéant, titre alcoométrique volumique ...) ;
+
+b) En sortie, par destinataire et par catégorie, le nombre de capsules expédiées ou livrées, avec les références, selon le
+cas, au document mentionné au I ou au II de l'article 302 M du code général des impôts.
+
+Cette comptabilité matières ainsi que les capsules détenues sont tenues à la disposition des agents des douanes et droits
+indirects à fin de contrôle.
+
+La personne habilitée effectue mensuellement la balance des entrées et sorties de la comptabilité matières et transmet ce
+document au service des douanes et droits indirects dont elle dépend au plus tard le cinquième jour du mois suivant.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 11, art. 4 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 12 JORF 5 octobre 2000
+	  - Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
-	  - CGIAN4 54-0 A à CGIAN4 54-0 AG
+	  - CGI 302 M
 
 	**Cité par**:
 
@@ -9047,173 +8645,75 @@ leurs magasins caves et celliers pour le contrôle de la régularité de leurs o
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BX
 
-Les récoltants individuels qui ne remplissent pas les conditions énoncées à l'article 54-0 BW peuvent être admis à détenir en
-droits acquittés et à utiliser des capsules commandées collectivement par l'intermédiaire de syndicats viticoles ou de
-groupements professionnels agréés dans les conditions définies aux articles 54-0 BY à 54-0 CD.
+Les capsules visées à l'article 54-0 BW doivent répondre aux caractéristiques fixées par les articles 54-0 B à 54-0 E à
+l'exception du numéro d'agrément de la personne responsable de l'embouteillage, qui est remplacé par celui attribué à la
+personne habilitée. 
+
+Les bouteilles et récipients portant ces capsules doivent être revêtus par le récoltant d'étiquettes mentionnant
+obligatoirement ses nom et adresse.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2000-09-22 art. 12 JORF 5 octobre 2000
 
 	**Cite**:
 
-	  - CGIAN4 54-0 BW, 54-0 BY à 54-0 CD
-
-
-##### 2 : Capsules banalisées
-
-###### Article 54-0 BY
-
-Les syndicats viticoles et les groupements professionnels qui désirent assurer la commande collective et la répartition des
-capsules représentatives des droits destinées aux récoltants doivent être agréés par le directeur régional des douanes et
-droits indirects territorialement compétent. Ils fournissent un cautionnement garantissant le paiement des droits sur les
-capsules détenues ainsi que sur les capsules expédiées sous le couvert de documents mentionnés au I de l'article 302 M du
-code général des impôts aux récoltants.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 302 M
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 BZ
-
-Les syndicats viticoles et les groupements professionnels sont comptables des droits représentés par les timbres imprimés sur
-les feuilles métalliques ou sur les capsules reçues par eux. Ces timbres sont pris en charge, dans les conditions fixées par
-l'administration à un compte ouvert à cet effet. Ce compte est déchargé des quantités livrées sous le couvert de documents
-mentionnés au I de l'article 302 M du code général des impôts aux récoltants utilisateurs.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 302 M
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 CA
-
-Les capsules visées à l'article 54-0 BY doivent répondre aux caractéristiques fixées par les articles 54-0 B à 54-0 F, à
-l'exception des indications relatives à l'identification de l'utilisateur qui sont remplacées par la mention "récoltant",
-suivie du numéro d'immatriculation accordé au syndicat ou groupement agréé.
-
-Les récipients portant ces capsules doivent être revêtus par le récoltant d'étiquettes mentionnant obligatoirement ses nom et
-adresse.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 BY, 54-0 B, 54-0 C, 54-0 D, 54-0 E, 54-0 F
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 CB
-
-Les feuilles métalliques ou les capsules, revêtues du timbre, sont livrées aux syndicats viticoles ou aux groupements
-professionnels agréés sur présentation d'un bon de commande en double exemplaire dans des conditions identiques à celles
-prévues par l'article 54-0 AB. Elles sont livrées aux récoltants par les organismes distributeurs sous le couvert de
-documents mentionnés au I de l'article 302 M du code général des impôts dans les conditions déterminées par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 302 M
-	  - CGIAN4 54-0 AB
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 CC
-
-Les récoltants qui utilisent des capsules collectives doivent, le troisième jour de chaque mois au plus tard, déclarer, par
-catégories de vins et par appellations, les quantités de boissons vendues au cours du mois précédent et le prix de vente
-pratiqué.Ces quantités sont émargées en sorties sur la déclaration de récolte des intéressés.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54-0 CD
-
-Les dispositions des articles 54-0 X, 54-0 Z, 54-0 AA, 54-0 AC, 54-0 AF et 54-0 AG sont applicables à l'utilisation par les
-récoltants des capsules visées à l'article 54-0 BY.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0 X, 54-0 Z, 54-0 AA, 54-0 AC, 54-0 AF, 54-0 AG, 54-0 BY
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 B (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
 
 
 ##### II : Factures-congés
 
 ###### Article 54 A
 
-Les marchands en gros de boissons, les distillateurs de profession, les viticulteurs, les bouilleurs de cru, les coopératives
-et les débitants de boissons peuvent être autorisés par le directeur régional des douanes et droits indirects à utiliser les
-factures qui tiennent lieu de titre de mouvement et qui sont mentionnées à l'article 445 A du code général des impôts.
+I. - Pour tenir lieu de document d'accompagnement, les documents mentionnés à l'article 302 M du code général des impôts ou
+les documents commerciaux utilisés en lieu et place de ces documents doivent être validés préalablement au début du mouvement
+des produits conformément aux dispositions de l'article 111 H ter de l'annexe III au code général des impôts ou, le cas
+échéant, revêtus d'une vignette ou d'une marque fiscale comportant :
 
-Une caution spéciale garantit le paiement des droits applicables aux produits enlevés; elle doit être présentée et agréée par
+a) L'effigie de la République française ;
+
+b) La mention "Direction générale des douanes et droits indirects" ou "DGDDI" et "République française" ou "RF" entourant
+l'effigie ;
+
+c) L'identification de l'utilisateur de la vignette ou de la marque fiscale par son numéro d'agrément attribué par
 l'administration.
+
+Le visa du service des douanes et droits indirects prévu par les dispositions de l'article 111 H ter de l'annexe III au code
+général des impôts peut être remplacé par le visa des trésoreries de la direction générale de la comptabilité publique
+exerçant les compétences requises, déterminées par décret, et dont la liste est fixée par arrêté du ministre chargé du
+budget.
+
+II. - Le directeur régional des douanes et droits indirects peut autoriser l'emploi d'empreintes fiscales imprimées par les
+matériels ou logiciels mentionnés au I de l'article 164 AM en lieu et place des vignettes. Les empreintes doivent comporter
+les mentions requises au II du même article.
+
+III. - Sans préjudice des dispositions des articles 164 AT et 164 AU, tout usager est tenu, pour chaque vignette ou empreinte
+manquante ou en cas de discontinuité dans la série des numéros d'empreintes devant être apposées sur les documents
+d'accompagnement mentionnés à l'article 302 M du code général des impôts et les autres documents de circulation prévus par la
+réglementation des contributions indirectes dans le code général des impôts, d'acquitter une indemnité.
+
+Cette indemnité est égale au montant du droit au tarif le plus élevé, correspondant à la quantité moyenne par titre de
+mouvement des expéditions réalisées au cours des trois mois précédents.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 1 JORF 5 octobre 2000
 
 	**Cite**:
 
-	  - CGI 445 A
+	  - CGI 302 M
+	  - CGIAN3 111 H ter
+	  - CGIAN4 164 AM, 164 AT, 164 AU
 
 	**Cité par**:
 
@@ -9222,523 +8722,88 @@ l'administration.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54 B
 
-La fourniture et l'impression des factures qui tiennent lieu de titre de mouvement incombent aux utilisateurs. Les factures
-doivent être conformes aux modèles prescrits par l'administration.
+I.-Outre les informations mentionnées à l'article 111 H bis de l'annexe III au code général des impôts, le document
+d'accompagnement prévu au II de l'article 302 M du code général des impôts doit comporter en case 1 le numéro
+d'identification de l'expéditeur des produits ; ce numéro est selon le cas celui d'entrepositaire agréé, de récoltant ou de
+débitant de boisson attribué par l'administration. Lorsque ce document est utilisé pour la livraison de produits exemptés ou
+exonérés de droits, il doit en outre comporter en case 4 les références à l'agrément du destinataire par l'indication du
+numéro d'opérateur qui lui a été attribué par l'administration, avec la mention " livraison en exonération ". 
+
+II.-La fourniture et l'impression des factures et documents commerciaux qui tiennent lieu de documents d'accompagnement
+incombent aux utilisateurs. 
+
+III.-L'empreinte apposée sur chaque document doit : 
+
+a) En cas d'utilisation d'un matériel mécanique, être reproduite en original sur l'exemplaire n° 2 des documents
+d'accompagnement administratifs ou commerciaux (DAA/ DAC) et des documents simplifiés d'accompagnement administratifs ou
+commerciaux (DSA/ DSAC) et par décalque sur les autres exemplaires de ces documents ; 
+
+b) En cas d'utilisation d'un système informatisé, par impression ou marquage sur tous les exemplaires. Toutefois, les
+exemplaires n° 2 doivent, dans ce cas, être annotés de la mention " original " et les autres exemplaires de la mention "
+copie ". 
+
+IV.-Les entrepositaires agréés sont tenus de conserver pendant un délai de six ans, à compter de leur date, les duplicata des
+documents, certificats et bons mentionnés au présent article émis par eux et de les représenter au service des douanes et
+droits indirects à toute réquisition.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1986-03-03 art. 2 JORF 12 mars 1986
+	  - Arrêté 2000-09-22 art. 2 JORF 5 octobre 2000
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Arrêté 1986-10-07
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
 ###### Article 54 C
 
-Pour tenir lieu de titre de mouvement, des vignettes munies d'une marque fiscale doivent être apposées par les utilisateurs
-sur les factures.
+Lorsque les alcools et boissons alcooliques sont transportés dans des bouteilles et récipients revêtus de capsules
+représentatives de droits, par des professionnels ou pour leur compte, les produits circulent sous couvert d'un document
+commercial comportant l'identité de l'expéditeur, le nom et l'adresse du destinataire, le numéro de référence et la date
+d'établissement du document, la nature et la désignation des produits transportés avec leur dénomination et, le cas échéant,
+leur appellation d'origine, les quantités et, selon le cas, le titre alcoométrique volumique acquis des boissons. Ce document
+commercial est présenté aux agents des douanes à première réquisition. 
 
-A cet effet, les utilisateurs déposent à la recette des douanes et droits indirects dont ils dépendent un timbre humide de
-forme ronde, mentionnant leurs nom, prénoms (ou raison sociale) et adresse complète.
-
-Après avoir été marquées du timbre, les vignettes sont délivrées par la recette des douanes et droits indirects contre reçu
-comportant engagement de dédommager l'administration en cas de perte ou de disparition. L'apposition des vignettes doit se
-faire dans l'ordre de leur numérotation. La présentation des vignettes fiscales confiées aux intéressés et non encore
-employées peut être exigée par l'administration.
+Le document commercial mentionné au premier alinéa n'est pas applicable pour les livraisons à destination des personnes
+situées hors du territoire fiscal de la France. Ces livraisons doivent être effectuées sous couvert des documents
+d'accompagnement mentionnés à l'article 302 M du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 14 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
-
-###### Article 54 D
-
-La facture-titre de mouvement et la vignette doivent présenter toutes les indications prescrites à l'article 446 du code
-général des impôts avec, le cas échéant, les appellations d'origine attribuées aux boissons expédiées.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+	  - Arrêté 2000-09-22 art. 3 JORF 5 octobre 2000
 
 	**Cite**:
 
-	  - CGI 446
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 E
-
-Le directeur régional des douanes et droits indirects peut autoriser l'emploi d'empreintes fiscales imprimées par les
-machines à timbrer au lieu des vignettes. Les empreintes doivent comporter les mentions requises aux articles 54 decies et 54
-duodecies.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 54 decies, 54 duodecies
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 F
-
-Des duplicata de factures ou de vignettes tiennent lieu des déclarations d'enlèvement prévues à l'article 446 du code général
-des impôts. Ils doivent être enliassés dans l'ordre de numérotation des vignettes, conservés et tenus à la disposition des
-agents du service des douanes et droits indirects selon les modalités prévues au I de l'article L. 102 B du livre des
-procédures fiscales. Ils sont joints au document récapitulatif visé à l'article 54 I et restitués après vérification.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 446
-	  - CGIAN4 54 I
-	  - Livre des procédures fiscales - art. L102 B (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 G
-
-Les factures-titres de mouvement inutilisées mais pourvues de vignettes ou d'empreintes doivent être déposées à la recette
-des douanes et droits indirects avec leur duplicata, avant l'heure d'enlèvement indiquée sur le titre.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 H
-
-L'administration fixe, à la demande de chaque utilisateur, la quantité maximale d'alcool pur susceptible d'être livrée par
-destinataire sous le couvert d'une même facture-titre de mouvement.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 I
-
-Les factures-titres de mouvement doivent, avant l'enlèvement des boissons, être analysées séparément sur un document
-récapitulatif déposé à la recette des douanes et droits indirects soit le premier jour de chaque mois pour les factures-
-congés et les factures-laissez-passer, soit le premier et le seizième jour de chaque mois pour les factures-acquits-à-
-caution. 
-
-Pour les factures-congés et les factures-acquits, les documents récapitulatifs sont établis sur des documents fournis ou
-agréés par l'administration. 
-
-Pour les factures-laissez-passer, ils sont établis par leurs utilisateurs suivant le modèle prescrit par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 J
-
-Sans préjudice des dispositions de l'article 164 AD, tout usager est tenu pour chaque vignette ou empreinte manquante ou en
-cas de discontinuité dans la série des numéros d'empreintes apposées sur les factures-titres de mouvement, d'acquitter une
-indemnité.
-
-Pour les factures-congés et les factures - acquits-à-caution, l'indemnité est égale au montant du droit de circulation au
-tarif le plus élevé, correspondant à la quantité moyenne par titre de mouvement des expéditions de vins, cidres, poirés et
-hydromels pratiquées au cours des trois mois précédents ou au montant des droits de consommation ou de fabrication au tarif
-le plus élevé, correspondant à la quantité maximale d'alcool susceptible d'être expédiée par ces documents.
-
-Pour les factures-laissez-passer, l'indemnité est égale au montant du droit de circulation et de consommation ou de
-fabrication calculé sur la base des quantités maximales susceptibles d'être expédiées par ces documents.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 164 AD
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
 ##### III : Exemption des formalités à la circulation
 
 ###### Article 54 bis
 
-Bénéficient des dispositions du 5° de l'article 458 du code général des impôts les cidres et poirés répondant à la définition
-légale de ces boissons et aux prescriptions du décret n° 87-600 du 29 juillet 1987, libérés des droits et livrés en
-récipients d'une capacité au plus égale à deux litres portant, de manière apparente, l'indication du nom et de l'adresse du
-fabricant ou de l'embouteilleur.
+Bénéficient des dispositions du 5° de l'article 458 du code général des impôts les cidres et poirés libérés des droits
+indirects et livrés en récipients portant, de manière apparente, l'indication du nom et de l'adresse du fabricant ou de
+l'embouteilleur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1994-07-26 art. 1 JORF 3 août 1994
+	  - Arrêté 2001-01-18 art. 1 JORF 26 janvier 2001
 
 	**Cite**:
 
-	  - CGI 458 5°
-	  - Décret n°87-600 1987-07-29
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
-
-###### Article 54 quater
-
-Les cidres et poirés détenus par les entrepositaires agréés qui les conditionnent comme il est prévu à l'article 54 bis
-doivent être libérés des droits dès qu'ils sont expédiés à la consommation.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54 bis
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 quinquies
-
-Les opérations de conditionnement, de livraison et de réintégration des cidres et poirés, réalisées par les personnes qui
-effectuent la présentation commerciale définitive desdits produits, sont suivies sur des carnets spéciaux dans les conditions
-fixées par la direction générale des douanes et droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 ter
-
-Sans préjudice des dispositions relatives à la circulation intracommunautaire des produits soumis à accises, lorsqu'ils sont
-livrés à des personnes n'ayant pas la qualité fiscale d'entrepositaire agréé qui en assurent le conditionnement définitif,
-les cidres et poirés dont la présentation commerciale ne répond pas aux prescriptions de l'article 54 bis circulent sous le
-lien de documents mentionnés au I de l'article 302 M du code général des impôts. Ces documents sont échangés à l'arrivée des
-boissons contre des documents mentionnés au II de l'article 302 M précité.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 302 M
-	  - CGIAN4 54 bis
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-##### IV : Utilisation de machines à timbrer
-
-##### A : Machines à timbrer les capsules représentatives des droits indirects sur les vins et cidres.
-
-###### Article 54 septies
-
-Sans préjudice des dispositions de l'article 164 AD, tout usager est tenu :
-
-de fournir un cautionnement spécial garantissant le paiement des droits correspondant aux empreintes ou impressions
-enregistrées au compteur ;
-
-de satisfaire aux obligations prévues par les articles 54-0 AD à 54-0 AG dont les dispositions sont applicables aux capsules
-dont les marques fiscales ont été imprimées à l'aide de machines à timbrer.
-
-Par dérogation à l'engagement prévu à l'article 164 AD, les usagers sont habilités à apposer, à l'aide de leurs machines, les
-marques fiscales sur des capsules dont ils font usage pour le compte de personnes pour lesquelles ils sont autorisés à
-embouteiller les vins et les cidres.
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 164 L à 164 AL, 164 AD, 54-0 AD à 54-0 AG
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 sexies
-
-Est autorisée l'utilisation des machines à timbrer qui  suivant les prévisions de l'article 54-0 V, sont destinées à
-l'impression des timbres fiscaux attestant le paiement ou la constatation des droits indirects sur les vins et cidres  sur
-les capsules des récipients contenant ces boissons.
-
-Les empreintes fournies par les machines à timbrer doivent mentionner le volume net exprimé en centilitres du liquide
-renfermé dans les récipients sur lesquels sont apposées les capsules.
-
-Les empreintes doivent êtres imprimées sur fond blanc d'au moins 13 millimètres placé au centre de la capsule.
-
-Les impressions doivent être effectuées dans les couleurs prévues par l'article 54-0 D.
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54-0, 164 L à 164 AL
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-##### B : Machines à timbrer les capsules représentatives des droits indirects sur les spiritueux.
-
-###### Article 54 nonies
-
-Sans préjudice des dispositions de l'article 164 AD  tout usager est tenu de satisfaire aux obligations prévues par les
-articles 54-0 BL à 54-0 BU.
-
-Par dérogation à l'engagement prévu à l'article 164 AD, les usagers sont habilités à apposer  à l'aide de leurs machines  des
-marques fiscales sur des capsules dont ils font usage pour le compte de personnes pour lesquelles ils sont autorisés à
-embouteiller les spiritueux.
-
-(1) Voir les conditions générales prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 164 L à 164 AL, 164 AD, 54-0 BL à 54-0 BU
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 octies
-
-Est autorisée l'utilisation des machines à timbrer qui, suivant les prévisions de l'article 54-0 BK, sont destinées à
-l'impression de timbres fiscaux attestant le paiement ou la constatation des droits indirects sur les spiritueux, sur les
-capsules des récipients contenant ces boissons.
-
-Les empreintes fournies par les machines à timbrer doivent mentionner le volume net exprimé en centilitres et le titre
-alcoométrique volumique du liquide renfermé dans les récipients sur lesquels sont apposées les capsules.
-
-Ces empreintes doivent être imprimées sur un fonds de la couleur prévue à l'article 54-0 BG constitué par une surface
-circulaire d'au moins 15 millimètres de diamètre placée au centre de la capsule.
-
-Les impressions doivent être effectuées dans les couleurs prévues au même article.
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 164 L à 164 AL, 54-0 BK, 54-0 BG
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-##### C : Machines à timbrer les factures-congés "Boissons".
-
-###### Article 54 decies
-
-Est autorisée l'utilisation des machines à timbrer qui suivant les prévisions de l'article 54 E, sont destinées à apposer des
-marques fiscales qui confèrent en remplacement de vignettes le caractère de titre de mouvement aux factures-congés utilisées
-pour couvrir la circulation de boissons passibles de droits indirects. 
-
-Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
-
-Le modèle de la vignette remplacée désigné suivant la nomenclature arrêtée par l'administration des douanes et droits
-indirects ; 
-
-Un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération ;
-
-Les date et heure d'enlèvement exprimées en chiffres. 
-
-L'empreinte apposée sur chaque facture-congé doit être reproduite par décalque sur le duplicata de ce document.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54 E
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-##### D : Machines à timbrer les acquits-à-caution.
-
-###### Article 54 duodecies
-
-Est autorisée l'utilisation des machines à timbrer dont les empreintes apposées sur les acquits-à-caution définis à l'article
-615 du code général des impôts sont destinées :
-
-Au départ des chargements de marchandises devant circuler sous leur couvert à valider ces acquits-à-caution lorsque les
-expéditeurs sont autorisés à les établir eux-mêmes au moyen d'imprimés qui leur sont confiés par le service des douanes et
-droits indirects ; 
-
-A l'arrivée de tels chargements à attester les date et heure de cette arrivée. 
-
-Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
-
-Le sigle "MG" ou si l'appareil est utilisé par un récoltant un bouilleur de cru une coopérative vinicole cidricole ou de
-distillation ou une union de telles coopératives la lettre "R" ;
-
-Un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération ; 
-
-Les date et heure désignées en chiffres selon le cas de l'enlèvement ou de l'arrivée ; 
-
-La désignation du bureau de déclarations de la direction générale des douanes et droits indirects auquel l'utilisateur est
-rattaché.
-
-Chaque empreinte doit être apposée sur le talon administratif de l'acquit-à-caution à l'emplacement selon le cas "Enlèvement"
-ou "Arrivée" et dans le premier cas être reproduite par décalque sur le duplicata de ce document qui en constitue la souche.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 615
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 54 terdecies
-
-Sans préjudice des dispositions de l'article 164 AD, tout usager est tenu :
-
-En cas de solution de continuité dans la série des numéros d'empreintes apposées sur les acquits-à-caution d'acquitter pour
-chaque empreinte manquante une indemnité égale au montant de l'impôt, au tarif le plus élevé correspondant à la quantité
-moyenne des boissons reçues et expédiées sous acquit-à-caution au cours des trois derniers mois ; 
-
-De fournir un cautionnement spécial garantissant le paiement d'une part des sommes qui en application de l'article 615 du
-code général des impôts sont exprimées par les acquits-à-caution établis par lui d'autre part des indemnités indiquées ci-
-dessus ; 
-
-D'analyser sur des bordereaux d'émargement dits "feuilles d'entrepôt", au fur et à mesure de leur établissement et de leur
-réception les acquits-à-caution qu'il timbre au départ et à l'arrivée au moyen de son appareil ; 
-
-De déposer au bureau de déclarations de la direction générale des douanes et droits indirects auquel il est rattaché, le 1er
-et le 16 de chaque mois, les souches des acquits-à-caution établis et les acquits-à-caution reçus par lui au cours de la
-quinzaine écoulée classés en une seule liasse dans l'ordre des numéros d'empreintes de son appareil et accompagnés des
-feuilles d'entrepôts correspondantes.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGI 615
-	  - CGIAN4 164 AD
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 458 (V)
 
 
 ##### Section IV : Mise sur le marché des vins doux naturels à appellation d'origine contrôlée
@@ -10216,6 +9281,74 @@ conditions prévues à l'article 56 J sexdecies, pour les ouvrages neufs, sont r
 	  - HISTO: Edition du 27 octobre 1995
 
 
+###### Article 56 J sexdecies
+
+Le registre prévu à l'article 56 J quaterdecies peut prendre, au choix de l'opérateur, les formes suivantes :
+
+1. Pour les ouvrages neufs :
+
+a. Un registre coté et paraphé par l'administration municipale territorialement compétente qui peut :
+
+1° Soit ne comporter que des renvois aux documents comptables relatifs aux matières ou ouvrages repris à l'article 56 J
+quaterdecies. Dans ce cas, les indications reprises à l'article 56 J quindecies devront y figurer. Toutefois, l'indication du
+poids et du titre des ouvrages n'est pas exigée si leur identification est possible par un catalogue ou tout document de
+nature comptable ;
+
+2° Soit renvoyer à des fiches de stock et d'inventaire numérotées en continu, appuyées de tout document probant reprenant la
+désignation complète et détaillée des ouvrages et des matières confiées telle qu'énoncée à l'article 56 J quindecies ;
+
+b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-17 du code de commerce ou
+aux spécifications du 3° du I de l'article 286 du code général des impôts si les documents prévus à cet article sont
+accompagnés de fiches de stock ou d'un inventaire permanent ;
+
+c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente des stocks, par référence de produits,
+permettant l'identification des ouvrages et offrant toutes garanties en matière de preuve.
+
+2. Pour les ouvrages d'occasion :
+
+a. Un registre coté et paraphé par l'administration municipale territorialement compétente ;
+
+b. Ou le registre prévu à l'article 321-7 du code pénal sur lequel les ouvrages contenant des métaux précieux doivent être
+portés individuellement, quelle que soit leur valeur, avec une encre de couleur différente de celle utilisée pour les autres
+objets ;
+
+c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des stocks prévu au c du 1 du présent article,
+sous réserve que les enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par
+création d'un nouvel enregistrement avec indication de son motif et que le répertoire contenant ces informations soit
+spécifique et comprenne un système d'identification des pages par chiffre de contrôle, contenant un algorithme fondé entre
+autres sur la date, reporté en fin et en tête des pages imprimées quotidiennement.
+
+Outre les mentions énoncées à l'article 56 J quindecies, le registre doit comporter, pour chacun des ouvrages d'occasion en
+métal précieux acheté, confié pour la vente ou mis en dépôt, l'indication de sa provenance ainsi que de sa date d'entrée et
+de sortie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Cite**:
+
+	  - CGI 286
+	  - CGIAN4 56 J quaterdecies, 56 J quindecies
+	  - Code de commerce L123-12 à L123-17
+	  - Code pénal - art. 321-7 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18 art. 4 I 1° JORF 21 septembre 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J octodecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
 #### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine
 
 ##### 1° : Organisation des bureaux de garantie.
@@ -10282,74 +9415,6 @@ n'effectuant aucune livraison d'ouvrage sont également dispensés de registre.
 	  - HISTO: Edition du 27 octobre 1995
 
 
-###### Article 56 J sexdecies
-
-Le registre prévu à l'article 56 J quaterdecies peut prendre, au choix de l'opérateur, les formes suivantes :
-
-1. Pour les ouvrages neufs :
-
-a. Un registre coté et paraphé par l'administration municipale territorialement compétente qui peut :
-
-1° Soit ne comporter que des renvois aux documents comptables relatifs aux matières ou ouvrages repris à l'article 56 J
-quaterdecies. Dans ce cas, les indications reprises à l'article 56 J quindecies devront y figurer. Toutefois, l'indication du
-poids et du titre des ouvrages n'est pas exigée si leur identification est possible par un catalogue ou tout document de
-nature comptable ;
-
-2° Soit renvoyer à des fiches de stock et d'inventaire numérotées en continu, appuyées de tout document probant reprenant la
-désignation complète et détaillée des ouvrages et des matières confiées telle qu'énoncée à l'article 56 J quindecies ;
-
-b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles 8 à 11 du code de commerce ou aux
-spécifications du 3° du I de l'article 286 du code général des impôts si les documents prévus à cet article sont accompagnés
-de fiches de stock ou d'un inventaire permanent ;
-
-c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente des stocks, par référence de produits,
-permettant l'identification des ouvrages et offrant toutes garanties en matière de preuve.
-
-2. Pour les ouvrages d'occasion :
-
-a. Un registre coté et paraphé par l'administration municipale territorialement compétente ;
-
-b. Ou le registre prévu à l'article 321-7 du code pénal sur lequel les ouvrages contenant des métaux précieux doivent être
-portés individuellement, quelle que soit leur valeur, avec une encre de couleur différente de celle utilisée pour les autres
-objets ;
-
-c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des stocks prévu au c du 1 du présent article,
-sous réserve que les enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par
-création d'un nouvel enregistrement avec indication de son motif et que le répertoire contenant ces informations soit
-spécifique et comprenne un système d'identification des pages par chiffre de contrôle, contenant un algorithme fondé entre
-autres sur la date, reporté en fin et en tête des pages imprimées quotidiennement.
-
-Outre les mentions énoncées à l'article 56 J quindecies, le registre doit comporter, pour chacun des ouvrages d'occasion en
-métal précieux acheté, confié pour la vente ou mis en dépôt, l'indication de sa provenance ainsi que de sa date d'entrée et
-de sortie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1999-05-18
-
-	**Cite**:
-
-	  - CGI 286
-	  - CGIAN4 56 J quaterdecies, 56 J quindecies
-	  - Code de commerce 8 à 11
-	  - Code pénal - art. 321-7 (M)
-
-	**Modifié par**:
-
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J octodecies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-
-
 #### Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer.
 
 ###### Article 56 A ter
@@ -10409,56 +9474,6 @@ Pour les départements de la Guadeloupe et de la Martinique  celles des 24 et 31
 	  - HISTO: Edition du 1er janvier 2007
 	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
 	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
-
-
-#### Chapitre I quinquies : Céréales
-
-##### Utilisation de machines à timbrer.
-
-###### Article 56 D quater
-
-Est autorisée l'utilisation des machines à timbrer destinées à apposer des marques fiscales qui confèrent le caractère de
-titre de mouvement aux factures ou aux bordereaux d'expédition délivrés par les collecteurs agréés et les revendeurs de
-céréales soumises aux formalités à la circulation édictées par les articles 22 du décret de codification du 23 novembre 1937
-modifié et 16 de la loi du 5 juillet 1941 modifiée. 
-
-Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
-
-L'expression "Congé 939" ; 
-
-Un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération ; 
-
-Les date et heure d'enlèvement exprimées en chiffres. 
-
-L'empreinte apposée sur chaque facture-congé ou bordereau-congé doit être reproduite par décalque sur le duplicata de l'un ou
-l'autre de ces documents. 
-
-A la demande définie au premier alinéa de l'article 164 AD, doit être,joint en vue de son agrément,le modèle de la facture-
-congé ou du bordereau-congé que l'auteur de cette demande se propose d'utiliser. 
-
-Chaque usager est tenu de conserver pendant un délai de six ans à compter de leur date classés dans l'ordre de leur
-numérotation les duplicata des factures-congés ou des bordereaux-congés émis par lui et de les représenter au service des
-douanes et droits indirects à toute réquisition.
-
-**Nota:**
-
-NOTA : Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 164 AD, 164 L à 164 AL
-	  - Décret n°1937-11-23 art. 22
-	  - Loi n°1941-07-05
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
 
 
 #### Chapitre II : Tabacs
@@ -10733,37 +9748,6 @@ prévues au I de l'article L. 102 B du livre des procédures fiscales.
 	  - Livre des procédures fiscales - art. L102 B (VT)
 
 
-###### Article 56 AN
-
-Les fournisseurs sont admis dans les conditions définies par l'administration des douanes et droits indirects à substituer
-aux vignettes apposées sur les documents de livraison des marques fiscales imprimées par des machines à timbrer à la
-condition que les empreintes comportent les indications suivantes :
-
-les mots "Document de livraison" ; 
-
-un cercle d'au moins deux centimètres de diamètre contenant l'effigie de la République française entourée de la mention
-"Direction générale des douanes et droits indirects" ;
-
-le numéro d'immatriculation de la machine ; 
-
-un numéro particulier affecté à chaque empreinte suivant l'ordre de numérotation ; 
-
-les date et heure d'enlèvement des produits exprimées en chiffres.
-
-L'empreinte apposée sur chaque document de livraison doit être reproduite par décalque sur le duplicata de ce document qui en
-constitue la souche.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
 ###### Article 56 AO
 
 En l'absence de document douanier, les transports de tabacs manufacturés doivent être effectués sous le couvert d'un document
@@ -10840,29 +9824,6 @@ e. exportation ou la désignation du pays de destination pour les produits desti
 	**Modifié par**:
 
 	  - Loi n°86-1317 du 30 décembre 1986 - art. 32 (P) JORF 31 décembre 1986
-
-
-#### Chapitre III : Dispositions communes à l'ensemble des contributions indirectes.
-
-###### Article 59
-
-Les documents d'accompagnement sont validés soit au moyen des machines à timbrer visées à l'article 54 duodecies dans les
-conditions prévues à l'article 54 terdecies, soit au moyen des machines à timbrer les factures acquits-à-caution dans les
-conditions prévues aux articles 54 E à 54 G et 54 I et 54 J.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
-
-	**Cite**:
-
-	  - CGIAN4 54 duodecies, 54 terdecies, 54 E à 54 G, 54 I, 54 J
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -11158,24 +10119,24 @@ ter.
 
 ###### Article 93 H ter
 
-Lorsque la demande est présentée par la société elle-même  elle doit comporter l'engagement exprès ;
+Lorsque la demande est présentée par la société elle-même elle doit comporter l'engagement exprès ; 
 
-1° D'acquitter les droits exigibles pour le compte des souscripteurs ;
+1° D'acquitter les droits exigibles pour le compte des souscripteurs ; 
 
 2° De porter sur les bulletins de souscription la formule visée à l'article 405 I de l'annexe III au code général des
-impôts ;
+impôts ; 
 
-3° D'effectuer le versement des droits au service des impôts compétent pour accorder l'autorisation  dans les vingt jours
-suivant la clôture des opérations de centralisation de l'émission et  en tout état de cause avant la déclaration de
-souscription et de versement prévue à l'article 78 modifié de la loi n° 66-537 du 24 juillet 1966 ;
+3° D'effectuer le versement des droits au service des impôts compétent pour accorder l'autorisation dans les vingt jours
+suivant la clôture des opérations de centralisation de l'émission et en tout état de cause avant la déclaration de
+souscription et de versement prévue à l'article L. 225-6 du code de commerce ; 
 
 4° De mentionner, dans cette déclaration de souscription et de versement, le nombre de bulletins souscrits, le montant des
 droits de timbre versés au Trésor, le service des impôts auquel ces droits ont été payés ainsi que la date et le numéro de la
-recette ;
+recette ; 
 
 5° De déposer, à l'appui du versement de l'impôt, un état succinct faisant connaître le montant du capital émis, la date de
 la clôture des opérations de centralisation de l'émission, le nombre de bulletins souscrits et le montant de l'impôt
-exigible.
+exigible. 
 
 Lorsqu'il s'agit de bulletins émis à l'occasion de la constitution d'une société nouvelle, il faut, en outre, que :
 
@@ -11189,24 +10150,20 @@ qui devront être acquittés, en tout état de cause, dans les six mois du dép�
 
 	**Codifié par**:
 
-	  - Arrêté 1995-12-11
+	  - Arrêté 2001-05-21
 
 	**Modifié par**:
 
-	  - Arrêté 1995-12-11 art. 1 JORF 13 décembre 1995
+	  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
 
 	**Cite**:
 
-	  - CGIAN3 405 I
-	  - Loi n°66-537 1966-07-24 art. 78
+	  - Code de commerce - art. L225-6 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 405 I (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### B ter : Autres actes (paiement sur états)
@@ -12477,6 +11434,131 @@ route.
 	  - Code de la route R138 A 1°
 
 
+##### 3° : Exonération temporaire de la valeur locative de certains outillages, équipements et installations spécifiques de manutention portuaire
+
+###### Article 121 quinquies DB decies
+
+Sont réputés répondre aux caractéristiques mentionnées au deuxième alinéa de l'article 1464 G du code général des impôts les
+outillages, équipements et installations spécifiques de manutention portuaire relevant des catégories suivantes : 
+
+a) Matériels de levage et de transfert des marchandises à destination ou en provenance des navires : portiques, grues, roues-
+pelles, descenseurs à sacs, aspirateurs à céréales ou à pulvérulents, transpalettes, palettiseurs, ponts roulants, bandes
+transporteuses, gerbeurs, trémies, pelles à grappin, palonniers, cols de cygne, bennes preneuses, ponts-bascules ; 
+
+b) Matériels et équipements roulants de manipulation portuaire : 
+
+chariots élévateurs, chariots cavaliers, grues de parc à conteneurs, portiques de parc (à conteneurs, à bois, à unités de
+charge), tracteurs de parc non immatriculés et remorques de parc non immatriculées, tracteurs pousseurs de wagons, chargeurs
+sur chenilles pour manutention de minéraux en vrac, chouleurs ; 
+
+c) Installations et équipements spécifiques nécessaires à la manutention portuaire des marchandises et produits, en vrac
+liquides ou solides, ou manutentionnés sous froid : équipements et installations de manutention portuaire, sous hangar ou
+non, spécialisés pour le transit des marchandises et produits en vrac liquides ou solides, rampes hydrauliques pour
+chargement, équipements pour le transfert et le transit des marchandises réfrigérées ou congelées.
+
+**Nota:**
+
+Conséquence de la péremption de l'article 1464 G du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2001-01-26 art. 1 JORF 30 janvier 2001
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 1er avril 2008 - art. 1
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1464 G
+
+
+###### Article 121 quinquies DB nonies
+
+La liste des places portuaires maritimes concernées par l'exonération temporaire de taxe professionnelle prévue à l'article
+1464 G du code général des impôts est fixée comme suit : 
+
+1. Zone littorale Nord-Pas-de-Calais : 
+
+a) Port de Calais ; 
+
+b) Port de Boulogne-sur-Mer ; 
+
+c) Port autonome de Dunkerque. 
+
+2. Zone littorale de Normandie : 
+
+a) Port autonome du Havre ; 
+
+b) Port de Dieppe ; 
+
+c) Port autonome de Rouen ; 
+
+d) Port de Honfleur ; 
+
+e) Port de Fécamp ; 
+
+f) Port de Caen. 
+
+3. Zone littorale de la Manche : 
+
+a) Port de Cherbourg ; 
+
+b) Port de Granville. 
+
+4. Zone littorale de Bretagne : 
+
+a) Port de Saint-Malo ; 
+
+b) Port de Brest ; 
+
+c) Port de Lorient. 
+
+5. Zone littorale Atlantique : 
+
+a) Port autonome de Nantes-Saint-Nazaire ; 
+
+b) Port de La Rochelle ; 
+
+c) Port autonome de Bordeaux ; 
+
+d) Port de Bayonne. 
+
+6. Zone littorale de la Méditerranée : 
+
+a) Port de Port-Vendres ; 
+
+b) Port de Port-la-Nouvelle ; 
+
+c) Port de Sète ; 
+
+d) Port autonome de Marseille ; 
+
+e) Port de Toulon.
+
+**Nota:**
+
+Conséquence de la péremption de l'article 1464 G du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2001-01-26 art. 1 JORF 30 janvier 2001
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 1er avril 2008 - art. 1
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1464 G
+
+
 ##### Section III : Commission consultative départementale des évaluations foncières
 
 ###### Article 121 quinquies DC
@@ -13024,7 +12106,7 @@ a. Aux compétitions relevant des activités sportives ci-après :
 
 athlétisme, aviron, natation, gymnastique et escrime ;
 
-b. Jusqu'au 31 décembre 2000 aux compétitions relevant des activités sportives ci-après : aïkido, badminton, balle au
+b. Jusqu'au 31 décembre 2004 aux compétitions relevant des activités sportives ci-après : aïkido, badminton, balle au
 tambourin, ballon au poing, ball-trap, base-ball, boxe française, canne, canoë-kayak, char à voile, escalade, football
 américain, haltérophilie, handball, hockey sur gazon, javelot-tir sur cible, jeu de paume, judo, karaté, kendo, longue paume,
 lutte, motonautisme, parachutisme, patinage à roulettes, pelote basque, pentathlon, pétanque et jeu provençal, skate-board,
@@ -13035,7 +12117,7 @@ triathlon, twirling-bâton et volley-ball.
 
 	**Modifié par**:
 
-	  - Arrêté 1996-12-31 art. 1 JORF 1er janvier 1997
+	  - Arrêté 2001-03-28 art. 1 JORF 31 mars 2001
 
 	**Cite**:
 
@@ -13043,7 +12125,7 @@ triathlon, twirling-bâton et volley-ball.
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### 5° : Contrôle des entrées dans les salles. Billets
@@ -15878,17 +14960,93 @@ végétales et des huiles d'animaux marins incorporées.
 
 Le tarif forfaitaire dont le redevable peut demander l'application est fixé par arrêté.
 
+Les taux de la taxe sont fixés comme suit :
+
+EN FRANCS
+
+Huile d'olive
+
+Par kg
+
+0,993
+
+Par litre
+
+0,894 
+
+Huile d'arachide et de maïs
+
+Par kg
+
+0,894
+
+Par litre
+
+0,814 
+
+Huiles de colza et de pépins de raisin
+
+Par kg
+
+0,458
+
+Par litre
+
+0,417 
+
+Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
+internationales ou nationales relatives aux espèces protégées
+
+Par kg
+
+0,780
+
+Par litre
+
+0,680 
+
+Huiles de coprah et de palmiste
+
+Par kg
+
+0,595
+
+Par litre
+
+- 
+
+Huile de palme
+
+Par kg
+
+0,545
+
+Par litre
+
+- 
+
+Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux
+espèces protégées
+
+Par kg
+
+0,993
+
+Par litre
+
+- 
+
 2. (Disjoint).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-21 art. 1, 2, 3 JORF 17 février 1993
+	  - Arrêté 2000-12-04 art. 1 JORF 10 décembre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -15896,92 +15054,42 @@ Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
-	  - TXT_ASSOCIE: Instruction 1996-06-20 3P-5-96
-	  - TXT_ASSOCIE: Instruction 1997-04-17 3P-6-97
-	  - TXT_ASSOCIE: Instruction 1998-03-31 3P-5-98
+	  - HISTO: Edition du 31 mars 2001
 	  - TXT_ASSOCIE: Instruction 2000-03-13 3P-5-00
 	  - TXT_ASSOCIE: Instruction 2001-03-23 3P-2-01
-
-
-##### Section VII bis : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
-
-###### Article 159 AL bis
-
-Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé à 0,20 % jusqu'au 31 décembre
-2000.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1999-12-30 art. 1 JORF 31 décembre 1999
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-	  - Arrêté 2001-05-21
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
-	  - HISTO: Edition du 31 mars 2000
-	  - HISTO: Edition du 31 mars 2001
-	  - TXT_ASSOCIE: Instruction 2001-02-06 3Q-2-01
-
-	**Cite**:
-
-	  - CGIAN2 345
 
 
 ##### Section VII quater A : Taxe parafiscale sur certaines viandes.
 
 ###### Article 159 AL quater-0 A
 
-Le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme suit par kilogramme
-net :
+En application de l'article 363 D de l'annexe II au code général des impôts, le montant de la taxe perçue sur certaines
+viandes au profit de l'Association nationale pour le développement agricole est fixé comme suit pour l'année 2001 :
 
-a) Viande de boeuf et viande de veau : 0,0480 F ;
+a) 0,0479 F par kilogramme net pour les viandes des animaux des espèces bovine et ovine, des espèces chevaline et asine et de
+leurs croisements, et pour les viandes de poules de réforme ;
 
-b) Viande de porc : 0,0360 F ;
+b) 0,0360 F par kilogramme net pour les viandes des animaux de l'espèce porcine ;
 
-c) Viande de mouton : 0,0465 F ;
+c) 0,02493 F par kilogramme net pour les viandes des animaux des espèces caprine et cunicole et pour les viandes de dinde, de
+canard, de pintade et d'oie labellisées ;
 
-d) Viande des espèces chevaline, asine et de leurs croisements :
+d) 0,01837 F par kilogramme net pour les viandes de poulet et coq labellisées et les viandes de canard, de pintade et d'oie
+non labellisées ;
 
-0,0480 F ;
+e) 0,0105 F par kilogramme net pour les viandes de dinde non labellisées ;
 
-e) Viande de l'espèce caprine : 0,0300 F ;
-
-f) Viande de lapin : 0,0249 F ;
-
-g) Viande de poulet et de coq non labellisés : 0,0095 F ;
-
-h) Viande de poulet et de coq labellisés : 0,01775 F ;
-
-i) Viande de poule de réforme : 0,0449 F ;
-
-j) Viande de dinde non labellisée : 0,0118 F ;
-
-k) Viande de dinde labellisée : 0,02375 F ;
-
-l) Viande de canard non labellisé : 0,01825 F ;
-
-m) Viande de canard labellisé : 0,02375 F ;
-
-n) Viande de pintade et d'oie non labellisées : 0,0213 F ;
-
-o) Viande de pintade et d'oie labellisées : 0,02375 F.
+f) 0,00951 F par kilogramme net pour les viandes de poulet et coq non labellisées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1998-12-22 art. 1 JORF 27 décembre 1998
+	  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -15989,28 +15097,26 @@ o) Viande de pintade et d'oie labellisées : 0,02375 F.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1996-01-26 3Q-1-96
-	  - TXT_ASSOCIE: Instruction 1997-02-04 3Q-1-97
-	  - TXT_ASSOCIE: Instruction 1998-02-09 3Q-1-98
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### Section VII quater B : Taxe parafiscale forfaitaire sur les activités agricoles.
 
 ###### Article 159 AL quater-0 B
 
-Le taux de la taxe prévue à l'article 363 DA de l'annexe II au code général des impôts est fixé à 500 F à compter de l'année
-1998.
+En application de l'article 363 DA de l'annexe II au code général des impôts, le taux de la taxe parafiscale forfaitaire due
+par les exploitants agricoles au titre de leurs activités agricoles au profit de l'Association nationale pour le
+développement agricole est fixé à 500 F pour l'année 2001.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1997-12-26 art. 1 JORF 28 décembre 1997
+	  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 1998-05-22
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -16018,27 +15124,26 @@ Le taux de la taxe prévue à l'article 363 DA de l'annexe II au code général 
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### Section VII quater C : Taxe parafiscale sur les produits de l'horticulture florale, ornementale et des pépinières.
 
 ###### Article 159 AL quater-0 C
 
-En application de l'article 363 DB de l'annexe II au code général des impôts, le montant de la taxe perçue sur les produits
-non comestibles de l'horticulture florale, ornementale et des pépinières au profit de l'Association nationale pour le
-développement agricole est fixé, pour l'année 2000, à 1,5 pour mille du montant des ventes hors taxes des produits définis au
-I de l'article 363 DB précité.
+En application de l'article 363 DB de l'annexe II au code général des impôts, le taux de la taxe parafiscale perçue sur les
+produits de l'horticulture florale, ornementale et des pépinières au profit de l'Association nationale pour le développement
+agricole est fixé à 1,5 pour mille pour l'année 2001.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-12-22 art. 1 JORF 26 décembre 1999
+	  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -16046,7 +15151,7 @@ I de l'article 363 DB précité.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 #### Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées
@@ -16213,24 +15318,23 @@ vie de cidre et de poiré.
 ###### Article 159 AP
 
 En application de l'article 363 E de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
-vins au profit de l'association nationale pour le développement agricole est fixé, à compter du 1er janvier 1998, comme
-suit :
+vins au profit de l'Association nationale pour le développement agricole est fixé, pour l'année 2001, à :
 
-a. Vins d'appellation d'origine contrôlée : 2,60 F par hectolitre ;
+a) Vins d'appellation d'origine contrôlée : 2,60 F par hectolitre ;
 
-b. Vins délimités de qualité supérieure : 1,69 F par hectolitre ;
+b) Vins délimités de qualité supérieure : 1,69 F par hectolitre ;
 
-c. Autres vins : 0,77 F par hectolitre.
+c) Autres vins : 0,77 F par hectolitre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1997-12-26 art. 1 JORF 28 décembre 1997
+	  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 1998-05-22
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -16238,33 +15342,42 @@ c. Autres vins : 0,77 F par hectolitre.
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2001
 
 
-##### Section VI : Taxe parafiscale sur les graines oléagineuses.
+##### Section VI : Taxe parafiscale sur les graines oléagineuses et protéagineuses
 
 ###### Article 159 AR
 
-Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à l'article 363 F de l'annexe II au code général
-des impôts, destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1999-2000 :
+En application de l'article 363 F de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
+graines oléagineuses et protéagineuses au profit de l'Association nationale pour le développement agricole est fixé comme
+suit pour la campagne 2000-2001 :
 
-a. colza : 3,66 F par tonne ;
+a) Colza : 3,66 F par tonne ;
 
-b. navette : 3,66 F par tonne ;
+b) Navette : 3,66 F par tonne ;
 
-c. tournesol : 4,48 F par tonne ;
+c) Tournesol : 4,48 F par tonne ;
 
-d. soja : 2,39 F par tonne.
+d) Soja : 2,39 F par tonne ;
+
+e) Pois : 1,04 F par tonne ;
+
+f) Fèves : 1,04 F par tonne ;
+
+g) Féveroles : 1,04 F par tonne ;
+
+h) Lupin doux : 1,04 F par tonne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-12-10 art. 1 JORF 16 décembre 1999
+	  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 2000-06-02
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -16272,43 +15385,47 @@ d. soja : 2,39 F par tonne.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### Section VII : Taxe parafiscale sur les céréales et le riz.
 
 ###### Article 159 AS
 
-En application de l'article 363 FA de l'annexe II, le montant de la taxe parafiscale perçue sur les céréales au profit de
-l'Association nationale pour le développement agricole est fixé comme suit, pour la campagne 1998-1999 :
+I. - En application de l'article 363 FA de l'annexe II au code général des impôts, le montant de la taxe parafiscale sur les
+céréales perçue au profit de l'Association nationale pour le développement agricole est fixé comme suit pour la campagne
+2000-2001 :
 
-a. Blé tendre : 3,10 F par tonne ;
+a) 2,90 F par tonne pour le blé tendre, le blé dur, l'orge, le maïs et le riz ;
 
-b. Blé dur : 2,85 F par tonne ;
+b) 1,55 F par tonne pour l'avoine, le seigle, le sorgho et le triticale.
 
-c. Orge : 3,10 F par tonne ;
+II. Les blés tendres retenus au titre de rémunération en nature par les meuniers et boulangers échangistes et livrés à un
+collecteur agréé supportent la somme prévue au I.
 
-d. Seigle : 1,65 F par tonne ;
+III. La taxe prévue par le présent article pour les céréales de qualité saine, loyale et marchande, est applicable aux
+céréales non saines, loyales et marchandes.
 
-e. Maïs : 2,85 F par tonne ;
+IV. La taxe assise sur les entrées est calculée par collecteur agréé ou producteur grainier sur le poids à la réception des
+céréales livrées aux collecteurs agréés, déduction faite :
 
-f. Avoine : 2,05 F par tonne ;
+a) De l'humidité excédant le taux de 15 % pour le blé tendre, l'orge, le seigle, le blé dur, le maïs, le sorgho et le riz.
+Pour l'application de cette disposition, l'Office national interprofessionnel des céréales établit les barèmes de conversion
+de poids des céréales présentant une humidité élevée ;
 
-g. Sorgho : 1,65 F par tonne ;
-
-h. Riz : 2,85 F par tonne ;
-
-i. Triticale : 1,65 F par tonne.
+b) Du pourcentage d'impuretés excédant 0,5 % pour le blé dur, 1 % pour le blé tendre, le seigle, l'orge, le maïs, le sorgho,
+le triticale et le riz dans la limite de 1 % pour le blé tendre, le blé dur, le seigle et le triticale, 2 % pour le maïs et
+le sorgho et 2,5 % pour le riz.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1998-07-02 art. 1 JORF 17 juillet 1998
+	  - Arrêté 2000-12-26 art. 1, art. 2, art. 3, art. 4 JORF 30 décembre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -16316,7 +15433,62 @@ i. Triticale : 1,65 F par tonne.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2001
+
+
+##### Section VIII : Taxe parafiscale pour le financement des actions du secteur céréalier
+
+###### Article 159 AT
+
+I. - Les montants de la taxe parafiscale visée au I de l'article 363 AE de l'annexe II au code général des impôts sont fixés
+comme suit pour la campagne céréalière 2000-2001 :
+
+a) 5,08 F par tonne de blé tendre, d'orge, de maïs et de blé dur ;
+
+b) 4,72 F par tonne de seigle, de triticale et de riz ;
+
+c) 3,20 F par tonne d'avoine et de sorgho.
+
+II. - Le produit de cette taxe sera affecté de la façon suivante :
+
+a) 46,4 % à l'Office national interprofessionnel des céréales ;
+
+b) 53,6 % à l'institut technique des céréales et fourrages.
+
+III. - Les blés tendres retenus au titre de rémunération en nature par les meuniers et boulangers échangistes et livrés à un
+collecteur agréé supportent la somme prévue au I.
+
+IV. - La taxe prévue par le présent article pour les céréales de qualité saine, loyale et marchande, est applicable aux
+céréales non saines, loyales et marchandes.
+
+V. - La taxe assise sur les entrées est calculée par collecteur agréé ou producteur grainier sur le poids à la réception des
+céréales livrées aux collecteurs agréés, déduction faite :
+
+a) De l'humidité excédant le taux de 15 % pour le blé tendre, l'orge, le seigle, le blé dur, le maïs, le sorgho et le riz.
+Pour l'application de cette disposition, l'Office national interprofessionnel des céréales établit les barèmes de conversion
+de poids des céréales présentant une humidité élevée ;
+
+b) Du pourcentage d'impuretés excédant 0,5 % pour le blé dur, 1 % pour le blé tendre, le seigle, l'orge, le maïs, le sorgho,
+le triticale et le riz dans la limite de 1 % pour le blé tendre, le blé dur, le seigle et le triticale, 2 % pour le maïs et
+le sorgho et 2,5 % pour le riz.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-12-26 art. 1 à art. 5 JORF 30 décembre 2000
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Cite**:
+
+	  - CGIAN2 363 AE
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 #### Chapitre III : Enregistrement
@@ -16326,8 +15498,8 @@ i. Triticale : 1,65 F par tonne.
 ###### Article 159 quater
 
 Sont considérés comme véhicules utilitaires affectés aux exploitations agricoles, et à ce titre assujettis à la contribution
-additionnelle complémentaire prévue au 2° de l'article 1635 bis A du code général des impôts, les véhicules suivants assurés
-par des exploitants agricoles :
+additionnelle prévue au 1° de l'article 1635 bis A du code général des impôts, les véhicules suivants assurés par des
+exploitants agricoles :
 
 a) Les camions, camionnettes et fourgonnettes ;
 
@@ -16339,13 +15511,9 @@ exploitations agricoles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1987-09-23 art. 1 JORF 25 septembre 1987
-
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -16354,7 +15522,11 @@ exploitations agricoles.
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2001
+
+	**Modifié par**:
+
+	  - Loi - art. 97 () JORF 31 décembre 2000
 
 
 ##### Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole
@@ -16474,87 +15646,38 @@ c) Contribution forfaitaire des assurés : 0,10 F par personne garantie (1).
 	  - HISTO: Edition du 11 avril 1997
 
 
-##### Section II bis : Fonds de garantie des victimes des actes de terrorisme et d'autres infractions
-
-###### Article 159 quinquies A
-
-I. Les contrats d'assurances sur lesquels est assise la contribution prévue aux articles 1628 quinquies du code général des
-impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
-branches 3 à 9 de l'article R. 321-1 du code des assurances.
-
-II. Le taux de la contribution est fixé, pour 2000, à 20 F par contrat. Les sommes correspondantes sont perçues par les
-entreprises d'assurance à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre le 1er janvier et le
-31 décembre 2000.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1999-11-12 art. 1 JORF 23 novembre 1999
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-	  - Arrêté 2001-05-21
-
-	**Liens**:
-
-	  - DISJONCTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
-	  - HISTO: Edition du 31 mars 2000
-	  - HISTO: Edition du 31 mars 2001
-
-	**Cite**:
-
-	  - CGI 1628 quinquies
-	  - CGIAN2 325
-	  - Code des assurances R321-1
-
-
 ##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
 
 ###### Article 159 septies
 
-Les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général des impôts sont fixés comme
-suit :
+A compter du 1er janvier 2001, les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général
+des impôts sont fixés ainsi qu'il suit :
 
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est inférieur ou égal à 3,5 tonnes :
+1° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur ou égal à 3,5
+tonnes :
 
-Prix à compter du 1er mars 1999 : 173 F
+182 F ;
 
-Prix à compter du 1er janvier 2000 : 178 F
+2° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est supérieur à 3,5 tonnes et
+inférieur à 6 tonnes : 746 F ;
 
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC est supérieur à 3,5 tonnes et inférieur à 6
-tonnes.
+3° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes
+et inférieur à 11 tonnes : 1 116 F ;
 
-Prix à compter du 1er mars 1999 : 710 F
+4° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11
+tonnes, tracteurs routiers et véhicules de transport en commun de personnes :
 
-Prix à compter du 1er janvier 2000 : 731 F
-
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal ou supérieur à 6 tonnes et inférieur à
-11 tonnes.
-
-Prix à compter du 1er mars 1999 : 1 066 F
-
-Prix à compter du 1er janvier 2000 : 1 094 F
-
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal  ou supérieur à 11 tonnes, tracteurs
-routiers, véhicules de transport en commun de voyageurs.
-
-Prix à compter du 1er mars 1999 : 1 601 F
-
-Prix à compter du 1er janvier 2000 : 1 642 F
-
-(1) Poids total autorisé en charge.
+1 675 F.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-01-05 art. 1 JORF 14 janvier 1999
+	  - Arrêté 2000-12-26 art. 1 JORF 30 décembre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -16562,7 +15685,7 @@ Prix à compter du 1er janvier 2000 : 1 642 F
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2001
 
 
 ### Titre III : Dispositions communes
@@ -17333,7 +16456,7 @@ a. Soit à attester le paiement ou la constatation des droits en remplacement de
 l'apposition est prévue par la réglementation fiscale ,
 
 b. Soit à valider les titres de mouvement et autres documents de circulation prévus par les réglementations dont
-l'application incombe à l'administration des impôts ou à l'administration des douanes et droits indirects ;
+l'application incombe à l'administration des impôts.
 
 2° Sous le nom de "supports",les actes et écrits de toute nature soumis à un droit de timbre, les documents destinés à
 légitimer le transport des produits dont la circulation est soumise à formalité ainsi que les éléments de conditionnement de
@@ -17343,20 +16466,12 @@ ces produits sur lesquels sont apposées les empreintes des machines à timbrer.
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AL bis (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AX (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
 
 
 ##### II : Dispositions communes
@@ -17365,40 +16480,38 @@ ces produits sur lesquels sont apposées les empreintes des machines à timbrer.
 
 ###### Article 164 M
 
-Sauf autorisation de l'administration des impôts, ou de l'administration des douanes et droits indirects, pour ce qui la
-concerne, les empreintes fournies par les machines à timbrer doivent comporter exclusivement selon une disposition fixée pour
-chacun des usages autorisés :
+Sauf autorisation de l'administration des impôts, les empreintes fournies par les machines à timbrer doivent comporter
+exclusivement, selon une disposition fixée pour chacun des usages autorisés :
 
-L'emblème, timbre, sigle ou indicatif officiel prescrit ;
+a. L'emblème, timbre, sigle ou indicatif officiel prescrit ;
 
-Le numéro d'immatriculation attribué à chaque machine dans les conditions prévues à l'article 164 O ;
+b. Le numéro d'immatriculation attribué à chaque machine dans les conditions prévues à l'article 164 O ;
 
-Ainsi qu'une ou plusieurs mentions particulières à chacun des usages autorisés et définis aux articles 50 duodecies B, 54
-sexies à 54 duodecies  56 D quater et 71.
+c. ainsi qu'une ou plusieurs mentions particulières à chacun des usages autorisés et définis aux articles 50 duodecies B et
+71.
 
-Les empreintes doivent être nettes sans maculatures d'aucune sorte, ne jamais être recouvertes par des mentions manuscrites
-ou imprimées  ni ne jamais recouvrir de telles mentions.
+Les empreintes doivent être nettes, sans maculatures d'aucune sorte, ne jamais être recouvertes par des mentions manuscrites
+ou imprimées, ni ne jamais recouvrir de telles mentions.
 
-Sous réserve des dispositions des articles 54 sexies à 54 nonies, elles doivent être imprimées à l'encre indélébile de
-couleur rouge.
+Elles doivent être imprimées à l'encre indélébile de couleur rouge.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 4, art. 6 JORF 5 octobre 2000
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
-	  - CGIAN4 164 O, 50 duodecies B, 54 sexies à 54 duodecies, 56 D quater, 71
+	  - CGIAN4 164 O, 50 duodecies B, 71
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 164 N
@@ -17415,7 +16528,7 @@ un capot permettant d'assurer l'inviolabilité de ces organes par scellement.
 
 Chaque machine à timbrer doit porter un numéro d'immatriculation composé du numéro d'identification du département
 d'utilisation et d'un numéro d'ordre qui est pris dans une série continue pour chaque catégorie d'usage autorisé et attribué
-par le service des impôts ou le service des douanes et droits indirects territorialement compétent.
+par le service des impôts territorialement compétent.
 
 Tout changement dans les conditions d'utilisation de la machine ou de l'identité de l'usager entraîne l'attribution d'un
 nouveau numéro d'immatriculation.
@@ -17427,19 +16540,11 @@ d'immatriculation attribué à la première.
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 M (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
 
 
 ##### B : Agrément des machines
@@ -17465,8 +16570,7 @@ résultant de conventions internationales.
 
 ###### Article 164 Q
 
-La demande d'agrément est adressée à l'administration des impôts ou à l'administration des douanes et droits indirects, pour
-ce qui la concerne.
+La demande d'agrément est adressée à l'administration des impôts.
 
 Elle doit spécifier l'usage auquel l'appareil est destiné et être accompagnée d'une notice sur ses caractéristiques
 techniques.
@@ -17478,39 +16582,23 @@ et par le conseil technique de l'administration des postes et télécommunicatio
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 W (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
 
 ###### Article 164 R
 
 L'agrément est accordé au constructeur à titre personnel et les droits et avantages qui s'y attachent ne peuvent être cédés
-sans l'accord de l'administration des impôts ou de l'administration des douanes et droits indirects, pour ce qui la concerne.
+sans l'accord de l'administration des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 
 ###### Article 164 S
@@ -17525,29 +16613,19 @@ des télécommunications (groupement de mécanisation postale). Ce dépôt ne do
 ###### Article 164 T
 
 La concession au constructeur du droit de placer chez les usagers des machines du modèle agréé fait l'objet d'une convention
-entre ce constructeur et l'administration des impôts ou l'administration des douanes et droits indirects, pour ce qui la
-concerne.
+entre ce constructeur et l'administration des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 
 ###### Article 164 U
 
 Le concessionnaire est tenu de satisfaire à toutes les demandes de location de machines formulées par les usagers de la
-France métropolitaine dûment autorisés à utiliser ces appareils par le service des impôts ou par le service des douanes et
-droits indirects, pour ce qui le concerne.
+France métropolitaine dûment autorisés à utiliser ces appareils par le service des impôts.
 
 Aucune remise ou indemnité n'est allouée par l'administration au concessionnaire.
 
@@ -17555,19 +16633,11 @@ Aucune remise ou indemnité n'est allouée par l'administration au concessionnai
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AL (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 164 V
@@ -17578,32 +16648,14 @@ et ne peuvent être vendues.
 La mise à disposition est opérée exclusivement  sous la forme d'un contrat de location qui est obligatoirement assorti de
 clauses par lesquelles le concessionnaire s'engage à assurer l'entretien du matériel pendant toute la durée de la location.
 
-L'administration des impôts ou l'administration des douanes et droits indirects, pour ce qui la concerne, n'intervient pas
-dans la fixation des prix de location et des tarifs d'entretien, mais ces prix et tarifs doivent lui être notifiés par le
-concessionnaire à titre d'information.
-
-Toutefois  en ce qui concerne les machines mentionnées aux articles 54 sexies à 54 nonies l'administration des douanes et
-droits indirects peut, aux conditions qu'elle détermine  renoncer aux principes de mise à la disposition des usagers énoncés
-aux alinéas précédents  pour les parties des machines constituant les dispositifs de commande et non soumises à scellement
-d'inviolabilité.
+L'administration des impôts n'intervient pas dans la fixation des prix de location et des tarifs d'entretien, mais ces prix
+et tarifs doivent lui être notifiés par le concessionnaire à titre d'information.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
-
-	**Cite**:
-
-	  - CGIAN4 54 sexies, 54 septies, 54 octies, 54 nonies
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 
 ##### D : Obligations des concessionnaires
@@ -17611,27 +16663,23 @@ d'inviolabilité.
 ###### Article 164 AA
 
 Le concessionnaire doit, sans pouvoir prétendre à une indemnité, procéder à l'enlèvement de toute machine à timbre, lorsque
-l'administration des impôts ou l'administration des douanes et droits indirects, pour ce qui la concerne, lui notifie la
-révocation de l'autorisation accordée à un usager. Les dispositions du deuxième alinéa de l'article 164 Z sont alors
-applicables.
+l'administration des impôts lui notifie la révocation de l'autorisation accordée à un usager. Les dispositions du deuxième
+alinéa de l'article 164 Z sont alors applicables.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
+	  - Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
-	  - CGIAN4 164 Z
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 Z (V)
 
 
 ###### Article 164 AB
@@ -17702,56 +16750,39 @@ marqué par le compteur.
 ###### Article 164 Y
 
 Toute installation d'une machine à timbrer chez un usager ne peut avoir lieu qu'en présence d'un représentant du service des
-impôts ou du service des douanes et droits indirects, pour ce qui la concerne, qui doit procéder au scellement du capot.
+impôts qui doit procéder au scellement du capot.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 
 ###### Article 164 Z
 
 Le concessionnaire doit immédiatement réparer sur place ou retirer du lieu d'utilisation et remplacer toute machine à timbrer
-dont le fonctionnement lui est signalé comme défectueux.
+dont le fonctionnement lui est signalé comme défectueux. 
 
 La réparation ou le retrait et le remplacement ne peuvent avoir lieu qu'en présence d'un représentant du service des impôts
-ou du service des douanes et droits indirects qualifié pour procéder aux opérations de descellement et de scellement du capot
-des appareils.
+qualifié pour procéder aux opérations de descellement et de scellement du capot des appareils. 
 
 Avant d'être mise à nouveau en service, toute machine à timbrer ayant donné lieu à un retrait en vue de sa réparation est
-soumise aux formalités prévues au 2° de l'article 164 X .
+soumise aux formalités prévues au 2° de l'article 164 X.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
-
-	**Cite**:
-
-	  - CGIAN4 164 X 2°
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AA (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 X (V)
 
 
 ##### E : Obligations des usagers
@@ -17760,24 +16791,23 @@ soumise aux formalités prévues au 2° de l'article 164 X .
 
 Sous réserve des dispositions de l'article 50 duodecies B, toute personne qui désire être autorisée à utiliser les machines à
 timbrer doit présenter toutes garanties d'honorabilité et de solvabilité et en faire la demande, sur un imprimé fourni par
-l'administration, au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, pour ce qui le
-concerne, du lieu d'utilisation en précisant l'usage auquel est destinée la machine. Une demande séparée est faite par
-appareil.
+l'administration, au directeur des services fiscaux du lieu d'utilisation, en précisant l'usage auquel est destinée la
+machine. Une demande séparée est faite par appareil.
 
 Elle doit prendre l'engagement de ne pas rétrocéder à des tiers la ou les machines louées, de ne les utiliser que pour son
 usage personnel, de ne pas déplacer ou laisser déplacer les machines en dehors de l'établissement désigné comme lieu
-d'exploitation sans l'autorisation du service des impôts ou du service des douanes et droits indirects et de se conformer
-strictement aux règles en vigueur.
+d'exploitation sans l'autorisation du service des impôts et de se conformer strictement aux règles en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
+	  - Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 2001-05-21
 
 	**Cite**:
 
@@ -17790,7 +16820,7 @@ strictement aux règles en vigueur.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 164 AE
@@ -17830,8 +16860,8 @@ service des impôts ou au service des douanes et droits indirects, pour ce qui l
 
 ###### Article 164 AG
 
-Toutes facilités doivent être données aux agents des impôts ou aux agents du service des douanes et droits indirects, pour ce
-qui les concerne, pour inspecter les machines et pour relever les chiffres des compteurs sans avis préalable.
+Toutes facilités doivent être données aux agents des impôts pour inspecter les machines et pour relever les chiffres des
+compteurs, sans avis préalable.
 
 A cette occasion, les agents visés au premier alinéa ont la faculté de procéder au descellement et au rescellement des
 machines. Ces interventions qui ne doivent comporter aucune action sur les mécanismes ou organes des appareils peuvent être
@@ -17841,25 +16871,21 @@ opérées en l'absence d'un représentant du concessionnaire, la présence de l'
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
+	  - Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2001-05-21
 
 
 ##### F : Responsabilités attachées à l'utilisation des machines
 
 ###### Article 164 AH
 
-Les concessionnaires sont pécuniairement responsables vis-à-vis de l'administration des impôts ou de l'administration des
-douanes et droits indirects, pour ce qui la concerne, du paiement des droits ou des pénalités exigibles sur les timbres
-fiscaux obtenus par les usagers à l'aide de machines à timbrer mises ou maintenues à leur disposition dans des conditions
-irrégulières.
+Les concessionnaires sont pécuniairement responsables, vis-à-vis de l'administration des impôts, du paiement des droits ou
+des pénalités exigibles sur les timbres fiscaux obtenus par les usagers à l'aide de machines à timbrer mises ou maintenues à
+leur disposition dans des conditions irrégulières.
 
 Il en est de même, ainsi que le cas échéant à l'égard des cautions des utilisateurs, en cas de timbres fiscaux obtenus
 irrégulièrement par les usagers, par suite d'une imperfection technique de la machine.
@@ -17868,37 +16894,30 @@ irrégulièrement par les usagers, par suite d'une imperfection technique de la 
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
+	  - Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2001-05-21
 
 
 ###### Article 164 AI
 
-Les concessionnaires sont garants envers l'administration des impôts ou l'administration des douanes et droits indirects,
-pour ce qui la concerne, des dommages qui pourraient résulter de toutes revendications, saisies,  poursuites ou autres
-actions judiciaires ou extrajudiciaires susceptibles d'être intentées par des tiers pour quelque motif que ce soit  notamment
-pour contrefaçon des systèmes d'organes ou pièces brevetées.
+Les concessionnaires sont garants, envers l'administration des impôts, des dommages qui pourraient résulter de toutes
+revendications, saisies, poursuites ou autres actions judiciaires ou extrajudiciaires susceptibles d'être intentées par des
+tiers pour quelque motif que ce soit, notamment pour contrefaçon des systèmes d'organes ou pièces brevetées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 20 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 4 JORF 5 octobre 2000
+	  - Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2001-05-21
 
 
 ###### Article 164 AJ
@@ -17952,6 +16971,501 @@ Les autorisations accordées aux concessionnaires et aux usagers sont révocable
 	**Cite**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 U (V)
+
+
+#### Chapitre IV : Systèmes informatiques sécurisés et matériels de validation
+
+###### Article 164 AM
+
+I. - 1° Sont désignés sous le nom de "système informatique sécurisé" tous les matériels et logiciels informatiques permettant
+de mémoriser les données saisies par l'entremise de ces matériels ou logiciels, d'imprimer ces données et d'apposer, le cas
+échéant, par une fonction spécifique de ces matériels ou logiciels ou un logiciel distinct des empreintes ou marques
+destinées à :
+
+a) Valider, au sens de l'article 111 H ter de l'annexe III au code général des impôts, les documents d'accompagnement
+mentionnés à l'article 302 M du code général des impôts, et autres documents, bons et certificats de circulation ou de
+livraison prévus par les réglementations dont l'application incombe à l'administration des douanes et droits indirects ;
+
+b) Attester le paiement ou la constatation des droits en remplacement des vignettes ou timbres fiscaux représentatifs des
+droits indirects, dont l'apposition est prévue par la réglementation fiscale.
+
+2° En application du a du 1°, sont désignés sous le nom de :
+
+"matériel mécanique" tous les matériels et machines imprimant de façon mécanique ou digitale des empreintes destinées à
+valider les documents, bons et certificats ou à attester le paiement ou la constatation des droits.
+
+II. - Sauf autorisation de l'administration des douanes et droits indirects, les marques fiscales ou empreintes fournies par
+les matériels ou logiciels désignés au I doivent :
+
+1° Pour la validation des documents d'accompagnement mentionnés à l'article 302 M du code général des impôts, bons et
+certificats de circulation ou de livraison, et pour les attestations de paiement ou de constatation des droits sur ces
+documents, comporter :
+
+a) L'effigie de la République française conforme au modèle agréé par l'administration des douanes ;
+
+b) La mention : "Direction générale des douanes et droits indirects" ou "DGDDI" et "République française" ou "RF" entourant
+l'effigie ;
+
+c) Le numéro d'identification attribué à chaque matériel dans les conditions prévues à l'article 164 AO ;
+
+d) Une lettre identifiant le constructeur ou le concepteur du matériel ;
+
+e) L'identification de l'utilisateur de la marque fiscale, par son numéro d'agrément attribué par l'administration ;
+
+f) Un numéro particulier affecté à chaque empreinte dans une série séquentielle continue ;
+
+g) La date et l'heure d'enlèvement ou de réception des produits exprimés en chiffres ;
+
+h) Pour les systèmes informatiques sécurisés ou les logiciels de validation et d'attestation des paiements, une signature
+électronique ou numérique et une ou plusieurs informations complémentaires, correspondant à chacun des usages autorisés, à
+savoir selon les cas l'indication :
+
+1. Des mots : "en droits acquittés", "en exonération" ou "en suspension de droits" pour distinguer les livraisons et
+réceptions effectuées en droits acquittés, en exonération ou en suspension des droits ;
+
+2. Des mots : "titre émis par anticipation" pour distinguer, dans la comptabilité matières, les opérations effectuées sous
+couvert d'un document d'accompagnement prévalidé par l'entrepositaire agréé effectuant l'enlèvement des produits.
+
+Les empreintes doivent être nettes, sans maculatures d'aucune sorte, ne jamais être recouvertes par des mentions manuscrites
+ou imprimées et ne jamais recouvrir de telles mentions.
+
+2° Pour l'impression des marques fiscales représentatives des droits indirects attestant du paiement ou de la constatation
+des droits indirects sur les vins, autres boissons fermentées, produits intermédiaires et alcools, sur les capsules ou sur
+les dispositifs de fermeture, non récupérables, des récipients contenant ces boissons, ces marques fiscales doivent
+comporter :
+
+a) Une couronne d'un diamètre d'au moins 23 millimètres dont le fond est conforme aux normes déterminées par arrêté du
+ministre chargé du budget et dans laquelle sont inscrits :
+
+1. Le numéro d'agrément du responsable de l'embouteillage, selon les normes déterminées par arrêté du ministre chargé du
+budget ;
+
+2. La marque d'identification du fabricant des capsules, selon les normes déterminées par arrêté du ministre chargé du
+budget.
+
+b) Au centre de la couronne, une surface circulaire d'un diamètre de 15 millimètres dont le fond est conforme aux normes
+déterminées par arrêté du ministre chargé du budget et dans laquelle sont inscrits :
+
+1. L'effigie de la République française conforme au modèle agréé par l'administration des douanes ;
+
+2. La mention : "Direction générale des douanes et droits indirects" ou "DGDDI" et "République française" ou "RF" entourant
+l'effigie ;
+
+3. Le volume net exprimé en centilitres et, pour les alcools, le titre alcoométrique volumique du liquide renfermé dans les
+bouteilles ou récipients sur lesquels sont apposées les capsules.
+
+Un spécimen des marques fiscales ou empreintes agréées par l'administration est déposé auprès du service des douanes et
+droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - CGI 302 M
+	  - CGIAN3 111 H ter
+	  - CGIAN4 164 AO
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AO (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AX (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 B (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 164 AN
+
+Les matériels doivent intégrer un dispositif permettant de comptabiliser les opérations et doivent être assortis de
+procédures permettant de garantir l'authenticité des données et des marques fiscales apposées.
+
+Pour les matériels informatiques, des protections doivent être mises en place de façon que seules les personnes chargées de
+la maintenance ou de la réparation, les utilisateurs dûment habilités et les agents des douanes et droits indirects aient
+accès au système. Divers degrés d'habilitation peuvent être définis en tant que de besoin en fonction de la qualité de
+l'utilisateur.
+
+Ces habilitations ne sont pas opposables aux agents des douanes et droits indirects qui ont accès à toutes les informations.
+
+Le système informatique doit comporter des procédures de sauvegarde et de reprise afin de préserver les informations en cas
+d'incident, de panne, de dysfonctionnement d'un élément du système ou de rupture de l'alimentation électrique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+
+###### Article 164 AO
+
+Chaque matériel désigné à l'article 164 AM doit être identifié par un numéro composé du numéro d'identification
+d'entrepositaire agréé mentionné au quatrième alinéa de l'article 286 K de l'annexe II au code général des impôts, complété
+par une lettre majuscule attribuée par le service des douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - CGIAN2 286 K
+	  - CGIAN4 164 AM
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 164 AP
+
+I.-Les matériels mécaniques et les logiciels de validation et d'attestation des paiements désignés à l'article 164 AM sont
+subordonnés à l'agrément préalable par l'administration d'un prototype ou, le cas échéant, des matériels eux-mêmes. 
+
+II.-Cet agrément ne peut être sollicité que par un fournisseur installé en France ou dans la Communauté européenne, sauf
+dérogation résultant de conventions internationales. 
+
+III.-La mise en place ou l'installation des matériels ou logiciels chez les utilisateurs est soumise à autorisation du
+directeur régional des douanes compétent pour le lieu d'utilisation. 
+
+Tout changement de l'identité de l'utilisateur entraîne l'attribution d'un nouveau numéro d'immatriculation. 
+
+En cas de remplacement d'un matériel ou d'un logiciel par un autre destiné au même usage, le second matériel ou logiciel
+reçoit le numéro d'identification attribué au premier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AQ (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AR (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 I (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 164 AQ
+
+I.-La demande d'agrément prévue à l'article 164 AP est adressée à l'administration des douanes et droits indirects. Elle doit
+spécifier l'usage auquel le matériel ou le logiciel est destiné et être accompagnée d'une notice sur ses caractéristiques
+techniques. 
+
+L'administration statue sur la demande présentée après examen du matériel ou du logiciel. 
+
+II.-L'agrément est accordé au fournisseur à titre personnel et les droits et avantages qui s'y rattachent ne peuvent être
+cédés sans l'accord de l'administration des douanes et droits indirects. 
+
+III.-Un spécimen complet de chaque matériel ou logiciel agréé avec ses accessoires est déposé par le fournisseur auprès de
+l'administration des douanes et droits indirects. Ce dépôt ne donne lieu à aucune rétribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Modifié par**:
+
+	  - Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AS (V)
+
+
+###### Article 164 AR
+
+I.-L'agrément prévu à l'article 164 AP n'est accordé que si le fournisseur s'engage aux obligations suivantes : 
+
+a) Ne placer que des matériels ou des logiciels des modèles agréés ; 
+
+b) N'effectuer le placement que sur la base de l'autorisation du directeur régional des douanes et droits indirects accordée
+aux utilisateurs des matériels ou des logiciels en application des dispositions de l'article 164 AU ; 
+
+c) Utiliser les matériels ou les logiciels affectés à son usage suivant les mêmes règles ; 
+
+d) Satisfaire à toutes les demandes de location de matériels ou logiciels formulées par les usagers de la France
+métropolitaine et des départements d'outre-mer dûment autorisés à utiliser ces matériels ou logiciels par le service des
+douanes et droits indirects. 
+
+II.-Les matériels ou logiciels mis à la disposition des usagers autorisés doivent appartenir en toute propriété au
+fournisseur et ne peuvent être vendus. 
+
+La mise à disposition est opérée exclusivement, sous la forme d'un contrat de location qui est obligatoirement assorti de
+clauses par lesquelles le fournisseur s'engage à assurer l'entretien du matériel pendant toute la durée de la location. 
+
+Cette obligation de location ne s'applique pas aux matériels ou logiciels destinés au timbrage des capsules représentatives
+des droits d'accises et aux matériels ou logiciels utilisés par les fournisseurs agréés mentionnés au 1 de l'article 565 du
+code général des impôts pour la validation des documents d'accompagnement mentionnés au II de l'article 302 M dudit code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AT (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AW (V)
+
+
+###### Article 164 AS
+
+I.-Les matériels ou logiciels mis en service doivent, dans toutes leurs parties, être conformes aux modèles agréés dans les
+conditions prévues à l'article 164 AQ. 
+
+II.-Les fournisseurs sont tenus : 
+
+a) De soumettre les matériels ou logiciels à toutes vérifications et à tous essais auxquels l'administration jugera utile de
+procéder ; 
+
+b) Avant la mise en service des matériels ou logiciels chez les usagers, de les essayer, de les éprouver et de les
+poinçonner. Ce contrôle est signalé par l'apposition sur chaque machine d'un poinçon dateur (mois et année) conférant
+autorisation de mise en service. Il donne lieu à la délivrance d'un billet de contrôle sur lequel est indiqué le ou les
+chiffres marqués par le compteur. 
+
+III.-Les matériels mécaniques installés chez un usager doivent être scellés par le fournisseur, afin de rendre inaccessibles
+les éléments constituant le dispositif de validation ou d'apposition de l'empreinte ou de la vignette. Toute installation,
+tout enlèvement et réparation des machines et matériels doivent faire l'objet d'un certificat d'intervention de la part du
+fournisseur. Une copie de ce document est adressée au service des douanes dont dépend l'utilisateur des machines et
+matériels. 
+
+Les matériels ou logiciels de validation et d'attestation des paiements intégrés ou connectés aux systèmes informatiques
+sécurisés doivent comporter des protections garantissant leur inviolabilité et l'unicité des empreintes et marques qu'ils
+apposent. 
+
+IV.-Le fournisseur doit sans délai réparer sur place ou retirer du lieu d'utilisation et remplacer toute machine dont le
+fonctionnement lui est signalé comme défectueux. 
+
+Avant d'être mis à nouveau en service, tout matériel ou logiciel ayant donné lieu à un retrait en vue de sa réparation est
+soumis aux formalités prévues aux II et III. 
+
+V.-Le fournisseur doit, sans pouvoir prétendre à une indemnité, procéder à l'enlèvement de toute machine sur demande de
+l'administration des douanes et droits indirects. 
+
+VI.-En cas de modification des modèles d'empreintes, les fournisseurs sont tenus d'effectuer gratuitement le remplacement des
+clichés pour mettre les empreintes en concordance avec les nouveaux modèles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AQ (V)
+
+
+###### Article 164 AT
+
+Le non-respect des engagements prévus aux articles 164 AR et 164 AS entraîne le retrait de l'agrément. Dans cette situation,
+le fournisseur doit impérativement reprendre l'ensemble des machines, matériels et logiciels mis à disposition des
+utilisateurs dans un délai d'un mois suivant la date de notification du retrait de l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AR (V)
+
+
+###### Article 164 AU
+
+I. - Toute personne qui désire être autorisée à utiliser les matériels ou logiciels doit présenter toutes garanties
+d'honorabilité et de solvabilité et en faire la demande, sur un imprimé fourni par l'administration, au directeur régional
+des douanes et droits indirects du lieu d'utilisation, en précisant l'usage auquel ils sont destinés. Une demande séparée est
+faite par matériel ou logiciel.
+
+Elle doit prendre l'engagement de ne pas rétrocéder à des tiers le ou les matériels ou logiciels loués, de ne les utiliser
+que pour son usage personnel ou des personnes nommément désignées, de ne pas déplacer ou laisser déplacer les matériels ou
+logiciels en dehors de l'établissement désigné comme lieu d'exploitation sans l'autorisation du service des douanes et droits
+indirects et de se conformer strictement aux règles en vigueur.
+
+En cas d'utilisation collective, la personne autorisée doit préciser les nom, adresse et numéro d'agrément des utilisateurs.
+
+II. - Seront réputés non timbrés les documents et marques fiscales dont les empreintes auront été apposées par une personne
+non autorisée.
+
+III. - L'usager ne peut modifier, d'une façon quelconque, aucune des parties des matériels, des logiciels, du mécanisme
+d'apposition des empreintes ou des compteurs.
+
+Tout matériel ou logiciel dont le fonctionnement est devenu défectueux doit être immédiatement signalé au concessionnaire
+ainsi qu'au service des douanes et droits indirects dont dépend l'usager.
+
+IV. - Toutes facilités doivent être données aux agents du service des douanes et droits indirects pour inspecter les
+matériels ou logiciels et pour relever les chiffres des compteurs, sans avis préalable.
+
+A cette occasion, les agents visés au premier alinéa ont la faculté de procéder, si nécessaire, au descellement et au
+rescellement des matériels. Ces interventions, qui ne doivent comporter aucune action sur les mécanismes ou organes des
+matériels ou logiciels, peuvent être opérées en l'absence d'un représentant du concessionnaire, la présence de l'utilisateur
+étant toujours requise.
+
+V. - Tout usager est tenu :
+
+a) De justifier de la mise en place d'un cautionnement garantissant le paiement des droits d'accises pour toutes les
+opérations validées par les empreintes ou impressions enregistrées au compteur ;
+
+b) De satisfaire, suivant la nature des produits, aux obligations prévues par les articles 54-0 B à 54-0 BX et les articles
+302 D, 302 G et 302 M à 302 P du code général des impôts et 286 L de l'annexe II audit code, dont les dispositions sont
+applicables aux capsules et aux marques fiscales qui ont été imprimées à l'aide des matériels ou logiciels mentionnés à
+l'article 164 AM.
+
+VI. - Par dérogation à l'engagement prévu au I, les usagers sont habilités à apposer, à l'aide de leurs matériels ou
+logiciels, les marques fiscales sur des capsules dont ils font usage pour le compte de personnes pour lesquelles ils sont
+autorisés à embouteiller les vins, autres boissons fermentées, produits intermédiaires et alcools.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5, art. 13 JORF 5 octobre 2000
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Cite**:
+
+	  - CGI 302 D, 302 G, 302 M à 302 P
+	  - CGIAN2 286 L
+	  - CGIAN4 54-0 B à 54-0 BX, 164 AM
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AR (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AV (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 164 AV
+
+I. - Les fournisseurs sont pécuniairement responsables, vis-à-vis de l'administration des douanes et droits indirects, du
+paiement des droits ou des pénalités exigibles sur les timbres fiscaux obtenus par les usagers à l'aide de matériels ou
+logiciels mis ou maintenus à leur disposition dans des conditions irrégulières.
+
+Il en est de même pour les utilisateurs et, le cas échéant, leurs cautions en cas d'apposition de timbres fiscaux obtenus
+irrégulièrement du fait d'une utilisation anormale ou détournée des matériels ou logiciels.
+
+II. - Les fournisseurs sont garants envers l'administration des douanes et droits indirects, des dommages qui pourraient
+résulter de toutes revendications, saisies, poursuites ou autres actions judiciaires ou extrajudiciaires susceptibles d'être
+intentées par des tiers pour quelque motif que ce soit, notamment pour contrefaçon des systèmes d'organes ou pièces
+brevetées.
+
+III. - Les locataires de matériels ou logiciels sont pécuniairement responsables, vis-à-vis de l'administration des douanes
+et droits indirects, du paiement des droits ou des pénalités exigibles sur les timbres fiscaux qui auraient été obtenus par
+des tiers auxquels ils auraient rétrocédé ces matériels ou logiciels.
+
+IV. - L'administration n'encourt aucune responsabilité en raison du non-fonctionnement ou du fonctionnement défectueux des
+matériels ou logiciels loués par les fournisseurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 164 AW
+
+Les autorisations accordées aux fournisseurs et aux usagers, chacun pour ce qui le concerne, sont révocables de plein droit
+et sans indemnité : 
+
+a) Dans le cas de modifications apportées à la législation entraînant la suppression de l'usage des matériels ou logiciels ; 
+
+b) Dans le cas de manquement grave à l'une des obligations indiquées aux articles 164 AR à 164 AT ; 
+
+c) Dans le cas d'infraction fiscale de caractère frauduleux commise par les bénéficiaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AR (V)
+
+
+###### Article 164 AX
+
+Les matériels ou logiciels agréés avant la date de publication de l'arrêté du 22 septembre 2000 (JO du 5 octobre 2000), en
+application des dispositions des articles 164 L à 164 AL, sont remplacés par les matériels mentionnés au I de l'article 164
+AM, au fur et à mesure de leur installation, et au plus tard le 31 décembre 2003.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 2000-09-22
+	  - CGIAN4 164 L à 164 AL, 164 AM
+
+	**Créé par**:
+
+	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ### Titre II : Dispositions diverses
@@ -18227,30 +17741,28 @@ IV. (Dispositions devenues sans objet).
 ###### Article 170 octies
 
 Les compétences attribuées aux directeurs des services fiscaux du département au chef-lieu duquel est localisée une direction
-de contr<cb>le fiscal par les articles 170 quinquies à 170 septies F sont exercées pour la région d'Ile-de-France, par le
-directeur chargé de la direction spécialisée des imp<cb>ts pour la région d'Ile-de-France et pour Paris et dans les
-départements d'outre-mer par le directeur des services fiscaux territorialement compétent.
-
-</cb></cb>
+de contrôle fiscal par les articles 170 quinquies à 170 septies F et 170 septies H sont exercées pour la région d'Ile-de-
+France par le directeur chargé de la direction spécialisée des impôts pour la région d'Ile-de-France et pour Paris et dans
+les départements d'outre-mer par le directeur des services fiscaux territorialement compétent.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2000-08-31 art. 6 JORF 3 septembre 2000
+	  - Arrêté 2001-03-14 art. 2 JORF 22 mars 2001
 
 	**Liens**:
 
-	  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
-	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
-
-	**Cite**:
-
-	  - CGIAN4 170 quinquies à 170 septies F
+	  - SPEC_APPLI: Arrêté 2001-03-14 art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 quinquies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 septies H (V)
 
 
 ###### Article 170 quinquies
@@ -18271,9 +17783,8 @@ c. Pour les opérations liées à celles mentionnées aux a et b ;
 
 d. (Abrogé) ;
 
-2° Dans les autres cas, par le directeur régional des impôts dont dépend le lieu de situation de l'établissement (1).
-
-(1) Ces dispositions sont applicables aux demandes d'agrément déposées à compter du 1er janvier 1989.
+2° Dans les autres cas, par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction
+de contrôle fiscal dans le ressort de laquelle est situé l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -18282,60 +17793,54 @@ d. (Abrogé) ;
 	  - Arrêté 1982-07-10 art. 1
 	  - CGI 721, 1465
 
-	**Codifié par**:
-
-	  - Arrêté 1999-05-18
-
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 39 I 4 Finances pour 1999 JORF 31 décembre 1998
+	  - Arrêté 2000-08-31 art. 2 JORF 3 septembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
-
 
 ###### Article 170 septies
 
-Il est statué par le directeur régional des impôts compétent sur les demandes d'agrément présentées en application de
+Il est statué par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction de contrôle
+fiscal dans le ressort de laquelle l'entreprise a son siège sur les demandes d'agrément présentées en application de
 l'article 239 bis B du code général des impôts, lorsque l'actif net de la société concernée n'excède pas 50 millions F et
 sauf difficultés particulières tenant notamment aux modalités de la liquidation ou à la nature du remploi.
 
 Dans les autres cas, la décision est prise par le ministre de l'économie, des finances et du budget après avis du comité des
-investissements à caractère économique et social (1).
-
-(1) Dispositions applicables aux demandes d'agrément déposées à compter du 1er septembre 1990.
+investissements à caractère économique et social.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 2000-08-31 art. 4 JORF 3 septembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 	**Cite**:
 
 	  - CGI 239 bis B
 
-	**Modifié par**:
-
-	  - Décret n°96-1022 du 27 novembre 1996 - art. 8 () JORF 29 novembre 1996
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
-
 
 ###### Article 170 septies F
 
-I. Il est statué par le directeur régional des impôts dont dépend le lieu de situation de l'entreprise sur les demandes
-d'agrément présentées en application de l'article 44 septies du code général des impôts.
+I. Il est statué par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction de
+contrôle fiscal dans le ressort de laquelle l'entreprise a son siège sur les demandes d'agrément présentées en application de
+l'article 44 septies du code général des impôts.
 
 II. Toutefois, la décision prévue au I est prise par le ministre chargé du budget :
 
@@ -18344,25 +17849,23 @@ d'investissements hors taxes ou engagés par des entreprises réalisant un chiff
 ou dont le capital est détenu à plus de 50 p. 100 par une entreprise dont le chiffre d'affaires consolidé dépasse un milliard
 de francs ;
 
-2. Pour les opérations présentant des difficultés particulières ou évoquées par le ministre (1).
-
-(1) Ces dispositions s'appliquent aux décisions d'agrément prises à compter de la date de publication de l'arrêté (JO du 29
-août).
+2. Pour les opérations présentant des difficultés particulières ou évoquées par le ministre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1996-08-21 art. 1, art. 3 JORF 29 août 1996
+	  - Arrêté 2000-08-31 art. 5 JORF 3 septembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 	**Cite**:
 
 	  - CGI 44 septies
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 
 ###### Article 170 septies G
@@ -18399,33 +17902,72 @@ NOTA : Ces dispositions s'appliquent aux demandes d'agrément déposées à comp
 	  - Loi n°98-1266 1998-12-30 art. 44 A IV Finances pour 1999 JORF 31 décembre 1998
 
 
-###### Article 170 sexies
+###### Article 170 septies H
 
-Il est statué par le directeur régional des impôts sur les demandes d'agrément présentées en application du II et du III de
-l'article 209 du code général des impôts lorsque les capitaux propres des sociétés en cause n'excèdent pas 25 millions de
-francs.
+Il est statué par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction de contrôle
+fiscal dans le ressort de laquelle est situé le siège de l'organisme sur les demandes d'agrément présentées en application du
+4 de l'article 238 bis du code général des impôts.
 
-Dans les autres cas, la décision est prise par le ministre de l'économie, des finances et du budget après avis du comité des
-investissements à caractère économique et social.
+**Nota:**
+
+Ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 1er septembre 2001.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Arrêté 1997-05-28
-
-	**Cite**:
-
-	  - CGI 209
-
-	**Modifié par**:
-
-	  - Décret n°96-1022 du 27 novembre 1996 - art. 8 () JORF 29 novembre 1996
+	  - Arrêté 2001-03-14 art. 1 JORF 22 mars 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - SPEC_APPLI: Arrêté 2001-03-14 art. 3
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis (V)
+
+
+###### Article 170 sexies
+
+Il est statué sur les demandes d'agrément présentées pour l'application du II et du III de l'article 209 et du II de
+l'article 220 quinquies du code général des impôts :
+
+a) Par le ministre chargé du budget après avis du comité des investissements à caractère économique et social :
+
+1° Lorsque la demande est présentée par une société tête de groupe au sens de l'article 223 A du code général des impôts, à
+raison d'un déficit ou d'amortissements réputés différés d'ensemble au sens de l'article 223 C ou sur une créance de report
+en arrière des déficits d'ensemble au sens de l'article 223 G, quel que soit leur montant ;
+
+2° Ou, lorsque la demande est présentée par une entreprise réalisant un chiffre d'affaires supérieur à 1 milliard de francs
+ou qui est détenue à plus de 50 % par une entreprise réalisant elle-même un tel chiffre d'affaires ;
+
+3° Ou lorsque la demande porte, pour une même opération, sur des déficits ou des amortissements réputés différés dont le
+montant global est supérieur à 10 millions de francs ;
+
+4° Ou lorsque l'opération présente des difficultés particulières ou est évoquée par le ministre ;
+
+b) Dans les autres cas, par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction
+de contrôle fiscal dans le ressort de laquelle l'entreprise a son siège.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2000-08-31 art. 3 JORF 3 septembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
+	  - HISTO: Edition du 31 mars 2001
 	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
+
+	**Cite**:
+
+	  - CGI 220 quinquies, 209, 223 A, 223 C, 223 G
 
 
 #### Section V : Commissions administratives des impôts
