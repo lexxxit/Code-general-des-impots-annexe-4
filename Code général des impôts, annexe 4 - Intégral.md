@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-08-14
+Version Consolidée au 1986-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3845,6 +3845,46 @@ timbrer faisant l'objet du présent article est simplement tenue d'en faire la d
 
 	  - PEREMPTION: Décret n°2006-1041 du 24 août 2006 - art. 1 () JORF 25 août 2006
 	  - HISTO: Edition du 1er janvier 2007
+
+
+### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
+
+#### Chapitre premier : Récépissé de consignation
+
+###### Article 50 quindecies
+
+Le montant de la somme à déposer en vue de la délivrance du récépissé de consignation prévu à l'article 302 octies du code
+général des impôts est fixé aux chiffres indiqués ci-après :
+
+CARACTERISTIQUES DE L'ACTIVITE : Activité de vente de marchandises ou de prestations de services exercée sans vehicule
+
+MONTANT de la somme à consigner (en francs) 1000.
+
+CARACTERISTIQUES DE L'ACTIVITE : Majoration pour utilisation d'un véhicule
+
+MONTANT de la somme à consigner (en francs) 500.
+
+CARACTERISTIQUES DE L'ACTIVITE :
+
+Majoration pour utilisation de deux vehicules
+
+MONTANT de la somme à consigner (en francs) 1000.
+
+CARACTERISTIQUES DE L'ACTIVITE :
+
+Majoration pour utilisation de plus de deux vehicules
+
+MONTANT de la somme à consigner (en francs) 2000.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 octies
+
+	**Modifié par**:
+
+	  - arrêté 1986-08-08 art. 1 JORF 15 août 1986, en vigueur le 1er septembre 1986
 
 
 ### Titre III : Contributions indirectes
@@ -13185,26 +13225,6 @@ déposées au titre d'une année civile.
 	**Liens**:
 
 	  - TXT_ASSOCIE: CGIAN2 242-OP
-
-
-### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES
-
-#### RECEPISSE DE CONSIGNATION.
-
-###### Article 50 quindecies
-
-Le montant de la somme à déposer en vue de la délivrance du récépissé de consignation prévu à l'article 302 octies du code
-général des impôts est fixé aux chiffres indiqués ci-après :
-
-NATURE DES MARCHANDISES MISES EN VENTE       MONTANT DE LA                                                    SOMME A
-CONSIGNER              ------------                             ---------- Fleurs coupées et produits alimentaires
-500 F Autres articles                                         700 F.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 octies
 
 
 ### CONTRIBUTIONS INDIRECTES
