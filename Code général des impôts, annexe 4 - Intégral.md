@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-01-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13180,26 +13180,26 @@ nette :
 
 pour la viande de boeuf et la viande de veau : 0,23 % du prix d'orientation communautaire défini pour un kilogramme de poids
 vif de gros bovin     pour la viande de porc : 0,25 % du prix de base communautaire pour un kilogramme de viande de porc
-abattu     pour la viande de mouton : 0,09 % du prix de seuil tel qu'il est fixé par l'office national interprofessionnel
-Bétail-Viande par kilogramme de viande de mouton (1).
+abattu     pour la viande de mouton : 0,09 % du prix de référence communautaire fixé pour un kilogramme de viande de mouton
+(1).
 
 Les taxes prévues au présent article sont recouvrées dans les établissements d'abattage publics et privés selon les
 dispositions de l'article 363 D précité.
 
-(1) Les tarifs de la taxe pour l'année 1978 ont été fixés par l'arrêté du 17 janvier 1978 (J.O. du 20) ; ceux en vigueur pour
-l'année 1979 ont été fixés, par l'arrêté du 10 janvier 1979 (J.O. du 19).
+(1) Les tarifs de la taxe pour l'année 1981 ont été fixés par l'arrêté du 15 janvier 1981 (J.O. du 30) ; pour l'année 1982,
+par l'arrêté du 4 janvier 1982 (J.O. du 8).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1978-01-17
-	  - Arrêté 1979-01-10
+	  - Arrêté 1981-01-15
+	  - Arrêté 1982-01-04
 	  - CGIAN2 363 D V
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Arrêté 1982-10-15
 
 
 #### TAXE PARAFISCALE SUR LES VINS.
