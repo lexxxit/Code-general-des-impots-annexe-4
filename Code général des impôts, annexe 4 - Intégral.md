@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-01-07
+Version Consolidée au 1981-01-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9850,6 +9850,31 @@ des pénalités prévues aux articles 1727, 1728, 1731 et 1784 à 1786 du code g
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES
+
+#### TAXES SUR LA VALEUR AJOUTEE *TVA*
+
+##### LIQUIDATION DE LA TAXE.
+
+###### Article 28 A
+
+En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
+ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
+est fixé, pour l'année 1981, à 1200 F pour les demandes déposées au titre d'un trimestre civil et à 160 F pour les demandes
+déposées au titre d'une année civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGIAN2 242-0 M
+	  - CGIAN2 242-0 P
 
 
 ### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES
