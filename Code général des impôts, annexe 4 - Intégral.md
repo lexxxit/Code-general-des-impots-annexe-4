@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1990-01-19
+Version Consolidée au 1990-06-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12843,31 +12843,23 @@ Les duplicata sont utilisés dans les mêmes conditions que les vignettes de la 
 ###### Article 155 N
 
 La réduction du droit de mutation ou de taxe de publicité foncière prévue aux articles 697 et 721 du code général des impôts
-peut être accordée sur agrément dans les conditions définies aux articles 155 O à 155 Q, 170 quinquies et 170 octies sous
-réserve de l'appréciation des modalités techniques et financières des programmes présentés et dans la mesure où les
-entreprises intéressées n'ont commis aucune infraction fiscale grave et sont dans une situation régulière vis-à-vis des
-services de recouvrement (1).
-
-(1) En ce qui concerne les modalités et les dates de dépôt des des demandes d'agrément, voir l'arrêté du 16 décembre 1983
-(J.O. des 17 et 20).
+peut être accordée sur agrément dans les conditions définies aux articles 121 quinquies DB bis à 121 quinquies DB septies,
+170 quinquies et 170 octies.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1983-12-16 art. 1, art. 15 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
+	  - Arrêté 1990-05-30 art. 1 JORF 8 juin 1990
 
 	**Cite**:
 
-	  - CGI 697
-	  - CGI 721
-	  - CGIAN4 155 O à CGIAN4 155 Q
-	  - CGIAN4 170 octies
-	  - CGIAN4 170 quinquies
+	  - CGI 697, 721
+	  - CGIAN4 121 quinquies DB bis à DB septies, 170 quinquies, 170 octies
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article 155 O
