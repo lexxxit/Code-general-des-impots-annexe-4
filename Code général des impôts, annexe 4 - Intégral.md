@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1983-05-17
+Version Consolidée au 1983-07-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -683,6 +683,31 @@ e. Pour les frais visés au 5°, des frais de réception, y compris les frais de
 	  - CGIAN4 4 J
 
 
+##### IX : Evaluation des stocks et des travaux en cours
+
+###### Article 4 LA
+
+1. Les entreprises qui tiennent une comptabilité super-simplifiée peuvent déterminer :
+
+a. Le coût de revient des marchandises et des produits en stock en appliquant sur le prix de vente de ces biens à la date du
+bilan un abattement correspondant à la marge pratiquée ;
+
+b. Le coût de revient des travaux en cours, au montant des acomptes réclamés au client avant facturation.
+
+2. La méthode d'évaluation retenue doit être conservée tant que les conditions d'activité de l'entreprise ne subissent pas
+une modification substantielle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1983-02-10 art. 1, art. 2 JONC 17 février 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1983-07-10
+
+
 ##### Section I bis : Bénéfice de l'exploitation agricole
 
 ##### 1° : Imposition d'après le bénéfice réel
@@ -946,6 +971,28 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 5 A
+
+Les directeurs de journaux pouvant prétendre à une déduction supplémentaire pour frais professionnels doivent s'entendre,
+exclusivement, des directeurs des publications répondant aux conditions posées par l'article 72 de l'annexe III au code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2002-06-06
+
+	**Cite**:
+
+	  - CGIAN3 72
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Loi - art. 10 (V) JORF 31 décembre 1997
 
 
 ##### Section III : Revenus des capitaux mobiliers
@@ -8173,6 +8220,30 @@ surveillance de leur dossier et visera leur déclaration de résultats.
 	  - CGIAN3 344 ID
 
 
+###### Article 164 F unvicies B
+
+La nature des travaux de surveillance et les honoraires correspondants sont fixés dans une lettre de mission signée par
+l'adhérent et le professionnel de la comptabilité désigné à l'article 164 F unvicies A.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1983-05-11 art. 2 JORF 17 mai 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1983-07-10
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies A (P)
+
+
 ###### Article 164 F unvicies C
 
 Le professionnel de la comptabilité s'engage :
@@ -8210,6 +8281,89 @@ impôts si ses observations n'étaient pas suivies d'effet avant la clôture des
 	**Cite**:
 
 	  - CGI 1649 quater D I
+
+
+###### Article 164 F unvicies D
+
+L'adhérent s'engage :
+
+1° A mettre en temps utile à la disposition du professionnel chargé de surveiller son dossier l'ensemble des documents qui
+lui sont nécessaires pour exercer cette mission et à répondre rapidement à toutes les demandes d'éclaircissements qui lui
+sont présentées.
+
+2° A adresser au centre de gestion agréé une copie des observations reçues et, le cas échéant, de la lettre exposant les
+motifs pour lesquels le visa n'est pas délivré et à faire connaître au professionnel de la comptabilité la suite donnée aux
+observations reçues.
+
+L'adhérent peut toutefois autoriser son conseil à adresser directement ses observations au centre de gestion agréé qui est
+alors chargé d'y répondre.
+
+3° A régler le prix convenu lorsque cette rémunération n'est pas versée, pour son compte, par le centre de gestion agréé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1983-05-11 art. 4 JORF 17 mai 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1983-07-10
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies E (P)
+
+
+###### Article 164 F unvicies E
+
+Les documents énumérés au 2° de l'article 164 F unvicies D, y compris la lettre refusant le visa, sont tenus par le centre de
+gestion agréé à la disposition de l'agent de l'administration fiscale qui apporte son assistance technique à ce centre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1983-05-11 art. 5 JORF 17 mai 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1983-07-10
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies D (P)
+
+
+###### Article 164 F unvicies F
+
+Les honoraires relatifs à l'accomplissement de la mission de surveillance sont fixés au cinquième du prix demandé par le
+centre de gestion agréé pour tenir ou centraliser les documents comptables de l'adhérent.
+
+Toutefois, il peut être dérogé d'un commun accord à cette limite lorsque son application conduirait, compte tenu de
+l'importance des prestations fournies, à une rémunération excessive ou insuffisante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1983-05-11 art. 6 JORF 17 mai 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1983-07-10
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 
 ##### Section II : Associations agréées des professions libérales
@@ -9086,27 +9240,6 @@ NI 1 % DU MONTANT DE CES MEMES CREDITS QUI FIGURE AU BILAN DE CLOTURE DE L'EXERC
 	**Cite**:
 
 	  - CGIAN4 4 quater
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### TRAITEMENTS ET SALAIRES.
-
-###### Article 5 A
-
-Les directeurs de journaux pouvant prétendre à une déduction supplémentaire pour frais professionnels doivent s'entendre,
-exclusivement, des directeurs des publications répondant aux conditions posées par l'article 72 de l'annexe III au code
-général des impôts.
-
-Cette disposition s'applique aux rémunérations perçues à compter du 1er janvier 1976.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 72
 
 	**Liens**:
 
