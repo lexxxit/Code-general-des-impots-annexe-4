@@ -1,13 +1,13 @@
 # Article 54 quater
 
-Les cidres et poirés détenus par les marchands en gros qui les conditionnent comme il est prévu à l'article 54 bis doivent
-être libérés des droits dès qu'ils sont expédiés à la consommation.
+Les cidres et poirés détenus par les entrepositaires agréés qui les conditionnent comme il est prévu à l'article 54 bis
+doivent être libérés des droits dès qu'ils sont expédiés à la consommation.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Arrêté 1994-07-26 art. 1 JORF 3 août 1994
+	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
 
 	**Cite**:
 
@@ -15,4 +15,4 @@ Les cidres et poirés détenus par les marchands en gros qui les conditionnent c
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 31 mars 2001

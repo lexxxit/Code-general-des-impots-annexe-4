@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1999-12-27
+Version Consolidée au 2000-03-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1305,8 +1305,8 @@ Chauffeurs et receveurs convoyeurs de cars à services réguliers ou occasionnel
 convoyeurs des entreprises de construction d'automobiles. Chauffeurs et convoyeurs de transports rapides routiers ou
 d'entreprises de déménagements par automobiles : 20 %.
 
-((Commis des prestataires de services d'investissement qui étaient agréés au 31 décembre 1995 en tant que sociétés de
-bourse)) (M) place de Paris. Sur les émoluments variables de toute nature : 20 %.
+Commis des prestataires de services d'investissement qui étaient agréés au 31 décembre 1995 en tant que sociétés de bourse
+place de Paris. Sur les émoluments variables de toute nature : 20 %.
 
 En ce qui concerne les émoluments fixes, la seule déduction applicable est la déduction normale de 10 %.
 
@@ -1315,8 +1315,6 @@ Couture (personnel des grandes maisons parisiennes de) :
 Modélistes : 20 %.
 
 Mannequins : 10 %.
-
-Fonctionnaires ou agents des assemblées parlementaires : 20 %.
 
 Inspecteurs d'assurances des branches vie, capitalisation et épargne : 30 %.
 
@@ -1374,7 +1372,9 @@ Emouleurs, polisseurs et trempeurs : 15 %.
 
 . Galoches de la région de Laventie (Pas-de-Calais) :
 
-Piqueurs non propriétaires de leurs machines, monteurs : 10 %.
+Piqueurs non propriétaires de leurs machines, monteurs :
+
+10 %.
 
 Piqueurs propriétaires de leurs machines : 15 %.
 
@@ -1505,14 +1505,15 @@ Voyageurs, représentants et placiers de commerce ou d'industrie :
 
 30 %.
 
-(M) Modification.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-07-30 art. 1 JORF 2 août 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
+	  - Arrêté 1999-03-15 art. 1 JORF 30 juin 1999
+
+	**Codifié par**:
+
+	  - Arrêté 2002-06-06
 
 	**Cite**:
 
@@ -1520,7 +1521,9 @@ Voyageurs, représentants et placiers de commerce ou d'industrie :
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Loi - art. 10 (V) JORF 31 décembre 1997
 
 
 ###### Article 5 A
@@ -2927,60 +2930,99 @@ Egal ou supérieur à 150 % du montant du capital vie : 55 %.
 
 ###### Article 18
 
-Pour l'année 1999, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2000, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 Taux applicable : 0 p. 100
 
-Limites des tranches selon la période à laquelle se rapportent les paiements :
+Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Moins de 62 330 F / Année
+Moins de 62 650 F / Année
 
-Moins de 15 583 F / Trimestre
+Moins de 15 663 F / Trimestre
 
-Moins de 5 194 F / Mois
+Moins de 5 221 F / Mois
 
-Moins de 1 199 F / Jour ou fraction de jour
+Moins de 1 205 F / Semaine
 
-Moins de 200 F / Semaine
+Moins de 201 F / Jour ou fraction de jour
 
 Taux applicable : 15 p. 100
 
-Limites des tranches selon la période à laquelle se rapportent les paiements :
+Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-De 62 330 à 180 860 F / Année
+De 62 650 à 181 760 F / Année
 
-De 15 583 à 45 215 F / Trimestre
+De 15 663 à 45 440 F / Trimestre
 
-De 5 194 à 15 072 F / Mois
+De 5 221 à 15 147 F / Mois
 
-De 1 199 à 3 478 F / Semaine
+De 1 205 à 3 495 F / Semaine
 
-De 200 à 580 F / Jour ou fraction de jour
+De 201 à 583 F / Jour ou fraction de jour
 
 Taux applicable : 25 p. 100
 
-Limites des tranches selon la période à laquelle se rapportent les paiements :
+Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de 180 860 F / Année
+Au-delà de 181 760 F / Année
 
-Au-delà de 45 215 F / Trimestre
+Au-delà de 45 440 F / Trimestre
 
-Au-delà de 15 072 F / Mois
+Au-delà de 15 147 F / Mois
 
-Au-delà de 3 478 F / Semaine
+Au-delà de 3 495 F / Semaine
 
-Au-delà de 580 F / Jour ou fraction de jour.
+Au-delà de 583 F / Jour ou fraction de jour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-01-11 art. 1 JORF 14 janvier 1999
+	  - Arrêté 2000-01-24 art. 1 JORF 27 janvier 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
+
+
+##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
+
+###### Article 18 bis
+
+La liste des équipements mentionnés au 1 de l'article 200 quater du code général des impôts est fixée comme suit :
+
+1. Acquisition de gros équipements de chauffage : acquisition, en vue de leur installation dans un immeuble comportant
+plusieurs locaux, des équipements collectifs suivants : chaudière utilisée comme mode de chauffage ou de production d'eau
+chaude, cuve à fioul, citerne à gaz et pompe à chaleur ;
+
+2. Acquisition d'un ascenseur ;
+
+3. Acquisition de gros équipements sanitaires : acquisition d'une cabine hammam ou sauna prête à poser.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 30 mars 2009 - art. 3 (V)
+	  - Arrêté du 25 mai 2011 - art. 4 (V)
+	  - Décret n°2013-832 du 17 septembre 2013 - art. Annexe I (V)
+	  - Arrêté du 2 décembre 2014 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 30-0 D (V)
+
+	**Créé par**:
+
+	  - Arrêté 2000-02-17 art. 1 JORF 23 février 2000
+
+	**Cite**:
+
+	  - CGI 200 quater
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
 
 
 #### Chapitre II : Impôt sur les sociétés
@@ -3876,67 +3918,6 @@ passagers.
 	  - Code général des impôts, CGI. - art. 262 (V)
 
 
-##### 3° : Exonérations des livraisons par les comptoirs de vente.
-
-###### Article 24 B
-
-L'exonération prévue à l'article 262 quater du code général des impôts est applicable :
-
-I. - Aux livraisons de biens dont la valeur globale ne dépasse pas, par personne et par voyage, 600 F.
-
-Lorsque la valeur de plusieurs biens, ou de plusieurs livraisons, excède cette limite, l'exonération est accordée jusqu'à
-concurrence de ce montant. La valeur d'un bien ne peut pas être fractionnée ;
-
-II. 1. Aux livraisons de certains produits de tabac, alcool et boissons alcooliques pour les quantités suivantes :
-
-a) Produits de tabac :
-
-- cigarettes : 200 pièces, ou
-
-- cigarillos (cigares d'un poids maximal de 3 grammes par pièce) :
-
-100 pièces, ou
-
-- cigares : 50 pièces, ou
-
-- tabac à fumer : 250 grammes ;
-
-b) Alcools et boissons alcooliques :
-
-- boissons distillées et boissons spiritueuses ayant un titre alcoométrique supérieur à 22 p. 100 vol., alcool éthylique non
-dénaturé de 80 p. 100 vol. et plus : 1 litre, ou
-
-- boissons distillées et boissons spiritueuses, apéritifs à base d vin ou d'alcool, tafia, saké ou boissons similaires ayant
-un titre alcoométrique inférieur ou égal à 22 p. 100 vol., vins mousseux, vins de liqueur : 2 litres, et
-
-- vins tranquilles : 2 litres ;
-
-c) Parfums : 50 grammes et eaux de toilette : 0,25 litre.
-
-2. Les voyageurs âgés de moins de dix-sept ans ne bénéficient d'aucune exonération pour les biens mentionnés aux a et b du 1.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1995-05-02 art. 1 JORF 6 mai 1995
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 2000-06-02 art. 1 JORF 3 juin 2000
-	  - HISTO: Edition du 27 octobre 1995
-	  - HISTO: Edition du 31 mars 2000
-
-	**Cite**:
-
-	  - CGI 262 quater
-
-
 ##### Section III : Liquidation de la taxe
 
 ##### I : Remboursement de la taxe aux assujettis établis hors de France.
@@ -3945,16 +3926,14 @@ c) Parfums : 50 grammes et eaux de toilette : 0,25 litre.
 
 En application de l'article 242-0 P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0 M de la même annexe
-est fixé, ((pour les années 1998 et 1999,)) (M) à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F
-pour les demandes déposées au titre d'une année civile.
-
-(M) Modification.
+est fixé, pour les années 1999 et 2000, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
+demandes déposées au titre d'une année civile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-03-05 art. 1 JORF 13 mars 1999
+	  - Arrêté 1999-12-29 art. 1 JORF 30 décembre 1999
 
 	**Cite**:
 
@@ -3962,9 +3941,7 @@ pour les demandes déposées au titre d'une année civile.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1996-04-12 3D-3-96
-	  - TXT_ASSOCIE: Instruction 1997-03-14 3D-2-97
+	  - HISTO: Edition du 31 mars 2000
 	  - TXT_ASSOCIE: Instruction 1998-04-10 3D-3-98
 
 
@@ -4483,75 +4460,6 @@ Lécithines.
 
 ##### I : Obligations générales
 
-###### Article 41 octies
-
-I. - 1. Les entreprises mentionnées au I de l'article 41 septies qui veulent utiliser un système de télétransmission de
-factures doivent déposer une déclaration conforme au modèle figurant en annexe. Cette déclaration indique que le système de
-télétransmission est conforme aux normes prévues et décrit les caractéristiques principales du système. Elle doit comprendre
-les éléments suivants :
-
-A. - Renseignements relatifs à l'entreprise :
-
-a) La dénomination, l'adresse et l'activité de l'entreprise ;
-
-b) Son numéro SIRET ;
-
-c) Le lieu de situation de la (des) station(s) de dématérialisation ;
-
-d) Les coordonnées du service responsable de la télétransmission ;
-
-e) Le cas échéant, la dénomination, l'adresse et le numéro SIRET du prestataire assurant la dématérialisation ;
-
-f) La qualité de fournisseur/émetteur et/ou de client/récepteur ;
-
-g) La date de la première mise en oeuvre de la télétransmission des factures.
-
-B. - Renseignements relatifs au logiciel :
-
-a) Le nom du logiciel et sa version ;
-
-b) Son développement interne ou externe. Dans ce dernier cas, le nom et l'adresse de la société ayant développé le logiciel ;
-
-c) Le numéro de référencement délivré initialement par l'administration lorsque le système de télétransmission de factures
-qui doit être utilisé a été autorisé et référencé par l'administration dans le cadre du régime précédent.
-
-C. - Renseignements concernant la ou les structures du message facture :
-
-- ses normes et les versions utilisées.
-
-D. - Renseignements relatifs au matériel :
-
-- son modèle et son système d'exploitation.
-
-E. - Renseignements relatifs aux partenaires :
-
-- la liste des dix principaux partenaires.
-
-2. Les entreprises qui utilisaient, avant l'entrée en vigueur du nouveau dispositif, un système autorisé et référencé par
-l'administration sont dispensées de déclaration. Elles peuvent continuer à télétransmettre leurs factures comme précédemment.
-
-II. - En cas de modification du système de télétransmission utilisé, les entreprises utilisatrices doivent déposer une
-déclaration rectificative qui doit signaler toutes les modifications apportées au système de télétransmission.
-
-III. - Les déclarations, initiale ou rectificative, doivent être déposées au plus tard dix jours avant la mise en oeuvre du
-système ou du système modifié auprès de la direction des vérifications nationales et internationales. La déclaration est
-souscrite, sur papier ou par informatique, selon les modalités prévues par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1999-05-03 art. 1 JORF 4 mai 1999
-
-	**Cite**:
-
-	  - CGIAN4 41 septies
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
-
-
 ##### A : Déclarations d'existence et comptabilité. Déclarations de recettes
 
 ###### Article 32
@@ -4725,13 +4633,13 @@ La déclaration visée au 1 de l'article 287 du code général des impôts doit 
 
 ###### Article 39
 
-1. 1° La date limite à laquelle les redevables sont tenus de remettre ou d'envoyer au service des impôts ((la déclaration ou
-le paiement mentionnés aux 1 et 3 de l'article 287)) (M)  du code général des impôts est fixé comme suit :
+1. 1° La date limite à laquelle les redevables sont tenus de remettre ou d'envoyer au service des impôts la déclaration ou le
+paiement mentionnés aux 1 et 3 de l'article 287 du code général des impôts est fixé comme suit :
 
 a. Pour les taxes dues au titre du trimestre civil précédent par les redevables placés sous le régime simplifié de
-l'agriculture  au plus tard le 5 des mois de mai  août  novembre et février.
+l'agriculture  au plus tard le 5 des mois de mai, août, novembre et février.
 
-b. Pour les taxes dues, selon le cas, ((au titre du mois ou du trimestre)) (M) par les redevables placés sous le régime de la
+b. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les redevables placés sous le régime de la
 déclaration et dont le lieu d'imposition est situé à Paris ainsi que dans les départements des Hauts-de-Seine  de la Seine-
 Saint-Denis et du Val-de-Marne :
 
@@ -4760,7 +4668,7 @@ Sociétés anonymes :
 
 Autres redevables : au plus tard le 24 du mois suivant.
 
-c. Pour les taxes dues, selon le cas, ((au titre du mois ou du trimestre)) (M) par les redevables placés sous le régime de la
+c. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les redevables placés sous le régime de la
 déclaration et dont le lieu d'imposition est situé dans les autres départements :
 
 Entreprises individuelles, selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
@@ -4777,9 +4685,9 @@ Sociétés anonymes : au plus tard le 24 du mois suivant ;
 
 Autres redevables : au plus tard le 24 du mois suivant.
 
-((d) Pour les redevables placés sous le régime simplifié d'imposition et tenus de verser des acomptes en avril, juillet,
+d) Pour les redevables placés sous le régime simplifié d'imposition et tenus de verser des acomptes en avril, juillet,
 octobre et décembre, en application du 3 de l'article 287 du code général des impôts, les jours limites de paiement au cours
-de ces mois sont ceux prévus aux b et c)) (M).
+de ces mois sont ceux prévus aux b et c.
 
 2° (périmé).
 
@@ -4788,24 +4696,26 @@ férié ou réputé férié à l'égard des recettes des impôts.
 
 4° En cas d'utilisation de la voie postale, le cachet de la poste fait foi de la date d'expédition.
 
-2. Si, au cours d'un mois, d'un trimestre ou d'une période définie en application du 3 de l'article 287 du code général des
-impôts, il n'a été effectué aucune opération donnant ouverture aux taxes sur le chiffre d'affaires et taxes assimilées  le
-redevable doit remettre à l'agent compétent une déclaration négative.
-
-Les redevables exerçant des industries ou commerces saisonniers sont dispensés de fournir des déclarations négatives pendant
-les périodes de fermeture de leurs établissements.
-
-(M) Modification.
+2. (Dispositions devenues sans objet).
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 1999-06-30 art. 1 JORF 1er juillet 1999
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
 	  - CGI 287 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 9 (V) JORF 31 décembre 1998
+	  - Loi n°98-1266 1998-12-30 art. 9 I, III Finances pour 1999 JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -5045,6 +4955,199 @@ conformité du document.
 	  - HISTO: Edition du 11 avril 1997
 
 
+##### D : Factures transmises par voie télématique
+
+###### Article 41 octies
+
+I. - 1. Les entreprises mentionnées au I de l'article 41 septies qui veulent utiliser un système de télétransmission de
+factures doivent déposer une déclaration conforme au modèle figurant en annexe de l'arrêté du 3 mai 1999 pris pour
+l'application de l'article 289 bis du code général des impôts relatif aux factures transmises par voie télématique. Cette
+déclaration indique que le système de télétransmission est conforme aux normes prévues et décrit les caractéristiques
+principales du système. Elle doit comprendre les éléments suivants :
+
+a. - Renseignements relatifs à l'entreprise :
+
+1°) La dénomination, l'adresse et l'activité de l'entreprise ;
+
+2°) Son numéro SIRET ;
+
+3°) Le lieu de situation de la (des) station(s) de dématérialisation ;
+
+4°) Les coordonnées du service responsable de la télétransmission ;
+
+5°) Le cas échéant, la dénomination, l'adresse et le numéro SIRET du prestataire assurant la dématérialisation ;
+
+6°) La qualité de fournisseur/émetteur et/ou de client/récepteur ;
+
+7°) La date de la première mise en oeuvre de la télétransmission des factures.
+
+b. - Renseignements relatifs au logiciel :
+
+1°) Le nom du logiciel et sa version ;
+
+2°) Son développement interne ou externe. Dans ce dernier cas, le nom et l'adresse de la société ayant développé le
+logiciel ;
+
+3°) Le numéro de référencement délivré initialement par l'administration lorsque le système de télétransmission de factures
+qui doit être utilisé a été autorisé et référencé par l'administration dans le cadre du régime précédent.
+
+c. - Renseignements concernant la ou les structures du message facture :
+
+- ses normes et les versions utilisées.
+
+d. - Renseignements relatifs au matériel :
+
+- son modèle et son système d'exploitation.
+
+e. - Renseignements relatifs aux partenaires :
+
+- la liste des dix principaux partenaires.
+
+2. Les entreprises qui utilisaient, avant l'entrée en vigueur du nouveau dispositif, un système autorisé et référencé par
+l'administration sont dispensées de déclaration. Elles peuvent continuer à télétransmettre leurs factures comme précédemment.
+
+II. - En cas de modification du système de télétransmission utilisé, les entreprises utilisatrices doivent déposer une
+déclaration rectificative qui doit signaler toutes les modifications apportées au système de télétransmission.
+
+III. - Les déclarations, initiale ou rectificative, doivent être déposées au plus tard dix jours avant la mise en oeuvre du
+système ou du système modifié auprès de la direction des vérifications nationales et internationales. La déclaration est
+souscrite, sur papier ou par informatique, selon les modalités prévues par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1999-05-03 annexe
+	  - CGI 289 bis
+	  - CGIAN4 41 septies
+
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
+	**Modifié par**:
+
+	  - Arrêté 2000-06-02 art. 1 JORF 3 juin 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
+
+
+###### Article 41 septies
+
+Les systèmes de télétransmission des factures utilisés par les entreprises dans les conditions prévues par l'article 289 bis
+du code général des impôts doivent respecter les spécifications suivantes :
+
+I. - Sont considérés comme utilisateurs les entreprises, fournisseurs ou clients, qui émettent ou reçoivent des factures
+télétransmises.
+
+Les intermédiaires qui interviennent éventuellement dans la transmission des messages ne sont pas considérés comme des
+utilisateurs. Ils ne doivent pas intervenir dans la constitution du message et ne doivent ni le modifier ni l'altérer.
+
+II. - Le système de télétransmission utilisé doit assurer au minimum les fonctions suivantes :
+
+a) La vérification en émission et en réception de la conformité de la structure du message par rapport aux mentions
+obligatoires devant figurer sur une facture ;
+
+b) La constitution quotidienne et l'archivage d'une liste récapitulative séquentielle et exhaustive des messages émis et/ou
+reçus et des anomalies éventuelles détectées lors des contrôles ;
+
+c) L'archivage des factures émises et reçues ;
+
+d) La restitution sur papier ou sur écran, en langage clair, à la demande de l'administration, de la facture et de la liste
+récapitulative.
+
+III. - 1. Les logiciels de télétransmission des factures peuvent mettre en oeuvre une ou plusieurs structures de messages et
+ne doivent ni les modifier ni les altérer.
+
+Le message doit comporter l'ensemble des mentions obligatoires constitutives d'une facture prévues par les textes législatifs
+ou réglementaires en vigueur.
+
+L'utilisation de codes stables désignant, par exemple, des produits ou des personnes est possible si la codification est
+déchiffrée automatiquement à l'aide d'une table de correspondance intégrée à la fonction de restitution.
+
+2. Les messages factures doivent être restituables sur écran, sur support informatique ou sur papier à la demande de
+l'administration. La restitution porte sur l'intégralité des informations émises et reçues, qu'elles soient obligatoires ou
+facultatives.
+
+La restitution doit pouvoir être opérée de manière sélective, notamment en fonction des informations que la liste
+récapitulative doit comporter.
+
+Les données sont restituées lisiblement en mode caractères, en langage clair et intelligible.
+
+3. Le système doit contrôler, en émission et en réception, la conformité de la structure du message par rapport aux mentions
+obligatoires.
+
+En phase d'émission, en cas d'anomalie, le message rejeté ne sera ni émis, ni archivé, ni tracé sur la liste récapitulative.
+
+En phase de réception, toute anomalie sera retracée dans la liste récapitulative, et les messages concernés seront archivés.
+
+IV. - 1. La liste récapitulative mentionnée au III de l'article 289 bis du code général des impôts est constituée au fur et à
+mesure lors de l'émission ou de la réception de chaque message.
+
+Elle comprend au minimum les informations suivantes :
+
+a) Le numéro et la date de la facture ;
+
+b) La date et l'heure de constitution du message ;
+
+c) Les montants hors taxes et toutes taxes de la transaction ainsi que le code monnaie lorsque la facture n'est pas libellée
+en francs français ;
+
+d) Les éléments d'identification de l'émetteur ou du récepteur donnés par le système de télétransmission (code, nom ou
+dénomination sociale, numéro SIRET, adresse, qualité de fournisseur ou de client) ;
+
+e) Les libellés des éventuelles anomalies intervenues lors de chaque transmission ;
+
+f) La version du logiciel utilisé.
+
+2. La liste récapitulative est restituable sur papier, écran ou support informatique. La restitution doit pouvoir être
+effectuée d'une façon sélective en fonction des critères figurant dans la liste.
+
+V. - Les entreprises, fournisseurs et clients doivent constituer un fichier des partenaires avec lesquels elles échangent des
+factures par voie télématique.
+
+Pour chaque partenaire, le fichier comporte les informations suivantes :
+
+a) La qualité d'émetteur et/ou de récepteur ;
+
+b) L'archivage des factures dématérialisées ou l'archivage des factures papier ;
+
+c) La (les) date(s) d'entrée en phase de dématérialisation avec le partenaire, et, le cas échéant, la (les) date(s) de
+sortie.
+
+VI. - 1. Les messages factures émis et reçus ainsi que la liste récapitulative et le fichier des partenaires doivent être
+conservés dans l'ordre chronologique d'émission et de réception.
+
+2. Les fichiers informatiques dans lesquels sont conservés les messages factures, la liste récapitulative et le fichier des
+partenaires doivent être alimentés automatiquement par le système de télétransmission des seules informations qui en sont
+directement issues.
+
+3. La documentation relative aux conditions d'utilisation (guide utilisateur) du logiciel de télétransmission doit être
+conservée par l'entreprise et consultable par les agents de l'administration sur le lieu de la dématérialisation.
+
+En outre, l'entreprise doit prendre toutes dispositions pour garantir aux agents de l'administration l'accès à la
+documentation informatique concernant notamment le développement de son architecture, de son analyse fonctionnelle et
+organique et l'exploitation du logiciel de télétransmission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1999-05-03 art. 1 JORF 4 mai 1999
+
+	**Cite**:
+
+	  - CGI 289 bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
+
+
 ##### II : Obligations particulières
 
 ##### A : Bâtiments de mer. Bâteaux. Pêche maritime. Aéronefs
@@ -5167,41 +5270,40 @@ code général des impôts doivent en faire la demande sur un imprimé remis par
 ###### Article 49
 
 Les dispositions de l'article 276 du code général des impôts sont rendues applicables aux personnes ou sociétés mentionnées
-((au I de l'article 284)) (M) de ce code ou susceptibles de bénéficier des dispositions prévues :
+au I de l'article 284 de ce code ou susceptibles de bénéficier des dispositions prévues : 
 
-1° Au 10° du 4 de l'article 261 dudit code ;
+1° Au 10° du 4 de l'article 261 dudit code ; 
 
 2° A l'article 275 du même code, lorsqu'elles réalisent des exportations, des livraisons exonérées en vertu du I de l'article
-262 ter ou de l'article 262 quater dudit code ou des livraisons dont le lieu est situé sur le territoire d'un autre Etat
-membre de la Communauté européenne en application de l'article 258 A du code précité.
+262 ter dudit code ou des livraisons dont le lieu est situé sur le territoire d'un autre Etat membre de la Communauté
+européenne en application de l'article 258 A du code précité. 
 
-((3° A l'article 277 A du même code)) (M).
-
-(M) Modification .
+3° A l'article 277 A du même code.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1996-07-25 art. 2 JORF 28 juillet 1996
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 17 (V) JORF 31 décembre 1996
-
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 2000-06-02
+
+	**Modifié par**:
+
+	  - Arrêté 2000-06-02 art. 1 JORF 3 juin 2000
 
 	**Cite**:
 
-	  - CGI 276, 284, 261, 275, 262 quater, 258 A, 262 ter, 277 A
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 42 (V)
+	  - Code général des impôts, CGI. - art. 258 A (V)
+	  - Code général des impôts, CGI. - art. 261 (V)
+	  - Code général des impôts, CGI. - art. 262 ter (V)
+	  - Code général des impôts, CGI. - art. 275 (V)
+	  - Code général des impôts, CGI. - art. 277 A (V)
+	  - Code général des impôts, CGI. - art. 284 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 bis (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 50
@@ -7292,56 +7394,57 @@ Le tarif de la redevance sanitaire d'abattage s'établit comme suit (par carcass
 
 a) Animaux de boucherie :
 
-Pour les gros bovins : 30 Francs.
+Pour les gros bovins : 27 Francs.
 
-Pour les veaux : 12 Francs.
+Pour les veaux : 11 Francs.
 
-Pour les solipèdes domestiques : 23 Francs.
+Pour les solipèdes domestiques : 20 Francs.
 
 Pour les ovins et caprins :
 
-- d'un poids carcasse inférieur à 12 kilogrammes : 1 Franc.
-
-- d'un poids carcasse de 12 kilogrammes ou plus : 1,7 Franc.
+- d'un poids carcasse inférieur à 12 kilogrammes : 0,90 Francs.<rl kilogrammes="" d'un="" poids="" :="" carcasse="" de=""
+ou="" 1,55="" -="" 12="" <br="" francs.="" plus="">
 
 Pour les porcins :
 
-- d'un poids carcasse inférieur à 25 kilogrammes : 2,80 Francs.
+- d'un poids carcasse inférieur à 25 kilogrammes : 2,50 Francs.
 
-- d'un poids carcasse de 25 kilogrammes ou plus : 5,80 Francs.
+- d'un poids carcasse de 25 kilogrammes ou plus : 5,15 Francs.
 
 b) Volailles et lapins :
 
-Pour les volailles du genre Gallus et les pintades : 0,035 Francs.
+Pour les volailles du genre Gallus et les pintades : 0,03 Francs.
 
-Pour les canards et les oies : 0,070 Franc.
+Pour les canards et les oies : 0,059 Franc.
 
-Pour les dindes : 0,145 Franc.
+Pour les dindes : 0,117 Franc.
 
-Pour les lapins domestiques : 0,035 Franc.
+Pour les lapins domestiques : 0,03 Franc.
 
 c) Gibier d'élevage et sauvage :
 
-Pour le petit gibier à plumes : 0,035 Franc.
+Pour le petit gibier à plumes : 0,03 Franc.
 
-Pour le petit gibier à poils : 0,070 Franc.
+Pour le petit gibier à poils : 0,059 Franc.
 
 Pour les ratites (autruche, émeu, nandou : 0,26 Franc.
 
 Pour le sanglier : 8,50 Francs.
 
-Pour les ruminants : 3,3 Francs.
+Pour les ruminants : 3 Francs.
+
+</rl>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1998-04-29 art. 1 JORF 7 mai 1998 en vigueur le 1er juin 1998
+	  - Arrêté 1999-09-17 art. 1 JORF 21 septembre 1999 en vigueur le 1er octobre 1999
 
 	**Liens**:
 
-	  - SPEC_APPLI: Arrêté 1998-04-29 art. 3
-	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: Arrêté 1999-09-17 art. 3
+	  - HISTO: Edition du 31 mars 2000
 
 
 #### Chapitre III : Redevance sanitaire de découpage
@@ -7438,6 +7541,31 @@ MONTANT de la somme à consigner (en francs) 2000.
 ### Titre III : Contributions indirectes
 
 #### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés
+
+###### Article 50-0 F
+
+Les caractéristiques et obligations prévues aux articles 54-0 F, 54-0 G, 54-0 X, 54-0 AA et 54-0 AC relatives aux
+entrepositaires agréés et négociants sont applicables aux entrepositaires agréés d'autres Etats membres de la Communauté
+européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
+	**Cite**:
+
+	  - CGI 54-0 F, 54-0 G, 54-0 X, 54-0 AA, 54-0 AC
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
 
 ##### 1° bis : Attestation de consignation
 
@@ -7584,84 +7712,6 @@ L'un des exemplaires est remis au fabricant, l'autre est conservé au dossier ou
 	  - HISTO: Edition du 31 mars 1999
 
 
-###### Article 50-0 F
-
-Les caractéristiques et obligations prévues aux articles 54-0 F, 54-0 G, 54-0 X, 54-0 AA et 54-0 AC relatives aux marchands
-en gros et négociants sont applicables aux entrepositaires agréés d'autres Etats membres de la Communauté européenne."
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1998-07-09 art. 4 JORF 11 juillet 1998
-
-	**Codifié par**:
-
-	  - Arrêté 1999-05-18
-
-	**Cite**:
-
-	  - CGI 54-0 F, 54-0 G, 54-0 X, 54-0 AA, 54-0 AC
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-
-
-##### Exonération des livraisons par les comptoirs de vente.
-
-###### Article 50-0 B
-
-1. L'exonération prévue à l'article 302 F du code général des impôts est applicable aux livraisons de certains produits de
-tabac, alcool et boissons alcooliques pour les quantités suivantes :
-
-a. Produits de tabac :
-
-cigarettes : 200 pièces, ou
-
-cigarillos (cigares d'un poids maximal de 3 grammes par pièce) :
-
-100 pièces, ou
-
-cigares : 50 pièces, ou
-
-tabac à fumer : 250 grammes ;
-
-b. Alcools et boissons alcooliques :
-
-boissons distillées et boissons spiritueuses ayant un titre alcoométrique supérieur à 22 p. 100 vol., alcool éthylique non
-dénaturé de 80 p. 100 vol. et plus : 1 litre, ou
-
-boissons distillées et boissons spiritueuses, apéritifs à base de vin ou d'alcool, tafia, saké, ou boissons similaires ayant
-un titre alcoométrique inférieur ou égal à 22 p. 100 vol., vins mousseux, vins de liqueur : 2 litres, et
-
-vins tranquilles : 2 litres ;
-
-c) Parfums : 50 grammes et eaux de toilette : 0,25 litre.
-
-2. Les voyageurs âgés de moins de dix-sept ans ne bénéficient d'aucune exonération pour les biens mentionnés aux a et b du 1.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1995-05-02 art. 2 JORF 6 mai 1995
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 2000-06-02 art. 1 JORF 3 juin 2000
-	  - HISTO: Edition du 27 octobre 1995
-	  - HISTO: Edition du 31 mars 2000
-
-	**Cite**:
-
-	  - CGI 302 F
-
-
 #### Chapitre premier : Boissons
 
 ##### Section I : Alcools
@@ -7722,20 +7772,24 @@ sollicitée. Celle-ci est valable pendant une période de six mois à compter de
 
 En ce qui concerne les appareils ou portions d'appareils devant être importés le destinataire doit remettre une copie de
 l'autorisation délivrée certifiée conforme par le service des douanes et droits indirects de sa résidence au bureau de
-déclarations de la direction générale des douanes et droits indirects du lieu de dédouanement afin d'obtenir l'acquit-à-
-caution indispensable. 
+déclarations de la direction générale des douanes et droits indirects du lieu de dédouanement afin d'obtenir le document
+indispensable mentionné au I de l'article 302 M du code général des impôts. 
 
-Ce titre de mouvement doit être ensuite présenté au bureau de douane à l'appui de la déclaration d'importation.
+Ce document doit être ensuite présenté au bureau de douane à l'appui de la déclaration d'importation.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 11, art. 4 JORF 5 janvier 1993
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
 ###### Article 50 E
@@ -8537,21 +8591,58 @@ Produits pour l'entretien de la chevelure (l'hygiène et les soins de la chevelu
 
 ##### II : Régime économique
 
-##### Répartition du contingent des rhums.
+##### 1° : Répartition du contingent des rhums
+
+###### Article 52 ter
+
+Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
+réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
+d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2002 conformément au tableau ci-après :
+
+Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
+d'alcool pur ;
+
+Guadeloupe : rhum traditionnel agricole, 5 350 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 25 650 hectolitres
+d'alcool pur ;
+
+Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ;
+
+Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur.
+
+**Nota:**
+
+NOTA : Arrêté 2005-12-23 art. 1  : Les dispositions prévues par l'arrêté du 31 décembre 1999 sont prorogées jusqu'au 31
+décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1999-12-31 art. 1 JORF 27 janvier 2000
+
+	**Cite**:
+
+	  - CGI 362
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+
+##### 2° : Régime de l'exportation préalable
 
 ###### Article 52 quater
 
 I. Pour obtenir le bénéfice du régime de l'exportation préalable prévu à l'article 144 bis de l'annexe III au code général
 des impôts, les personnes qui expédient depuis la France métropolitaine à destination de l'étranger des rhums traditionnels
-des départements d'outre-mer pris sur les comptes spéciaux prévus à l'article 491 du code général des impôts doivent se faire
-délivrer par le bureau de la direction générale des douanes et droits indirects ayant constaté la sortie du territoire
-national un certificat énonçant la quantité, la qualité et l'origine du ou des rhums traditionnels des départements d'outre-
-mer ainsi que le volume d'alcool pur correspondant.
+des départements d'outre-mer doivent se faire délivrer par le bureau de la direction générale des douanes et droits indirects
+ayant constaté la sortie du territoire national un certificat énonçant la quantité, la qualité et l'origine du ou des rhums
+traditionnels des départements d'outre-mer ainsi que le volume d'alcool pur correspondant. 
 
 II. Ne peuvent donner lieu à délivrance de certificats d'exportation préalable que les expéditions accompagnées de titres de
-mouvement attestant qu'il s'agit de rhums traditionnels des départements d'outre-mer issus des comptes spéciaux indiqués au
-I. Le cas échéant, il est émis autant de certificats que de qualités et d'origines de rhums portées sur la déclaration
-mensuelle d'assemblage du mois correspondant aux expéditions.
+mouvement attestant qu'il s'agit de rhums traditionnels des départements d'outre-mer. Le cas échéant, il est émis autant de
+certificats que de qualités et d'origines de rhums portées sur la déclaration mensuelle d'assemblage du mois correspondant
+aux expéditions. 
 
 Les certificats d'exportation préalable sont extraits d'un carnet à souches et ne sont pas cessibles. Ils sont valables six
 mois à compter du jour de leur délivrance et doivent, dans ce délai, être imputés en charge, selon les qualités y indiquées,
@@ -8560,57 +8651,21 @@ sont caducs.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1997-05-30 art. 1, art. 2 JORF 1er juin 1997
-
 	**Codifié par**:
 
-	  - Arrêté 1998-05-22
+	  - Arrêté 2000-06-02
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 	**Cite**:
 
-	  - CGI 491
-	  - CGIAN3 144 bis
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 144 bis (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 52 ter
-
-Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
-réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
-d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 1999 conformément au tableau ci-après :
-
-Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
-d'alcool pur ;
-
-Guadeloupe : rhum traditionnel agricole, 4 500 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 26 500 hectolitres
-d'alcool pur ;
-
-Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ;
-
-Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1997-03-27 art. 1 JORF 30 mars 1997
-
-	**Cite**:
-
-	  - CGI 362
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 
 ##### Section I bis : Circulation
@@ -8623,20 +8678,31 @@ Les dispositions de l'article 444 du code général des impôts relatives à l'a
 représentatives des droits indirects sont rendues applicables aux vins  aux cidres et aux spiritueux dans les conditions
 précisées aux articles 54-0 B à 54-0 CD.
 
-L'apposition de ces capsules se substitue aux titres de mouvement visés aux b et c de l'article 445 du code précité.
+L'apposition de ces capsules se substitue au document mentionné au II de l'article 302 M du code précité.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
 	**Cite**:
 
-	  - CGI 444
-	  - CGI 445 b, c
-	  - CGIAN4 54-0 B A CGIAN4 54-0 CD
+	  - CGI 444, 302 M
+	  - CGIAN4 54-0 B à 54-0 CD
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 F (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
 
 
 ##### A : Capsules représentatives des droits sur les vins et les cidres
@@ -8693,11 +8759,11 @@ indications à faire figurer sur les capsules sont celles qui se rapportent à c
 Ces indications doivent concorder avec celles figurant éventuellement soit sur les étiquettes apposées sur les bouteilles
 soit sur les bouteilles elles-mêmes.
 
-Dans le cas où un négociant est autorisé à embouteiller les vins pour le compte d'un ou plusieurs autres marchands en gros
-l'administration peut autoriser l'utilisation de capsules portant au lieu et place du nom, de la raison sociale, de la marque
-ou du numéro d'agrément de l'utilisateur, la mention "négociant", suivie du numéro d'agrément de l'embouteilleur. Les
+Dans le cas où un négociant est autorisé à embouteiller les vins pour le compte d'un ou plusieurs autres entrepositaires
+agréés l'administration peut autoriser l'utilisation de capsules portant au lieu et place du nom, de la raison sociale, de la
+marque ou du numéro d'agrément de l'utilisateur, la mention "négociant", suivie du numéro d'agrément de l'embouteilleur. Les
 bouteilles portant de telles capsules doivent être revêtues, par les soins de l'embouteilleur, d'étiquettes mentionnant
-obligatoirement le nom et l'adresse du marchand en gros pour le compte duquel l'embouteillage a été réalisé.
+obligatoirement le nom et l'adresse de l'entrepositaire agréé pour le compte duquel l'embouteillage a été réalisé.
 
 b. La marque du fabricant des capsules ou  le cas échéant  celle du fabricant des feuilles imprimées servant à la fabrication
 des capsules.
@@ -8707,17 +8773,25 @@ apposée sur la jupe des capsules.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
 	**Cite**:
 
 	  - CGIAN4 54-0 B
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
-
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
 ###### Article 54-0 D
@@ -8916,34 +8990,32 @@ nombre est vérifié contradictoirement par le fabricant ou son préposé et l'a
 ###### Article 54-0 M
 
 Les décharges du compte magasin sont constituées par les sorties des feuilles imprimées. Celles-ci ne peuvent être expédiées
-que sous le couvert d'un acquit-à-caution établi dans les conditions précisées à l'article 54-0 T et à destination seulement
-de marchands en gros utilisateurs visés à l'article 54-0 U ou de fabricants de capsules ((agréés par le ministre de
-l'économie, des finances et de l'industrie)) (M) dans les conditions prévues à l'article 54-0 G.
+que sous le couvert d'un document mentionné au I de l'article 302 M du code général des impôts établi dans les conditions
+précisées à l'article 54-0 T et à destination seulement d'entrepositaires agréés utilisateurs visés à l'article 54-0 U ou de
+fabricants de capsules agréés par le ministre de l'économie, des finances et de l'industrie dans les conditions prévues à
+l'article 54-0 G.
 
-L'acquit-à-caution doit indiquer le nombre de feuilles par catégorie et par destinataire  ainsi que le nombre de capsules
-qu'elles représentent.
-
-(M) Modification.
+Le document mentionné au I de l'article 302 M du code général des impôts doit indiquer le nombre de feuilles par catégorie et
+par destinataire  ainsi que le nombre de capsules qu'elles représentent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1998-05-22
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
+	  - CGI 302 M
 	  - CGIAN4 54-0 G, 54-0 T, 54-0 U
-
-	**Modifié par**:
-
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
 ###### Article 54-0 N
@@ -9019,15 +9091,25 @@ total des quantités figurant au recto du duplicata du bon de sortie  qui doit �
 
 ###### Article 54-0 R
 
-Le compte de magasin  visé à l'article 54-0 P est déchargé des quantités de capsules sorties; celles-ci ne peuvent être
-expédiées que sous le couvert d'un acquit-à-caution établi dans les conditions précisées à l'article 54-0 T et à destination
-seulement de marchands en gros utilisateurs visés à l'article 54-0 U.
+Le compte de magasin visé à l'article 54-0 P est déchargé des quantités de capsules sorties ; celles-ci ne peuvent être
+expédiées que sous le couvert d'un document mentionné au I de l'article 302 M du code général des impôts établi dans les
+conditions précisées à l'article 54-0 T et à destination seulement d'entrepositaires agréés utilisateurs visés à l'article
+54-0 U.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
 	**Cite**:
 
+	  - CGI 302 M
 	  - CGIAN4 54-0 P, 54-0 U, 54-0 T
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 S
@@ -9044,8 +9126,8 @@ commande visé à l'article 54-0 AB.
 
 ###### Article 54-0 T
 
-Les feuilles métalliques et les capsules, revêtues du timbre, ne peuvent circuler que sous le couvert d'un acquit-à-caution
-garantissant le double des droits qu'elles représentent.
+Les feuilles métalliques et les capsules, revêtues du timbre, ne peuvent circuler que sous le couvert d'un document mentionné
+au I de l'article 302 M du code général des impôts.
 
 Elles doivent être expédiées directement par le fabricant au destinataire, en caisses ou en boîtes de carton rigide, scellées
 par le fabricant.
@@ -9057,6 +9139,23 @@ destinataire.
 L'agent chargé de la surveillance de l'usine doit apposer son cachet d'authenticité sur l'étiquette ou directement sur le
 côté de la caisse ou de la boîte portant ces indications.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
+	**Cite**:
+
+	  - CGI 302 M
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
 ##### 3 : Utilisation des capsules
@@ -9076,24 +9175,28 @@ sont autorisés à effectuer la mise en bouteilles. La vente, la cession ou l'é
 
 ###### Article 54-0 AB
 
-Les feuilles métalliques ou les capsules  revêtues du timbre sont livrées au marchand en gros sur présentation d'un bon de
-commande établi en double exemplaire et comportant notamment :
+Les feuilles métalliques ou les capsules, revêtues du timbre, sont livrées à l'entrepositaire agréé sur présentation d'un bon
+de commande établi en double exemplaire et comportant notamment :
 
-1° Le nom et l'adresse du marchand en gros ;
+1° Le nom et l'adresse de l'entrepositaire agréé ;
 
 2° Le nom et l'adresse du fournisseur des feuilles ou des capsules ;
 
-3° Par contenance et nature de boissons  le nombre de capsules commandées
+3° Par contenance et nature de boissons, le nombre de capsules commandées.
 
 Les deux exemplaires du bon de commande sont datés et visés par le chef de service local des douanes et droits indirects ;
-l'un des exemplaires est remis au marchand en gros  qui l'adresse à son fournisseur; l'autre est conservé au dossier du
-marchand en gros.
+l'un des exemplaires est remis à l'entrepositaire agréé qui l'adresse à son fournisseur ; l'autre est conservé au dossier de
+l'entrepositaire agréé.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 12 JORF 5 janvier 1993
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 	**Cité par**:
 
@@ -9102,56 +9205,88 @@ marchand en gros.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 54-0 AC
 
-Il est interdit aux fabricants, aux marchands en gros de boissons et aux débitants de boissons de reprendre à leurs clients
-ou d'utiliser des capsules ayant déjà servi.
+Il est interdit aux fabricants, aux entrepositaires agréés de boissons et aux débitants de boissons de reprendre à leurs
+clients ou d'utiliser des capsules ayant déjà servi.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
 ###### Article 54-0 AD
 
-Les marchands en gros utilisant les capsules doivent tenir un carnet de conditionnement et de livraison conforme au modèle
-donné par l'administration et préalablement côté et paraphé par le chef local du service des douanes et droits indirects.
+Les entrepositaires agréés utilisant les capsules doivent tenir un carnet de conditionnement et de livraison conforme au
+modèle donné par l'administration et préalablement côté et paraphé par le chef local du service des douanes et droits
+indirects.
 
-Sur ce carnet doivent être inscrits, sans blanc ni rature, en fin de journée  par contenance de bouteilles et nature de
+Sur ce carnet doivent être inscrits, sans blanc ni rature, en fin de journée, par contenance de bouteilles et nature de
 boissons :
 
 1° Le nombre de capsules utilisées et le volume total de boissons représenté par les bouteilles ainsi conditionnées ;
 
-2° Le nombre de bouteilles reçues revêtues de capsules par les soins d'un autre marchand en gros  ainsi que le volume total
-de boissons qu'elles représentent ;
+2° Le nombre de bouteilles reçues revêtues de capsules par les soins d'un autre entrepositaire agréé, ainsi que le volume
+total de boissons qu'elles représentent ;
 
 3° Le nombre de bouteilles ainsi conditionnées effectivement livrées et le volume total de boissons qu'elles représentent.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Arrêté 1993-01-04 art. 13 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 AE
 
-Les marchands en gros qui utilisent des capsules doivent déclarer le premier jour ouvrable de chaque mois  les quantités de
-boissons mises en bouteilles revêtues de capsules au cours du mois précédent.
+Les entrepositaires agréés qui utilisent des capsules doivent déclarer, le premier jour ouvrable de chaque mois, les
+quantités de boissons mises en bouteilles revêtues de capsules au cours du mois précédent.
 
 Ces quantités sont émargées en sorties du compte de gros.
 
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 AF
 
-Les bouteilles revêtues de capsules doivent être entreposées à part chez les marchands en gros et ne doivent pas être
+Les bouteilles revêtues de capsules doivent être entreposées à part chez les entrepositaires agréés et ne doivent pas être
 reprises lors des inventaires.
 
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 AG
@@ -9168,48 +9303,55 @@ destinées à l'exportation ne doivent pas être revêtues de capsules timbrées
 
 ###### Article 54-0 U
 
-Les marchands en gros de boissons tels qu'ils sont définis à l'article 484 du code général des impôts doivent utiliser
-obligatoirement les capsules prévues par l'article 444 du même code pour toutes leurs livraisons de vins en bouteilles ou en
-récipients de trois litres au plus. 
+Les entrepositaires agréés de boissons, tels qu'ils sont définis à l'article 302 G du code général des impôts, doivent
+utiliser obligatoirement les capsules prévues par l'article 444 du même code pour toutes leurs livraisons de vins en
+bouteilles ou en récipients de trois litres au plus. 
 
 Pour des raisons d'ordre économique ou technique l'administration peut accorder des dérogations à l'emploi obligatoire des
-capsules fiscales pour le conditionnement des vins visés à l'alinéa précédent.. 
+capsules fiscales pour le conditionnement des vins visés à l'alinéa précédent.
 
-Lorsque l'utilisation de capsules n'est pas obligatoire en vertu des dispositions du premier alinéa les marchands en gros de
-boissons peuvent être admis par le directeur régional des douanes et droits indirects à utiliser les capsules fiscales pour
-leurs livraisons de vins et cidres.
+Lorsque l'utilisation de capsules n'est pas obligatoire en vertu des dispositions du premier alinéa, les entrepositaires
+agréés de boissons peuvent être admis par le directeur régional des douanes et droits indirects à utiliser les capsules
+fiscales pour leurs livraisons de vins et cidres.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
-	  - CGI 484, 444
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
-	  - HISTO: Edition du 18 août 1993
+	  - CGI 302 G, 444
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
 
 ###### Article 54-0 V
 
-Les capsules ou les feuilles métalliques  revêtues du timbre sont fournies aux intéressés dans les conditions prévues à
+Les capsules ou les feuilles métalliques, revêtues du timbre, sont fournies aux intéressés dans les conditions prévues à
 l'article 54-0 AB.
 
-Les marchands en gros peuvent toutefois être autorisés à apposer eux-mêmes  sur les capsules qu'ils utilisent  le timbre et
-les mentions visées aux articles 54-0 C et 54-0 D. Il est procédé à cette apposition par insculpation ou impression à l'aide
-de machines agréées par l'administration et munies de compteurs plombés enregistrant, par tarif d'imposition, le volume des
-boissons mises en bouteilles revêtues de capsules.
+Les entrepositaires agréés peuvent toutefois être autorisés à apposer eux-mêmes, sur les capsules qu'ils utilisent, le timbre
+et les mentions visées aux articles 54-0 C et 54-0 D. Il est procédé à cette apposition par insculpation ou impression à
+l'aide de machines agréées par l'administration et munies de compteurs plombés enregistrant, par tarif d'imposition, le
+volume des boissons mises en bouteilles revêtues de capsules.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
@@ -9217,7 +9359,11 @@ boissons mises en bouteilles revêtues de capsules.
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 	**Cité par**:
 
@@ -9226,44 +9372,77 @@ boissons mises en bouteilles revêtues de capsules.
 
 ###### Article 54-0 W
 
-Les marchands en gros sont tenus de fournir un cautionnement spécial garantissant le paiement des droits correspondant aux
-capsules ou aux feuilles métalliques  revêtues du timbre  utilisées ou ressortant en manquants au compte de magasin visé à
-l'article 54-0 Y.
+Les entrepositaires agréés sont tenus de fournir un cautionnement spécial garantissant le paiement des droits correspondant
+aux capsules ou aux feuilles métalliques  revêtues du timbre  utilisées ou ressortant en manquants au compte de magasin visé
+à l'article 54-0 Y.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
 
 	**Cite**:
 
 	  - CGIAN4 54-0 Y
 
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
 
 ###### Article 54-0 X
 
-Les appareils utilisés par les marchands en gros doivent assurer un sertissage efficace de la capsule, tel que l'ouverture de
-la bouteille rende impossible le réemploi de ladite capsule.
+Les appareils utilisés par les entrepositaires agréés doivent assurer un sertissage efficace de la capsule, tel que
+l'ouverture de la bouteille rende impossible le réemploi de ladite capsule.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
 ###### Article 54-0 Y
 
-Les marchands en gros sont comptables des droits et taxes représentés tant par les timbres imprimés sur les feuilles
+Les entrepositaires agréés sont comptables des droits et taxes représentés tant par les timbres imprimés sur les feuilles
 métalliques ou sur les capsules reçues dans leurs entrepôts que par les timbres insculpés ou imprimés dans les conditions
 prévues à l'article 54-0 V.
 
-Ces timbres sont pris en charge  dans les conditions fixées par l'administration à un compte ouvert à cet effet. Ce compte
+Ces timbres sont pris en charge, dans les conditions fixées par l'administration à un compte ouvert à cet effet. Ce compte
 est déchargé des quantités dont l'utilisation a été déclarée dans les conditions fixées par l'article 54-0 AD.
 
-Lors des inventaires  les manquants de timbres sont passibles des droits qu'ils représentent.
+Lors des inventaires, les manquants de timbres sont passibles des droits qu'ils représentent.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
 	  - CGIAN4 54-0 AD, 54-0 V
 
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
 
 
 ###### Article 54-0 Z
@@ -9271,16 +9450,24 @@ Lors des inventaires  les manquants de timbres sont passibles des droits qu'ils 
 En aucun cas, il ne peut être fait remise des droits et taxes représentés par les timbres imprimés sur les feuilles
 métalliques ou sur les capsules perdues, volées, détruites ou détériorées.
 
-Seules peuvent être autorisées la restitution ou la remise des droits et taxes afférents aux bouteilles défectueuses
-couleuses ou cassées; cette restitution ou cette remise ne peuvent avoir lieu que sur présentation  par le marchand en gros
-des bouteilles ou goulots revêtus de capsules intactes. Après vérification  les capsules correspondantes doivent être
+Seules peuvent être autorisées la restitution ou la remise des droits et taxes afférents aux bouteilles défectueuses,
+couleuses ou cassées ; cette restitution ou cette remise ne peuvent avoir lieu que sur présentation, par l'entrepositaire
+agréé, des bouteilles ou goulots revêtus de capsules intactes. Après vérification, les capsules correspondantes doivent être
 immédiatement détruites par le service.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 	**Cité par**:
 
@@ -9329,9 +9516,18 @@ d. Le numéro d'agrément de l'utilisateur ;
 
 e. La marque du fabricant des capsules.
 
-Lorsque les capsules sont apposées par des marchands en gros qui embouteillent pour le compte de tiers, les mentions
+Lorsque les capsules sont apposées par des entrepositaires agréés qui embouteillent pour le compte de tiers, les mentions
 relatives à l'utilisation de capsules sont celles qui se rapportent à ces tiers.
 
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BD
@@ -9471,15 +9667,15 @@ par les articles 54-0 G à 54-0 T relatifs aux capsules représentatives des dro
 
 ###### Article 54-0 BJ
 
-Les marchands en gros de boissons bénéficiant du crédit d'enlèvement de un mois ou du crédit mensuel de liquidation peuvent
-être admis par le directeur régional des douanes et droits indirects à utiliser les capsules prévues par l'article 444 du
-code général des impôts.
+Les entrepositaires agréés de boissons bénéficiant du crédit d'enlèvement de un mois ou du crédit mensuel de liquidation
+peuvent être admis par le directeur régional des douanes et droits indirects à utiliser les capsules prévues par l'article
+444 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Arrêté 1993-01-04 art. 5 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
 
 	**Cite**:
 
@@ -9487,7 +9683,7 @@ code général des impôts.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BK
@@ -9534,29 +9730,42 @@ revêtues de l'empreinte dans les conditions prévues à l'article 54-0 BK.
 
 ###### Article 54-0 BM
 
-Les appareils à capsuler utilisés par les marchands en gros doivent assurer un sertissage efficace de la capsule  tel que
-l'ouverture de la bouteille rende impossible le réemploi desdites capsules.
+Les appareils à capsuler utilisés par les entrepositaires agréés doivent assurer un sertissage efficace de la capsule, tel
+que l'ouverture de la bouteille rende impossible le réemploi desdites capsules.
 
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BN
 
-En aucun cas il ne peut être fait remise des droits représentés par les marques fiscales apposées sur les capsules perdues
+En aucun cas il ne peut être fait remise des droits représentés par les marques fiscales apposées sur les capsules perdues,
 volées détruites ou détériorées.
 
-Seules peuvent être autorisées la restitution ou la remise du droit de consommation afférent aux bouteilles défectueuses
-couleuses ou cassées; cette restitution et cette remise ne peuvent avoir lieu que sur présentation par le marchand en gros
-embouteilleur des bouteilles ou goulots revêtus de capsules intactes. Après vérification  les capsules correspondantes
+Seules peuvent être autorisées la restitution ou la remise du droit de consommation afférent aux bouteilles défectueuses,
+couleuses ou cassées ; cette restitution et cette remise ne peuvent avoir lieu que sur présentation par l'entrepositaire
+agréé embouteilleur des bouteilles ou goulots revêtus de capsules intactes. Après vérification, les capsules correspondantes
 doivent être immédiatement détruites par le représentant de l'administration.
 
-Lorsque le marchand en gros embouteilleur est lui-même redevable du droit de fabrication  ce droit est restitué ou remis dans
-les mêmes conditions.
+Lorsque l'entrepositaire agréé embouteilleur est lui-même redevable du droit de fabrication, ce droit est restitué ou remis
+dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BO
@@ -9586,26 +9795,44 @@ La vente, la cession ou l'échange de capsules représentatives des droits sur l
 
 ###### Article 54-0 BP
 
-Il est interdit aux fabricants de capsules  aux marchands en gros de boissons et aux débitants de reprendre à leurs clients
-ou d'utiliser des capsules ayant déjà servi.
+Il est interdit aux fabricants de capsules, aux entrepositaires agréés de boissons et aux débitants de reprendre à leurs
+clients ou d'utiliser des capsules ayant déjà servi.
 
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BQ
 
-Les marchands en gros autorisés à utiliser les capsules doivent tenir un carnet de conditionnement et de livraison conforme
-au modèle donné par l'administration et préalablement coté et paraphé par le représentant de l'administration.
+Les entrepositaires agréés autorisés à utiliser les capsules doivent tenir un carnet de conditionnement et de livraison
+conforme au modèle donné par l'administration et préalablement coté et paraphé par le représentant de l'administration.
 
-Sur ce carnet doivent être inscrits  sans blancs ni ratures  en fin de journée, par contenance de bouteilles et nature de
+Sur ce carnet doivent être inscrits, sans blancs ni ratures, en fin de journée, par contenance de bouteilles et nature de
 boissons :
 
 1° Le nombre de capsules utilisées et par tarif le volume d'alcool pur représenté par les bouteilles ainsi conditionnées ;
 
-2° Le nombre de bouteilles reçues revêtues de capsules par les soins d'un autre marchand en gros ainsi que le volume d'alcool
-pur qu'elles représentent ;
+2° Le nombre de bouteilles reçues revêtues de capsules par les soins d'un autre entrepositaire agréé ainsi que le volume
+d'alcool pur qu'elles représentent ;
 
 3° Le nombre de bouteilles ainsi conditionnées effectivement livrées et le volume d'alcool pur qu'elles représentent.
 
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BR
@@ -9629,16 +9856,24 @@ Ces quantités sont émergées en sortie du compte de gros.
 ###### Article 54-0 BS
 
 Les bouteilles revêtues de capsules représentatives des droits sur les spiritueux doivent être entreposées à part chez les
-marchands en gros et ne doivent pas être reprises lors des inventaires.
+entrepositaires agréés et ne doivent pas être reprises lors des inventaires.
 
 En aucun cas des bouteilles revêtues de capsules représentatives des droits sur les spiritueux ne peuvent être mises en
 circulation si ces capsules ne comportent pas la totalité des marques fiscales prévues à l'article 54-0 BC.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
 	**Cite**:
 
 	  - CGIAN4 54-0 BC
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BT
@@ -9783,26 +10018,44 @@ groupements professionnels agréés dans les conditions définies aux articles 5
 Les syndicats viticoles et les groupements professionnels qui désirent assurer la commande collective et la répartition des
 capsules représentatives des droits destinées aux récoltants doivent être agréés par le directeur régional des douanes et
 droits indirects territorialement compétent. Ils fournissent un cautionnement garantissant le paiement des droits sur les
-capsules détenues ainsi que sur les capsules expédiées sous le couvert d'acquits-à-caution aux récoltants.
+capsules détenues ainsi que sur les capsules expédiées sous le couvert de documents mentionnés au I de l'article 302 M du
+code général des impôts aux récoltants.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Arrêté 1993-01-04 art. 6 JORF 5 janvier 1993
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - CGI 302 M
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 BZ
 
 Les syndicats viticoles et les groupements professionnels sont comptables des droits représentés par les timbres imprimés sur
-les feuilles métalliques ou sur les capsules reçues par eux. Ces timbres sont pris en charge  dans les conditions fixées par
-l'administration à un compte ouvert à cet effet. Ce compte est déchargé des quantités livrées sous le couvert d'acquits-à-
-caution aux récoltants utilisateurs.
+les feuilles métalliques ou sur les capsules reçues par eux. Ces timbres sont pris en charge, dans les conditions fixées par
+l'administration à un compte ouvert à cet effet. Ce compte est déchargé des quantités livrées sous le couvert de documents
+mentionnés au I de l'article 302 M du code général des impôts aux récoltants utilisateurs.
 
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
+	**Cite**:
+
+	  - CGI 302 M
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 CA
@@ -9831,16 +10084,25 @@ adresse.
 
 ###### Article 54-0 CB
 
-Les feuilles métalliques ou les capsules  revêtues du timbre  sont livrées aux syndicats viticoles ou aux groupements
+Les feuilles métalliques ou les capsules, revêtues du timbre, sont livrées aux syndicats viticoles ou aux groupements
 professionnels agréés sur présentation d'un bon de commande en double exemplaire dans des conditions identiques à celles
-prévues par l'article 54-0 AB. Elles sont livrées aux récoltants par les organismes distributeurs sous le couvert d'acquits-
-à-caution dans les conditions déterminées par l'administration.
+prévues par l'article 54-0 AB. Elles sont livrées aux récoltants par les organismes distributeurs sous le couvert de
+documents mentionnés au I de l'article 302 M du code général des impôts dans les conditions déterminées par l'administration.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 13 JORF 5 octobre 2000
+
 	**Cite**:
 
+	  - CGI 302 M
 	  - CGIAN4 54-0 AB
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54-0 CC
@@ -10131,14 +10393,14 @@ fabricant ou de l'embouteilleur.
 
 ###### Article 54 quater
 
-Les cidres et poirés détenus par les marchands en gros qui les conditionnent comme il est prévu à l'article 54 bis doivent
-être libérés des droits dès qu'ils sont expédiés à la consommation.
+Les cidres et poirés détenus par les entrepositaires agréés qui les conditionnent comme il est prévu à l'article 54 bis
+doivent être libérés des droits dès qu'ils sont expédiés à la consommation.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Arrêté 1994-07-26 art. 1 JORF 3 août 1994
+	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
 
 	**Cite**:
 
@@ -10146,7 +10408,7 @@ Les cidres et poirés détenus par les marchands en gros qui les conditionnent c
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 54 quinquies
@@ -10169,25 +10431,25 @@ fixées par la direction générale des douanes et droits indirects.
 ###### Article 54 ter
 
 Sans préjudice des dispositions relatives à la circulation intracommunautaire des produits soumis à accises, lorsqu'ils sont
-livrés à des personnes n'ayant pas la qualité fiscale de marchand en gros qui en assurent le conditionnement définitif, les
-cidres et poirés dont la présentation commerciale ne répond pas aux prescriptions de l'article 54 bis circulent sous le lien
-d'acquits-à-caution. Ces acquits-à-caution sont échangés à l'arrivée des boissons contre des congés. (1)
-
-(1) Article entièrement reformulé.
+livrés à des personnes n'ayant pas la qualité fiscale d'entrepositaire agréé qui en assurent le conditionnement définitif,
+les cidres et poirés dont la présentation commerciale ne répond pas aux prescriptions de l'article 54 bis circulent sous le
+lien de documents mentionnés au I de l'article 302 M du code général des impôts. Ces documents sont échangés à l'arrivée des
+boissons contre des documents mentionnés au II de l'article 302 M précité.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Arrêté 1994-07-26 art. 1 JORF 3 août 1994
+	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
 
 	**Cite**:
 
+	  - CGI 302 M
 	  - CGIAN4 54 bis
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### IV : Utilisation de machines à timbrer
@@ -10425,121 +10687,6 @@ feuilles d'entrepôts correspondantes.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2001
-
-
-##### Section II : Conditionnement des spiritueux.
-
-###### Article 55
-
-Pour l'application de l'article 464 bis du code général des impôts, sont considérés comme spiritueux  les eaux-de-vie esprits
-liqueurs fruits à l'eau-de-vie,apéritifs, vermouths,vins de liqueur et autres boissons soumises au droit de consommation sur
-l'alcool.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGI 464 bis
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
-
-
-###### Article 55 A
-
-Indépendamment des nom, raison sociale et adresse du vendeur ou de l'expéditeur, ainsi que de la nature du produit, et sans
-préjudice des autres dispositions en vigueur relatives à l'étiquetage des boissons, et notamment de celles des décrets du 19
-août 1921 et du  0 30 septembre 1949, le titre alcoométrique volumique des spiritueux doit être indiqué d'une manière
-apparente sur les étiquettes et en chiffres d'au moins 5 millimètres de hauteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - Décret n°1921-08-19
-	  - Décret n°1949-09-30
-
-	**Modifié par**:
-
-	  - Décret n°79-200 1979-03-05 art. 3 JORF 11 mars 1979
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
-
-
-###### Article 55 B
-
-Les personnes qui désirent utiliser des bouteilles d'une capacité supérieure à trois litres doivent en faire, par écrit, la
-demande motivée à la direction régionale des douanes et droits indirects dont elles dépendent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arr êté 2000-06-02
-
-	**Modifié par**:
-
-	  - Arrêté 1993-01-04 art. 9 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
-
-
-###### Article 55 C
-
-Aux conditions déterminées par l'administration  les personnes non titulaires d'une licence permettant la vente de spiritueux
-à consommer sur place ou à emporter peuvent être autorisées à recevoir sous acquit-à-caution les spiritueux nécessaires à la
-fabrication de leurs produits.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
-
-
-###### Article 55 D
-
-Les dérogations prévues aux articles 55 B et 55 C sont accordées par l'administration. Elles sont personnelles et deviennent
-caduques en cas de cession à titre gratuit ou onéreux du fonds de commerce. Elles sont révocables par l'administration en cas
-d'abus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGIAN4 55 B, 55 C
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
 
 
 ##### Section IV : Mise sur le marché des vins doux naturels à appellation d'origine contrôlée
@@ -11567,10 +11714,25 @@ constitue la souche.
 
 ###### Article 56 AO
 
-En l'absence de document douanier  les transports de tabacs manufacturés doivent être effectués sous le couvert d'un acquit-
-à-caution lorsqu'ils sont réalisés en suspension ou en exonération du droit de consommation. Lorsque ce droit a été acquitté
-pour les livraisons à destination d'un entrepôt, les transports de tabacs sont effectués sous le couvert d'un laissez-passer.
+En l'absence de document douanier, les transports de tabacs manufacturés doivent être effectués sous le couvert d'un document
+mentionné au I de l'article 302 M du code général des impôts lorsqu'ils sont réalisés en suspension ou en exonération du
+droit de consommation. Lorsque ce droit a été acquitté, pour les livraisons à destination d'un entrepôt, les transports de
+tabacs sont effectués sous le couvert d'un document mentionné au II du même article.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2000-06-02
+
+	**Cite**:
+
+	  - CGI 302 M
+	  - Code général des impôts, CGI. - art. 302 M (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
 ###### Article 56 AP
@@ -11748,30 +11910,28 @@ Au-dessus de 265 000 F : 90 %.
 
 ###### Article 71
 
-Est autorisée l'utilisation des machines à timbrer qui, suivant les prévisions des articles ((301, 313 AA, 313 AR et 313 BR
-bis de l'annexe III au code général des impôts, sont destinées respectivement au timbrage)) (M) :
+Est autorisée l'utilisation des machines à timbrer qui, suivant les prévisions des articles 301, 313 AR et 313 BR bis de
+l'annexe III au code général des impôts, sont destinées respectivement au timbrage :
 
 a) Des actes soumis au timbre de dimension ;
 
-b) (Sans objet) (M) ;
+b) (Sans objet) ;
 
-c) Des lettres de voiture ou titres assimilés ;
+c) (Sans objet) ;
 
 d) Des cartes d'entrée dans les casinos ;
 
 e) Des requêtes.
 
-(M) Modification.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
-	  - CGIAN3 301, 313 AA, 313 AR, 313 BR bis
+	  - CGIAN3 301, 313 AR, 313 BR bis
 
 	**Cité par**:
 
@@ -11779,18 +11939,18 @@ e) Des requêtes.
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2000
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
+	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
 ###### Article 72
 
 Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
 
-la quotité du timbre;
+la quotité du timbre ;
 
 un numéro propre à chaque empreinte suivant l'ordre de numération ainsi que :
 
@@ -11800,29 +11960,15 @@ le nom et l'adresse de l'utilisateur ;
 
 la désignation du service des impôts auquel l'utilisateur est rattaché.
 
-Les machines à timbrer destinées au timbrage des lettres de voiture ou titres assimilés doivent apposer, pour chaque
-opération enregistrée au compteur, outre l'empreinte valant timbre sur le document original, une estampille de contrôle sur
-l'exemplaire accompagnant l'expédition.
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
-
-	**Cite**:
-
-	  - CGIAN4 164 L à 164 AL
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Arrêté 2000-06-02
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
+	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
 ###### Article 73
@@ -11869,115 +12015,6 @@ timbrer est payée deux fois par an  lors du dépôt des fiches de liquidation d
 
 
 ##### I bis : Timbre de dimension
-
-##### A : Pouvoirs destinés à la représentation aux assemblées générales des membres des sociétés par actions.
-
-###### Article 93 A
-
-Les autorisations accordées aux sociétés par actions de payer sur états le droit de timbre afférent aux pouvoirs destinés à
-la représentation de leurs actionnaires aux assemblées générales sont valables pour toutes les assemblées dont la date est
-précisée dans la demande ainsi que pour les assemblées subséquentes dont la réunion est motivée par l'absence du quorum exigé
-pour l'assemblée précédente sous réserve que la date de ces diverses assemblées ne soit pas postérieure de plus d'un an à
-celle de l'autorisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
-
-
-###### Article 93 C
-
-Le montant des droits est versé à la recette compétente pour accorder l'autorisation dans les vingt jours suivant la date de
-chaque assemblée générale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
-
-
-###### Article 93 D
-
-A l'appui du versement la société fournit un état succinct et certifié conforme à la feuille de présence faisant connaître le
-nombre de pouvoirs utilisés pour chaque assemblée ainsi que le montant de l'impôt exigible. Cet état est fourni en double
-exemplaire. L'un de ces doubles est rendu au déposant revêtu de l'acquit du service compétent l'autre est conservé par le
-service à l'appui de la recette des droits de timbre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
-
-
-###### Article 93 E
-
-A défaut de versement des droits dans les délais et suivant les formes prescrites ci-dessus [*art. 93 A à art. 93 D*] le
-recouvrement de ces droits et des pénalités prévues à l'article 1840 I du code général des impôts est poursuivi contre la
-société.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGI 1840 I
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
-
-
-###### Article 93 F
-
-Les feuilles de présence et tous autres documents nécessaires à la vérification de l'état fourni à l'appui du versement des
-droits conformément à l'article 93 D, doivent être conservés par la société selon les modalités prévues au I de l'article L.
-102 B du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGIAN4 93 D
-	  - Livre des procédures fiscales L102 B I
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
-
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
 
 ##### B : Bulletins de souscription d'actions
 
@@ -12125,9 +12162,8 @@ qui devront être acquittés, en tout état de cause, dans les six mois du dép�
 ###### Article 93 H quater C
 
 I. Les redevables qui demandent à payer sur états le droit de timbre de dimension exigible sur les écrits autres que les
-bulletins de souscription d'actions et que les pouvoirs de représentation aux assemblées générales des membres des sociétés
-par actions doivent s'engager à tenir  jour par jour  un registre fournissant  pour chaque acte, les renseignements
-suivants :
+bulletins de souscription d'actions doivent s'engager à tenir, jour par jour, un registre fournissant, pour chaque acte, les
+renseignements suivants :
 
 a. Le numéro d'ordre spécialement affecté à l'acte dans le registre, cette numérotation étant faite dans une série
 ininterrompue ;
@@ -12138,7 +12174,7 @@ c. Sa nature ;
 
 d. Les noms et prénoms usuels des parties ;
 
-e. S'il s'agit d'actes sous seings privés  le nombre des originaux créés, abstraction faite, le cas échéant, de ceux
+e. S'il s'agit d'actes sous seings privés, le nombre des originaux créés, abstraction faite, le cas échéant, de ceux
 dispensés du droit de timbre de dimension ;
 
 f. Le nombre de feuillets du format de la demi-feuille de papier normal utilisés pour la rédaction des minutes  brevets ou
@@ -12160,28 +12196,26 @@ de timbre.
 Chaque acte porté sur le registre doit être annoté de son numéro d'ordre. Les colonnes correspondant aux indications
 mentionnées ci-dessus aux f, g, i et j font l'objet d'une totalisation mensuelle.
 
-((II. Les redevables qui demandent à payer sur états le droit de timbre prévu par l'article 1089 B du code général des impôts
+II. Les redevables qui demandent à payer sur états le droit de timbre prévu par l'article 1089 B du code général des impôts
 doivent s'engager à tenir un registre sur lequel, jour par jour et pour chaque requête, sont mentionnés les renseignements
 suivants :
 
-((a) Le numéro d'ordre spécialement affecté à la requête dans le registre, cette numérotation étant faite dans une série
+a) Le numéro d'ordre spécialement affecté à la requête dans le registre, cette numérotation étant faite dans une série
 ininterrompue ;
 
-((b) La date d'expédition ou de dépôt de la requête ;
+b) La date d'expédition ou de dépôt de la requête ;
 
-((c) Le nom des parties au litige ;
+c) Le nom des parties au litige ;
 
-((d) Le montant de l'impôt.
+d) Le montant de l'impôt.
 
-((Chaque registre est complété du numéro de l'affaire attribué par la juridiction.)) (1).
-
-(1) Texte ajouté par l'arrêté.
+Chaque registre est complété du numéro de l'affaire attribué par la juridiction.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 1995-02-21 art. 2 JORF 1er mars 1995
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
@@ -12194,7 +12228,11 @@ ininterrompue ;
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 mars 2000
+
+	**Modifié par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 61 () JORF 18 juin 1987
 
 
 ###### Article 93 H quater D
@@ -12356,284 +12394,6 @@ fiscales.
 	  - Livre des procédures fiscales L102 B I
 
 
-##### IV : Timbre des contrats de transports
-
-##### A : Transports par chemins de fer
-
-##### Compagnies de chemins de fer autres que la SNCF - Bulletins de bagages.
-
-###### Article 113
-
-Les compagnies de chemins de fer autres que la société nationale des chemins de fer français et toutes autres entreprises
-concessionnaires d'un service public de transport, autorisées à acquitter sur états le droit de timbre exigible, en vertu de
-l'article 927 du code général des impôts, sur les bulletins de bagages, versent le montant de l'impôt, pour toutes les gares
-du s réseau, dans les derniers jours du deuxième mois qui suit celui dans lequel les droits ont dû être perçus ; le versement
-est fait à la recette des impôts qui est désignée à cet effet.
-
-A l'appui du versement, il est fourni par le transporteur un état indiquant distinctement, pour chaque gare de départ, le
-nombre des timbres dus sur les bulletins de bagages. Cet état est certifié conforme aux écritures du transporteur ; il est
-totalisé et le montant des droits est provisoirement liquidé et payé en conséquence.
-
-Tous les documents de comptabilité et autres, nécessaires pour la vérification des états fournis à l'appui du versement des
-droits de timbre, doivent être conservés, selon les modalités prévues au I de l'article L. 102 B du livre des procédures
-fiscales, pour être communiqués aux agents des impôts compétents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGI 927
-	  - Livre des procédures fiscales L102 B I
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-
-##### B : Expéditions en groupage.
-
-###### Article 116
-
-Les entrepreneurs et intermédiaires de transports qui ont été autorisés à acquitter soit sur états, soit au moyen de
-vignettes spéciales, suivant leur option, le droit de timbre exigible sur les expéditions en groupage, doivent établir un
-exemplaire supplémentaire du bordereau de groupage qu'ils sont astreints de tenir en même temps que le registre des
-opérations de groupage  conformément à la réglementation des transports (1) ; cet exemplaire est remis à la gare expéditrice
-dans les mêmes conditions que le bordereau visé à l'article 940, premier alinéa  du code général des impôts et auquel il se
-substitue.
-
-Le registre des opérations de groupage  qui tient lieu du registre de factage ou de camionnage prévu au deuxième alinéa du
-même article est arrêté en fin de mois  afin de faire ressortir le montant de l'impôt exigible.
-
-(1) Décret n° 61-679 du 30 juin 1961 (J.O. du 1er juillet) et arrêté du 25 octobre 1961 (J.O. du 5 novembre).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1961-10-25
-	  - CGI 940
-	  - Décret n°61-679 1961-06-30
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-
-###### Article 117
-
-Les entrepreneurs et intermédiaires de transports qui ont opté pour le paiement sur états versent le montant des droits de
-timbre exigibles, à l'expiration de chaque mois et dans les vingt premiers jours du mois suivant, à la recette des impôts
-désignée par l'administration.
-
-A l'appui de ce versement  il est produit un état indiquant distinctement s'il y a lieu pour chaque bureau de départ :
-
-les numéros d'ordre extrêmes des bordereaux de groupage établis pendant le mois considéré ;
-
-le montant des droits de timbre exigibles.
-
-Cet état, certifié conforme aux écritures de l'entreprise  est fourni en double exemplaire à l'appui de chaque versement
-mensuel. Un des doubles est remis au déposant après avoir été revêtu de l'acquit du comptable des impôts ; l'autre est
-conservé par le service à l'appui de la recette des droits de timbre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-
-###### Article 118
-
-Lorsque les entrepreneurs et intermédiaires de transports ont opté pour le paiement par timbres mobiles, ces timbres sont
-apposés savoir :
-
-la vignette portant l'indication du prix  sur le bordereau de groupage conservé par le bureau expéditeur ;
-
-l'estampille de contrôle  sur le bordereau transmis au bureau d'arrivée en même temps que l'expédition.
-
-Il est apposé autant de timbres et d'estampilles de contrôle qu'il y a de destinataires réels énoncés dans le bordereau.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-
-###### Article 119
-
-Les intermédiaires de transports peuvent faire signer pour décharge, par les destinataires des colis transportés  les
-bordereaux de groupage au lieu et place du registre des opérations de groupage visé à l'article 116. Ils ont également la
-faculté de se faire délivrer décharge par les destinataires des colis transportés sur tout autre document comportant les
-références nécessaires pour individualiser le bordereau de groupage auquel il se rapporte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGIAN4 116
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-
-###### Article 120
-
-Tous les documents de comptabilité et autres nécessaires pour la vérification des états fournis à l'appui du versement des
-droits de timbre, et notamment ceux prescrits par l'article 116, doivent être conservés selon les modalités prévues au I de
-l'article L. 102 B du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGIAN4 116
-	  - Livre des procédures fiscales L102 B I
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-
-##### C : Transports routiers de marchandises.
-
-###### Article 121 A
-
-I. Les entrepreneurs  commissionnaires et intermédiaires de transports publics routiers de marchandises autorisés à acquitter
-sur états les droits de timbre afférents aux lettres de voiture ou documents en tenant lieu sont tenus d'établir des
-bordereaux journaliers présentant pour chaque expédition dans des colonnes distinctes les indications suivantes :
-
-a. Numéro d'ordre ;
-
-b. Nom de l'expéditeur ;
-
-c. Nom du destinataire ;
-
-d. Nombre de colis ;
-
-e. Prix du transport ;
-
-f. Montant du droit de timbre exigible.
-
-Les inscriptions doivent avoir lieu sans blanc, rature ni interligne. La colonne e contenant les indications relatives au
-prix de transport et la colonne f contenant l'indication du montant des droits de timbre exigibles sont totalisées en fin de
-journée. Les totaux sont rattachés aux écritures comptables.
-
-II. Par dérogation au I, les entrepreneurs, commissionnaires et intermédiaires de transports publics routiers de marchandises
-qui par application de l'article 313 W de l'annexe III au code général des impôts  établissent des récépissés numérotés
-extraits d'un registre à souche  sont dispensés de l'établissement des bordereaux journaliers. La même dispense est
-applicable lorsqu'il est créé des feuilles d'expédition ou des feuilles de route soumises au droit de timbre  numérotées et
-extraites d'un registre à souche.
-
-III. Le montant des droits de timbre exigibles est versé à l'expiration de chaque mois et dans les vingt premiers jours du
-mois suivant à la recette des impôts qui a accordé l'autorisation.
-
-A l'appui de ce versement, il est fourni par le bénéficiaire de l'autorisation un état indiquant, distinctement, s'il y a
-lieu  pour chaque bureau de départ :
-
-1° Le nombre de lettres de voiture ou de récépissés établis au cours du mois considéré, ainsi que le nombre de feuilles
-d'expédition et de feuilles de route soumises au droit de timbre et créées au cours du même mois ;
-
-2° Le montant des droits exigibles.
-
-Cet état, certifié conforme aux résultats de la comptabilité, est fourni en double exemplaire. L'un de ces exemplaires est
-remis à la partie versante revêtu de l'acquit du comptable des impôts compétent ; l'autre est conservé par ce comptable à
-l'appui de la recette des droits de timbre.
-
-IV. Les entrepreneurs, commissionnaires et intermédiaires de transports publics routiers de marchandises bénéficiaires d'une
-autorisation de paiement sur états doivent être conservés selon les modalités prévues au I de l'article L. 102 B du livre des
-procédures fiscales tous les documents nécessaires au contrôle et notamment les bordereaux visés au I, les registres à souche
-de récépissés et les carnets d'enregistrement de ces registres les souches des feuilles d'expédition et des feuilles de
-route. Ces documents sont présentés à toute réquisition des agents des impôts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGIAN3 313
-	  - Livre des procédures fiscales L102 B I
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-
-###### Article 121 A bis
-
-Les timbres spéciaux aux contrats de transports routiers sont apposés, savoir :
-
-1° La vignette portant l'indication du prix, sur l'exemplaire de la lettre de voiture conservé par l'entrepreneur, le
-commissionnaire ou l'intermédiaire de transport, ou, éventuellement, sur la souche du récépissé remplaçant cette lettre de
-voiture ;
-
-2° L'estampille de contrôle, sur le double de la lettre de voiture ou le récépissé accompagnant l'expédition.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
-
-
 ##### Section II : Droits de délivrance de documents et perceptions diverses
 
 ##### I : Cartes d'entrée dans les casinos
@@ -12684,46 +12444,41 @@ donnant lieu à la perception des droits de timbre dans les régies de recettes 
 
 Peuvent notamment être timbrés par ce procédé :
 
-((1° Les cartes d'identité professionnelle des voyageurs ou représentants de commerce [*VRP*] (art. 947 du code général des
-impôts) (M) ;))
+1° (Disposition devenue sans objet).
 
-2° Les cartes de séjour des étrangers, les cartes spéciales délivrées aux étrangers exerçant une profession commerciale
-industrielle, artisanale ou agricole (art. 949 et 950 du code général des impôts) ;
+2° (Disposition devenue sans objet).
 
 3° (Abrogé) ;
 
-4° Les passeports pour l'étranger et les titres de voyages délivrés aux réfugiés ou apatrides (art. 953 et 954 du code
-général des impôts) ;
+4° Les passeports et les titres de voyages délivrés aux réfugiés ou apatrides (art. 953 et 954 du code général des impôts) ;
 
-5° Les certificats internationaux pour automobiles et les permis internationaux de conduire (art. 966 du code général des
-impôts);
+5° (Disposition devenue sans objet).
 
-6° Les permis de conduire les véhicules automobiles les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
+6° Les permis de conduire les véhicules automobiles, les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
 véhicules à moteur (art. 1599 terdecies du code général des impôts) ;
 
 7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur (cartes grises) (art.
 1599 quindecies du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
 
-(M) Modification.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
-	  - CGI 947, 949, 950, 953, 954, 966, 1599 terdecies, 1599 quindecies
+	  - CGI 953, 954, 1599 terdecies, 1599 quindecies
 	  - CGIAN2 339 à 341
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 
 	**Modifié par**:
 
-	  - Loi - art. 25 () JORF 31 décembre 1998
+	  - Loi - art. 31 () JORF 31 décembre 1999
+	  - Loi n°99-1172 1999-12-30 art. 31 I, III Finances pour 2000 JORF 31 décembre 1999
 
 
 ###### Article 121 KB
@@ -17097,61 +16852,34 @@ Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
 	  - TXT_ASSOCIE: Instruction 2001-03-23 3P-2-01
 
 
-##### Section V : Contribution sur les produits de sang labiles.
-
-###### Article 159 AG
-
-Le taux de la contribution à la charge des établissements de transfusion sanguine prévue à l'article 1609 tervicies du code
-général des impôts est fixé à 6,10 % du montant hors taxes des cessions en France de produits sanguins labiles.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1998-11-26 art. 1, art. 2 JORF 29 novembre 1998 en vigueur le 1er décembre 1998
-
-	**Codifié par**:
-
-	  - Arrêté 1999-05-18
-	  - Arrêté 2000-06-02
-
-	**Cite**:
-
-	  - CGI 1609 tervicies
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998
-
-
 ##### Section VII bis : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
 
 ###### Article 159 AL bis
 
 Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé à 0,20 % jusqu'au 31 décembre
-((1999)) (M).
-
-(M) Modification.
+2000.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1998-12-22 art. 1 JORF 27 décembre 1998
+	  - Arrêté 1999-12-30 art. 1 JORF 31 décembre 1999
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2000-06-02
+	  - Arrêté 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2001-02-06 3Q-2-01
 
 	**Cite**:
 
 	  - CGIAN2 345
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
 
 
 ##### Section VII quater A : Taxe parafiscale sur certaines viandes.
@@ -17241,35 +16969,32 @@ Le taux de la taxe prévue à l'article 363 DA de l'annexe II au code général 
 	  - HISTO: Edition du 22 avril 1998
 
 
-##### Section VII quater C 
+##### Section VII quater C : Taxe parafiscale sur les produits de l'horticulture florale, ornementale et des pépinières.
 
 ###### Article 159 AL quater-0 C
 
 En application de l'article 363 DB de l'annexe II au code général des impôts, le montant de la taxe perçue sur les produits
 non comestibles de l'horticulture florale, ornementale et des pépinières au profit de l'Association nationale pour le
-développement agricole est fixé, ((pour l'année 1999, à 1,5 pour mille du montant des ventes hors taxes des produits définis
-au I de l'article 363 DB précité)) (M).
-
-(M) Modification.
+développement agricole est fixé, pour l'année 2000, à 1,5 pour mille du montant des ventes hors taxes des produits définis au
+I de l'article 363 DB précité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1998-12-22 art. 1 JORF 27 décembre 1998
+	  - Arrêté 1999-12-22 art. 1 JORF 26 décembre 1999
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
 	  - CGIAN2 363 DB
-	  - Décret n°64-283 du 26 mars 1964 - art. 1 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 
 
 #### Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées
@@ -17469,27 +17194,25 @@ c. Autres vins : 0,77 F par hectolitre.
 ###### Article 159 AR
 
 Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à l'article 363 F de l'annexe II au code général
-des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1998-1999 :
+des impôts, destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1999-2000 :
 
-((Colza : 3,38 F par tonne ;
+a. colza : 3,66 F par tonne ;
 
-Navette : 3,38 F par tonne ;
+b. navette : 3,66 F par tonne ;
 
-Tournesol : 4,14 F par tonne ;
+c. tournesol : 4,48 F par tonne ;
 
-Soja : 2,21 F par tonne)) (M).
-
-(M) Modification.
+d. soja : 2,39 F par tonne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1998-12-29 art. 1 JORF 30 décembre 1998
+	  - Arrêté 1999-12-10 art. 1 JORF 16 décembre 1999
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
@@ -17497,7 +17220,7 @@ Soja : 2,21 F par tonne)) (M).
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 
 
 ##### Section VII : Taxe parafiscale sur les céréales et le riz.
@@ -17707,32 +17430,32 @@ I. Les contrats d'assurances sur lesquels est assise la contribution prévue aux
 impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
 branches 3 à 9 de l'article R. 321-1 du code des assurances.
 
-((Le taux de la contribution est fixé, pour 1999, à 20 F par contrat. Les sommes correspondantes sont perçues par les
+II. Le taux de la contribution est fixé, pour 2000, à 20 F par contrat. Les sommes correspondantes sont perçues par les
 entreprises d'assurance à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre le 1er janvier et le
-31 décembre 1999)) (M).
-
-(M) Modification.
+31 décembre 2000.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1998-10-12 art. 1 JORF 15 octobre 1998
+	  - Arrêté 1999-11-12 art. 1 JORF 23 novembre 1999
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2000-06-02
+	  - Arrêté 2001-05-21
+
+	**Liens**:
+
+	  - DISJONCTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 	**Cite**:
 
 	  - CGI 1628 quinquies
 	  - CGIAN2 325
 	  - Code des assurances R321-1
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1996-11-08 7K-3-96
 
 
 ##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
@@ -19595,33 +19318,35 @@ août).
 ###### Article 170 septies G
 
 Il est statué par le directeur des services fiscaux de la Corse-du-Sud sur les demandes d'agrément présentées en application
-du quatrième alinéa du I de l'article 44 decies ((et du 2° du quatrième alinéa du I de l'article 1466 B )) (M) du code
-général des impôts.
+du quatrième alinéa du I de l'article 44 decies et du b du 2° du quatrième alinéa du I de l'article 1466 B du code général
+des impôts.
 
 Toutefois, la décision est prise par le ministre chargé du budget pour les opérations présentant des difficultés
-particulières ou évoquées par le ministre (1).
+particulières ou évoquées par le ministre.
 
-(1) Ces dispositions s'appliquent aux demandes d'agrément déposées à compter de la date d'entrée en vigueur de l'arrêté.
+**Nota:**
 
-(M) Modification.
+NOTA : Ces dispositions s'appliquent aux demandes d'agrément déposées à compter de la date d'entrée en vigueur de l'arrêté du
+20 mai 1997.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2000-06-02
 
 	**Cite**:
 
-	  - CGI 44 decies I, 1466 B I
+	  - CGI 44 decies, 1466 B
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
+	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
 
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 44 A IV 3 Finances pour 1999 JORF 31 décembre 1998
+	  - Loi n°98-1266 1998-12-30 art. 44 A IV Finances pour 1999 JORF 31 décembre 1998
 
 
 ###### Article 170 sexies
