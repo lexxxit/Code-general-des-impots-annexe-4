@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1988-07-15
+Version Consolidée au 1988-09-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14961,6 +14961,46 @@ Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au c
 
 #### Chapitre II bis : Contributions indirectes
 
+##### Section I : Comité des fruits à cidre et des productions cidricoles.
+
+###### Article 159 AM
+
+Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général des impôts est fixé comme suit :
+
+0,59 F par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
+
+0,78 F par hectolitre :
+
+De jus de pommes à cidre et de poires à poiré et de moûts de de pommes et de poires;
+
+De cidre aromatisé ou non à due proportion de cidre contenu dans le produit fini ;
+
+De fermenté de pommes aromatisé ou non à due proportion ;
+
+De fermenté de pommes contenu dans le produit fini ;
+
+De poiré ;
+
+De fermenté de poires ;
+
+14,94 F par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré et d'apéritifs à base de cidre et de
+poiré.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1988-08-26 art. 1 JORF 11 septembre 1988
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGIAN2 358
+
+
 ##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.
 
 ###### Article 159 AM bis
@@ -16783,39 +16823,6 @@ dessus.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
-
-### CONTRIBUTIONS INDIRECTES
-
-#### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.
-
-###### Article 159 AM
-
-Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général des impôts est fixé comme suit (1) :
-
-0,59 F par quintal de fruits à cidre et à poiré;
-
-0,78 F par hectolitre de cidre et de poiré ou par hectolitre de de moûts de pommes et de poires;
-
-14,94 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre et de poiré.
-
-(1) Taux applicables à compter du 1er septembre 1986.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1987-11-23
-
-	**Cite**:
-
-	  - CGIAN2 358
-
-	**Modifié par**:
-
-	  - Loi n°85-695 1986-07-11 art. 19 JORF 12 juillet 1986
 
 
 ## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*
