@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-11-30
+Version Consolidée au 1980-12-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -124,6 +124,41 @@ spécial institué pour la mise en oeuvre des mesures individuelles d'encouragem
 
 	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
 	  - HISTO: Edition du 31 mars 2001
+
+
+##### 0II : Amortissement exceptionnel des constructions nouvelles.
+
+###### Article 04
+
+Les zones dans lesquelles les entreprises qui bénéficient de l'exonération temporaire de taxe professionnelle prévue par
+l'article 1465 du code général des impôts peuvent pratiquer sans agrément l'amortissement exceptionnel des constructions
+neuves mentionné à l'article 39 quinquies D du même code sont celles délimitées à l'annexe I de l'arrêté du 24 novembre 1980
+(1) et les départements d'outre-mer. Toutefois, les entreprises relevant du secteur des industries agricoles et alimentaires
+qui procèdent, hors du bassin parisien et de la région lyonnaise définis à l'annexe IV du même arrêté, à la création ou à
+l'extension d'installations industrielles peuvent également bénéficier de l'amortissement exceptionnel.
+
+(1) JO du 7 décembre 1980.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1980-11-24 annexe I, annexe IV
+	  - CGI 1465
+	  - CGI 39 quinquies D
+
+	**Créé par**:
+
+	  - Arrêté 1980-11-24 art. 3 JORF 7 décembre 1980
+
+	**Codifié par**:
+
+	  - Arrêté 1990-09-10
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 1990-09-10 art. 1 JORF 11 septembre 1990
+	  - HISTO: décembre 1980)
 
 
 ##### I : Provisions pour fluctuation des cours
@@ -6049,6 +6084,32 @@ l'année suivant celle au cours de laquelle elles ont été déposées.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Exonération temporaire accordée dans le cadre de l'aménagement du territoire.
+
+###### Article 121 quinquies DB ter
+
+Les secteurs des zones d'économie rurale dominante et des zones d'économie montagnarde dans lesquels les seuils d'emplois et
+d'investissements sont réduits par application de l'article 322 G-I-A et II-A de l'annexe III au code général des impôts,
+sont constitués par les zones délimitées à l'annexe III de l'arrêté du 24 novembre 1980 (1).
+
+(1) Voir JO du 7 décembre 1980.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1980-11-24 annexe III
+	  - CGI 322 G I a, II a
+
+	**Créé par**:
+
+	  - Arrêté 1980-11-24 art. 1 JORF 7 décembre 1980
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
 
 
 ##### Section III : Commission consultative départementale des évaluations foncières
@@ -12106,6 +12167,43 @@ La commission peut entendre à titre consultatif les personnalités et experts d
 ### IMPOSITIONS COMMUNALES
 
 #### IMPOTS DIRECTS ET TAXES ASSIMILEES
+
+##### TAXE PROFESSIONNELLE.
+
+###### Article 121 quinquies DB bis
+
+Les zones dans lesquelles l'exonération temporaire de taxe professionnelle prévue par l'article 1465 du code général des
+impôts peut être accordée, sont les suivantes :
+
+1° Créations et extensions d'établissements industriels :
+
+zones délimitées aux annexes I et II de l'arrêté du 24 novembre 1980 (1) et départements d'outre-mer ;
+
+2° Décentralisations d'établissements industriels précédemment implantés dans la région parisienne et la région lyonnaise
+définies à l'annexe IV de l'arrêté du 24 novembre 1980 (1) : ensemble du territoire métropolitain et départements d'outre-
+mer, à l'exception du bassin parisien et de la région lyonnaise définis à la même annexe ;
+
+3° Créations, extensions et décentralisations d'établissements de recherche scientifique et technique : ensemble du
+territoire métropolitain et départements d'outre-mer, à l'exception du bassin parisien défini à l'annexe V de l'arrêté du 24
+novembre 1980 (1).
+
+(1) Voir JO du 7 décembre 1980.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1980-11-24 annexe I, annexe II, annexe IV, annexe V
+	  - CGI 1465
+
+	**Créé par**:
+
+	  - Arrêté 1980-11-24 art. 1 JORF 7 décembre 1980
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 
 ##### COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES.
 
