@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2005-02-15
+Version Consolidée au 2005-03-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14866,204 +14866,37 @@ l'article 328 D quater de l'annexe III au présent code.
 
 ###### Article 155 C
 
-I. Le paiement de la taxe différentielle sur les véhicules à moteur, instituée par l'article 1599 C du code général des
-impôts, est constaté au moyen de la délivrance d'une vignette mobile constituée d'un reçu dont les conditions d'utilisation
-sont définies à l'article 155 H.
+Le paiement de la taxe différentielle sur les véhicules à moteur, instituée à l'article 1599 C du code général des impôts,
+est accompagné du dépôt d'une déclaration déposée avant le 10 décembre de chaque année. Elle doit mentionner le décompte des
+véhicules détenus par le redevable à la date du 1er décembre.
 
-II. Outre la série normale des vignettes payantes, dont les types correspondent aux différentes catégories d'imposition, il
-existe une vignette spéciale destinée à la délivrance des duplicata et constituée du même élément que les vignettes payantes.
+Une déclaration complémentaire est déposée :
 
-III. Les modèles de vignettes sont fixés par décision du ministre chargé du budget.
+a) Avant le 10 mars, au titre des véhicules qui font l'objet d'une première mise en circulation ou qui cessent d'être en
+situation de bénéficier d'une exonération ou d'une dispense entre le 2 décembre et le dernier jour du mois de février ;
+
+b) Avant le 10 juin, au titre des véhicules qui font l'objet d'une première mise en circulation ou qui cessent d'être en
+situation de bénéficier d'une exonération ou d'une dispense entre le 1er mars et le 31 mai ;
+
+c) Avant le 10 septembre, au titre des véhicules qui font l'objet d'une première mise en circulation ou qui cessent d'être en
+situation de bénéficier d'une exonération ou d'une dispense entre le 1er juin et le 14 août.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2001-12-19 art. 1 JORF 22 décembre 2001
+	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
 
 	**Cite**:
 
 	  - CGI 1599 C
-	  - CGIAN4 155 H
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-
-###### Article 155 D
-
-Les vignettes mentionnées aux I et II de l'article 155 C sont délivrées par les recettes des impôts désignées par
-l'administration.
-
-Les recettes des douanes et droits indirects désignées par l'administration par la voie du Bulletin officiel des douanes sont
-habilitées à délivrer les vignettes payantes.
-
-Sont également habilités à délivrer les vignettes payantes :
-
-1° Les services préfectoraux, pour les véhicules faisant l'objet d'une première mise en circulation ;
-
-2° Les débitants de tabac volontaires, aux détenteurs de véhicules neufs, dans les trente jours suivant la date de première
-mise en circulation ;
-
-3° Pendant une période fixée chaque année par l'administration, les distributeurs auxiliaires commissionnés pour la vente des
-timbres fiscaux et les gérants des débits de tabac.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-12-19 art. 1 JORF 22 décembre 2001
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
-
-	**Cite**:
-
-	  - CGI 155 C
 
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 31 mars 2002
-
-
-###### Article 155 E
-
-Les distributeurs auxiliaires et les débitants visés à l'article 155 D peuvent recevoir, à titre de dépôt, et dans des
-conditions fixées par l'administration, un approvisionnement de vignettes dont ils sont comptables vis-à-vis du Trésor.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1956-10-19 art. 3 JORF 23 octobre 1956
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
-
-	**Cite**:
-
-	  - CGIAN4 155 D
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 20 juillet 1984
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 155 F
-
-La vignette est délivrée sur présentation du certificat d'immatriculation du véhicule.
-
-Le numéro minéralogique du véhicule est inscrit sur le reçu par le préposé chargé de la délivrance qui appose au verso le
-cachet de la recette ou du débit distributeur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 20 juillet 1984
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 155 G
-
-En cas de changement du numéro minéralogique du véhicule, le numéro de l'ancien certificat d'immatriculation est maintenu sur
-le reçu. Le numéro du nouveau certificat est inscrit immédiatement au-dessus par les soins du service chargé de la remise du
-nouveau certificat d'immatriculation. Le cachet de ce service est apposé au verso.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 20 juillet 1984
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 155 H
-
-Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
-désignés à l'article L. 213 du livre des procédures fiscales.
-
-Cette disposition s'applique aux vignettes de la série normale comme aux vignettes spéciales prévues à l'article 155 C.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2005-04-06 art. 1 JORF 8 avril 2005
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
-
-	**Cite**:
-
-	  - CGIAN4 155 C
-	  - Livre des procédures fiscales - art. L213 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 1er janvier 2006
-
-
-###### Article 155 I
-
-Un duplicata peut être délivré, en cas de destruction, de perte ou de vol d'une vignette, sur demande écrite du contribuable
-adressée au comptable public qui a vendu cette vignette ou à la recette des impôts dans le ressort de laquelle cette vignette
-a été vendue.
-
-La demande doit indiquer, indépendamment des circonstances de la perte, la date précise de l'acquisition et, le cas échéant,
-le nom et l'adresse du distributeur auxiliaire ou du débitant qui l'a vendue.
-
-Les duplicata sont utilisés dans les mêmes conditions que les vignettes de la série normale.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1997-08-27 art. 3 JORF 3 septembre 1997
-
-	**Abrogé par**:
-
-	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2005-1719 2005-12-30 art. 14 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005
 
 
 ###### Article 155 K
