@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1984-01-08
+Version Consolidée au 1984-01-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -374,6 +374,57 @@ Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi
 
 
 ##### II ter : Provisions pour risques afférents aux opérations de crédit à moyen et à long terme réalisées par les établissements de crédit pour le financement des ventes ou travaux à l'étranger.
+
+###### Article 4 quater
+
+Les établissements de crédit consentant des crédits à moyen et à long terme pour le règlement des ventes ou des travaux
+effectués à l'etranger sont admis à constituer en franchise d'impôt sur le revenu ou d'impôt sur les sociétés, dans les
+conditions prévues aux articles 4 quinquies à 4 septies, une provision destinée à faire face aux risques particuliers
+afférents à ces crédits.
+
+Sont considérées comme effectuées a l'etranger les opérations faites à destination de pays autres que les territoires de la
+Republique francaise (France métropolitaine, départements d'outre-mer et territoires d'outre-mer).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGIAN4 4 quinquies
+	  - CGIAN4 4 septies
+	  - CGIAN4 4 sexies
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+
+###### Article 4 quinquies
+
+Le bénéfice de la provision prévue à l'article 4 quater est limité aux opérations qui font l'objet d'une ouverture de credit
+au cours des années 1966 à 1980.
+
+Son montant ne peut excéder 20 % du montant du risque propre aux crédits définis ci-dessus qui n'est pas couvert
+effectivement par la compagnie francaise pour le commerce extérieur (Coface) ou par tout établissement de crédit, ni 1 % du
+montant de ces mêmes crédits qui figure au bilan de clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGIAN4 4 quater
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
 
 ###### Article 4 septies
 
@@ -1461,6 +1512,52 @@ soit quarante jours pendant les mois de juillet  août et septembre.
 
 ##### III : Engagements d'épargne à long terme
 
+###### Article 17 octies
+
+Pour l'application de l'article 17 septies, les établissements de crédits constitués sous forme de sociétés à responsabilité
+limitée sont assimilés aux établissements de crédits constitués sous forme de sociétés par actions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 septies (V)
+
+
+###### Article 17 septies
+
+Les établissements de crédit visés à l'article 41 N de l'annexe III au code général des impôts peuvent ouvrir des comptes
+d'épargne s'ils justifient d'un capital au moins égal à celui fixé par l'article 16 de la loi n° 84-46 du 24 janvier 1984
+relative à l'activité et au contrôle des établissements de crédit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGIAN3 41 N
+	  - Loi n°84-46 1984-01-24 art. 16
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 I, II JORF 25 janvier 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 octies (V)
+
+
 ###### Article 17 sexies
 
 1. La durée minimale de la période pendant laquelle les personnes physiques qui prennent les engagements d'épargne à long
@@ -1726,6 +1823,49 @@ Aucun pourcentage minimal de participation n'est exigé pour la réalisation du 
 	**Cite**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 J (V)
+
+
+##### Section II : Contrats de prêts dispensés de la déclaration prévue à l'article 49 B de l'annexe III au code général des impôts
+
+###### Article 23 L
+
+Sont dispensés de la déclaration prévue à l'article 49 B de l'annexe III au code général des impôts :
+
+1° Les contrats de prêts dont le montant en principal n'excède pas 5.000 F, sous réserve de l'application des dispositions du
+b du 2 de l'article 49 B susvisé ;
+
+2° (Abrogé) ;
+
+3° Les contrats de prêts conclus par l'Etat, les établissements publics et les collectivités locales ;
+
+4° Les contrats de prêts dans la conclusion desquels les établissements de crédits enregistrés par le conseil national du
+crédit interviennent en qualité de prêteurs ou d'emprunteurs ;
+
+5° Les contrats de prêts réalisés sous la forme d'émission de bons de caisse par des banques ou d'émission publique
+d'obligations.
+
+Toutefois, la dispense de déclaration des contrats de prêts prévue aux 1° à 5° ci-dessus ne s'applique pas aux bons ou titres
+mentionnés au 2° du III bis de l'article 125 A du code général des impôts lorsque leur détenteur communique son identité et
+son domicile fiscal à l'établissement qui assure le paiement des intérêts ou le remboursement de ces bons ou titres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGI 125 A III bis 2°
+	  - CGIAN3 49 B 2 b
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
 ##### Section III : Réévaluation des immobilisations amortissables
@@ -6148,6 +6288,142 @@ des procédures fiscales.
 	  - Livre des procédures fiscales A37-1 1°
 
 
+##### B : Bulletins de souscription d'actions
+
+###### Article 93 H bis
+
+Les autorisations de payer sur états le droit de timbre de dimension afférent aux bulletins de souscriptions d'actions
+peuvent être accordées soit aux sociétés émettrices soit aux banques chargées de centraliser les émissions ; elles ne sont
+valables que pour une seule constitution de société ou augmentation de capital. Toutefois les établissements de crédit
+chargés de centraliser les émissions d'actions peuvent obtenir dans le cadre de l'article 93 H quater des autorisations
+permanentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater (V)
+
+
+###### Article 93 H quater
+
+Lorsque la demande est présentée par l'établissement de crédit chargé de centraliser l'émission elle doit être appuyée de
+toutes justifications utiles quant à la qualité des pouvoirs du signataire et comporter l'engagement exprès pour
+l'établissement requérant : 
+
+1° De tenir un registre spécial donnant pour chaque émission ainsi centralisée par l'établissement de crédit les indications
+suivantes : 
+
+a. Le numéro d'ordre qui lui est spécialement affecté dans le registre, cette numérotation étant faite dans une série
+ininterrompue à partir de la date de l'autorisation ; 
+
+b. Le nom ou la raison sociale et le siège social de la société émettrice ; 
+
+c. La date d'ouverture de la souscription ; 
+
+d. Le montant du capital émis ; 
+
+e. Le numéro du compte au crédit duquel figurent les sommes reçues des souscripteurs ; 
+
+f. Le nombre de bulletins souscrits ; 
+
+g. Le montant global des droits exigibles ; 
+
+h. La date de clôture de la souscription ; 
+
+i. La date du versement des droits au Trésor. 
+
+2° De se porter fort, pour le compte des souscripteurs auxquels l'impôt incombe légalement, des droits et amendes de timbre
+exigibles sur les bulletins de souscription, et d'acquitter, sans conditions ni réserves, lesdits droits et amendes. 
+
+3° D'effectuer le versement dans le délai prévu au 3° de l'article 93 H ter. 
+
+4° De déposer à l'appui de ce versement un état en double exemplaire reproduisant les indications portées sur le registre
+spécial pour l'émission considérée, en précisant en outre le nom et l'adresse du notaire chargé de recevoir la déclaration de
+souscription et de versement. 
+
+5° De porter ou faire porter sur les bulletins de souscription la formule visée à l'article 405 I de l'annexe III au code
+général des impôts complétée par la mention " N° (particulier à la souscription) du registre spécial tenu par (nom de
+l'établissement bancaire autorisé) ". 
+
+6° De faire mentionner dans la déclaration de souscription et de versement les indications prévues au 4° de l'article 93 H
+ter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H bis (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H ter (V)
+
+
+###### Article 93 H ter
+
+Lorsque la demande est présentée par la société elle-même  elle doit comporter l'engagement exprès [*mentions*] :
+
+1° D'acquitter les droits exigibles pour le compte des souscripteurs [*paiement*] ;
+
+2° De porter sur les bulletins de souscription la formule visée à l'article 405 I de l'annexe III au code général des impôts;
+
+3° D'effectuer le versement des droits au service des impôts compétent pour accorder l'autorisation  dans les vingt jours
+suivant la clôture des opérations de centralisation de l'émission et  en tout état de cause  avant la déclaration de
+souscription et de versement prévue à l'article 78 de la loi no 66-537 du 24 juillet 1966;
+
+4° De mentionner  dans cette déclaration de souscription et de versement  le nombre de bulletins souscrits  le montant des
+droits de timbre versés au Trésor  le service des impôts auquel ces droits ont été payés ainsi que la date et le numéro de la
+recette;
+
+5° De déposer  à l'appui du versement de l'impôt  un état succinct faisant connaître le montant du capital émis  la date de
+la clôture des opérations de centralisation de l'émission  le nombre de bulletins souscrits et le montant de l'impôt
+exigible.
+
+Lorsqu'il s'agit de bulletins émis à l'occasion de la constitution d'une société nouvelle  il faut  en outre  que :
+
+- l'engagement des fondateurs soit assorti d'un engagement solidaire d'un établissement de crédit ou du notaire appelé à
+recevoir la déclaration de souscription et de versement ;
+
+- la formule d'engagement désigne le service des impôts  en principe celui du futur siège social  où seront versés les droits
+qui devront être acquittés  en tout état de cause  dans les six mois du dépôt des statuts au greffe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGIAN3 405 I
+	  - Loi n°66-537 1966-07-24 ART. 78
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater (V)
+
+
 ##### B ter : Autres actes (paiement sur états)
 
 ###### Article 93 H quater C
@@ -9701,48 +9977,6 @@ rubriques 1o à 4o de l'article 4 J.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 4 quater
-
-LES ETABLISSEMENTS DE BANQUE OU DE CREDIT CONSENTANT DES CREDITS A MOYEN ET A LONG TERME POUR LE REGLEMENT DES VENTES OU DES
-TRAVAUX EFFECTUES A L'ETRANGER SONT ADMIS A CONSTITUER EN FRANCHISE D'IMPOT SUR LE REVENU OU D'IMPOT SUR LES SOCIETES, DANS
-LES CONDITIONS PREVUES AUX ARTICLES 4 QUINQUIES A 4 SEPTIES, UNE PROVISION DESTINEE A FAIRE FACE AUX RISQUES PARTICULIERS
-AFFERENTS A CES CREDITS    EONT CONSIDEREES COMME EFFECTUEES A L'ETRANGER LES OPERATIONS FAITES A DESTINATION DE PAYS AUTRES
-QUE LES TERRITOIRES DE LA REPUBLIQUE FRANCAISE (FRANCE METROPOLITAINE, DEPARTEMENTS D'OUTRE-MER *DOM* ET TERRITOIRES D'OUTRE-
-MER *TOM*).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 4 quinquies
-	  - CGIAN4 4 septies
-	  - CGIAN4 4 sexies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 4 quinquies
-
-LE BENEFICE DE LA PROVISION PREVUE A L'ARTICLE 4 QUATER EST LIMITE AUX OPERATIONS QUI FONT L'OBJET D'UNE OUVERTURE DE CREDIT
-AU COURS DES ANNEES 1966 A 1980.
-
-SON MONTANT NE PEUT EXCEDER 20 % DU MONTANT DU RISQUE PROPRE AUX CREDITS DEFINIS CI-DESSUS QUI N'EST PAS COUVERT
-EFFECTIVEMENT PAR LA COMPAGNIE FRANCAISE POUR LE COMMERCE EXTERIEUR (COFACE) OU PAR TOUTE BANQUE OU ETABLISSEMENT FINANCIER,
-NI 1 % DU MONTANT DE CES MEMES CREDITS QUI FIGURE AU BILAN DE CLOTURE DE L'EXERCICE.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 4 quater
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### REVENU DES CAPITAUX MOBILIERS.
 
 ###### Article 6 ter
@@ -10203,22 +10437,6 @@ Les mêmes dispositions s'appliquent aux documents prévus au 4.
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
 
 
-###### Article 17 octies
-
-Pour l'application de l'article 17 septies  les établissements financiers constitués sous forme de sociétés à responsabilité
-limitée sont assimilés aux établissements financiers constitués sous forme de sociétés par actions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 17 septies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 17 quinquies A
 
 L'agrément prévu à l'article 41 H de l'annexe III au code général des impôts pour l'application de l'article 156-I-3° et
@@ -10265,29 +10483,6 @@ DEDUCTION DE 20 % PREVUE A L'ARTICLE 159 QUINQUIES II DU MEME CODE.
 	**Liens**:
 
 	  - PEREMPTION: Conséquence du décret 87-940 1987-11-23 JORF 26 novembre 1987 en vigueur le 10 août 1987 : article devenu sans objet
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 17 septies
-
-Les établissements financiers visés à l'article 41 N de l'annexe III au code général des impôts peuvent ouvrir des comptes
-d'épargne s'ils justifient d'un capital au moins égal à celui fixé pour les banques de dépôts de même forme juridique en
-application de l'article 8 modifié de la loi du 13 juin 1941 et de l'article 1er du décret n° 66-81 du 25 janvier 1966.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 41 N
-	  - Décret n°66-81 1966-01-25 ART. 1
-	  - Loi n°1941-06-13 ART. 8
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 octies (V)
-
-	**Liens**:
-
 	  - HISTO: EDITION 1979-07-01
 
 
@@ -10635,45 +10830,6 @@ temps un exemplaire sur papier non timbré dûment certifié de l'acte modificat
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### IMPOT SUR LES SOCIETES
-
-##### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES
-
-##### CONTRATS DE PRETS DISPENSES DE LA DECLARATION PREVUE A L'ARTICLE 49 B DE L'ANNEXE III AU CODE GENERAL DES IMPOTS.
-
-###### Article 23 L
-
-Sont dispensés de la déclaration prévue à l'article 49 B de l'annexe III au code général des impôts :
-
-1o Les contrats de prêts dont le montant en principal n'excède pas 5.000 F, sous réserve de l'application des dispositions de
-l'article 49 B-2-b susvisé;
-
-2o (Abrogé);
-
-3o Les contrats de prêts conclus par l'Etat  les établissements publics et les collectivités locales;
-
-4o Les contrats de prêts dans la conclusion desquels les banques et les établissements financiers enregistrés par le conseil
-national du crédit interviennent en qualité de prêteurs ou d'emprunteurs;
-
-5o Les contrats de prêts réalisés sous la forme d'émission de bons de caisse par des banques ou d'émission publique
-d'obligations.
-
-Toutefois, la dispense de déclaration des contrats de prêts prévue aux 1° à 5° ci-dessus ne s'applique pas aux bons ou titres
-mentionnés au 2° du III bis de l'article 125 A du code général des impôts lorsque leur détenteur communique son identité et
-son domicile fiscal à l'établissement qui assure le paiement des intérêts ou le remboursement de ces bons ou titres.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1981-12-30 art. 1 JORF 31 décembre 1981
-
-	**Cite**:
-
-	  - CGI 125 A III bis 2°
-	  - CGIAN3 49 B 2 b
 
 
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*
@@ -12921,129 +13077,6 @@ d'établissement, à 5 F par face de fiche.
 
 
 ### DROITS DE TIMBRE
-
-#### DROITS DE TIMBRE PROPREMENT DITS.
-
-###### Article 93 H bis
-
-Les autorisations de payer [*paiement*] sur états le droit de timbre de dimension afférent aux bulletins de souscriptions
-d'actions peuvent être accordées soit aux sociétés émettrices soit aux banques chargées de centraliser les émissions; elles
-ne sont valables que pour une seule constitution de société ou augmentation de capital. Toutefois les banques chargées de
-centraliser les émissions d'actions peuvent obtenir dans le cadre de l'article 93 H quater des autorisations permanentes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 93 H quater
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 93 H quater
-
-Lorsque la demande est présentée par la banque chargée de centraliser l'émission  elle doit être appuyée de toutes
-justifications utiles quant à la qualité des pouvoirs du signataire et comporter l'engagement exprès  pour l'établissement
-requérant :
-
-1° De tenir un registre spécial donnant pour chaque émission ainsi centralisée par la banque les indications suivantes
-[*mentions*] :
-
-a. Le numéro d'ordre qui lui est spécialement affecté dans le registre  cette numérotation étant faite dans une série
-ininterrompue à partir de la date de l'autorisation;
-
-b. Le nom ou la raison sociale et le siège social de la société émettrice;
-
-c. La date d'ouverture de la souscription;
-
-d. Le montant du capital émis;
-
-e. Le numéro du compte au crédit duquel figurent les sommes reçues des souscripteurs;
-
-f. Le nombre de bulletins souscrits;
-
-g. Le montant global des droits exigibles;
-
-h. La date de clôture de la souscription;
-
-i. La date du versement des droits au Trésor.
-
-2° De se porter fort  pour le compte des souscripteurs auxquels l'impôt incombe légalement  des droits et amendes de timbre
-exigibles sur les bulletins de souscription  et d'acquitter  sans conditions ni réserves  lesdits droits et amendes.
-
-3° D'effectuer le versement dans le délai prévu à l'article 93 H ter-3°.
-
-4° De déposer  à l'appui de ce versement  un état en double exemplaire reproduisant les indications portées sur le registre
-spécial pour l'émission considérée  en précisant en outre le nom et l'adresse du notaire chargé de recevoir la déclaration de
-souscription et de versement.
-
-5° De porter ou faire porter sur les bulletins de souscription la formule visée à l'article 405 I de l'annexe III au code
-général des impôts complétée par la mention " No (particulier à la souscription) du registre spécial tenu par (nom de
-l'établissement bancaire autorisé) ".
-
-6° De faire mentionner dans la déclaration de souscription et de versement les indications prévues à l'article 93 H ter-4°.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 405 I
-	  - CGIAN4 93 H ter 3°, 4°
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H bis (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 93 H ter
-
-Lorsque la demande est présentée par la société elle-même  elle doit comporter l'engagement exprès [*mentions*] :
-
-1o D'acquitter les droits exigibles pour le compte des souscripteurs [*paiement*] ;
-
-2o De porter sur les bulletins de souscription la formule visée à l'article 405 I de l'annexe III au code général des impôts;
-
-3o D'effectuer le versement des droits au service des impôts compétent pour accorder l'autorisation  dans les vingt jours
-suivant la clôture des opérations de centralisation de l'émission et  en tout état de cause  avant la déclaration de
-souscription et de versement prévue à l'article 78 de la loi no 66-537 du 24 juillet 1966;
-
-4o De mentionner  dans cette déclaration de souscription et de versement  le nombre de bulletins souscrits  le montant des
-droits de timbre versés au Trésor  le service des impôts auquel ces droits ont été payés ainsi que la date et le numéro de la
-recette;
-
-5o De déposer  à l'appui du versement de l'impôt  un état succinct faisant connaître le montant du capital émis  la date de
-la clôture des opérations de centralisation de l'émission  le nombre de bulletins souscrits et le montant de l'impôt
-exigible.
-
-Lorsqu'il s'agit de bulletins émis à l'occasion de la constitution d'une société nouvelle  il faut  en outre  que :
-
-l'engagement des fondateurs soit assorti d'un engagement solidaire d'un établissement de crédit ou de banque agréé ou du
-notaire appelé à recevoir la déclaration de souscription et de versement;
-
-la formule d'engagement désigne le service des impôts  en principe celui du futur siège social  où seront versés les droits
-qui devront être acquittés  en tout état de cause  dans les six mois du dépôt des statuts au greffe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 405 I
-	  - Loi n°66-537 1966-07-24 ART. 78
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater (V)
-
 
 #### DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES.
 
@@ -15466,6 +15499,77 @@ intérêt.
 
 
 
+### Section I ter : Retenue à la source sur les dividendes et les revenus assimilés des actions et parts sociales des sociétés françaises
+
+###### Article 188 H
+
+1. La retenue opérée par les agences ou succursales des établissements de crédit peut faire l'objet de versements globaux.
+Dans ce cas l'organisme centralisateur dresse et conserve pour chaque versement un état faisant apparaître le montant des
+sommes versées pour le compte de chacune des agences ou succursales. Les liasses visées à l'article 17 A-3 sont conservées
+soit par l'organisme centralisateur soit par l'agence ou succursale.
+
+2. La possibilité d'effectuer des versements globaux est subordonnée au dépôt d'une déclaration à la direction des services
+fiscaux de la résidence de l'organisme centralisateur. Cette déclaration  établie sur papier libre  est signée de la personne
+habilitée à engager l'établissement  justifiant de son identité et de l'étendue de ses pouvoirs et contient [*mentions*] la
+désignation de chacune des agences ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu
+où seront conservées les liasses visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle
+déclaration souscrite dans les mêmes formes. Chaque déclaration prend effet dès le versement afférent au trimestre civil en
+cours si elle intervient plus d'un mois avant l'expiration de ce trimestre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGIAN4 17 A 3
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 188 L (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 A (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (V)
+
+
+### Section I quater : Prélèvement sur les produits de placements à revenu fixe
+
+###### Article 188 I
+
+Le prélèvement opéré par les agences et succursales des établissements de crédit par les caisses publiques et par les caisses
+d'épargne peut faire l'objet de versements globaux dans les conditions prévues à l'article 188 H.
+
+La déclaration préalable qui doit être adressée à la direction des services fiscaux de la résidence de l'organisme
+centralisateur peut viser à la fois le versement de la retenue à la source prévue audit article et celui du prélèvement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGIAN4 188 H
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 D (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+
 ### Section II : Taxes sur le chiffre d'affaires et taxes assimilées
 
 ###### Article 189
@@ -15906,65 +16010,6 @@ attestations de contestation, des attestations de paiement et des certificats de
 # RECOUVREMENT DE L'IMPOT
 
 ## PAIEMENT DE L'IMPOT
-
-### RETENUE A LA SOURCE SUR LES DIVIDENDES ET LES REVENUS ASSIMILES DES ACTIONS ET PARTS SOCIALES DES SOCIETES FRANCAISES.
-
-###### Article 188 H
-
-1. La retenue opérée par les agences ou succursales de banques peut faire l'objet de versements globaux. Dans ce cas
-l'organisme centralisateur dresse et conserve pour chaque versement un état faisant apparaître le montant des sommes versées
-pour le compte de chacune des agences ou succursales. Les liasses visées à l'article 17 A-3 sont conservées soit par
-l'organisme centralisateur  soit par l'agence ou succursale.
-
-2. La possibilité d'effectuer des versements globaux est subordonnée au dépôt d'une déclaration à la direction des services
-fiscaux de la résidence de l'organisme centralisateur. Cette déclaration  établie sur papier libre  est signée de la personne
-habilitée à engager l'établissement  justifiant de son identité et de l'étendue de ses pouvoirs et contient [*mentions*] la
-désignation de chacune des agences ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu
-où seront conservées les liasses visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle
-déclaration souscrite dans les mêmes formes. Chaque déclaration prend effet dès le versement afférent au trimestre civil en
-cours si elle intervient plus d'un mois avant l'expiration de ce trimestre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 17 A 3
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 188 L (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 A (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### PRELEVEMENT SUR LES PRODUITS DE PLACEMENTS A REVENU FIXE
-
-###### Article 188 I
-
-Le prélèvement opéré par les agences et succursales de banques par les caisses publiques et par les caisses d'épargne peut
-faire l'objet de versements globaux dans les conditions prévues à l'article 188 H.
-
-La déclaration préalable qui doit être adressée à la direction des services fiscaux de la résidence de l'organisme
-centralisateur peut viser à la fois le versement de la retenue à la source prévue audit article et celui du prélèvement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 188 H
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 D (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ### PENALITES
 
