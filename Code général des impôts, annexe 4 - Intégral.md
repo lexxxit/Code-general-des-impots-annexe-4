@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-10-31
+Version Consolidée au 1981-12-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6134,6 +6134,68 @@ Sociétés mutualistes, unions de sociétés mutualistes et fédérations d'unio
 
 #### Chapitre premier : Entreprises exerçant leur activité dans les départements d'outre-mer
 
+###### Article 121 V nonies
+
+La commission centrale donne un avis motivé :
+
+1° Sur les demandes d'agrément présentées au titre de l'article 208 quater du code général des impôts lorsque le montant du
+programme d'investissement excède la limite de délégation de pouvoir prévue par l'article 121 V octies, ainsi que lorsque le
+directeur des services fiscaux ou le trésorier payeur général ne partage pas l'avis émis par la commission locale ;
+
+2° Sur les demandes d'agrément présentées au titre de l'article 1655 bis du code général des impôts.
+
+Le ministre du budget statue sur les demandes d'agrément fiscal de la compétence de la commission centrale. Sa décision est
+notifiée par le directeur des services fiscaux du département intéressé.
+
+La commission centrale d'agrément peut également formuler des observations sur les avis émis par les commissions locales et
+entrant dans les limites de la compétence départementale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1981-12-02 art. 6, art. 7 JONC 19 décembre 1981
+
+	**Codifié par**:
+
+	  - Arrêté 2002-06-06
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2002-06-06 art. 1 JORF 8 juin 2002
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2002
+
+	**Cite**:
+
+	  - CGI 1655 bis
+	  - CGI 208 quater
+	  - CGIAN4 121 V octies 2 1°, 2°
+
+
+###### Article 121 V quinquies
+
+Les demandes d'agrément présentées au titre de l'article 208 quater du code général des impôts sont établies en quatre
+exemplaires conformément à un modèle fixé par la commission centrale et adressées préalablement à la constitution de la
+société, ou à la création d'une activité nouvelle au directeur des services fiscaux du département ou sera réalisé
+l'investissement. Ce dernier en accuse réception et en effectue la transmission au secrétariat de la commission locale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1981-12-02 art. 3 JONC 19 décembre 1981
+
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+	  - Arrêté 1994-10-17
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 208 quater (V)
+
+
 ###### Article 121 V septies
 
 Les demandes d'agrément présentées au titre de l'article 1655 bis du code général des impôts sont adressées en quatre
@@ -12042,222 +12104,142 @@ transports sanitaires privés utilisés par une entreprise agréée conformémen
 
 ###### Article 121 V bis
 
-Dans chacun des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, la commission locale
-mentionnée à l'article 208 quater du code général des impôts est composée comme suit :
+Dans chacun des départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon ,
+la commission locale mentionnée à l'article 208 quater du code général des impôts est composée comme suit :
 
-Le préfet du département ou son représentant  président;
+Le préfet du département ou son représentant, président;
 
 Le trésorier-payeur général;
 
-Le directeur des services fiscaux;
+Le secrétaire général des affaires économiques ou le fonctionnaire en tenant lieu ;
 
-Le délégué aux affaires économiques;
+Le directeur des services fiscaux ;
 
-Le directeur du service des enquêtes économiques;
+Le directeur de la concurrence et de la consommation ;
 
 Le chef du service dont relève l'activité à encourager;
 
-Le directeur local de la caisse centrale de coopération économique;
+Le directeur local de la SOCREDOM ;
 
-Le secrétariat de la commission est assuré par un agent de la direction générale des impôts désigné par le préfet.
+Le directeur régional des douanes et des droits indirects, ou leurs représentants ;
 
-La commission se réunit sur la convocation du préfet. Elle délibère valablement à condition qu'il y ait au moins cinq membres
-présents [*quorum*]. En cas de partage égal des voix la voix du président est prépondérante.
+Le représentant local du ministère de l'industrie ;
 
-La commission entend  à titre consultatif  les personnalités et experts dont elle estime utile de prendre l'avis.
+Le représentant local de l'INSEE, membre de la commission à titre consultatif.
+
+Le secrétariat de la commission est assuré par un agent de la direction générale des impôts désigné par le préfet, sur
+proposition du directeur des services fiscaux.
+
+La commission se réunit sur la convocation du préfet. Sauf en cas d'urgence dûment motivé, ses membres sont convoqués dix
+jours au moins avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins six membres
+présents. En cas de partage égal des voix, la voix du président est prépondérante.
+
+La commission entend, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
+
+Les membres de la commission, ainsi que les personnalités ou experts entendus à titre consultatif, sont tenus au secret
+professionnel.
+
+Les avis sont émis par la commission en présence uniquement des membres ayant voix délibérative, ainsi que du représentant de
+l'INSEE.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1981-12-02 art. 1 JONC 19 décembre 1981
+
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1982-10-15
 
 	**Cite**:
 
 	  - CGI 208 quater
-
-	**Modifié par**:
-
-	  - Loi n°80-30 1980-01-18 art. 79 II, V Finances pour 1980 JORF 19 janvier 1980
-	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 janvier 1980
-
-
-###### Article 121 V decies
-
-Les sociétés bénéficiant d'un agrément au titre de l'article 208 quater du même code sont tenues de joindre à la déclaration
-des résultats de tout exercice sur lequel porte cet agrément un compte rendu détaillé de leur activité au cours dudit
-exercice.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Abrogé par**:
-
-	  - Arrêté 1981-12-02 art. 8 JONC 19 décembre 1981
-
-	**Cite**:
-
-	  - CGI 208 quater
-
-	**Modifié par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 janvier 1980
-
-
-###### Article 121 V nonies
-
-1. Le ministre de l'économie et des finances  président de la commission centrale  statue :
-
-1o (Abrogé)    2o Sur les demandes d'agrément présentées au titre de l'article 208 quater du code général des impôts
-[*exonération d'IS*] :
-
-Lorsque le montant du programme d'investissement excède le plafond fixé à l'article 121 V octies-2-2o;
-
-Lorsque le programme d'investissement doit être réalisé dans le département de la Guyane;
-
-Lorsque le directeur des services fiscaux ne partage pas l'avis émis par la commission locale.
-
-Les décisions du ministre de l'économie et des finances sont communiquées au président de la commission locale qui les
-notifie aux contribuables intéressés.
-
-2. La commission centrale émet un avis motivé sur les demandes d'agrément présentées au titre de l'article 1655 bis du code
-général des impôts [*régime fiscal des sociétés ayant pour objet la recherche et l'exploitation minière dans les TOM*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI 1655 bis
-	  - CGI 208 quater
-	  - CGIAN4 121 V octies 2 1°, 2°
-
-	**Liens**:
-
-	  - HISTO: JORF 19 janvier 1980)
-
-	**Modifié par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P)
 
 
 ###### Article 121 V octies
 
-1. Les commissions locales émettent des avis motivés sur les demandes d'agrément entrant dans les prévisions des articles 121
-V quater et 121 V quinquies [*exonération des bénéfices ou revenus investis dans les DOM, exonération d'IS*].
+Les commissions locales émettent des avis motivés sur les demandes d'agrément visées à l'article 208 quater du code général
+des impôts [*exonération des bénéfices ou revenus investis dans les DOM, exonération d'IS*].
 
-2. Lorsqu'ils partagent l'avis émis par la commission locale  les directeurs des services fiscaux des départements de la
-Guadeloupe  de la Martinique et de la Réunion [*autorité compétente*] peuvent statuer :
+Dans les départements de la Guadeloupe, de la Martinique et de la Réunion, la décision est prise et notifiée par le directeur
+des services fiscaux lorsque, lui-même et le trésorier payeur général partageant l'avis de la commission locale, le montant
+du programme d'investissement n'excède pas 2.000.000 F ou sa contre-valeur en monnaie locale.
 
-1o Sur les demandes d'agrément visées à l'article 121 V quater lorsque les bénéfices ont été réalisés dans le département où
-il est projeté de les investir et lorsque la valeur totale de l'investissement n'excède pas  pour chaque catégorie  les
-montants ci-après :
-
-500.000 F     Construction de maisons d'habitation ...      ou leur     Industrie sucrière et activités agricoles  contre-
-valeur     Industrie hôtelière et touristique ...      en monnaie local
-250.000 F                                                   ou leur    Autres activités ...                        contre-
-valeur                                                en monnaie locale.
-
-2o Sur les demandes d'agrément visées à l'article 121 V quinquies lorsque le montant du programme d'investissement n'excède
-pas 2.000.000 F ou leur contre-valeur en monnaie locale.
-
-La conversion en monnaie locale est effectuée  dans le département de la Réunion  dans les conditions prévues à l'article 4
-de la loi no 60-1368 du 21 décembre 1960.
-
-3. Les directeurs des services fiscaux notifient leurs décisions aux contribuables intéressés. Ces décisions sont transmises
-accompagnées d'un exemplaire du dossier  au secrétariat de la commission centrale ainsi qu'à la direction générale des
-impôts.
-
-Les avis émis par les commissions locales sur les demandes qui n'ont pas fait l'objet de décisions sont transmis  accompagnés
-d'un exemplaire du dossier  au secrétariat de la commission centrale ainsi qu'à la direction générale des impôts.
+Lorsque la décision ne peut être prise par le directeur des services fiscaux en vertu des dispositions de l'alinéa précédent,
+l'avis de la commission locale est transmis, accompagné d'un exemplaire de la demande, au secrétaire de la commission
+centrale et aux services centraux de la direction générale des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN4 121 V quater
-	  - CGIAN4 121 V quinquies
-	  - Loi n°60-1368 1960-12-21 ART. 4
+	  - Arrêté 1971-01-16 art. 2 JORF 16 janvier 1971
+	  - Arrêté 1981-12-02 art. 5 JONC 19 décembre 1981
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 121 V quinquies
-
-Les demandes d'agrément présentées au titre de l'article 208 quater du code général des impôts [*possibilité d'exonération de
-l'impôt sur les sociétés*] sont établies en quatre exemplaires conformément à un modèle fixé par la commission centrale et
-adressées préalablement à la constitution de la société à l'augmentation de son capital ou à la création d'une activité
-nouvelle [*délai de dépôt, déclaration*] au directeur des services fiscaux du lieu d'exécution des investissements. Ce
-dernier en accuse réception et en effectue la transmission au secrétariat de la commission locale de son département.
-
-**Liens relatifs à cet article**
+	  - Arrêté 1982-10-15
 
 	**Cite**:
 
 	  - CGI 208 quater
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 121 V ter
 
 La commission centrale mentionnée à l'article 208 quater du code général des impôts est composée comme suit :
 
-Le ministre de l'économie et des finances ou son représentant président;
+Le représentant des ministres de l'économie et du budget, président;
 
-Le secrétaire d'Etat auprès du Premier ministre chargé des départements et territoires d'outre-mer ;
+Le représentant du secrétaire d'Etat auprès du ministre de l'intérieur (DOM-TOM) ;
 
-Le ministre dont relève l'activité à encourager;
+Le représentant du ministre dont relève l'activité à encourager ;
 
 Le commissaire général du plan d'équipement et de la productivité; L'inspecteur général des finances chargé de la division
-des départements et territoires d'outre-mer;
+des départements d'outre-mer ;
 
-Le directeur général des impôts;
+Le directeur général des impôts ;
 
-Le directeur du budget;
+Le directeur du budget ;
 
-Le directeur du Trésor;
+Le directeur du Trésor ;
 
-Le directeur de la comptabilité publique;
+Le directeur de la comptabilité publique ;
 
-Le directeur général de la caisse centrale de coopération économique ou leurs représentants.
+Le directeur général des douanes et des droits indirects ;
 
-La commission centrale comprend en outre le directeur général des douanes et droits indirects ou son représentant lorsqu'elle
-siège pour formuler un avis sur les demandes présentées au titre de l'article 1655 bis du code général des impôts.
+Le directeur général de la concurrence et de la consommation ;
 
-Le secrétariat de la commission centrale est assuré par les services du secrétariat général pour l'administration des
-départements d'outre-mer.
+Le directeur général de la SOCREDOM, ou leurs représentants.
 
-La commission se réunit sur la convocation du président. Elle délibère valablement à condition qu'il y ait au moins six
-membres présents. En cas de partage égal des voix la voix du président est prépondérante.
+Le secrétariat de la commission centrale est assuré par les services de la direction des affaires économiques, sociales et
+culturelles du secrétariat d'Etat auprès du ministre de l'intérieur (DOM-TOM).
 
-La commission peut entendre à titre consultatif les personnalités et experts dont elle estime utile de prendre l'avis.
+La commission se réunit sur la convocation du président. Sauf en cas d'urgence dûment motivé, ses membres sont convoqués dix
+jours au moins avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins sept membres
+présents. En cas de partage égal des voix, la voix du président est prépondérante.
+
+La commission peut entendre, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
+
+Les membres de la commission, ainsi que les personnalités ou experts entendus à titre consultatif, sont tenus au secret
+professionnel.
+
+Les avis sont émis par la commission en présence uniquement des membres ayant voix délibérative.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1981-12-02 art. 2 JONC 19 décembre 1981
+
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1982-10-15
 
 	**Cite**:
 
-	  - CGI 1655 bis
 	  - CGI 208 quater
-
-	**Modifié par**:
-
-	  - Loi n°80-30 1980-01-18 art. 79 II, V Finances pour 1980 JORF 19 janvier 1980
-	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 janvier 1980
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
