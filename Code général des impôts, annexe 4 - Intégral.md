@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1991-10-29
+Version Consolidée au 1992-01-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5957,7 +5957,7 @@ timbrer faisant l'objet du présent article est simplement tenue d'en faire la d
 
 ###### Article 50 terdecies
 
-Le tarif de la redevance sanitaire d'abattage perçue jusqu'au 31 décembre 1991 s'établit comme suit :
+Le tarif de la redevance sanitaire d'abattage perçue du 1er janvier 1992 jusqu'au 31 décembre 1992 s'établit comme suit :
 
 Pour les gros bovins : 86 F par tonne, 0,086 F par kilogramme.
 
@@ -5979,38 +5979,38 @@ Pour les volailles : 22 F par tonne, 0,022 F par kilogramme.
 
 	**Créé par**:
 
-	  - Arrêté 1991-03-20 art. 1 JORF 22 mars 1991
+	  - Arrêté 1991-12-31 art. 1 JORF 9 janvier 1992
 
 	**Modifié par**:
 
-	  - Modification directe incorporée dans l'édition du 24 juin 1991
+	  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
 #### Chapitre III : Redevance sanitaire de découpage
 
 ###### Article 50 quaterdecies
 
-Le tarif de la redevance sanitaire de découpage perçue jusqu'au 31 décembre 1991 s'établit comme suit :
+Le tarif de la redevance sanitaire de découpage perçue du 1er janvier 1992 jusqu'au 31 décembre 1992 s'établit comme suit :
 
 Pour les espèces d'animaux de boucherie : 11 F par tonne, 0,011 F par kilogramme.
 
 Pour les volailles du genre Gallus : 1,2 F par tonne, 0,0012 F par kilogramme.
 
-Pour les dindes : 7,0 F par tonne, 0,007 F par kilogramme.
+Pour les dindes : 7,3 F par tonne, 0,0073 F par kilogramme.
 
-Pour les canards : 7,9 F par tonne, 0,0079 F par kilogramme.
+Pour les canards : 7,7 F par tonne, 0,0077 F par kilogramme.
 
-Pour les pintade : 0,4F par tonne, 0,0004 F par kilogramme.
+Pour les pintade : 0,7 F par tonne, 0,0007 F par kilogramme.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Arrêté 1991-03-20 art. 2 JORF 22 mars 1991
+	  - Arrêté 1991-12-31 art. 2 JORF 9 janvier 1992
 
 	**Modifié par**:
 
-	  - Modification directe incorporée dans l'édition du 24 juin 1991
+	  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
