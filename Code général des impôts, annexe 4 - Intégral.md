@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-01-09
+Version Consolidée au 1986-01-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9554,6 +9554,38 @@ III. Les modèles de vignettes sont fixés par décision du ministre chargé du 
 	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
 
 
+###### Article 155 D
+
+Les vignettes mentionnées aux I et II de l'article 155 C sont délivrées par les recettes des impôts désignées par
+l'administration.
+
+Sont également habilités à délivrer les vignettes payantes :
+
+Les services préfectoraux, pour les véhicules faisant l'objet d'une première mise en circulation ;
+
+Pendant une période fixée chaque année par l'administration, les distributeurs auxiliaires commissionnés par la vente des
+timbres fiscaux et les gérants des débits de tabac.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGIAN4 155 C I, II
+
+	**Modifié par**:
+
+	  - Décret n°86-95 du 15 janvier 1986 - art. 1 (Ab) JORF 23 janvier 1986
+	  - Décret n°86-95 du 15 janvier 1986 - art. 11 (V) JORF 23 janvier 1986
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ###### Article 155 H
 
 Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
@@ -13899,37 +13931,6 @@ afférente à l'année suivant celle au cours de laquelle ils ont été établis
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-### IMPOSITIONS DEPARTEMENTALES.
-
-###### Article 155 D
-
-Les vignettes mentionnées aux I et II de l'article 155 C sont délivrées par les recettes des impôts désignées par
-l'administration.
-
-Sont également habilités à délivrer les vignettes payantes :
-
-- les services préfectoraux, pour les véhicules faisant l'objet d'une première mise en circulation ;
-
-- pendant une période fixée chaque année par l'administration, les distributeurs auxiliaires commissionnés par la vente des
-timbres fiscaux, les gérants des débits de tabac et les receveurs auxiliaires des impôts gérant le débit de tabac annexé à
-leur bureau de déclarations.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1977-10-03 art. 1 JORF 8 octobre 1977
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
-
-	**Cite**:
-
-	  - CGIAN4 155 C I, II
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
