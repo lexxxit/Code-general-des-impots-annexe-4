@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2001-12-01
+Version Consolidée au 2002-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10823,14 +10823,24 @@ Les avis sont émis par la commission en présence uniquement des membres ayant 
 
 ###### Article 121 V undecies
 
-Le montant minimal du programme d'investissement visé au V de l'article 1655 bis du code général des impôts est fixé à 20
-millions F.
+Le montant minimal du programme d'investissement visé au V de l'article 1655 bis du code général des impôts est fixé à 3 000
+000 euros.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
+	  - PEREMPTION: Arrêté 2002-06-06 art. 1 JORF 8 juin 2002
+	  - HISTO: Edition du 31 mars 2002
+
 	**Codifié par**:
 
-	  - Arrêté 1994-10-17
+	  - Arrêté 2002-06-06
 
 	**Cite**:
 
@@ -15005,25 +15015,22 @@ de vin.
 
 Le taux de la taxe mentionnée à l'article 364 de l'annexe II au code général des impôts est fixé comme suit :
 
-((25 F)) (M) par hectolitre d'alcool pur pour les eaux-de-vie ayant droit à une appellation d'origine contrôlée "Calvados" et
-les eaux-de-vie ayant droit à une appellation d'origine contrôlée "Calvados du Pays d'Auge" ainsi que les produits composés
-élaborés avec ces eaux-de-vie ;
+a. 3,81 euros par hectolitre d'alcool pur pour les eaux-de-vie ayant droit à une appellation d'origine contrôlée "Calvados"
+et les eaux-de-vie ayant droit à une appellation d'origine contrôlée "Calvados du Pays d'Auge" ainsi que les produits
+composés élaborés avec ces eaux-de-vie ;
 
-((12,40 F)) (M) par hectolitre d'alcool pur pour les pommeaux les eaux-de-vie de cidre et de poiré ayant droit à une
+b. 1,89 euros par hectolitre d'alcool pur pour les pommeaux, les eaux-de-vie de cidre et de poiré ayant droit à une
 appellation d'origine réglementée de Normandie, Bretagne et du Maine et pour les produits composés élaborés avec ces eaux-de-
 vie de cidre et de poiré.
-
-(M) Modification de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1995-01-02 art. 1 JORF 27 janvier 1995
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
+	  - Arrêté 1997-12-26 art. 1 JORF 28 décembre 1997
+	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
+	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
+	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -15031,7 +15038,7 @@ vie de cidre et de poiré.
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### Section IV : Taxe parafiscale sur les vins.
