@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1988-01-01
+Version Consolidée au 1988-01-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12667,6 +12667,28 @@ au centre technique de l'industrie horlogère.
 	  - CGIAN2 345
 
 
+##### Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
+
+###### Article 159 AL quater
+
+Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,25 % [*pourcentage*]
+du montant hors taxes des ventes jusqu'au 31 décembre 1988 [*date limite*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1987-12-31 art. 1 JORF 14 janvier 1988
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGIAN2 363 A
+
+
 ##### Section VII quinquies : Taxe parafiscale des industries textiles.
 
 ###### Article 159 AL quater A
@@ -15028,28 +15050,6 @@ Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT.
-
-###### Article 159 AL quater
-
-Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,35 % [*pourcentage*]
-du montant hors taxes des ventes jusqu'au 31 décembre 1986 [*date limite*] et à 30 % pour 1987.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1986-02-04 art. 1 JORF 6 février 1986
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Cite**:
-
-	  - CGIAN2 363 A
 
 
 ### CONTRIBUTIONS INDIRECTES
