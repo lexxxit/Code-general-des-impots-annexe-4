@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2004-08-31
+Version Consolidée au 2004-09-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2133,22 +2133,32 @@ Le lieu d'imposition des personnes morales désignées au 2 de l'article 218 A d
 pour les sociétés ou personnes morales dont l'activité s'exerce en France dans un ou plusieurs établissements, au lieu du
 principal établissement ;
 
-pour les sociétés ou personnes morales qui exercent une activité en France sans y avoir d'établissement, au centre des impôts
-des non-résidents, 9, rue d'Uzès, à Paris ;
+pour les sociétés ou personnes morales qui exercent une activité en France sans y avoir d'établissement, au centre-recette
+des impôts des entreprises étrangères ;
 
 pour les sociétés et personnes morales qui sans exercer en France d'activité autre qu'immobilière y disposent de propriétés
-immobilières données ou non en location  au lieu de situation de ces biens. Si l'application de cette règle conduit à une
-pluralité de lieux d'imposition, l'imposition est établie au centre des impôts des non-résidents, 9, rue d'Uzès, à Paris.
+immobilières données ou non en location, au lieu de situation de ces biens. Si l'application de cette règle conduit à une
+pluralité de lieux d'imposition, l'imposition est établie au centre-recette des impôts des entreprises étrangères.
+
+**Nota:**
+
+NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
+2 de l'article 218 A et aux articles 990 D à 990 F du code général des impôts sont tenues de souscrire à compter de cette
+date.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2004-09-08 art. 1, art. 2 JORF 9 septembre 2004
 
 	**Cite**:
 
 	  - CGI 218 A 2
 
-	**Modifié par**:
+	**Liens**:
 
-	  - arrêté 1983-03-04 art. 2 JORF 15 mars 1983
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### Section III : Obligations des personnes morales
@@ -11855,11 +11865,26 @@ par l'indication de l'état civil et du domicile du défunt, et par la date du d
 
 ###### Article 60 A
 
-Le centre des impôts des non-résidents, installé à Paris, 9, rue d'Uzès (2e), est désigné pour recevoir les déclarations
+Le centre-recette des impôts des entreprises étrangères, installé à Paris, est désigné pour recevoir les déclarations
 relatives à des apports de biens n'ayant pas d'assiette matérielle fixe effectués au profit de sociétés ou groupements
 d'intérêt économique et non constatés par un acte lorsque le siège social ou le domicile des apporteurs n'est pas situé en
 France.
 
+**Nota:**
+
+NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
+2 de l'article 218 A et aux articles 990 D à 990 F du code général des impôts sont tenues de souscrire à compter de cette
+date.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2004-09-08 art. 1, art. 3 JORF 9 septembre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### Section II : Obligations diverses
@@ -12760,13 +12785,19 @@ en France dans un ou plusieurs établissements, à la recette des impôts du lie
 2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
 plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, à la recette des impôts du
 lieu de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, la déclaration est
-déposée à la recette du centre des impôts des non-résidents.
+déposée à la recette du centre-recette des impôts des entreprises étrangères.
+
+**Nota:**
+
+NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
+2 de l'article 218 A et aux articles 990 D à 990 F du code général des impôts sont tenues de souscrire à compter de cette
+date.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-05-14 art. 1 JORF 15 mai 1993
+	  - Arrêté 2004-09-08 art. 1 JORF 9 septembre 2004
 
 	**Cite**:
 
@@ -12774,8 +12805,7 @@ déposée à la recette du centre des impôts des non-résidents.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
-	  - TXT_ASSOCIE: Instruction 1993-10-23 7Q-3-93
+	  - HISTO: Edition du 31 août 2004
 
 
 #### Chapitre IV : Régimes spéciaux et exonérations de portée générale

@@ -8,13 +8,19 @@ en France dans un ou plusieurs établissements, à la recette des impôts du lie
 2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
 plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, à la recette des impôts du
 lieu de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, la déclaration est
-déposée à la recette du centre des impôts des non-résidents.
+déposée à la recette du centre-recette des impôts des entreprises étrangères.
+
+**Nota:**
+
+NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
+2 de l'article 218 A et aux articles 990 D à 990 F du code général des impôts sont tenues de souscrire à compter de cette
+date.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-05-14 art. 1 JORF 15 mai 1993
+	  - Arrêté 2004-09-08 art. 1 JORF 9 septembre 2004
 
 	**Cite**:
 
@@ -22,5 +28,4 @@ déposée à la recette du centre des impôts des non-résidents.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
-	  - TXT_ASSOCIE: Instruction 1993-10-23 7Q-3-93
+	  - HISTO: Edition du 31 août 2004
