@@ -1,23 +1,34 @@
 # Article 31 quater
 
-La liste des aménagements, équipements et accessoires de voitures automobiles non soumis au taux majoré de la taxe sur la
+" La liste des aménagements, équipements et accessoires de voitures automobiles non soumis au taux majoré de la taxe sur la
 valeur ajoutée en vertu de l'article 281 bis F du code général des impôts est fixée comme suit :
 
-Siège orthopédique ;    Fauteuil roulant spécial ;    Rampes ou treuils pour l'accès de fauteuils pour handicapés ;    Porte
-latérale arrière gauche coulissante ;    Modification de l'angle d'ouverture des portières ou de leur    sens ;
-Modification de la console centrale séparant les sièges avant ;    Commande d'accélérateur à main ;    Sélecteur de vitesses
-sur planche de bord ;    Modification de la position ou de la commande du frein principal    à main ou du frein de secours ;
-Modification de la position ou de la commande de commutateurs de    feux, de clignotants, d'avertisseur sonore, d'essuie-
-glace ;    Dispositifs de commande groupée ;    Olives, boules, pommeau, fourche et autre aménagement du volant ;
-Permutation ou modification de la position des pédales ;    Modification de la colonne de direction ;    Dispositif de
-maintien du tronc par sangle ou par harnais.
+" Rampes pour l'accès de fauteuils pour handicapés ;
+
+" Porte latérale arrière gauche coulissante ;
+
+" Modification de l'angle d'ouverture des portières ou de leur sens ;
+
+" Modification de la console centrale séparant les sièges avant ;
+
+" Olives, boules, pommeau, fourche et autre aménagement du volant. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+	  - Arrêté 1993-09-24
+
 	**Modifié par**:
 
-	  - Arrêté 1985-04-22 art. 1 JORF 2 mai 1985
+	  - Arrêté 1991-02-05 art. 1 JORF 13 février 1991
 
 	**Cite**:
 
 	  - CGI 281 bis F
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
+	  - PEREMPTION: Loi n°92-655 1992-07-15 art. 1 JORF 16 juillet 1992

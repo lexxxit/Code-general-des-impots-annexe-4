@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1991-03-22
+Version Consolidée au 1991-06-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -539,44 +539,44 @@ ultérieure au capital, soit d'une participation en nature ou en espèces à sa 
 
 ###### Article 4 C bis
 
-Les substances minérales solides dont l'extraction peut donner droit  par application des dispositions de l'article 39 ter
-B-1 du code général des impôts  à la constitution de provisions pour reconstitution de gisements dans les conditions prévues
-par les articles 10 C quinquies à 10 G de l'annexe III au code précité  sont les suivantes :
+Les substances minérales solides dont l'extraction peut donner droit  par application des dispositions du 1 de l'article 39
+ter B du code général des impôts  à la constitution de provisions pour reconstitution de gisements dans les conditions
+prévues par les articles 10 C quinquies à 10 G de l'annexe III au code précité, sont les suivantes :
 
 Minerai d'aluminium, amiante, minerai d'andalousite, antimoine, ardoise, minerai d'argent, argiles réfractaires kaoliniques,
 minerai d'arsenic, barytine, minerai de béryllium, minerai de bismuth, minerai de bore, minerai de chrome, minerai de cobalt,
-colombotantalite, minerai de cuivre, minerai d'étain, fluorine, kaolin, minerai de lithium, minerai de manganèse, mica,
-minerai de molybdène, minerai de nickel, minerai d'or, phosphates, minerai de platine et de la mine du platine, minerai de
-plomb même non associé au zinc, potasse, pyrites, minerais radioactifs, silice pour l'industrie, minerai de soufre, talc,
-terres rares, minerai de titane, minerai de tungstène, minerai de vanadium, minerai de zinc et minerai de zirconium.
+colombotantalite, minerai de cuivre, minerai d'étain, feldspath, fluorine, kaolin, minerai de lithium, minerai de manganèse,
+mica, minerai de molybdène, minerai de nickel, minerai d'or, phosphates, minerai de platine et de la mine du platine, minerai
+de plomb même non associé au zinc, potasse, pyrites, minerais radioactifs, silice pour l'industrie, minerai de soufre,
+strontium, talc, terres rares, minerai de titane, minerai de tungstène, minerai de vanadium, minerai de zinc et minerai de
+zirconium.
 
-Les argiles réfractaires kaoliniques [*définition*] mentionnées à l'alinéa précédent s'entendent des matériaux naturels
-constitués pour au moins 92 % de silicates d'alumine hydratés du type kaolinite halloysite ou illite et de quartz libre et
-possédant une résistance pyroscopique minimum de 1350 °C.
+Les argiles réfractaires kaoliniques mentionnées à l'alinéa précédent s'entendent des matériaux naturels constitués pour au
+moins 92 % de silicates d'alumine hydratés du type kaolinite halloysite ou illite et de quartz libre et possédant une
+résistance pyroscopique minimum de 1350° C.
 
 La silice pour l'industrie (verrerie, céramique, fonderie, chimie et électrométallurgie) mentionnée au deuxième alinéa
 s'entend des matériaux naturels présentant une teneur sur produit sec d'au moins 97 % d'oxyde de silicium (si O2).
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1990-01-25 art. 1 JORF 1er février 1990
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
-
 	**Cite**:
 
 	  - Arrêté 1990-10-31
 	  - CGI 39 ter B 1
-	  - CGIAN3 10 C quinquies à CGIAN3 10 G
+	  - CGIAN3 10 C quinquies à 10 G
+
+	**Modifié par**:
+
+	  - Arrêté 1990-10-31 art. 1 JORF 8 novembre 1990
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
 
 	**Liens**:
 
-	  - SPEC_APPLI: Arrêté 1990-10-31 art. 1 JORF 8 novembre 1990
-	  - HISTO: é
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### III bis : Provision pour prêts d'installation consentis par les entreprises à leurs salariées.
@@ -1882,280 +1882,6 @@ laquelle il peut bénéficier de la réduction d'impôt (1).
 
 ##### 0II : Dépenses destinées à économiser l'énergie utilisée pour le chauffage
 
-##### Dépenses payées du 1er janvier 1982 au 31 décembre 1986.
-
-###### Article 17 H
-
-La liste des dépenses destinées à économiser l'énergie ouvrant droit à la réduction d'impôt prévue à l'article 199 sexies du
-code général des impôts est fixée comme suit pour les logements existants au 1er juillet 1981 ou ayant fait l'objet, avant
-cette date, d'une demande de permis de construire :
-
-1 - Remplacement de chaudière.    Remplacement d'une chaudière usagée par une chaudière neuve de puissance au plus égale
-fonctionnant à l'aide d'une source d'énergie autre que l'électricité ; toutefois, la réduction d'impôt n'est pas applicable
-si l'ancienne chaudière fonctionnait à l'aide de combustibles non pétroliers et si la nouvelle fonctionne à l'aide de
-produits pétroliers. Pour l'application de cette disposition, les générateurs de chaleur fixes sont assimilés à des
-chaudières ;    Remplacement d'un brûleur de chaudière usagé par un brûleur neuf d'un débit au plus égal ;
-
-Fourniture et pose de récupérateurs de chaleur sur les fumées de chaudières, à l'exclusion des systèmes d'obturation des
-conduits de fumée ;
-
-Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire ;
-
-Raccordement à un réseau de distribution de chaleur.
-
-2. Mesure et régulation du chauffage.
-
-Fourniture et pose d'appareils permettant de réaliser le comptage ou la répartition des frais de chauffage et d'eau chaude
-sanitaire en fonction des consommations individuelles dans les immeubles à chauffage collectif ;
-
-Fourniture et pose d'appareils permettant d'améliorer l'équilibrage de l'installation dans les immeubles à chauffage
-collectif ;
-
-Fourniture et pose d'appareils permettant le réglage manuel ou automatique, ou la programmation des équipements de chauffage
-ou de production d'eau chaude sanitaire.
-
-3. Isolation thermique.
-
-Isolation des parois opaques : planchers bas sur sous-sol, sur vide sanitaire, sur passage ouvert ; toitures sur combles,
-toitures terrasses, murs en façade ou en pignon. Les matériaux utilisés à cet effet doivent être appliqués sur une épaisseur
-d'au moins 5 centimètres ;
-
-Isolation des parois vitrées : fourniture et pose de vitrages isolants (double ou triple vitrage), de survitrages, de doubles
-fenêtres ou de châssis de fenêtres à étanchéité renforcée, lorsque leur installation est rendue nécessaire par la mise en
-place de vitrages isolants ;
-
-Pose de volets isolants caractérisés par une résistance thermique supérieure à 0,30 Wm2° C et par une bonne étanchéité à
-l'air (présence de joints).
-
-4. Limitation des déperditions thermiques par renouvellement d'air.
-
-Pose de bouches autoréglables ;
-
-Pose de joints d'étanchéité ;
-
-Fourniture et pose d'échangeurs de chaleur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
-
-	**Cite**:
-
-	  - CGI 199 sexies
-
-
-###### Article 17 I
-
-La liste des dépenses relatives à l'utilisation des énergies nouvelles et à l'installation de pompes à chaleur mentionnées à
-l'article 199 sexies-2°-b du code général des impôts est fixée comme suit pour l'ensemble des logements, quelle que soit leur
-date de construction :
-
-1. Dépenses relatives à l'utilisation des énergies nouvelles.    1° Installations de captation, transformation et utilisation
-des énergies renouvelables pour le chauffage ou la production d'eau chaude sanitaire.
-
-a. Matériels de captation :
-
-Capteurs solaires utilisant différents fluides caloporteurs tels que l'eau et l'air, y compris les serres accolées aux pièces
-habitables pouvant être mises en relation avec celles-ci et ayant pour objet exclusif le chauffage ;
-
-Machines éoliennes et aérogénérateurs ;
-
-Capteurs photovoltaïques ;
-
-Matériels électriques, électroniques et mécaniques utilisés pour la transformation de l'énergie hydraulique ;
-
-b. Matériels pour la valorisation énergétique de la biomasse :
-
-Chaudières et fours utilisant des combustibles ou déchets végétaux (bois, paille, notamment) ;
-
-Eléments (brûleurs, foyers, etc.) destinés à permettre l'utilisation d'une installation de chauffage existante à l'aide de
-combustibles ou de déchets végétaux (bois, paille, etc.) ;
-
-Gazogènes ;
-
-Digesteurs pour la fermentation méthanique du fumier ;
-
-Matériels de récupération de la chaleur à partir de la fermentation aérobie des matériaux végétaux ;
-
-c. Acquisition des matériels annexes des installations solaires :
-
-Supports ;
-
-Matériels de stockage de l'énergie (ballons, cuves, batteries, etc.) ;
-
-Matériels de transport et de conversion de l'énergie ;
-
-Dispositifs d'alimentation des matériels désignés au b, y compris les dispositifs de stockage faisant partie intégrante de
-l'installation ;
-
-Dispositifs de régulation, de commande et de contrôle du fonctionnement des installations ;
-
-d. Travaux d'installation des matériels désignés aux a, b et c..
-
-2° (Abrogé)
-
-2. Installation de pompes à chaleur.    Fourniture et pose des pompes à chaleur destinées au chauffage du logement ou à la
-production d'eau chaude sanitaire.
-
-Sont exclus tous les appareils dont la conception permet l'usage à des fins telles que le refroidissement ou le
-rafraîchissement de l'eau ou des locaux, notamment les pompes réversibles et les climatiseurs.
-
-3. Raccordement à un réseau de chaleur utilisant une énergie nouvelle.
-
-Fourniture et pose d'équipements permettant le raccordement à un réseau de chaleur utilisant essentiellement le bois, la
-géothermie, les rejets thermiques ou l'incinération des ordures ménagères, d'une installation de chauffage ou de production
-d'eau chaude d'un ou de plusieurs bâtiments, y compris les équipements nécessaires à la régulation des débits et à la
-limitation des déperditions thermiques. Frais ou droits de raccordement à un tel réseau de chaleur.
-
-4. Fourniture et pose des équipements de chauffage suivants permettant une utilisation de plusieurs énergies :
-
-Chaudières polycombustibles dont la biomasse constitue l'un des combustibles, chaudières à biomasse en relève de chaudières,
-ainsi que tout système bi-énergie ayant fait l'objet d'un agrément de l'Agence française pour la maîtrise de l'énergie.
-
-5. Fourniture et pose de microcentrales hydrauliques destinées aux besoins énergétiques du logement.
-
-6. Dépenses relatives à l'amélioration des performances thermiques des constructions neuves si le logement bénéficie, au
-moment de sa construction, de l'attribution du label haute performance énergétique (trois ou quatre étoiles) ou du label
-solaire institué par l'arrêté du 5 juillet 1983 relatif à l'attribution pour les bâtiments d'habitation d'un label haute
-performance énergétique et d'un label solaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1982-03-24 art. 2 2°
-	  - Arrêté 1983-07-05
-	  - CGI 199 sexies 2° b
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
-
-
-###### Article 17 J
-
-Les frais d'études et de diagnostics destinés à apprécier la nature, la quantité et l'intérêt économique des travaux définis
-par les articles 17 H et 17 I ouvrent droit à réduction d'impôt.
-
-Sauf lorsqu'elles portent sur des constructions neuves, ces études doivent être réalisées par des professionnels disposant de
-qualifications ou agréments délivrés par l'administration ou des organismes publics chargés de l'énergie ou inscrits sur une
-liste établie sous la responsabilité de l'administration ou de ces organismes publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
-
-	**Cite**:
-
-	  - CGIAN4 17 H
-	  - CGIAN4 17 I
-
-
-###### Article 17 K
-
-Les dépenses ouvrant droit à la réduction d'impôt définies par les articles 17 H et 17 J s'entendent sous déduction des
-subventions, primes ou aides accordées à ce titre aux contribuables. Les frais occasionnés par les travaux accessoires aux
-opérations visées aux articles 17 H et 17 I ne peuvent ouvrir droit à la réduction d'impôt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
-
-	**Cite**:
-
-	  - CGIAN4 17 H
-	  - CGIAN4 17 I
-	  - CGIAN4 17 J
-
-
-###### Article 17 L
-
-1. Pour bénéficier des réductions d'impôt relatives aux économies d'énergie, les contribuables doivent produire les
-justifications suivantes, à la demande du service des impôts :
-
-a. Les factures délivrées par les fournisseurs et installateurs des matériels ouvrant droit à déduction. Ces factures doivent
-mentionner :
-
-L'identité et l'adresse du client ;
-
-Le prix des travaux et des fournitures ouvrant droit au bénéfice de la réduction d'impôt et la date du paiement ;
-
-La nature et la marque des matériels et matériaux ;
-
-L'épaisseur des matériaux isolants ;
-
-En cas de pose de volets isolants : une attestation du fournisseur certifiant que les matériels installés satisfont aux
-normes techniques définies à l'article 17 H-3 ;
-
-En cas de remplacement de chaudière ou de brûleur : la reprise des matériels remplacés, ainsi que la puissance et le type de
-ces matériels et des matériaux neufs ;
-
-En cas d'installation de pompe à chaleur : une attestation du fournisseur certifiant que le matériel installé ne peut être
-utilisé à des fins autres que le chauffage.
-
-Pour les équipements faisant l'objet d'un contrat de location-vente, les dépenses ouvrant droit à réduction d'impôt doivent
-être justifiées par les quittances relatives à ce contrat ; le montant total des sommes ouvrant droit à réduction d'impôt ne
-peut excéder le prix de vente des équipements à la date de conclusion du contrat ;
-
-b. Pour les dépenses visées à l'article 17 J, les factures délivrées par les professionnels ayant réalisé les études et
-diagnostics. Ces factures doivent mentionner les qualifications ou agréments des professionnels ou leur inscription sur une
-liste d'habilitation ;
-
-c. En cas d'acquisition d'un logement neuf déjà équipé, une attestation du vendeur mentionnant la nature et le montant des
-dépenses ouvrant droit à réduction d'impôt en application des articles 17 I et 17 J ;
-
-d. En outre, pour les dépenses visées au 6 de l'article 17 I, une fiche d'attribution du label visée par un organisme ayant
-signé une convention avec le ministre chargé du logement dans les conditions prévues à l'article 11 de l'arrêté du 5 juillet
-1983 relatif à l'attribution pour les bâtiments d'habitation d'un label haute performance énergétique et d'un label solaire
-et concernant soit le logement pour lequel la déduction est demandée, soit l'ensemble immobilier dont il fait partie.
-
-2. Dans le cas des immeubles en copropriété, chacun des copropriétaires est admis à bénéficier d'une réduction d'impôt pour
-la quote-part, correspondant à sa participation aux charges communes, des dépenses définies aux articles 17 H à 17 J exposées
-par le syndicat des copropriétaires.
-
-Le bénéfice de cette réduction d'impôt est justifié par une attestation du syndic ; ce dernier doit en outre produire, à la
-demande du service des impôts, les factures et documents administratifs visés au 1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1983-07-05 art. 11
-	  - CGIAN4 17 H 3
-	  - CGIAN4 17 I 6
-	  - CGIAN4 17 J
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
-
-
 ##### 1° : Dépenses payées du 1er janvier 1990 au 31 décembre 1995.
 
 ###### Article 17 M
@@ -2283,6 +2009,152 @@ produire, à la demande du service des impôts, les factures visées au 1.
 	**Cite**:
 
 	  - CGIAN4 17 M
+
+
+##### 2° : Dépenses payées du 1er janvier 1991 au 31 décembre 1995.
+
+###### Article 17 P
+
+La liste des dépenses de régulation du chauffage ouvrant droit à réduction d'impôt dans les conditions prévues au III de
+l'article 199 sexies C du code général des impôts est fixée comme suit :
+
+Fourniture et pose d'appareils permettant le réglage manuel ou automatique et la programmation des équipements de chauffage
+ou de production d'eau chaude sanitaire suivants :
+
+a) En maison individuelle :
+
+Les systèmes permettant la régulation centrale des installations de chauffage par thermostat d'ambiance avec horloge de
+programmation ou programmateur monozone ou multizone ;
+
+Les systèmes permettant la régulation centrale des installations de chauffage par sonde extérieure avec horloge de
+programmation ou programmateur monozone ou multizone ;
+
+Les systèmes permettant les régulations individuelles terminales des émetteurs de chaleur (robinets thermostatiques, robinets
+à commande électrique, ...) ;
+
+Les systèmes de limitation de la puissance électrique du chauffage électrique en fonction de la température extérieure.
+
+b) En immeuble collectif :
+
+Outre les systèmes énumérés au a ci-dessus :
+
+Les matériels nécessaires à l'équilibrage des installations de chauffage permettant une répartition correcte de la chaleur
+délivrée à chaque logement ;
+
+Les matériels permettant la mise en cascade de chaudières, à l'exclusion de l'installation de nouvelles chaudières ;
+
+Les systèmes de télégestion de chaufferie assurant les fonctions de régulation et de programmation du chauffage ;
+
+Les systèmes permettant la régulation centrale des équipements de production d'eau chaude sanitaire dans le cas de production
+combinée d'eau chaude sanitaire et d'eau destinée au chauffage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-04-02 art. 1 JORF 9 avril 1990
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cite**:
+
+	  - CGI 199 sexies C
+
+
+###### Article 17 Q
+
+Les dépenses ouvrant droit à la réduction d'impôt définies à l'article 17 P s'entendent sous déduction des subventions,
+primes ou aides accordées à ce titre aux contribuables. Les frais occasionnés par les travaux accessoires aux opérations
+visées à l'article 17 P ne sont pas pris en compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-04-02 art. 2 JORF 9 avril 1990
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cite**:
+
+	  - CGIAN4 17 P
+
+
+###### Article 17 R
+
+Pour bénéficier de la réduction d'impôt, les contribuables doivent joindre à leur déclaration de revenus les factures
+délivrées par les fournisseurs et installateurs des matériels et matériaux visés à l'article 17 P.
+
+Dans le cas des immeubles en copropriété, la quote-part de chaque copropriétaire est justifiée par une attestation du syndic.
+Ce dernier doit en outre produire, à la demande du service des impôts, les factures visées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-04-02 art. 3 JORF 9 avril 1990
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cite**:
+
+	  - CGIAN4 17 P
+
+
+###### Article 17 S
+
+Les factures délivrées par les fournisseurs et installateurs des matériels et matériaux visés à l'article 17 P doivent
+mentionner :
+
+L'identité du client et l'adresse de l'immeuble dans lequels ont réalisés les travaux et dépenses ;
+
+Les prix des travaux et des fournitures ouvrant droit à la réduction d'impôt et la date du paiement ;
+
+La nature et la marque des matériels et matériaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-04-02 art. 4 JORF 9 avril 1990
+
+	**Codifié par**:
+
+	  - Arrêté 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2001-05-21 art. 1 JORF 23 mai 2001
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cite**:
+
+	  - CGIAN4 17 P
 
 
 ##### II : Monuments historiques. Charges déductibles
@@ -2542,6 +2414,72 @@ Egal ou supérieur à 150 % du montant du capital vie : 55 %.
 	  - PEREMPTION: Loi n°99-1173 1999-12-30 art. 12 I, II JORF 31 décembre 1999 Finances rectificative pour 1999
 
 
+##### Section IV : Calcul de l'impôt
+
+##### Retenue à la source de l'impôt sur le revenu
+
+###### Article 18
+
+Pour l'année 1991, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
+
+TAUX APPLICABLE : 0 p. 100
+
+LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+
+Année (en francs) : Moins de 53 870
+
+Trimestre (en francs) : Moins de 13 468
+
+Mois (en francs) : Moins de  4 490
+
+Semaine (en francs) : Moins de 1 036
+
+Jour ou fraction de jour (en francs) : Moins de 173
+
+TAUX APPLICABLE : 15 p. 100
+
+LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+
+Année (en francs) : De 53 870 à 156 370
+
+Trimestre (en francs) : De 13 468 à 39 093
+
+Mois (en francs) : De 4 490 à 13 031
+
+Semaine (en francs) : De 1 036 à 3 008
+
+Jour ou fraction de jour (en francs) : De 173 à 502
+
+TAUX APPLICABLE : 25 p. 100
+
+LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+
+Année (en francs) : Au-delà de 156 370
+
+Trimestre (en francs) : Au-delà de 39 093
+
+Mois (en francs) : Au-delà de 13 031
+
+Semaine (en francs) : Au-delà de 3 008
+
+Jour ou fraction de jour (en francs) : Au-delà de 502.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1991-01-11 art. 1 JORF 16 janvier 1991
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
 #### Chapitre II : Impôt sur les sociétés
 
 ##### Section I : Champ d'application
@@ -2565,9 +2503,8 @@ devra être déposé au service des impôts du siège social de la collectivité
 
 ###### Article 22
 
-Les sociétés mentionnées au 3 de l'article 206 qui désirent opter à compter d'une année déterminée pour leur assujettissement
-à l'impôt sur les sociétés doivent  pour que cette option soit valable la notifier [*délai, date de la notification*] dans
-les trois premiers mois de ladite année au service des impôts du lieu de leur principal établissement.
+La notification de l'option prévue à l'article 239 du code général des impôts est adressée au service des impôts du lieu du
+principal établissement de la société qui souhaite exercer cette option.
 
 La notification [*mentions obligatoires*] indique la désignation de la société et l'adresse du siège social les nom prénoms
 et adresse de chacun des associés ou participants ainsi que la répartition du capital social entre ces derniers. Elle est
@@ -2594,15 +2531,15 @@ sociétés.
 
 	**Codifié par**:
 
-	  - Arrêté 1986-10-07
+	  - Arrêté 1991-09-09
 
 	**Cite**:
 
-	  - CGI 206 3
+	  - CGI 239
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 5 (P) JORF 31 décembre 1985
+	  - Loi n°90-1169 du 29 décembre 1990 - art. 31 () JORF 30 décembre 1990
 
 	**Cité par**:
 
@@ -3290,57 +3227,6 @@ l'article 242-0 N de cette annexe est accordé aux assujettis établis en Suède
 	  - HISTO: Edition du 15 juillet 1988
 
 
-##### II : Régime suspensif
-
-##### Opérations portant sur les métaux non ferreux.
-
-###### Article 29
-
-Doivent être opérées en suspension du paiement de la taxe sur la valeur ajoutée les opérations et les importations portant
-sur les produits désignés ci-après :
-
-a. Crasses mattes cendres résidus boues débris déchets lingotés des métaux non ferreux et leurs alliages quelle qu'en soit la
-teneur métallique;
-
-b. Masses brutes lingots blocs plaques baguettes grains et grenailles contenant plus de 10 % d'aluminium antimoine cadmium
-cuivre cobalt étain magnésium mercure plomb zinc titane tantale zirconium ou plus de 5 % de chrome nickel tungstène
-molybdène.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 29 bis
-
-Doivent être réalisées en suspension du paiement de la taxe sur la valeur ajoutée les opérations de vente  de commission et
-de courtage réalisées par les personnes ayant formulé l'option pour l'assujettissement à la taxe sur la valeur ajoutée prévue
-à l'article 260-3o du code général des impôts et portant sur les déchets neufs d'industrie et les matières de récupération
-non susceptibles de remploi comprenant  à l'état pur ou en alliage  plus de 10 % d'aluminium  antimoine  cadmium  cuivre
-cobalt  étain  magnésium mercure  plomb  zinc  titane  tantale  zirconium ou plus de 5 % de chrome  nickel  tungstène
-molybdène.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Cite**:
-
-	  - CGI 260 3°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### Section IV : Calcul de la taxe
 
 ##### I : Taux réduit
@@ -3383,6 +3269,91 @@ Alcools dans une proportion déterminante.
 	**Liens**:
 
 	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
+
+
+##### A bis : Equipements spéciaux pour personnes handicapées
+
+###### Article 30-0 B
+
+La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur ajoutée en application de l'article 278
+quinquies du code général des impôts est fixée comme suit :
+
+1. Pour les handicapés moteurs :
+
+Commandes adaptées pour le contrôle de l'environnement et la communication : au souffle, linguales, joysticks, défilement,
+contacteurs, casques et licornes ;
+
+Appareils de communication à synthèse vocale et désigneurs ;
+
+Cartes électroniques et logiciels spécifiques de communication ;
+
+Claviers spéciaux pour ordinateurs et machines à écrire ;
+
+Aides mécaniques ou électriques aux mouvements des bras, tourne-pages automatiques ;
+
+Matériels de transfert : élévateurs et releveurs hydrauliques ou électriques, lève-personnes ;
+
+Fauteuils roulants.
+
+2. Pour aveugles et malvoyants :
+
+Appareils ou objets à lecture, écriture ou reproduction de caractères ou signes en relief (braille) ;
+
+Téléagrandisseurs et systèmes optiques télescopiques ;
+
+Cartes électroniques et logiciels spécialisés.
+
+3. Pour sourds et malentendants :
+
+Vibrateurs tactiles ;
+
+Orthèses vibratoires (amplificateurs de voix) ;
+
+Implants cochléaires ;
+
+Logiciels spécifiques.
+
+4. Pour l'ensemble des handicapés afin de faciliter la conduite des véhicules :
+
+Siège orthopédique (siège pivotant, surélevé ...) ;
+
+Treuils pour l'accès des fauteuils pour handicapés ;
+
+Commande d'accélérateur à main (cercle, arc de cercle, secteur, manette, poignée tournante ...) ;
+
+Sélecteur de vitesses sur planche de bord ;
+
+Modification de la position ou de la commande du frein principal ou du frein de secours ;
+
+Modification de la position ou de la commande des commutateurs de feux, de clignotants, d'avertisseur sonore, d'essuie-
+glace ;
+
+Dispositif de commande groupée (frein principal, accélérateur ...) ;
+
+Permutation ou modification de la position des pédales : pédales d'embrayage et de frein rapprochées ou communes, pédales
+surélevées, faux planchers ;
+
+Modification de la colonne de direction ;
+
+Dispositif de maintien du tronc par sangle ou par harnais.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1991-02-05 art. 1 JORF 6 février 1991
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Cite**:
+
+	  - CGI 278 quinquies
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### B : Hôtels de tourisme et villages de vacances
@@ -3438,27 +3409,38 @@ Lécithines.
 
 ###### Article 31 quater
 
-La liste des aménagements, équipements et accessoires de voitures automobiles non soumis au taux majoré de la taxe sur la
+" La liste des aménagements, équipements et accessoires de voitures automobiles non soumis au taux majoré de la taxe sur la
 valeur ajoutée en vertu de l'article 281 bis F du code général des impôts est fixée comme suit :
 
-Siège orthopédique ;    Fauteuil roulant spécial ;    Rampes ou treuils pour l'accès de fauteuils pour handicapés ;    Porte
-latérale arrière gauche coulissante ;    Modification de l'angle d'ouverture des portières ou de leur    sens ;
-Modification de la console centrale séparant les sièges avant ;    Commande d'accélérateur à main ;    Sélecteur de vitesses
-sur planche de bord ;    Modification de la position ou de la commande du frein principal    à main ou du frein de secours ;
-Modification de la position ou de la commande de commutateurs de    feux, de clignotants, d'avertisseur sonore, d'essuie-
-glace ;    Dispositifs de commande groupée ;    Olives, boules, pommeau, fourche et autre aménagement du volant ;
-Permutation ou modification de la position des pédales ;    Modification de la colonne de direction ;    Dispositif de
-maintien du tronc par sangle ou par harnais.
+" Rampes pour l'accès de fauteuils pour handicapés ;
+
+" Porte latérale arrière gauche coulissante ;
+
+" Modification de l'angle d'ouverture des portières ou de leur sens ;
+
+" Modification de la console centrale séparant les sièges avant ;
+
+" Olives, boules, pommeau, fourche et autre aménagement du volant. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+	  - Arrêté 1993-09-24
+
 	**Modifié par**:
 
-	  - Arrêté 1985-04-22 art. 1 JORF 2 mai 1985
+	  - Arrêté 1991-02-05 art. 1 JORF 13 février 1991
 
 	**Cite**:
 
 	  - CGI 281 bis F
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
+	  - PEREMPTION: Loi n°92-655 1992-07-15 art. 1 JORF 16 juillet 1992
 
 
 ###### Article 31 ter
@@ -3618,6 +3600,141 @@ La déclaration visée au 1 de l'article 287 du code général des impôts doit 
 	  - Code général des impôts, CGI. - art. 287
 
 
+###### Article 39
+
+1. 1° La date limite à laquelle les redevables sont tenus de remettre ou d'envoyer au service des impôts la déclaration
+prescrite par le 1 de l'article 287 du code général des impôts est fixée comme suit :
+
+a. Pour les taxes dues au titre du trimestre civil précédent par les redevables placés sous le régime simplifié de
+l'agriculture  au plus tard le 5 des mois de mai  août  novembre et février.
+
+b. Pour les taxes dues, selon le cas, au titre du mois, du trimestre ou d'une autre période définie en application du 3 de
+l'article 287 du code général des impôts par les redevables placés sous le régime de la déclaration et dont le lieu
+d'imposition est situé à Paris ainsi que dans les départements des Hauts-de-Seine  de la Seine-Saint-Denis et du Val-de-
+Marne :
+
+Entreprises individuelles  selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
+
+A, B, C, D, E, F, G, H : au plus tard le 15 du mois suivant ;
+
+I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z : au plus tard le 17 du mois suivant.
+
+Sociétés, selon que le numéro d'identification attribué par l'institut national des statistiques commence par l'un ou l'autre
+des groupes de deux chiffres ci-après :
+
+Toutes sociétés autres que les sociétés anonymes :
+
+00, 01, 02 ... jusqu'à 68 inclus : au plus tard le 19 du mois suivant ;
+
+69, 70, 71 ... jusqu'à 78 inclus : au plus tard le 20 du mois suivant ;
+
+79, 80, 81 ... jusqu'à 99 : au plus tard le 21 du mois suivant.
+
+Sociétés anonymes :
+
+00, 01, 02 ... jusqu'à 74 inclus : au plus tard le 23 du mois suivant ;
+
+75, 76, 77 ... jusqu'à 99 : au plus tard le 24 du mois suivant.
+
+Autres redevables : au plus tard le 24 du mois suivant.
+
+c. Pour les taxes dues, selon le cas, au titre du mois, du trimestre ou d'une autre période définie en application du 3 de
+l'article 287 du code général des impôts par les redevables placés sous le régime de la déclaration et dont le lieu
+d'imposition est situé dans les autres départements :
+
+Entreprises individuelles, selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
+
+A, B, C, D, E, F, G, H : au plus tard le 16 du mois suivant ;
+
+I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z : au plus tard le 19 du mois suivant.
+
+Sociétés, selon la forme juridique :
+
+Toutes sociétés autres que les sociétés anonymes : au plus tard le 21 du mois suivant ;
+
+Sociétés anonymes : au plus tard le 24 du mois suivant ;
+
+Autres redevables : au plus tard le 24 du mois suivant.
+
+2° La date limite à laquelle les redevables placés sous le régime du forfait sont tenus d'acquitter les taxes dues  au titre
+du trimestre est fixée ainsi qu'il suit :
+
+Entreprises individuelles  selon que le nom patronymique de l'exploitant commence par l'une ou par l'autre des lettres ci-
+après :
+
+A, B, C, D, E, F : au plus tard le 6 du mois suivant ;
+
+G, H, I, J, K, L, M, N, O : au plus tard le 10 du mois suivant ;
+
+P, Q, R, S, T, U, V, W, X, Y, Z : au plus tard le 14 du mois suivant.
+
+Sociétés, associations et autres redevables : au plus tard le 14 du mois suivant.
+
+3° La date limite visée au présent article est reportée au premier jour ouvrable suivant lorsqu'elle coïncide avec un jour
+férié ou réputé férié à l'égard des recettes des impôts.
+
+4° En cas d'utilisation de la voie postale, le cachet de la poste fait foi de la date d'expédition.
+
+2. Si, au cours d'un mois, d'un trimestre ou d'une période définie en application du 3 de l'article 287 du code général des
+impôts, il n'a été effectué aucune opération donnant ouverture aux taxes sur le chiffre d'affaires et taxes assimilées  le
+redevable doit remettre à l'agent compétent une déclaration négative.
+
+Les redevables exerçant des industries ou commerces saisonniers sont dispensés de fournir des déclarations négatives pendant
+les périodes de fermeture de leurs établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Cite**:
+
+	  - CGI 287 1
+
+	**Modifié par**:
+
+	  - Loi - art. 26 () JORF 30 décembre 1990
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 sexies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 39 bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 39 bis
+
+1. L'autorisation, prévue au 2 de l'article 287 du code général des impôts, de disposer d'un délai supplémentaire de un mois
+pour déposer la déclaration mensuelle de taxe sur la valeur ajoutée est subordonnée aux conditions suivantes : 
+
+a. Le redevable doit présenter une demande motivée au service des impôts dont il dépend pour le paiement de la taxe sur la
+valeur ajoutée ; 
+
+b. Il doit justifier qu'en raison de la nature de ses activités ou de la structure particulière de son entreprise il n'est
+pas en mesure d'établir ses déclarations dans le délai prévu à l'article 39.
+
+2. L'autorisation peut être rapportée à tout moment lorsque les conditions prévues au 1 ne se trouvent plus remplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Modifié par**:
+
+	  - Loi - art. 26 ()
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 39 (V)
+	  - Code général des impôts, CGI. - art. 287 (V)
+
+
 ###### Article 40
 
 1. Les assujettis à la taxe sur la valeur ajoutée doivent mentionner sur la déclaration prévue au 1 de l'article 287 du code
@@ -3697,115 +3814,6 @@ annexe.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 32 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 39
-
-1. 1° La date limite à laquelle les redevables sont tenus de remettre ou d'envoyer au service des impôts la déclaration [*de
-recettes*] prescrite par l'article 287-1 du code général des impôts est fixée comme suit :
-
-a. Pour les taxes dues au titre du trimestre civil précédent par les redevables placés sous le régime simplifié de
-l'agriculture  au plus tard le 5 des mois de mai  août  novembre et février.
-
-b. Pour les taxes dues  selon le cas  au titre du mois ou du trimestre par les redevables placés sous le régime de la
-déclaration et dont le lieu d'imposition est situé à Paris ainsi que dans les départements des Hauts-de-Seine  de la Seine-
-Saint-Denis et du Val-de-Marne :
-
-Entreprises individuelles  selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
-
-A, B, C, D, E, F, G, H : au plus tard le 15 du mois suivant; I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z : au plus
-tard le 17 du mois suivant.
-
-Sociétés  selon que le numéro d'identification attribué par l'institut national des statistiques commence par l'un ou l'autre
-des groupes de deux chiffres ci-après :
-
-Toutes sociétés autres que les sociétés anonymes :
-
-00, 01, 02... jusqu'à 68 inclus : au plus tard le 19 du mois suivant;    69, 70, 71... jusqu'à 78 inclus : au plus tard le 20
-du mois suivant;    79, 80, 81... jusqu'à 99 : au plus tard le 21 du mois suivant.
-
-Sociétés anonymes :
-
-00, 01, 02... jusqu'à 74 inclus : au plus tard le 23 du mois suivant;    75, 76, 77... jusqu'à 99 : au plus tard le 24 du
-mois suivant.     Autres redevables : au plus tard le 24 du mois suivant.
-
-c. Pour les taxes dues  selon le cas  au titre du mois ou du trimestre par les redevables placés sous le régime de la
-déclaration et dont le lieu d'imposition est situé dans les autres départements :
-
-Entreprises individuelles  selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
-
-A, B, C, D, E, F, G, H : au plus tard le 16 du mois suivant; I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z : au plus
-tard le 19 du mois suivant.
-
-Sociétés  selon la forme juridique :
-
-Toutes sociétés autres que les sociétés anonymes : au plus tard le 21 du mois suivant;
-
-Sociétés anonymes : au plus tard le 24 du mois suivant;
-
-Autres redevables : au plus tard le 24 du mois suivant.
-
-2° La date limite à laquelle les redevables placés sous le régime du forfait sont tenus d'acquitter les taxes dues  selon le
-cas  au titre du mois ou du trimestre est fixée ainsi qu'il suit :
-
-Entreprises individuelles  selon que le nom patronymique de l'exploitant commence par l'une ou par l'autre des lettres ci-
-après :
-
-A, B, C, D, E, F : au plus tard le 6 du mois suivant; G, H, I, J, K, L, M, N, O : au plus tard le 10 du mois suivant; P, Q,
-R, S, T, U, V, W, X, Y, Z : au plus tard le 14 du mois suivant.     Sociétés  associations et autres redevables : au plus
-tard le 14 du mois suivant.
-
-3° La date limite visée au présent article est reportée au premier jour ouvrable suivant lorsqu'elle coincide avec un jour
-férié ou réputé férié à l'égard des recettes des impôts.
-
-4° En cas d'utilisation de la voie postale  le cachet de la poste fait foi de la date d'expédition.
-
-2. Si  au cours d'un mois  il n'a été effectué aucune opération donnant ouverture aux taxes sur le chiffre d'affaires et
-taxes assimilées  le redevable doit remettre à l'agent compétent une déclaration négative.
-
-Les redevables exerçant des industries ou commerces saisonniers sont dispensés de fournir des déclarations négatives pendant
-les périodes de fermeture de leurs établissements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 287 1
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 sexies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 39 bis (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 39 bis
-
-1. L'autorisation  prévue à l'article 287-2 du code général des impôts  de disposer d'un délai supplémentaire de un mois pour
-déposer la déclaration mensuelle de taxe sur la valeur ajoutée [*TVA*] visée à l'article 287-1 dudit code est subordonnée aux
-conditions suivantes :
-
-a. Le redevable doit présenter une demande motivée au service des impôts dont il dépend pour le paiement de la taxe sur la
-valeur ajoutée;
-
-b. Il doit justifier qu'en raison de la nature de ses activités ou de la structure particulière de son entreprise il n'est
-pas en mesure d'établir ses déclarations dans le délai prévu à l'article 39.
-
-2. L'autorisation peut être rapportée à tout moment lorsque les conditions prévues au 1 ne se trouvent plus remplies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 287 1, 2
-	  - CGIAN4 39
 
 	**Liens**:
 
@@ -11351,180 +11359,44 @@ l'année suivant celle au cours de laquelle elles ont été déposées.
 	  - HISTO: EDITION 1979-07-01
 
 
-##### Exonération temporaire accordée dans le cadre de l'aménagement du territoire.
+##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire
 
 ###### Article 121 quinquies DB bis
 
 Les zones dans lesquelles l'exonération temporaire de taxe professionnelle prévue par l'article 1465 du code général des
-impôts peut être accordée, sont les suivantes :
+impôts peut être accordée sont les suivantes :
 
-1° Créations et extensions d'établissements industriels :
+1° Créations et extensions d'établissements industriels : zones délimitées à l'annexe I de l'arrêté du 12 juin 1990 (Journal
+officiel du 29 juin 1990), modifié par les arrêtés du 8 août 1990 (Journal officiel du 23 août 1990) et du 21 janvier 1991
+(Journal officiel du 27 janvier 1991), et départements d'outre-mer ;
 
-zones délimitées à l'annexe I de l'arrêté du 24 novembre 1980 et à l'annexe de l'arrêté du 24 novembre 1982 (1) et
-départements d'outre-mer ;    2° Décentralisations d'établissements industriels précédemment implantés dans la région
-parisienne et la région lyonnaise définies à l'annexe IV de l'arrêté du 24 novembre 1980 (1) : ensemble du territoire
-métropolitain et départements d'outre-mer, à l'exception du bassin parisien et de la région lyonnaise définis à la même
-annexe ;
+2° Décentralisations d'établissements industriels précédemment implantés dans la région parisienne et la région lyonnaise
+définies à l'annexe III de l'arrêté du 12 juin 1990 (Journal officiel du 29 juin 1990) : ensemble du territoire métropolitain
+et départements d'outre-mer, à l'exception du bassin parisien et de la région lyonnaise définis à la même annexe ;
 
 3° Créations, extensions et décentralisations d'établissements de recherche scientifique et technique : ensemble du
-territoire métropolitain et départements d'outre-mer, à l'exception du bassin parisien défini à l'annexe IV de l'arrêté du 24
-novembre 1980 (1).
-
-(1) Voir JO du 7 décembre 1980.
+territoire métropolitain et départements d'outre-mer, à l'exception du bassin parisien défini à l'annexe III de l'arrêté du
+12 juin 1990 (Journal officiel du 29 juin 1990).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1982-11-24 annexe
-	  - CGI 1465
+	  - Arrêté 1990-06-12 annexe I, annexe III
 
 	**Modifié par**:
 
-	  - Arrêté 1982-11-24 art. 1, art. 2 JORF 24 mars 1983
+	  - Arrêté 1990-06-12 art. 1, art. 3 JORF 29 juin 1990
 
 	**Codifié par**:
 
-	  - Arrêté 1983-10-06
+	  - Arrêté 1991-09-09
 
+	**Liens**:
 
-###### Article 121 quinquies DB quinquies
+	  - PERIME: Arrêté du 3 juin 2013 - art. 1
+	  - HISTO: Edition du 24 juin 1991
 
-L'agrément ouvrant droit à l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code général des
-impôts peut être accordé aux entreprises qui, dans les zones définies par l'article 3 de l'arrêté du 16 décembre 1983 (1) ,
-réalisent les opérations suivantes :
-
-1° Reprise des moyens de production d'établissements industriels en difficulté susceptible de permettre la poursuite durable
-de l'activité et le soutien de l'emploi. L'agrément ne peut être accordé qu'à la condition qu'il y ait eu examen du plan de
-reprise et de redressement et du plan de financement correspondant par le comité départemental d'examen des problèmes de
-financement des entreprises (Codefi) ou par le comité régional de restructuration industrielle (Corri) ou par le comité
-interministériel de restructuration industrielle (C.I.R.I.). Si la reprise prend la forme d'une location-gérance, celle-ci
-doit être assortie d'un engagement ferme de rachat des actifs dans un délai de trois ans ; les reprises effectuées par des
-personnes physiques ou morales qui contrôlent directement ou indirectement l'établissement en difficulté ne peuvent être
-agréées ;
-
-2° Reconversion d'installation industrielle dépendant d'un secteur d'activité en déclin. La reconversion doit correspondre à
-une modification importante de la nature des productions entraînant un effort particulier d'investissement. Les
-investissements susceptibles de bénéficier de l'exonération sont les seuls investissements nécessaires à cette modification ;
-
-3° Création, extension ou décentralisation de services de direction, d'études, d'ingénierie et d'informatique. Les
-décentralisations s'entendent des transferts, hors du Bassin parisien défini à l'annexe IV de l'arrêté du 24 novembre 1980
-(2), d'installations précédemment implantées dans la région parisienne définie à la même annexe.
-
-(1) J.O. des 19 et 20 décembre 1983.
-
-(2) Voir J.O. du 7 décembre 1980.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1980-11-24 annexe IV
-	  - Arrêté 1980-12-16 art. 3
-	  - CGI 1465
-
-	**Créé par**:
-
-	  - Arrêté 1983-12-16 art. 2 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
-
-
-###### Article 121 quinquies DB sexies
-
-Pour bénéficier sur agrément de l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code général des
-impôts les conditions d'emploi suivantes, appréciées selon les modalités prévues à l'article 322 H de l'annexe III à ce code,
-doivent être remplies :
-
-1° Les établissements faisant l'objet d'une reprise ou d'une reconversion doivent comporter :
-
-a) Dans les départements d'outre-mer, en Corse, dans les zones d'économie rurale dominante et les zones montagnardes figurant
-en annexe III de l'arrêté du 24 novembre 1980 (1) :
-
-Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 50 000 [*nombre*] habitants ;
-
-Quinze emplois au moins dans les communes situées dans une unité urbaine de moins de 50 000 habitants et 15 000 habitants au
-moins ;
-
-Six emplois au moins dans les autres communes ;
-
-b) Dans les autres zones où s'applique l'exonération temporaire :
-
-Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 15 000 habitants ;
-
-Dix emplois au moins dans les autres communes.
-
-Dans toutes zones où s'applique l'exonération temporaire, les opérations de reprise doivent permettre le maintien de
-l'effectif permanent au niveau justifié par le plan de redressement de l'entreprise. Si l'effectif initial n'est pas
-maintenu, l'exonération peut être limitée à une fraction de la valeur locative des installations. En cas de reconversion,
-l'effectif doit être au moins maintenu.
-
-Les conditions d'emploi ci-dessus définies doivent être remplies durant toute la période d'exonération à peine de retrait de
-l'agrément dans les conditions prévues à l'article 1756 du code général des impôts ;
-
-2° En cas de création ou de décentralisation de services de direction, d'études, d'ingénierie et d'informatique, création
-d'au moins vingt emplois ; en cas d'exonération de ces mêmes services, création d'au moins dix emplois supplémentaires,
-l'effectif total de l'établissement devant alors atteindre au moins vingt emplois. L'extension doit en outre entraîner une
-progression d'au moins 25 p. 100 [*pourcentage*] de l'effectif total de l'établissement, sauf s'il est créé au moins
-cinquante emplois supplémentaires.
-
-La création d'un nombre d'emplois permanents supérieur aux minima fixés ci-dessus peut être exigée en raison du montant des
-investissements envisagés.
-
-Les dispositions des articles 322 I à 322 L de l'annexe II au code général des impôts sont applicables aux créations,
-extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique.
-
-(1) Voir J.O. du 7 décembre 1980.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1980-11-24 annexe III
-	  - CGI 1465
-	  - CGI 1756
-	  - CGIAN2 322 I à 322 L CGIAN3 322 H
-
-	**Créé par**:
-
-	  - Arrêté 1983-12-16 art. 4 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-
-###### Article 121 quinquies DB ter
-
-Les secteurs des zones d'économie rurale dominante et des zones d'économie montagnarde dans lesquels les seuils d'emplois et
-d'investissements sont réduits par application de l'article 322 G-I-A et II-A de l'annexe III au code général des impôts,
-sont constitués par les zones délimitées à l'annexe III de l'arrêté du 24 novembre 1980 (1).
-
-(1) Voir JO du 7 décembre 1980.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1980-11-24 annexe III
-	  - CGI 322 G I a, II a
-
-	**Créé par**:
-
-	  - Arrêté 1980-11-24 art. 1 JORF 7 décembre 1980
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-
-##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire
 
 ###### Article 121 quinquies DB quater
 
@@ -11558,6 +11430,66 @@ du 19 et 20 octobre).
 	  - HISTO: Edition du 15 juin 1990
 
 
+###### Article 121 quinquies DB quinquies
+
+L'agrément ouvrant droit à l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code général des
+impôts peut être accordé aux entreprises qui, dans les zones définies par l'article 3 de l'arrêté du 16 décembre 1983
+(Journal officiel des 19 et 20 décembre 1983), modifié par l'article 4 de l'arrêté du 12 juin 1990 (Journal officiel du 29
+juin 1990) et par les arrêtés du 8 août 1990 (Journal officiel du 23 août 1990) et du 21 janvier 1991 (Journal officiel du 27
+janvier 1991), réalisent les opérations suivantes :
+
+1° Reprise des moyens de production d'établissements industriels en difficulté susceptible de permettre la poursuite durable
+de l'activité et le soutien de l'emploi. L'agrément ne peut être accordé qu'à la condition qu'il y ait eu examen du plan de
+reprise et de redressement et du plan de financement correspondant par le comité départemental d'examen des problèmes de
+financement des entreprises (CODEFI) ou par le comité régional de restructuration industrielle (CORRI) ou par le comité
+interministériel de restructuration industrielle (CIRI). Si la reprise prend la forme d'une location-gérance, celle-ci doit
+être assortie d'un engagement ferme de rachat des actifs dans un délai de trois ans ; les reprises effectuées par des
+personnes physiques ou morales qui contrôlent directement ou indirectement l'établissement en difficulté ne peuvent être
+agréées ;
+
+2° Reconversion d'installation industrielle dépendant d'un secteur d'activité en déclin. La reconversion doit correspondre à
+une modification importante de la nature des productions entraînant un effort particulier d'investissement. Les
+investissements susceptibles de bénéficier de l'exonération sont les seuls investissements nécessaires à cette modification ;
+
+3° Création, extension ou décentralisation de services de direction, d'études, d'ingénierie et d'informatique. Les
+décentralisations s'entendent des transferts, hors du Bassin parisien défini à l'annexe III de l'arrêté du 12 juin 1990
+(Journal officiel du 29 juin 1990), d'installations précédemment implantées dans la région parisienne définie à la même
+annexe.
+
+**Nota:**
+
+NOTA : Loi 2005-845 2005-07-26 art. 165 II :
+
+Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
+redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
+et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
+plans de sauvegarde ou de redressement judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1983-12-16 art. 3
+	  - Arrêté 1990-06-12 art. 4, annexe III, Arrêté 1990-08-08
+	  - CGI 1465
+
+	**Modifié par**:
+
+	  - Arrêté 1990-06-12 art. 4 JORF 29 juin 1990
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
 ###### Article 121 quinquies DB septies
 
 L'exonération temporaire de taxe professionnelle accordée sur agrément peut être subordonnée à la réalisation d'un montant
@@ -11579,6 +11511,111 @@ dans les autres établissements de l'entreprise.
 	**Modifié par**:
 
 	  - Loi n°88-1193 du 29 décembre 1988 - art. 19 (V) JORF 30 décembre 1988
+
+
+###### Article 121 quinquies DB sexies
+
+Pour bénéficier sur agrément de l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code général des
+impôts les conditions d'emploi suivantes, appréciées selon les modalités prévues à l'article 322 H de l'annexe III à ce code,
+doivent être remplies :
+
+1° Les établissements faisant l'objet d'une reprise ou d'une reconversion doivent comporter :
+
+a. Dans les départements d'outre-mer, en Corse, dans les zones d'économie rurale dominante et les zones montagnardes figurant
+en annexe II de l'arrêté du 12 juin 1990 (JO du 29) ;
+
+Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 50 000 habitants ;
+
+Quinze emplois au moins dans les communes situées dans une unité urbaine de moins de 50 000 habitants et 15 000 habitants au
+moins ;
+
+Six emplois au moins dans les autres communes ;
+
+b. Dans les autres zones où s'applique l'exonération temporaire :
+
+Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 15 000 habitants ;
+
+Dix emplois au moins dans les autres communes.
+
+Dans toutes zones où s'applique l'exonération temporaire, les opérations de reprise doivent permettre le maintien de
+l'effectif permanent au niveau justifié par le plan de redressement de l'entreprise. Si l'effectif initial n'est pas
+maintenu, l'exonération peut être limitée à une fraction de la valeur locative des installations. En cas de reconversion,
+l'effectif doit être au moins maintenu.
+
+Les conditions d'emploi ci-dessus définies doivent être remplies durant toute la période d'exonération à peine de retrait de
+l'agrément dans les conditions prévues à l'article 1756 du code général des impôts ;
+
+2° En cas de création ou de décentralisation de services de direction, d'études, d'ingénierie et d'informatique, création
+d'au moins vingt emplois ; en cas d'exonération de ces mêmes services, création d'au moins dix emplois supplémentaires,
+l'effectif total de l'établissement devant alors atteindre au moins vingt emplois. L'extension doit en outre entraîner une
+progression d'au moins 25 p. 100 de l'effectif total de l'établissement, sauf s'il est créé au moins cinquante emplois
+supplémentaires.
+
+La création d'un nombre d'emplois permanents supérieur aux minima fixés ci-dessus peut être exigée en raison du montant des
+investissements envisagés.
+
+Les dispositions des articles 322 I à 322 L de l'annexe II au code général des impôts sont applicables aux créations,
+extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique.
+
+**Nota:**
+
+NOTA : Loi 2005-845 2005-07-26 art. 165 II :
+
+Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
+redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
+et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
+plans de sauvegarde ou de redressement judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1990-06-12 annexe II
+	  - CGI 1465, 1756
+	  - CGIAN2 322 I à 322 L
+	  - CGIAN3 322 H
+
+	**Modifié par**:
+
+	  - Arrêté 1990-06-12 art. 4 JORF 29 juin 1990
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 121 quinquies DB ter
+
+Les secteurs des zones d'économie rurale dominante et des zones d'économie montagnarde dans lesquels les seuils d'emploi et
+d'investissements sont réduits en application du a des I et II de l'article 322 G de l'annexe III au code général des impôts
+sont constitués par les zones délimitées à l'annexe II de l'arrêté du 12 juin 1990 (Journal officiel du 29 juin 1990).
+
+**Nota:**
+
+Modification effectuée en conséquence de l'art. 1er  [8°].) du décret n° 2012-1015 du 3 septembre 2012.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1990-06-12 art. 2, art. 3 JORF 29 juin 1990
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 3 juin 2013 - art. 1
+	  - HISTO: Edition du 24 juin 1991
+
+	**Cite**:
+
+	  - CGIAN3 322 G
 
 
 ##### 2° : Réduction de la valeur locative de matériels agricoles
@@ -14742,114 +14779,7 @@ l'âge du véhicule se détermine à partir de la date de la première mise en c
 
 #### Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées
 
-##### Section I : Taxe sur les produits des exploitations forestières.
-
-###### Article 156
-
-Les industriels  commerçants et artisans qui exploitent des coupes de bois ou achètent des produits d'exploitation forestière
-en vue de la vente ou de la transformation des bois ou de leur utilisation pour leurs besoins  doivent acquitter la taxe
-visée à l'article 1613 du code général des impôts :
-
-1o Sur le montant des ventes (y compris les ventes à l'exportation) des bois provenant de l'exploitation forestière et des
-produits bruts de scierie qu'ils obtiennent;
-
-2o Sur la valeur justifiée des bois bruts et des produits bruts susvisés qu'ils utilisent pour leurs propres besoins ou ceux
-de leurs diverses fabrications et des produits bruts de leur scierie qu'ils transfèrent dans leur chantier ou magasin de
-négoce distinct.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Cite**:
-
-	  - CGI 1613
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 157
-
-Sont exonérés :
-
-1o Les bois destinés au chauffage domestique ou industriel à la carbonisation à la distillation à l'alimentation des
-gazogènes les écorces et bois pour extraits tannants les sciures et les charbons de bois;
-
-2o Les reventes en l'état ou après usinage sommaire de produits bruts de scierie provenant d'achats;
-
-3o Les ventes faites par un chantier ou un magasin de négoce distinct portant sur des sciages ayant été imposés lors de leur
-transfert à ce chantier ou magasin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 157 bis
-
-Les réfactions prévues à l'article 1613-II-1o du code général des impôts sont fixées à :
-
-15 % pour les sciages rabotés, rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires repris à la position ex
-44-07, ex 44-08, ex 44-09 du tarif des droits de douane;
-
-15 % pour les sciages imprégnés  injectés ou enduits repris aux positions ex 44-07-10, 44-07-21, 44-07-22, 44-07-23,
-44-07-91, 44-07-92, 44-07-99, 44-08-10, 44-08-20, 44-08-90 du tarif des droits de douane.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1988-10-20
-	  - Arrêté 1991-09-09
-
-	**Cite**:
-
-	  - CGI 1613 II 1°
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-
-	**Modifié par**:
-
-	  - Règlement CEE n°2658/87 1987-07-23 (conseil
-
-
 ##### Section II : Budget annexe des prestations sociales agricoles
-
-##### I : Taxe de 1,20 % sur les produits des exploitations forestières.
-
-###### Article 159 bis
-
-La taxe visée à l'article 1618 bis du code général des impôts est perçue dans les formes et conditions prévues aux articles
-156 et 157.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Cite**:
-
-	  - CGI 1618 bis
-	  - CGIAN4 156
-	  - CGIAN4 157
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ##### III : Huiles.
 
@@ -14932,123 +14862,29 @@ Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 
 	  - Règlement CEE n°2658/87 1987-07-23 (conseil)
 
 
-##### Section VII : Fonds d'orientation et de régularisation des marchés agricoles.
-
-###### Article 159 AJ
-
-Les taux de la taxe parafiscale perçue au profit du fonds d'orientation et de régularisation des marchés agricoles en matière
-de produits résineux sont déterminés comme suit  par référence au tarif des douanes :
-
-NUMERO DU TARIF DE DOUANE D'IMPORTATION : 38-05        Par quintal
-F    Tall Oil (résine liquide) :
-
-- A Brut                                           0,3       - B Autre                                          0,3 NUMERO DU
-TARIF DE DOUANE D'IMPORTATION : 38-07  Essence de térébenthine, essence de bois de     pin ou essence de pin, essence de
-papeterie     au sulfate et autres solvants terpéniques, etc. :
-
-- A Essence de térébenthine                        0,3       - B Essence de papeterie au sulfate,           dipentène brut
-0,3       - C Autres :
-
-- huiles de pin                            0,3               - autres essences et solvants                 terpéniques
-provenant de la                 distillation ou d'autres traitements                 de conifères ; essence de papeterie
-au bisulfite                             0,3  NUMERO DU TARIF DE DOUANE D'IMPORTATION : 38-08   Colophanes et acides
-résiniques et leurs      dérivés autres que les gommes esters      du 39-05 ; essence de colophane et huiles      de
-colophane.
-
-- A Colophane (y compris les produits               dits brais résineux)                        0,7           - B Essence de
-colophane et huile de               colophane                                   0,7           - C Autres
-0,7   NUMERO DU TARIF DE DOUANE D'IMPORTATION :
-
-Ex 38-09 B    Liants pour noyaux de fonderie à base de      produits résineux naturels                           0,7
-Ex B   NUMERO DU TARIF DE DOUANE D'IMPORTATION :
-
-Ex 39-05       Résines naturelles, modifiées par fusion ;
-
-résines artificielles obtenues par          estérification de résines naturelles          ou d'acides résiniques (gommes
-esters),          etc.                Ex B          Gommes esters                                     0,7.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1981-09-15 art. 1 JORF 20 septembre 1981
-
-	**Codifié par**:
-
-	  - Arrêté 1982-10-15
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
-	  - HISTO: Edition du 24 juin 1991
-
-
-###### Article 159 AK
-
-Pour les produits fabriqués en France  les factures établies par les personnes redevables de la taxe doivent obligatoirement
-faire apparaître les quantités taxables et le montant de la taxe correspondante.
-
-Pour les produits importés  les mêmes mentions que ci-dessus doivent figurer sur les quittances ou documents en tenant lieu
-délivrés par l'administration des douanes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 159 AL
-
-La taxe est due à compter du 1er mai 1971 dans les conditions prévues aux articles 342 à 344 de l'annexe II au code général
-des impôts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Cite**:
-
-	  - CGIAN2 342
-	  - CGIAN2 343
-	  - CGIAN2 344
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### Section VII bis : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
 
 ###### Article 159 AL bis
 
-Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1990 [*date
-limite*] à 0,70 % [*pourcentage*] dont 0,45 % affecté au comité professionnel de développement de l'horlogerie et 0,25 %
-affecté au centre technique de l'industrie horlogère [*bénéficiaires*].
+Le taux de la taxe prévu à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1991 à 0,70
+p. 100.
+
+Le produit de la taxe est versé à un compte courant ouvert au nom du comité professionnel de développement de l'horlogerie à
+la paierie générale du Trésor.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-12-29 art. 1 JORF 31 décembre 1989
+	  - Arrêté 1991-04-10 art. 1 JORF 11 avril 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1991-09-09
 
 	**Cite**:
 
 	  - CGIAN2 345
-
-	**Liens**:
-
-	  - HISTO: é
 
 
 ##### Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.
@@ -15056,25 +14892,21 @@ affecté au centre technique de l'industrie horlogère [*bénéficiaires*].
 ###### Article 159 AL quater
 
 Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,20 % [*pourcentage*]
-du montant hors taxes des ventes jusqu'au 31 décembre 1990 [*date limite*].
+du montant hors taxes des ventes jusqu'au 31 décembre 1991 [*date limite*].
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-12-29 art. 1 JORF 31 décembre 1989
+	  - Arrêté 1991-04-10 art. 1 JORF 11 avril 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1991-09-09
 
 	**Cite**:
 
 	  - CGIAN2 363 A
-
-	**Liens**:
-
-	  - HISTO: é
 
 
 ##### Section VII quinquies : Taxe parafiscale des industries textiles.
@@ -15333,7 +15165,7 @@ poiré.
 
 ###### Article 159 AO
 
-A compter du 1er janvier 1990, le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est
+A compter du 1er janvier 1991, le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est
 fixé comme suit par kilogramme net :
 
 " Viande de boeuf et viande de veau : 0,034 F ;
@@ -15350,15 +15182,23 @@ fixé comme suit par kilogramme net :
 
 	**Modifié par**:
 
-	  - Arrêté 1989-12-14 art. 1 JORF 22 décembre 1989
+	  - Arrêté 1990-12-27 art. 1 JORF 1er janvier 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1991-09-09
 
 	**Cite**:
 
 	  - CGIAN2 363 D
+
+	**Nouveaux textes**:
+
+	  - CGIAN4 159 AL quater-0A
+
+	**Transféré par**:
+
+	  - Décret n°91-470 du 14 mai 1991 - art. 1 (V) JORF 17 mai 1991
 
 
 #### Section IV : Taxe parafiscale sur les vins.
@@ -15366,7 +15206,7 @@ fixé comme suit par kilogramme net :
 ###### Article 159 AP
 
 En application de l'article 363 E de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
-vins au profit de l'association nationale pour le developpement agricole est fixée comme suit à compter du 1er janvier 1990 :
+vins au profit de l'association nationale pour le developpement agricole est fixée comme suit à compter du 1er janvier 1991 :
 
 Vins à appellation d'origine contrôlée : 1,23 F par hectolitre    Vins délimités de qualité supérieure : 0,78 F par
 hectolitre    Autres vins : 0,45 F par hectolitre.
@@ -15375,11 +15215,11 @@ hectolitre    Autres vins : 0,45 F par hectolitre.
 
 	**Modifié par**:
 
-	  - Arrêté 1989-12-14 art. 1 JORF 22 décembre 1989
+	  - Arrêté 1990-12-27 art. 1 JORF 1er janvier 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1991-09-09
 
 	**Cite**:
 
@@ -15391,23 +15231,25 @@ hectolitre    Autres vins : 0,45 F par hectolitre.
 ###### Article 159 AR
 
 Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à l'article 363 F de l'annexe II au code général
-des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1989-1990 :
+des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1990-1991 :
 
-" Colza et navette :  7,10 F par tonne ;
+Colza : 6,40 F par tonne ;
 
-" Tournesol : 8,60 F par tonne ;
+Navette : 6,40 F par tonne ;
 
-" Soja : 4,55 F par tonne.
+Tournesol : 7,75 F par tonne ;
+
+Soja : 4,10 F par tonne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-11-08 art. 1 JORF 21 novembre 1989
+	  - Arrêté 1990-11-08 art. 1 JORF 13 novembre 1990
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1991-09-09
 
 	**Cite**:
 
@@ -15542,59 +15384,33 @@ l'article R 211-24  deuxième alinéa  du code des assurances suivant les modali
 	  - Code des assurances R211-24 AL. 2
 
 
-##### Section II bis : Fonds de garantie contre les actes de terrorisme.
+##### Section II bis : Fonds de garantie des victimes des actes de terrorisme et d'autres infractions
 
 ###### Article 159 quinquies A
 
 I. Les contrats d'assurance sur lesquels est assise la contribution prévue aux articles 1628 quinquies du code général des
 impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
-branches 3 à 9 de l'article R. 321-1 du code des assurances. 
+branches 3 à 9 de l'article R. 321-1 du code des assurances.
 
-II. Le taux annuel de la contribution est fixé, pour 1989, à 1 F par contrat. Les sommes correspondantes sont perçues par les
+II. Le taux annuel de la contribution est fixé, pour 1991, à 4 F par contrat. Les sommes correspondantes sont perçues par les
 entreprises d'assurance à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre le 1er janvier et le
-31 décembre 1990.
+31 décembre 1991.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-10-31 art. 1 JORF 1er novembre 1989
+	  - Arrêté 1990-10-04 art. 1 JORF 11 octobre 1990
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 325 (Dis)
-	  - Code général des impôts, CGI. - art. 1628 quinquies (Dis)
-	  - Code des assurances - art. R321-1 (V)
-
-
-##### Section III : Taxe au profit de l'office des migrations internationales.
-
-###### Article 159 sexies
-
-Le taux du prélèvement à opérer au profit du budget général, sur le produit de la vente des timbres mobiles spéciaux destinés
-au paiement de la taxe perçue au profit de l'office des migrations internationales, conformément aux dispositions de
-l'article 1635 bis du code général des impôts et des articles 344 bis à 344 quinquies de l'annexe III audit code, à
-l'occasion du renouvellement des autorisations de travail aux travailleurs étrangers, est fixé à 2 %.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1988-10-20
 	  - Arrêté 1991-09-09
 
 	**Cite**:
 
-	  - CGI 1635 bis
-	  - CGIAN3 344 bis à CGIAN3 344 quinquies
-
-	**Modifié par**:
-
-	  - Décret n°88-24 du 7 janvier 1988 - art. 1 (V) JORF 8 janvier 1988
+	  - CGI 1628 quinquies
+	  - CGIAN2 325
+	  - Code des assurances R321-1
 
 
 ##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
@@ -15604,20 +15420,23 @@ l'occasion du renouvellement des autorisations de travail aux travailleurs étra
 Les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général des impôts sont fixés comme
 suit :
 
-Désignation :
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est égal ou supérieur à 3,5 tonnes et
+inférieur à 6 tonnes.
 
-Véhicules automobiles de transport de marchandises dont le P.A.T.C. (1) est égal ou supérieur à 3,5 tonnes et inférieur à 6
-tonnes A compter du 1er janvier 1990 : 380 F
+A compter du 1er janvier 1991 : 425 F
 
-Désignation :
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal ou supérieur à 6 tonnes et inférieur à
+11 tonnes.
 
-Véhicules automobiles de transport de marchandises dont le P.A.T.C.   est égal ou supérieur à 6 tonnes et inférieur à 11
-tonnes Pour la période du 1er janvier au 31 décembre 1989 : 573 F 
+A compter du 1er janvier 1991 : 635 F
 
-Désignation :
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal  ou supérieur à 11 tonnes
 
-Véhicules automobiles de transport de marchandises dont le P.A.T.C. est égal  ou supérieur à 11 tonnes Tracteurs routiers
-Véhicules de transport en commun de voyageurs Pour la période du 1er janvier au 31 décembre 1989 : 855 F.
+Tracteurs routiers
+
+Véhicules de transport en commun de personnes
+
+A compter du 1er janvier 1991 : 955 F
 
 (1) Poids total autorisé en charge.
 
@@ -15625,11 +15444,11 @@ Véhicules de transport en commun de voyageurs Pour la période du 1er janvier a
 
 	**Modifié par**:
 
-	  - Arrêté 1989-12-26 art. 1 JORF 29 décembre 1989
+	  - Arrêté 1991-01-14 art. 1 JORF 16 janvier 1991
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1991-09-09
 
 	**Cite**:
 
@@ -15842,6 +15661,112 @@ renseignements à l'aide de supports magnétiques.
 	**Cite**:
 
 	  - CGI 164 FB à 164 FE
+
+
+#### Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs
+
+###### Article 164 F novodecies A
+
+Pour l'application de l'article 344 I bis de l'annexe III au code général des impôts, doivent être considérés comme des
+sommes, titres ou valeurs :
+
+- les billets de banque ;
+
+- les pièces de monnaie ;
+
+- les chèques avec ou sans indication de bénéficiaire ;
+
+- les chèques au porteur ;
+
+- les chèques endossables autres que ceux destinés à ou adressés par des entreprises exerçant à titre habituel et
+professionnel une activité de commerce international ;
+
+- les chèques de voyage ;
+
+- les postchèques ;
+
+- les effets de commerce non domiciliés ;
+
+- les lettres de crédit non domiciliées ;
+
+- les bons de caisse anonymes ;
+
+- les valeurs mobilières et autres titres de créances négociables au porteur ou endossables ;
+
+- les lingots d'or et pièces d'or ou d'argent cotées sur un marché officiel.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 5-I [87°] et 7 du décret n° 2005-1007 du 2 août 2005.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1990-12-18 art. 1 JORF 19 décembre 1990
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I bis
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies B (P)
+
+
+###### Article 164 F novodecies B
+
+1. La déclaration faite en application de l'article 344 I bis de l'annexe III au code général des impôts est déposée auprès
+du service des douanes de la frontière.
+
+" Elle comporte, sur un document daté et signé, les mentions suivantes :
+
+" - les nom, prénoms, nationalité, date et lieu de naissance ;
+
+" - l'adresse du domicile principal ;
+
+" - la formule : "Je déclare être porteur des sommes, titres ou valeurs énumérés ci-dessous, dont le montant total est égal
+ou supérieur à 50 000 FF" ;
+
+" - l'indication de l'importation ou de l'exportation des sommes, titres ou valeurs ;
+
+" - la description par nature des sommes, titres ou valeurs avec indication de leur montant.
+
+" Cette déclaration est établie en trois/exemplaires, dont un est restitué au déclarant après visa par le service des
+douanes.
+
+" 2. Pour les envois postaux, la déclaration visée au 3 de l'article 344 I bis de l'annexe III au code général des impôts
+sera :
+
+" - soit un document administratif unique (D.A.U.) lorsqu'il s'agit de lingots d'or ou de pièces d'or ou d'argent cotées sur
+un marché officiel ;
+
+" - soit, dans tous les autres cas, une déclaration en douane conforme au modèle C 2/CP 3.
+
+" 3. Si le transfert est opéré pour le compte d'un tiers, la déclaration visée aux 1 et 2 comportera l'identification du
+propriétaire des sommes, titres ou valeurs transportés. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1990-12-18 art. 1 JORF 19 décembre 1990
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
+
+	**Cite**:
+
+	  - CGIAN3 344 I bis
 
 
 #### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales
@@ -17191,42 +17116,6 @@ services fiscaux qui a délivré l'agrément, soit par le directeur régional de
 	  - HISTO: EDITION 1979-07-01
 
 
-## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
-
-### DISPOSITIONS DIVERSES
-
-#### DISPOSITIONS COMMUNES.
-
-##### OCTROI DE CERTAINS AGREMENTS FISCAUX.
-
-###### Article 170 septies A
-
-Pour les entreprises relevant du régime du forfait ou du régime simplifié de liquidation des taxes sur le chiffre d'affaires
-prévu aux articles 302 ter et 302 septies A du code général des impôts, l'agrément institué par l'article 279-b sexies du
-même code est délivré par le directeur régional des impôts sur proposition du préfet.
-
-Pour les autres entreprises, ou lorsque l'affaire présente des difficultés particulières, l'agrément est délivré
-conjointement par le ministre de l'économie, des finances et du budget et le ministre délégué à la culture, après avis de la
-commission prévue par l'article 279-b sexies précité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1988-10-20
-	  - Arrêté 1991-09-09
-
-	**Cite**:
-
-	  - CGI 279 b sexies
-	  - CGI 302 septies A
-	  - CGI 302 ter
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-
 # Livre II : Recouvrement de l'impôt
 
 ## Chapitre premier : Paiement de l'impôt
@@ -17417,23 +17306,27 @@ Le paiement de la totalité de l'impôt exigible sur les opérations effectuées
 par lui est fait dans le même délai que celui prévu pour la remise ou l'envoi de la déclaration sous réserve  pour le
 redevable  d'user de la faculté prévue au dernier alinéa.
 
-Le redevable peut se libérer  soit en numéraire  soit au moyen d'un chèque postal  d'un mandat-contributions  d'un mandat-
+Le redevable peut se libérer, soit en numéraire, soit au moyen d'un chèque postal, d'un mandat-contributions, d'un mandat-
 poste ou mandat-carte émis au profit du receveur compétent de l'administration des impôts et à lui adressé dans les mêmes
-conditions et délais que ceux prévus à l'article 287-1 et 2 du code général des impôts  soit par virement opéré à son compte
-de chèques postaux.
+conditions et délais que ceux prévus à l'article 287 du code général des impôts, soit par virement opéré à son compte de
+chèques postaux.
 
 Il peut également se libérer au moyen de chèque suivant les modalités fixées aux articles 199 à 204.
 
-Enfin  les redevables exerçant une profession ou un commerce dans une place bancable peuvent être autorisés par le directeur
+Enfin, les redevables exerçant une profession ou un commerce dans une place bancable peuvent être autorisés par le directeur
 des services fiscaux à acquitter le montant de l'impôt sur présentation d'une traite émise par l'agent de l'administration
-désigné à cet effet. Dans ce cas  l'impôt est augmenté des frais de traite ainsi que des frais de recouvrement.
+désigné à cet effet. Dans ce cas, l'impôt est augmenté des frais de traite ainsi que des frais de recouvrement.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1991-09-09
 
 	**Cite**:
 
 	  - CGI 287 1, 2
-	  - CGIAN4 199 A CGIAN4 204
+	  - CGIAN4 199 à 204
 
 	**Cité par**:
 
@@ -17441,7 +17334,11 @@ désigné à cet effet. Dans ce cas  l'impôt est augmenté des frais de traite 
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991
+
+	**Modifié par**:
+
+	  - Loi n°90-1168 1991-12-29 art. 27 I JORF 30 décembre 1990
 
 
 ###### Article 192 bis
@@ -17733,26 +17630,6 @@ encaissement frauduleux.
 En cas d'envoi par la poste, les chèques sont accompagnés des actes, déclarations, avis d'imposition, sommations ou de toutes
 autres pièces nécessaires à la liquidation de l'impôt ou à l'imputation du versement.
 
-
-
-###### Article 203
-
-En ce qui concerne les impôts perçus par le service des impôts  si le montant du chèque est insuffisant ou si les actes et
-déclarations ne renferment pas les indications ou ne sont pas accompagnés des justifications nécessaires pour la liquidation
-régulière de l'impôt le comptable renvoie au tireur  sous enveloppe non affranchie portant le nom du bureau  le chèque
-accompagné d'un avis indiquant le montant des droits exigibles ou les évaluations et autres rectifications que comportent les
-documents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 204
