@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-06-22
+Version Consolidée au 1982-06-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1866,6 +1866,46 @@ molybdène.
 ##### Section IV : Calcul de la taxe
 
 ##### I : Taux réduit
+
+##### A : Pâtisserie fraîche.
+
+###### Article 30-0 A
+
+Sont considérés comme des produits de pâtisserie fraîche les produits alimentaires composés :
+
+D'une pâte (dite levée, brisée, feuilletée, sablée, à choux, génoise, etc.) ;
+
+Ou d'une meringue, et de l'un au moins des produits suivants :
+
+Crème (dite pâtissière, légère, au beurre, pralinée, fraîche, chantilly, flan, etc.) ;
+
+Pâte ou crème d'amandes ;
+
+Fruits autres que confits et secs et préparations de fruits ;
+
+Alcools dans une proportion déterminante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1970-12-23 art. 1 JORF 27 décembre 1970
+	  - Décret n°72-1124 1972-12-20 art. 1 JORF 21 décembre 1972
+	  - Loi n°82-540 du 28 juin 1982 - art. 3 (V) JORF 29 juin 1982
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+	  - Arrêté 1993-09-24
+
+	**Anciens textes**:
+
+	  - CGIAN4 31 A
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
+
 
 ##### B : Hôtels de tourisme et villages de vacances
 
@@ -9545,39 +9585,6 @@ perceptions forfaitaires prévues à l'article 1er  troisième alinéa  de la lo
 
 	  - CGI 260 C 5°
 	  - Loi n°66-1010 1966-12-28 ART. 1 AL. 3
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### CALCUL DE LA TAXE
-
-###### Article 31 A
-
-Sont considérés comme des produits de pâtisserie fraîche les produits alimentaires composés :
-
-D'une pâte (dite levée  brisée  feuilletée  sablée  à choux génoise  etc.);
-
-Ou d'une meringue    Et de l'un au moins des produits suivants :
-
-Crème (dite pâtissière  légère  au beurre  pralinée  fraîche chantilly  flan  etc.);
-
-Pâte ou crème d'amandes;
-
-Fruits autres que confits et secs et préparations de fruits;
-
-Alcools dans une proportion déterminante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Nouveaux textes**:
-
-	  - CGIAN4 30-0 A
 
 	**Liens**:
 
