@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1988-01-23
+Version Consolidée au 1988-02-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3121,6 +3121,31 @@ passagers.
 
 
 ##### Section III : Liquidation de la taxe
+
+##### I : Remboursement de la taxe aux assujettis établis hors de France.
+
+###### Article 28 A
+
+En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
+ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
+est fixé, pour l'année 1988, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les demandes
+déposées au titre d'une année civile.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1988-01-26 art. 1 JORF 11 février 1988
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGIAN2 242-0 M
+	  - CGIAN2 242-0 P
+
 
 ##### II : Régime suspensif
 
@@ -14678,35 +14703,6 @@ recevraient pas la destination déclarée  sans préjudice des pénalités éven
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES
-
-#### TAXES SUR LA VALEUR AJOUTEE *TVA*
-
-##### LIQUIDATION DE LA TAXE.
-
-###### Article 28 A
-
-En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
-ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
-est fixé, pour l'année 1987, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les demandes
-déposées au titre d'une année civile.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1987-01-19 art. 1 JORF 24 janvier 1987
-
-	**Codifié par**:
-
-	  - Arrêté 1987-11-23
-
-	**Cite**:
-
-	  - CGIAN2 242-0 M
-	  - CGIAN2 242-0 P
 
 
 ### CONTRIBUTIONS INDIRECTES
