@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-02-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3394,38 +3394,6 @@ excéder 60 %, ni être e inférieure à 50 % de la valeur libératoire des titr
 
 ##### I bis : Opérations imposables sur option
 
-###### Article 23 P
-
-La liste des opérations bancaires afférentes au financement d'exportations ou d'affaires faites hors de France prévue à
-l'article 260 C-9° est établie comme suit :
-
-achats de change à la clientèle  autres que les opérations de change manuel;
-
-escompte d'effets de commerce ou de moyens de paiement représentant des créances sur l'étranger;
-
-mobilisation des créances sur l'étranger;
-
-préfinancement de marchés d'exportation réalisé sous forme de crédits mobilisables auprès de la Banque de France;
-
-cautions  avals et confirmations de crédits documentaires fournis en France et se rapportant à des opérations d'exportation;
-
-avances en devises aux exportateurs pour le financement des exportations;
-
-prêts consentis aux acheteurs étrangers de biens d'équipement et autres produits français;
-
-achats fermes aux exportateurs français de créances sur clients étrangers.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 260 C 9°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### Opérations exclues de l'imposition sur option
 
 ###### Article 23 O
@@ -3464,6 +3432,39 @@ rémunération perçue par l'intermédiaire placeur d'emprunts émis par voie d'
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 260 C (V)
+
+
+###### Article 23 P
+
+La liste des opérations bancaires afférentes au financement d'exportations, de livraisons exonérées en vertu du I de
+l'article 262 ter du code général des impôts ou d'opérations situées hors de France, prévue au 9° de l'article 260 C de ce
+code, est établie comme suit : 
+
+1° Escompte d'effets de commerce ou de moyens de paiement représentant des créances sur l'étranger ; 
+
+2° Mobilisation des créances sur l'étranger ; 
+
+3° Préfinancement d'exportations ou de livraisons exonérées en vertu du I de l'article 262 ter du code général des impôts,
+réalisé sous forme de crédits mobilisables auprès de la Banque de France ; 
+
+4° Cautions, avals et confirmations de crédits documentaires fournis en France et se rapportant à des exportations ou à des
+livraisons exonérées en vertu du I de l'article 262 ter dudit code ; 
+
+5° Prêts consentis aux acheteurs étrangers de biens d'équipement et autres produits français ; 
+
+6° Achats fermes aux entreprises françaises réalisant des exportations ou des livraisons exonérées en vertu du I de l'article
+262 ter du même code, de créances sur clients étrangers.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1993-02-09 art. 1 JORF 17 février 1993
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 260 C (V)
+	  - Code général des impôts, CGI. - art. 262 ter (V)
 
 
 ##### II : Opérations exonérées
@@ -3508,21 +3509,25 @@ passagers.
 
 ###### Article 28 A
 
-En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
-ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
-est fixé, pour les années 1991 et 1992, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
+En application de l'article 242-0 P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
+ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0 M de la même annexe
+est fixé, pour les années 1992 et 1993, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
 demandes déposées au titre d'une année civile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1992-02-24 art. 1 JORF 3 mars 1992
+	  - Arrêté 1993-02-10 art. 1 JORF 17 février 1993
 
 	**Cite**:
 
 	  - CGIAN2 242-0 M
 	  - CGIAN2 242-0 P
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 28-0 A
@@ -4254,30 +4259,27 @@ général des impôts doivent en faire la demande sur un imprimé remis par l'ad
 Les dispositions de l'article 276 du code général des impôts sont rendues applicables aux personnes ou sociétés mentionnées à
 l'article 284 de ce code ou susceptibles de bénéficier des dispositions prévues :
 
-à l'article 261-4-10o dudit code;
+1° Au 10° du 4 de l'article 261 dudit code ;
 
-à l'article 275 du même code lorsqu'elles réalisent des opérations visées  soit à l'article 262, directement à l'exportation
-ou par l'intermédiaire d'un commissionnaire exportateur  soit à l'article 263 du code précité.
+2° A l'article 275 du même code, lorsqu'elles réalisent des exportations, des livraisons exonérées en vertu du I de l'article
+262 ter ou de l'article 262 quater dudit code ou des livraisons dont le lieu est situé sur le territoire d'un autre Etat
+membre de la Communauté économique européenne en application de l'article 258 A du code précité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1993-02-09 art. 2 JORF 17 février 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
+
 	**Cite**:
 
-	  - CGI 261 4 10°
-	  - CGI 262
-	  - CGI 263
-	  - CGI 275
-	  - CGI 276
-	  - CGI 284
+	  - CGI 276, 284, 261 4 10°, 275, 262 ter , 262 quater, 258 A
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 bis (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 50
