@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1983-03-05
+Version Consolidée au 1983-03-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1385,6 +1385,35 @@ les sociétés agréées aux constructeurs  fournisseurs et autres ayants droit 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### Section II : Lieu d'imposition
+
+##### Lieu d'imposition des personnes morales qui exercent des activités en France ou y possèdent des biens, sans y avoir leur siège social
+
+###### Article 23 ter
+
+Le lieu d'imposition des personnes morales désignées au 2 de l'article 218 A du code général des impôts est fixé :
+
+pour les sociétés ou personnes morales dont l'activité s'exerce en France dans un ou plusieurs établissements, au lieu du
+principal établissement ;
+
+pour les sociétés ou personnes morales qui exercent une activité en France sans y avoir d'établissement, au centre des impôts
+des non-résidents, 9, rue d'Uzès, à Paris ;
+
+pour les sociétés et personnes morales qui sans exercer en France d'activité autre qu'immobilière y disposent de propriétés
+immobilières données ou non en location  au lieu de situation de ces biens. Si l'application de cette règle conduit à une
+pluralité de lieux d'imposition, l'imposition est établie au centre des impôts des non-résidents, 9, rue d'Uzès, à Paris.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 218 A 2
+
+	**Modifié par**:
+
+	  - arrêté 1983-03-04 art. 2 JORF 15 mars 1983
 
 
 ##### Section III : Obligations des personnes morales
@@ -6676,6 +6705,38 @@ l'article L. 82 du livre des procédures fiscales.
 	  - CGIAN4 121 KL bis
 
 
+#### Chapitre III : Autres droits et taxes
+
+##### Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales n'y ayant pas leur siège social.
+
+###### Article 121 K ter
+
+La déclaration relative à la taxe prévue à l'article 990 D du code général des impôts [*taxe annuelle égale à 3 % de la
+valeur vénale de ces immeubles ou droits*] est déposée :
+
+a. Pour les personnes morales dont l'activité s'exerce en France dans un ou plusieurs établissements, à la recette des impôts
+du lieu du principal établissement ;
+
+b. Pour les personnes morales qui sans exercer en France d'activité autre qu'immobilière y possèdent un ou plusieurs
+immeubles ou sont titulaires de droits réels portant sur ces biens, à la recette des impôts du lieu de situation de ces
+biens. Si l'application de cette règle conduit à une pluralité de lieux d'imposition, la déclaration est déposée à la recette
+du centre des impôts des non-résidents, 9, rue d'Uzès, à Paris.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1983-03-04 art. 1 JORF 15 mars 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1983-07-10
+
+	**Cite**:
+
+	  - CGI 990 D
+
+
 #### Chapitre IV : Régimes spéciaux et exonérations de portée générale
 
 ##### Institutions à caractère social
@@ -9800,34 +9861,6 @@ sociétés.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 (V)
-
-
-##### LIEU D'IMPOSITION.
-
-###### Article 23 ter
-
-Le lieu d'imposition des personnes morales désignées à l'article 218 A-2 du code général des impôts est fixé :
-
-pour les sociétés ou personnes morales dont l'activité s'exerce en France dans un ou plusieurs établissements  au lieu du
-principal établissement;
-
-pour les sociétés ou personnes morales qui exercent une activité en France sans y avoir d'établissement  au centre des impôts
-des non-résidents  9, rue d'Uzès  à Paris;
-
-pour les sociétés ou personnes morales qui sans exercer en France d'activité autre qu'immobilière y disposent de propriétés
-immobilières données ou non en location  au lieu de situation de ces biens. Si l'application de cette règle conduit à une
-pluralité de lieux d'imposition  l'administration désigne celui auquel l'imposition est établie et en informe la société ou
-personne morale ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 218 A 2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### OBLIGATIONS DES PERSONNES MORALES
