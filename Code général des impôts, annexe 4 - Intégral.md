@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-02-06
+Version Consolidée au 1986-02-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11397,12 +11397,12 @@ Les substances minérales solides dont l'extraction peut donner droit  par appli
 B-1 du code général des impôts  à la constitution de provisions pour reconstitution de gisements dans les conditions prévues
 par les articles 10 C quinquies à 10 G de l'annexe III au code précité  sont les suivantes :
 
-Minerai d'aluminium  amiante  antimoine  minerai d'argent  argiles réfractaires kaoliniques  minerai d'arsenic  barytine
-minerai de béryllium  minerai de bismuth  minerai de bore  minerai de chrome minerai de cobalt  colombotantalite  minerai de
-cuivre  minerai d'étain  fluorine  kaolin  minerai de lithium  minerai de manganèse minerai de molybdène  minerai de nickel
-minerai d'or  phosphates minerai de platine et de la mine du platine  minerai de plomb même non associé au zinc  potasse
-pyrites  minerais radioactifs silice pour l'industrie minerai de soufre talc terres rares minerai de titane minerai de
-tungstène minerai de vanadium minerai de zinc et minerai de zirconium.
+Minerai d'aluminium amiante andalousite antimoine minerai d'argent argiles réfractaires kaoliniques minerai d'arsenic
+barytine minerai de béryllium minerai de bismuth minerai de bore minerai de chrome minerai de cobalt colombotantalite minerai
+de cuivre minerai d'étain fluorine kaolin minerai de lithium minerai de manganèse minerai de molybdène minerai de nickel
+minerai d'or phosphates minerai de platine et de la mine du platine minerai de plomb même non associé au zinc potasse pyrites
+minerais radioactifs silice pour l'industrie minerai de soufre talc terres rares minerai de titane minerai de tungstène
+minerai de vanadium minerai de zinc et minerai de zirconium.
 
 Les argiles réfractaires kaoliniques [*définition*] mentionnées à l'alinéa précédent s'entendent des matériaux naturels
 constitués pour au moins 92 % de silicates d'alumine hydratés du type kaolinite halloysite ou illite et de quartz libre et
@@ -11415,11 +11415,11 @@ s'entend des matériaux naturels présentant une teneur sur produit sec d'au moi
 
 	**Modifié par**:
 
-	  - Arrêté 1979-08-16 art. 1 JORF 24 août 1979
+	  - Arrêté 1986-02-17 art. 1 JORF 22 février 1986
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1986-10-07
 
 	**Cite**:
 
