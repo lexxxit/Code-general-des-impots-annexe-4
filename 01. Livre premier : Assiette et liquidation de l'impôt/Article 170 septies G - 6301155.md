@@ -1,19 +1,21 @@
 # Article 170 septies G
 
 Il est statué par le directeur des services fiscaux de la Corse-du-Sud sur les demandes d'agrément présentées en application
-du quatrième alinéa du I de l'article 44 decies et du 2° du troisième alinéa du I de l'article 1466 B du code général des
-impôts.
+du quatrième alinéa du I de l'article 44 decies ((et du 2° du quatrième alinéa du I de l'article 1466 B )) (M) du code
+général des impôts.
 
 Toutefois, la décision est prise par le ministre chargé du budget pour les opérations présentant des difficultés
 particulières ou évoquées par le ministre (1).
 
 (1) Ces dispositions s'appliquent aux demandes d'agrément déposées à compter de la date d'entrée en vigueur de l'arrêté.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Arrêté 1997-05-20 art. 1, art. 2 JORF 25 mai 1997
+	  - Arrêté 1999-05-18
 
 	**Cite**:
 
@@ -21,4 +23,8 @@ particulières ou évoquées par le ministre (1).
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 1999
+
+	**Modifié par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 44 A IV 3 Finances pour 1999 JORF 31 décembre 1998

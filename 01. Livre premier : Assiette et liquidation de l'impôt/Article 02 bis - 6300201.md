@@ -13,11 +13,11 @@ combustibles minéraux solides ou d'électricité.
 récupération sur effluents thermiques ou gaz pauvre de procédé : chaudière à vapeur, à eau chaude, à fluide thermique, à
 condensation, à haut rendement (soit supérieur à 80 p. 100 PCS) :
 
-Echangeurs thermiques récupérateurs sur fluides liquides ou gazeux : échangeurs à plaques, à caloducs, par fluide
-caloporteur, rotatifs, à tapis lorsque ces matériels sont destinés à la production d'eau chaude ou de vapeur, de fluide
-thermique, d'air, l'énergie échangée étant utilisée pour le séchage de produits ou le chauffage de locaux, le préchauffage
-d'air de combustion, de produits, de combustibles ou de fluides utilisés dans des cycles binaires, la récupération de
-frigories sur des fluides détendus ;
+Echangeurs thermiques récupérateurs sur fluides liquides ou gazeux : ((échangeurs tubulaires)) (M), échangeurs à plaques, à
+caloducs, par fluide caloporteur, rotatifs, à tapis lorsque ces matériels sont destinés à la production d'eau chaude ou de
+vapeur, de fluide thermique, d'air, l'énergie échangée étant utilisée pour le séchage de produits ou le chauffage de locaux,
+le préchauffage d'air de combustion, de produits, de combustibles ou de fluides utilisés dans des cycles binaires, la
+récupération de frigories sur des fluides détendus ;
 
 Installation de préchauffage de produits par échange direct avec des rejets thermiques ;
 
@@ -41,23 +41,25 @@ Pompes à chaleur à recompression mécanique de vapeur et matériels permettant
 recyclage de l'énergie ainsi récupérée ;
 
 Matériel permettant la récupération de l'énergie contenue dans les fluides de refroidissement utilisés pour les moteurs
-Diesel et les fours électriques à induction ;
+((thermiques)) (M) et les fours électriques à induction ;
 
 Turbine à condensation pour la production d'électricité dans le cas où la vapeur est produite pour l'essentiel lors de
 l'incinération de déchets industriels ou ménagers ou par récupération sur un procédé de fabrication excédentaire en énergie.
 
-2. Matériel de cogénération permettant la production combinée de chaleur et de force-turbine de détente de vapeur en contre-
-pression :
+2. ((Matériel de cogénération permettant la production combinée de chaleur et de force :
 
-Turbine à gaz avec chaudières de récupération sur le gaz d'échappement ;
+((a) Turbine de détente de vapeur en contre-pression ;
 
-Turbine de détente de fluides utilisés dans des cycles binaires de production d'électricité à partir de rejets thermiques à
-bas niveau ;
+((b) Turbine de détente de fluides utilisés dans les cycles binaires de production d'électricité à partir de rejets
+thermiques à bas niveau ;
 
-Matériel permettant la transformation en énergie électrique ou en énergie mécanique de l'énergie cinétique des turbines
-mentionnées ci-dessus.
+((c) Turbine de détente de haute pression utilisée en place de vanne de laminage ou de détente ;
 
-Matériel constitutif d'une centrale diesel à énergie totale.
+((d) Turbine à gaz et moteur thermique avec équipements de récupération de l'énergie sur les gaz d'échappement et/ou les
+fluides de refroidissement.
+
+((Matériel permettant la transformation en énergie électrique ou en énergie mécanique de l'énergie cinétique des turbines
+mentionnées ci-dessus)) (M) ;
 
 B. - Matériels destinés à l'amélioration du rendement énergétique d'appareils ou d'installations consommant de l'énergie :
 
@@ -68,14 +70,12 @@ Matériel de régulation améliorant les performances énergétiques des matéri
 appareils de chauffage, de climatisation ou de ventilation, moteurs ou machines-outils.
 
 Matériels permettant une chauffe en surface ou dans la masse en remplacement d'un chauffage global classique : chauffage
-infrarouge (gaz ou électricité), à haute fréquence, par rayonnement ultraviolet,
+infrarouge (gaz ou électricité), à haute fréquence, par rayonnement ultraviolet, ((micro-ondes)) (M) ;
 
 Matériel de mesure ou enregistreurs permettant un meilleur contrôle du rendement énergétique des installations ;
 
-Matériel de séparation performant en substitution d'un système de séparation classique permettant d'éviter des procédés
-thermiques :
-
-membranes polymères, membranes minérales, membranes cryogéniques,
+Matériel de séparation performant en substitution d'un système de séparation ((par voies thermiques)) (M), membranes
+polymères, membranes minérales, membranes cryogéniques,
 
 Matériel permettant de réaliser des économies d'énergie par l'optimisation et la commande centralisée de la gestion d'un
 ensemble de dispositifs consommateurs d'énergie et affecté exclusivement à cet usage : système informatique centralisé de
@@ -106,6 +106,8 @@ d'eau de procédé, d'eau chaude sanitaire pour la production d'électricité et
 Matériel permettant l'utilisation d'énergie éolienne ou géothermique. Matériel d'exploitation de la biomasse : chaudières
 avec ses auxiliaires, digesteurs associés à une utilisation du biogaz.
 
+((Réseaux de récupération et collecte de biogaz en vue de son utilisation énergétique)) (M).
+
 D. - Matériels permettant le stockage d'énergie quand la réutilisation ultérieure de cette énergie permet des économies
 globales d'énergie primaire :
 
@@ -116,16 +118,28 @@ puissance) ;
 Batterie d'accumulateurs permettant le stockage d'électricité quand ce stockage permet l'arrêt permanent de matériels
 générateurs d'électricité exclusivement affectés à la fourniture instantanée d'énergie électrique en secours.
 
+((E.  Matériels utilisant un procédé physique à haut rendement énergétique pour la production de chaleur destiné au chauffage
+des bâtiments :
+
+((Systèmes de climatisation réversible dont le coefficient de performance, à + 7° C, est au moins égal à 2,5)) (M).
+
+(M) Modification.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1991-07-30 art. 1, art. 2 JORF 3 août 1991
+	  - Arrêté 1999-02-10 art. 1 JORF 18 février 1999, rectificatif JORF 20 mars 1999
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Arrêté 1992-08-27
+	  - Arrêté 2001-06-14 art. 2 JORF 17 juin 2001
+
+	**Cite**:
+
+	  - CGI 39 AB
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2002

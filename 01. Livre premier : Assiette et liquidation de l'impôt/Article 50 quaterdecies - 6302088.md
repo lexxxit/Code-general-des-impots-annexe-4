@@ -2,14 +2,20 @@
 
 Le tarif de la redevance sanitaire de découpage s'établit comme suit (par tonne) : 
 
-- pour les viandes de boucherie 11 F ; 
+Pour les viandes de boucherie : 11 Francs. 
 
-- pour les viandes de volailles 9 F (M). 
+Pour les viandes de volailles et de lapin : 9 Francs. 
 
-(M) Modification applicable à compter du 1er novembre 1996.
+Pour les viandes de gibier d'élevage : 
+
+- petit gibier à plumes, petit gibier à poils : 9 Francs. 
+
+- ratites (autruche, émeu, nandou) : 19 Francs. 
+
+- sanglier et ruminants : 11 Francs.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 octobre 1996 - art. 2 JORF 6 octobre 1996, v. init.
+	  - Arrêté du 29 avril 1998 - art. 2 JORF 7 mai 1998 en vigueur le 1er juin 1998, v. init.

@@ -1,7 +1,7 @@
 # Article 170 decies
 
-I. L'agrément prévu au ((III de l'article 217 undecies)) (M) du code général des impôts est délivré par le directeur des
-services fiscaux du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas
+I. L'agrément prévu au III de l'article 217 undecies du code général des impôts est délivré par le directeur des services
+fiscaux du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas
 10.000.000 F.
 
 La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 10.000.000
@@ -9,26 +9,24 @@ F ou qu'il est réalisé dans plus d'un département d'outre-mer, dans un territ
 territoriale de Mayotte ou dans celle de Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
 
 L'agrément est également délivré par le ministre lorsqu'il concerne les investissements nécessaires à l'exploitation d'une
-concession de service public local à caractère industriel et commercial mentionnés au sixième alinéa du I de l'article ((217
-undecies)) (M) du code général des impôts, les souscriptions au capital des sociétés concessionnaires mentionnées au
-cinquième alinéa du II du même article et les souscriptions au capital des sociétés en difficulté visées au II bis de
-l'article précité.
+concession de service public local à caractère industriel et commercial mentionnés au quatrième alinéa du I de l'article 217
+undecies du code général des impôts, les souscriptions au capital des sociétés concessionnaires mentionnées au troisième
+alinéa du II du même article et les souscriptions au capital des sociétés en difficulté visées au II bis de l'article
+précité.
 
 II. Dans les cas visés au premier alinéa du I, les demandes d'agrément, établies conformément aux annexes à l'arrêté du 15
-mars 1996 (Journal officiel du 16 mars 1996) sont adressées au directeur des services fiscaux du département où sera réalisé
+mars 1996 (Journal officiel du 16 mars 1996), sont adressées au directeur des services fiscaux du département où sera réalisé
 le programme d'investissement.
 
 Dans les cas visés aux deuxième et troisième alinéas du I, les demandes établies conformément aux annexes à l'arrêté du 15
-mars 1996 (Journal officiel du 16 mars 1996) sont transmises à la direction générale des impôts.
+mars 1996 (Journal officiel du 16 mars 1996), sont transmises à la direction générale des impôts.
 
 III. Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
 groupements visés aux articles 8 ou 239 quater du code général des impôts, la demande d'agrément est faite par un
 représentant unique, promoteur de l'opération, gérant ou associé, qui doit remettre une copie de la décision obtenue aux
 investisseurs, copropriétaires ou associés.
 
-IV. ((Dispositions sans objet)) (M).
-
-(M) Modification.
+IV. (Dispositions devenues sans objet).
 
 **Liens relatifs à cet article**
 
@@ -37,10 +35,13 @@ IV. ((Dispositions sans objet)) (M).
 	  - Arrêté 1996-03-15
 	  - CGI 217 undecies, 8, 239 quater
 
+	**Codifié par**:
+
+	  - Arrêté 1999-05-18
+
 	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1997
-	  - Loi n°97-1269 1997-12-30 art. 18 II, VI, VII Finances pour 1998 JORF 31 décembre 1997
+	  - Loi - art. 89 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -49,4 +50,4 @@ IV. ((Dispositions sans objet)) (M).
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 1999

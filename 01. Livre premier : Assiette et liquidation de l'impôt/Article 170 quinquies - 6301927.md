@@ -1,7 +1,6 @@
 # Article 170 quinquies
 
-Il est statué sur les demandes d'agrément présentées pour l'application des articles 697, 721 et 1465 du code général des
-impôts :
+Il est statué sur les demandes d'agrément présentées pour l'application des articles 721 et 1465 du code général des impôts :
 
 1° Par le ministre chargé du budget, après avis du comité interministériel des aides à la localisation des activités institué
 par l'article 1er de l'arrêté du 10 juillet 1982 :
@@ -15,8 +14,9 @@ b. Pour les créations, extensions et décentralisations de services de directio
 
 c. Pour les opérations liées à celles mentionnées aux a et b ;
 
-d. (Abrogé) ;    2° Dans les autres cas, par le directeur régional des impôts dont dépend le lieu de situation de
-l'établissement (1).
+d. (Abrogé) ;
+
+2° Dans les autres cas, par le directeur régional des impôts dont dépend le lieu de situation de l'établissement (1).
 
 (1) Ces dispositions sont applicables aux demandes d'agrément déposées à compter du 1er janvier 1989.
 
@@ -25,15 +25,15 @@ l'établissement (1).
 	**Cite**:
 
 	  - Arrêté 1982-07-10 art. 1
-	  - CGI 697, 721, 1465
-
-	**Modifié par**:
-
-	  - Arrêté 1990-05-30 art. 3 JORF 8 juin 1990
+	  - CGI 721, 1465
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1999-05-18
+
+	**Modifié par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 39 I 4 Finances pour 1999 JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -42,4 +42,5 @@ l'établissement (1).
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 1999
+	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
