@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-01-30
+Version Consolidée au 1980-03-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14797,12 +14797,10 @@ centralisateur peut viser à la fois le versement de la retenue à la source pr�
 ###### Article 194
 
 Lorsqu'un redevable est admis au bénéfice du paiement par obligations cautionnées dans les conditions prévues à l'article
-1698 du code général des impôts  le taux de l'intérêt pour les crédits concédés est fixé à 9,30 % l'an en France continentale
-(1) et à 8 % l'an dans les départements d'outre-mer [*DOM*].
+1698 du code général des impôts  le taux de l'intérêt pour les crédits concédés est fixé à 13,60 % l'an en France
+continentale et à 10,40 % l'an dans les départements d'outre-mer [*DOM*].
 
 Ces obligations cautionnées donnent lieu au paiement d'une remise spéciale fixée à un tiers de F pour cent.
-
-(1) Arrêté du 5 décembre 1978 (J.O. du 10).
 
 **Liens relatifs à cet article**
 
@@ -14811,9 +14809,9 @@ Ces obligations cautionnées donnent lieu au paiement d'une remise spéciale fix
 	  - Arrêté 1978-12-05
 	  - CGI 1698
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Arrêté 1980-03-27 art. 1 JORF 30 mars 1980
 
 
 ### PENALITES
