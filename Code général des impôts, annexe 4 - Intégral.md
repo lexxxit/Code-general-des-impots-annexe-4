@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1988-05-11
+Version Consolidée au 1988-07-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -799,6 +799,44 @@ membre de la Communauté économique européenne.
 
 
 ##### VIII : Contrôle des frais généraux. Obligations des entreprises
+
+###### Article 4 J
+
+Les entreprises exerçant une activité industrielle ou commerciale et soumises à l'impôt sur le revenu d'après leur bénéfice
+réel ainsi que les entreprises passibles de l'impôt sur les sociétés sont tenues de fournir  à l'appui de la déclaration des
+résultats de chaque exercice  le relevé détaillé des catégories de frais généraux prévu à l'article 54 quater du code général
+des impôts lorsque ces frais excèdent  pour une ou plusieurs desdites catégories  l'un des chiffres suivants :
+
+1° 1.600.000 F ou 800.000 F pour l'ensemble des rémunérations directes ou indirectes versées aux 10 ou 5 personnes les mieux
+rémunérées  suivant que l'effectif du personnel dépasse ou non 200 salariés  ou 260.000 F pour l'une d'entre elles prise
+individuellement;
+
+2° 60.000 F pour les frais de voyage et de déplacement exposés par ces personnes;
+
+3° 100.000 F pour le total, d'une part, des dépenses et charges afférentes aux véhicules et autres biens dont elles peuvent
+disposer en dehors des locaux professionnels et, d'autre part, des dépenses et charges de toute nature afférentes aux
+immeubles qui ne sont pas affectés à l'exploitation ;
+
+4° 10.000 F pour les cadeaux de toute nature, à l'exception des objets spécialement conçus pour la publicité et dont la
+valeur unitaire ne dépasse pas 200 F par bénéficiaire ;
+
+5° 26.000 F pour les frais de réception, y compris les frais de restaurant et de spectacles.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1988-03-21 art. 1 JORF 31 mars 1988
+
+	**Cite**:
+
+	  - CGI 54 quater
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 K (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 L (V)
+
 
 ###### Article 4 K
 
@@ -3147,6 +3185,30 @@ déposées au titre d'une année civile.
 	  - CGIAN2 242-0 P
 
 
+###### Article 28-0 A
+
+En application du deuxième alinéa de l'article 242-0 O de l'annexe II au code général des impôts, le remboursement prévu à
+l'article 242-0 N de cette annexe est accordé aux assujettis établis en Suède, aux îles Canaries, à Ceuta ou Melilla.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1988-04-01 art. 1 JORF 13 avril 1988
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGIAN2 242-0 O, 242-0 N
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ##### II : Régime suspensif
 
 ##### Opérations portant sur les métaux non ferreux.
@@ -4088,6 +4150,43 @@ objets dans l'inventaire de l'établissement destinataire.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 50 nonies
+
+1. L'exonération de la taxe sur la valeur ajoutée prévue à l'article 291-II-8° du code général des impôts en faveur des
+oeuvres d'art originales timbres objets de collection ou d'antiquité repris aux numéros 97-04, 97-05 et 97-06 du tarif des
+droits de douane d'importation importés par des négociants en vue de leur revente est subordonnée à la production à l'appui
+de la déclaration d'importation d'une attestation en double exemplaire conforme au modèle annexé à l'arrêté du 23 décembre
+1967 (1).
+
+2. Cette attestation doit être signée par le négociant importateur et visée par le service des impôts qui certifie la qualité
+d'assujetti à la taxe sur la valeur ajoutée dudit négociant. Elle doit comporter l'engagement du bénéficiaire de
+l'exonération d'acquitter auprès du service des douanes la taxe sur la valeur ajoutée au cas où les objets importés ne
+recevraient pas la destination déclarée sans préjudice des pénalités éventuelles.
+
+(1) Voir J.O. du 29 décembre 1967.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1967-12-23
+	  - CGI 291 II 8°
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20 modifie et complète l'annexe 4 au 15 juillet 1988
+	  - Arrêté 1992-08-27
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 1992-08-27 art. 1 JORF 29 août 1992
+	  - HISTO: Edition du 4 juillet 1992
+
+	**Modifié par**:
+
+	  - Règlement CEE n°2658/87 1987-07-23 (conseil
 
 
 ##### Section VII : Régimes spéciaux
@@ -8114,6 +8213,78 @@ utilisés.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 51 quater
+
+Le directeur des services fiscaux examine les demandes qui lui sont présentées.
+
+Il prononce une décision de rejet si les garanties offertes par le requérant ne lui paraissent pas suffisantes. Dans le cas
+contraire  il propose au Préfet l'octroi de l'autorisation demandée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article 51 quinquies
+
+Après examen des propositions qui lui sont faites par le directeur des services fiscaux le préfet  prend soit un arrêté
+accordant l'autorisation soit une décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article 51 sexies
+
+Lorsque le titulaire d'une autorisation a commis une infraction aux dispositions des articles 303 à 520 du code général des
+impôts ou à celles des textes pris pour leur application  le préfet peut  sur proposition du directeur des services fiscaux
+prononcer par voie d'arrêté le retrait de ladite autorisation pour une période n'excédant pas la campagne au cours de
+laquelle l'infraction a été commise et les deux campagnes suivantes.
+
+Le retrait est obligatoire lorsque l'infraction relevée est passible de l'une des sanctions prévues aux articles 1737, 1746,
+1810 et 1815 du code susvisé. Il en est de même lorsque le titulaire de l'autorisation est convaincu d'avoir facilité la
+fraude commise par ses clients  ou sciemment procuré les moyens de la commettre.
+
+Dans le cas  prévu à l'alinéa précédent  d'infraction punie des sanctions édictées par l'article 1810 du code général des
+impôts  le retrait doit être prononcé pour une période au moins égale à trois campagnes  y compris celle au cours de laquelle
+l'infraction a été commise  sans pouvoir excéder six campagnes. Toutefois  le retrait de l'autorisation d'exercer la
+profession de loueur d'alambic ambulant est définitif dans le cas d'infractions punies des sanctions prévues par les articles
+1737, 1746 et 1815 du code général des impôts ou lorsque  antérieurement ou postérieurement à la date de l'arrêté préfectoral
+l'ayant prononcé  une nouvelle infraction passible des sanctions prévues à l'article 1810 du code précité est relevée à la
+charge du contrevenant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGI 1737
+	  - CGI 1746
+	  - CGI 1810
+	  - CGI 1815
+	  - CGI 303 A CGI 520
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
 ##### D : Règlement des distilleries
 
 ##### Régime général.
@@ -10281,6 +10452,62 @@ voiture ;
 
 ##### IV : Régies de recettes des préfectures et sous-préfectures
 
+###### Article 121 KA
+
+Nonobstant toute disposition contraire, l'emploi des machines à timbrer est autorisé pour le timbrage de tous documents
+donnant lieu à la perception des droits de timbre dans les régies de recettes des préfectures et sous-préfectures.
+
+Peuvent notamment être timbrés par ce procédé :
+
+1° Les cartes d'identité professionnelle des voyageurs ou représentants de commerce [*VRP*] et autres cartes d'identité, les
+cartes de séjour de ressortissant d'un Etat membre de la communauté économique européenne, les certificats de résidence
+prévus à l'article 7 bis de l'accord du 27 septembre 1968 modifié, publié par les décrets n° 69-243 du 18 mars 1969 et n°
+86-320 du 7 mars 1986 (art. 947 et 948 du code général des impôts);
+
+2° Les cartes de séjour des étrangers, les cartes spéciales délivrées aux étrangers exerçant une profession commerciale
+industrielle, artisanale ou agricole (art. 949 et 950 du code général des impôts);
+
+3° (Abrogé);
+
+4° Les passeports, laissez-passer, sauf-conduits pour l'étranger et les titres de voyages délivrés aux réfugiés ou apatrides
+(art. 953 et 954 du code général des impôts);
+
+5° Les certificats internationaux pour automobiles et les permis internationaux de conduire (art. 966 du code général des
+impôts);
+
+6° Les permis de conduire les véhicules automobiles  les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
+véhicules à moteur (art. 1599 terdecies du code général des impôts);
+
+7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur (cartes grises) (art.
+1599 quindecies du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Accord 1968-09-27 art. 7 bis
+	  - CGI 1599 quindecies
+	  - CGI 1599 terdecies
+	  - CGI 947
+	  - CGI 948
+	  - CGI 949
+	  - CGI 950
+	  - CGI 953
+	  - CGI 954
+	  - CGI 966
+	  - CGIAN2 339 A CGIAN2 341
+	  - Décret n°69-243 1969-03-18
+	  - Décret n°86-320 1986-03-07
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Modifié par**:
+
+	  - Arrêté 1988-10-20 modifie et complète l'annexe 4 au 15 juillet 1988 : Conséquence du transfert des dispositions de l'article 1635 bis D
+
+
 ###### Article 121 KB
 
 Toute machine destinée au timbrage des documents donnant lieu à la perception des droits de timbre dans les régies de
@@ -10460,6 +10687,34 @@ l'article L. 82 du livre des procédures fiscales.
 
 	  - CGI L82
 	  - CGIAN4 121 KL bis
+
+
+##### V : Débite des timbres mobiles.
+
+###### Article 121 KM
+
+Les débitants de tabac perçoivent sur le prix de vente des timbres mobiles de toute nature, dont ils assurent la débite, une
+remise calculée au moyen du barème ci-après :
+
+4 % jusqu'à 40.000 F de ventes annuelles;
+
+2 % au-dessus de 40.000 F de ventes annuelles.
+
+Les dispositions du présent article s'appliquent dans les départements de la Corse.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 décembre 2014 - art. Annexe 1 (V)
+
+	**Modifié par**:
+
+	  - Arrêté 1986-10-27 art. 1 JORF 30 décembre 1986 en vigueur le 1er octobre 1986
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20 modifie et complète l'annexe 4 au 15 juillet 1988
 
 
 #### Chapitre III : Autres droits et taxes
@@ -11121,6 +11376,63 @@ prévues par l'article 1518 du code général des impôts.
 	  - Code général des impôts, CGI. - art. 1518 (V)
 
 
+###### Article 121 quinquies DD
+
+Cette commission comprend :
+
+1° Le directeur des services fiscaux (ou un des directeurs s'il existe plusieurs directions dans le département)  président
+ou son représentant ;
+
+2° Deux fonctionnaires de la direction générale des impôts ayant au moins le grade d'inspecteur principal ;
+
+3° Deux représentants des collectivités locales ou de leurs groupements (communautés urbaines ou districts) désignés par le
+préfet ;
+
+4° Des membres titulaires et des membres suppléants représentants des contribuables concernés par l'actualisation  savoir :
+
+a. Le président de la chambre départementale d'agriculture ou son représentant ;
+
+b. Deux titulaires et deux suppléants représentant la fédération départementale des syndicats d'exploitants agricoles ;
+
+c. Deux titulaires et deux suppléants représentant la fédération départementale des syndicats de la propriété agricole  dont
+un titulaire et un suppléant propriétaires de bois affiliés au syndicat départemental des propriétaires forestiers
+sylviculteurs ;
+
+d. Trois titulaires et trois suppléants désignés par les organismes représentatifs des propriétaires d'immeubles bâtis du
+département à raison d'un titulaire et d'un suppléant choisis respectivement parmi les propriétaires de locaux d'habitation
+ou à usage professionnel ordinaires  les propriétaires de locaux à usage commercial et les propriétaires d'établissements
+industriels situés dans le département ;
+
+e. Deux titulaires et deux suppléants désignés par les organismes représentatifs des locataires dans le département.
+
+A défaut de désignation par les fédérations ou syndicats départementaux mentionnés aux b et c du 4°,les représentants des
+exploitants et des propriétaires agricoles sont désignés d'office par la chambre départementale d'agriculture sur requête du
+directeur des services fiscaux.
+
+Lorsqu'il existe plusieurs organismes représentatifs pour les propriétaires ou les locataires d'immeubles bâtis dans le
+département et à défaut d'accord entre eux  les membres de la commission sont désignés par le préfet sur proposition de ces
+organismes.
+
+Les membres non fonctionnaires de la commission sont nommés pour un an et leur mandat est renouvelable par tacite
+reconduction.
+
+Le secrétariat de la commission est assuré par un inspecteur des impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DE (V)
+
+
 ###### Article 121 quinquies DE
 
 La commission siège en deux formations spécialisées, respectivement, dans l'examen des coefficients d'actualisation des
@@ -11149,6 +11461,35 @@ et constituer des sous-commissions chargées d'examiner certaines questions spé
 
 La commission entend les fonctionnaires ainsi que toutes les personnalités dont elle désire connaître l'avis.
 
+
+
+##### Section IV : Autres impositions
+
+##### I : Redevance communale des mines
+
+###### Article 121 sexies
+
+Pour l'application des dispositions de l'article 312 de l'annexe II au code général des impôts, les exploitants de mine sont
+tenus de faire parvenir chaque année à la préfecture dans le courant de janvier un relevé nominatif des ouvriers et employés
+occupés par eux à la date du 1er dudit mois avec l'indication de la commune du domicile de chacun de ces ouvriers. Les
+relevés ainsi dressés sont communiqués aux maires des communes intéressées qui doivent les renvoyer dans un délai de quinze
+jours en y joignant leurs observations s'il y a lieu. Ces relevés sont ensuite après avis des services des mines et des
+impôts rectifiés éventuellement, et arrêtés définitivement par le préfet pour servir de base à la répartition afférente à
+l'année suivant celle au cours de laquelle ils ont été établis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 312 (V)
 
 
 #### Chapitre II : Contributions indirectes
@@ -12617,6 +12958,1631 @@ profit de la région de Corse.
 
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
+#### Chapitre premier : Droits d'enregistrement
+
+##### 1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France
+
+###### Article 155 ter
+
+Les dispositions à l'article 1599 octies du code général des impôts établissant, en faveur de la région d'Ile-de-France, une
+taxe de 1 % complémentaire à la taxe locale d'équipement s'appliquent dans les communes suivantes :
+
+75 - Paris.
+
+77 - Seine-et-Marne :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="123">
+
+COMMUNES
+
+</td>
+      <td width="123">
+
+COMMUNES
+
+</td>
+      <td width="123">
+
+COMMUNES
+
+</td>
+      <td width="123">
+
+COMMUNES
+
+</td>
+      <td width="123">
+
+COMMUNES
+
+</td>
+    </tr>
+    <tr>
+      <td width="123" valign="top">
+
+Avon
+
+</td>
+      <td width="123" valign="top">
+
+Dammarie-les-Lys
+
+</td>
+      <td width="123" valign="top">
+
+Moissy-Cramayel
+
+</td>
+      <td valign="top" width="123">
+
+Roissy
+
+</td>
+      <td width="123" valign="top">
+
+Varennes-sur-Seine
+
+</td>
+    </tr>
+    <tr>
+      <td width="123" valign="top">
+
+Bagneux-sur-Loing
+
+</td>
+      <td valign="top" width="123">
+
+Fontainebleau
+
+</td>
+      <td width="123" valign="top">
+
+Montereau-Faut-Yonne
+
+</td>
+      <td valign="top" width="123">
+
+Saint-Fargeau-Ponthierry
+
+</td>
+      <td valign="top" width="123">
+
+Vaux-le-Pénil
+
+</td>
+    </tr>
+    <tr>
+      <td width="123" valign="top">
+
+Brie-Comte-Robert
+
+</td>
+      <td width="123" valign="top">
+
+Gretz-Armainvilliers
+
+</td>
+      <td valign="top" width="123">
+
+Moret-sur-Loing
+
+</td>
+      <td valign="top" width="123">
+
+Saint-Mammès
+
+</td>
+      <td valign="top" width="123">
+
+Veneux-les-Sablons
+
+</td>
+    </tr>
+    <tr>
+      <td width="123" valign="top">
+
+Brou-sur-Chantereine
+
+</td>
+      <td valign="top" width="123">
+
+Lagny-sur-Marne
+
+</td>
+      <td width="123" valign="top">
+
+Nandy
+
+</td>
+      <td width="123" valign="top">
+
+Saint-Pierre-Lès-Nemours
+
+</td>
+      <td width="123" valign="top">
+
+Vert-Saint-Denis
+
+</td>
+    </tr>
+    <tr>
+      <td width="123" valign="top">
+
+Cesson
+
+</td>
+      <td valign="top" width="123">
+
+Lieusaint
+
+</td>
+      <td valign="top" width="123">
+
+Nangis
+
+</td>
+      <td width="123" valign="top">
+
+Savigny-le-Temple
+
+</td>
+      <td valign="top" width="123">
+
+Villenoy
+
+</td>
+    </tr>
+    <tr>
+      <td width="123" valign="top">
+
+Champagne-sur-Seine
+
+</td>
+      <td valign="top" width="123">
+
+Livry-sur-Seine
+
+</td>
+      <td width="123" valign="top">
+
+Nemours
+
+</td>
+      <td valign="top" width="123">
+
+Souppes-sur-Loing
+
+</td>
+      <td width="123" valign="top">
+
+Villeparisis
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="123">
+
+Champs-sur-Marne
+
+</td>
+      <td width="123" valign="top">
+
+Lognes
+
+</td>
+      <td valign="top" width="123">
+
+Noisiel
+
+</td>
+      <td valign="top" width="123">
+
+Thoméry
+
+</td>
+      <td valign="top" width="123">
+    </td></tr>
+    <tr>
+      <td width="123" valign="top">
+
+Chelles
+
+</td>
+      <td valign="top" width="123">
+
+Meaux
+
+</td>
+      <td valign="top" width="123">
+
+Ozoir-la-Ferrière
+
+</td>
+      <td width="123" valign="top">
+
+Thorigny-sur-Marne
+
+</td>
+      <td valign="top" width="123">
+    </td></tr>
+    <tr>
+      <td width="123" valign="top">
+
+Claye-Souilly
+
+</td>
+      <td valign="top" width="123">
+
+Mée-sur-Seine (Le)
+
+</td>
+      <td width="123" valign="top">
+
+Pontault-Combault
+
+</td>
+      <td valign="top" width="123">
+
+Torcy
+
+</td>
+      <td width="123" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="123">
+
+Combs-la-Ville
+
+</td>
+      <td width="123" valign="top">
+
+Melun
+
+</td>
+      <td valign="top" width="123">
+
+Provins
+
+</td>
+      <td width="123" valign="top">
+
+Tournan-en-Brie
+
+</td>
+      <td valign="top" width="123">
+    </td></tr>
+    <tr>
+      <td width="123" valign="top">
+
+Coulommiers
+
+</td>
+      <td valign="top" width="123">
+
+Mitry-Mory
+
+</td>
+      <td valign="top" width="123">
+
+Rochette (La)
+
+</td>
+      <td valign="top" width="123">
+
+Vaires-sur-Marne
+
+</td>
+      <td width="123" valign="top">
+    </td></tr>
+  </tbody>
+</table>
+
+78 - Yvelines :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Achères
+
+</td>
+      <td width="136" valign="top">
+
+Chesnay (Le)
+
+</td>
+      <td valign="top" width="136">
+
+Hardricourt
+
+</td>
+      <td width="136" valign="top">
+
+Mézières-sur-Seine
+
+</td>
+      <td valign="top" width="136">
+
+Sartrouville
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Andrésy
+
+</td>
+      <td valign="top" width="136">
+
+Chevreuse
+
+</td>
+      <td width="136" valign="top">
+
+Houilles
+
+</td>
+      <td valign="top" width="136">
+
+Montesson
+
+</td>
+      <td width="136" valign="top">
+
+Toussus-le-Noble
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Aubergenville
+
+</td>
+      <td valign="top" width="136">
+
+Clayes-sous-Bois (Les)
+
+</td>
+      <td valign="top" width="136">
+
+Issou
+
+</td>
+      <td valign="top" width="136">
+
+Montigny-le-Bretonneux
+
+</td>
+      <td valign="top" width="136">
+
+Trappes
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Bailly
+
+</td>
+      <td valign="top" width="136">
+
+Coignières
+
+</td>
+      <td width="136" valign="top">
+
+Jouy-en-Josas
+
+</td>
+      <td valign="top" width="136">
+
+Mureaux (Les)
+
+</td>
+      <td valign="top" width="136">
+
+Triel-sur-Seine
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Bois-d'Arcy
+
+</td>
+      <td width="136" valign="top">
+
+Conflans-Sainte-Honorine
+
+</td>
+      <td valign="top" width="136">
+
+Loges-en-Josas (Les)
+
+</td>
+      <td width="136" valign="top">
+
+Noisy-le-Roi
+
+</td>
+      <td valign="top" width="136">
+
+Vélizy-Villacoublay
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Bouaffle
+
+</td>
+      <td valign="top" width="136">
+
+Croissy-sur-Seine
+
+</td>
+      <td width="136" valign="top">
+
+Louveciennes
+
+</td>
+      <td valign="top" width="136">
+
+Pecq (Le)
+
+</td>
+      <td valign="top" width="136">
+
+Verrière (La)
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Bougival
+
+</td>
+      <td valign="top" width="136">
+
+Ecquevilly
+
+</td>
+      <td valign="top" width="136">
+
+Magnanville
+
+</td>
+      <td valign="top" width="136">
+
+Plaisir
+
+</td>
+      <td width="136" valign="top">
+
+Verneuil-sur-Seine
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Buc
+
+</td>
+      <td width="136" valign="top">
+
+Elancourt
+
+</td>
+      <td width="136" valign="top">
+
+Magny-les-Hameaux
+
+</td>
+      <td width="136" valign="top">
+
+Poissy
+
+</td>
+      <td valign="top" width="136">
+
+Vernouillet
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Buchelay
+
+</td>
+      <td valign="top" width="136">
+
+Epône
+
+</td>
+      <td width="136" valign="top">
+
+Maisons-Laffite
+
+</td>
+      <td width="136" valign="top">
+
+Porcheville
+
+</td>
+      <td valign="top" width="136">
+
+Versailles
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Carrières-sous-Poissy
+
+</td>
+      <td width="136" valign="top">
+
+Etang-la-Ville
+
+</td>
+      <td width="136" valign="top">
+
+Mantes-la-Ville
+
+</td>
+      <td valign="top" width="136">
+
+Port-Marly
+
+</td>
+      <td valign="top" width="136">
+
+Vésinet (Le)
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Carrières-sur-Seine
+
+</td>
+      <td valign="top" width="136">
+
+Flins-sur-Seine
+
+</td>
+      <td width="136" valign="top">
+
+Mareil-Marly
+
+</td>
+      <td valign="top" width="136">
+
+Rambouillet
+
+</td>
+      <td width="136" valign="top">
+
+Villepreux
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Celle-Saint-Cloud (La)
+
+</td>
+      <td width="136" valign="top">
+
+Fontenay-le-Fleury
+
+</td>
+      <td valign="top" width="136">
+
+Marly-le-Roy
+
+</td>
+      <td width="136" valign="top">
+
+Rennemoulin
+
+</td>
+      <td valign="top" width="136">
+
+Viroflay
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Chanteloup-les-Vignes
+
+</td>
+      <td valign="top" width="136">
+
+Fourqueux
+
+</td>
+      <td width="136" valign="top">
+
+Maurecourt
+
+</td>
+      <td valign="top" width="136">
+
+Rocquencourt
+
+</td>
+      <td valign="top" width="136">
+
+Voisins-le-Bretonneux
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Chapet
+
+</td>
+      <td width="136" valign="top">
+
+Gargenville
+
+</td>
+      <td valign="top" width="136">
+
+Maurepas
+
+</td>
+      <td width="136" valign="top">
+
+Rosny-sur-Seine
+
+</td>
+      <td width="136" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="136">
+
+Châteaufort
+
+</td>
+      <td width="136" valign="top">
+
+Guerville
+
+</td>
+      <td valign="top" width="136">
+
+Mesnil-le-Roi (Le)
+
+</td>
+      <td valign="top" width="136">
+
+Saint-Germain-en-Laye
+
+</td>
+      <td valign="top" width="136">
+    </td></tr>
+    <tr>
+      <td valign="top" width="136">
+
+Chatou
+
+</td>
+      <td valign="top" width="136">
+
+Guyancourt
+
+</td>
+      <td valign="top" width="136">
+
+Meulan
+
+</td>
+      <td width="136" valign="top">
+
+Saint-Rémy-lès-Chevreuse
+
+</td>
+      <td valign="top" width="136">
+    </td></tr>
+  </tbody>
+</table>
+
+91 - Essonne :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Arpajon
+
+</td>
+      <td valign="top" width="136">
+
+Dourdan
+
+</td>
+      <td valign="top" width="136">
+
+Lisses
+
+</td>
+      <td width="136" valign="top">
+
+Plessis-Paté
+
+</td>
+      <td width="136" valign="top">
+
+Varennes-Jarcy
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Athis-Mons
+
+</td>
+      <td width="136" valign="top">
+
+Epinay-sous-Sénart
+
+</td>
+      <td valign="top" width="136">
+
+Longjumeau
+
+</td>
+      <td width="136" valign="top">
+
+Quincy-sous-Sénart
+
+</td>
+      <td width="136" valign="top">
+
+Vauhallan
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Ballainvilliers
+
+</td>
+      <td width="136" valign="top">
+
+Epinay-sur-Orge
+
+</td>
+      <td valign="top" width="136">
+
+Longpont-sur-Orge
+
+</td>
+      <td width="136" valign="top">
+
+Ris-Orangis
+
+</td>
+      <td valign="top" width="136">
+
+Verrières-le-Buisson
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Bièvres
+
+</td>
+      <td width="136" valign="top">
+
+Etampes
+
+</td>
+      <td valign="top" width="136">
+
+Massy
+
+</td>
+      <td width="136" valign="top">
+
+Saclay
+
+</td>
+      <td valign="top" width="136">
+
+Vigneux-sur-Seine
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Bondoufle
+
+</td>
+      <td width="136" valign="top">
+
+Etiolles
+
+</td>
+      <td width="136" valign="top">
+
+Mennecy
+
+</td>
+      <td width="136" valign="top">
+
+Saint-Aubin
+
+</td>
+      <td valign="top" width="136">
+
+Villabé
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Boussy-Saint-Antoine
+
+</td>
+      <td valign="top" width="136">
+
+Etréchy
+
+</td>
+      <td width="136" valign="top">
+
+Montgeron
+
+</td>
+      <td valign="top" width="136">
+
+Sainte-Geneviève-des-Bois
+
+</td>
+      <td valign="top" width="136">
+
+Villebon-sur-Yvette
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Brétigny-sur-Orge
+
+</td>
+      <td valign="top" width="136">
+
+Evry
+
+</td>
+      <td width="136" valign="top">
+
+Montlhéry
+
+</td>
+      <td valign="top" width="136">
+
+Saint-Germain-lès-Arpajon
+
+</td>
+      <td valign="top" width="136">
+
+Ville-du-Bois (La)
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Brunoy
+
+</td>
+      <td valign="top" width="136">
+
+Ferté-Alais (La)
+
+</td>
+      <td width="136" valign="top">
+
+Morangis
+
+</td>
+      <td valign="top" width="136">
+
+Saint-Germain-lès-Corbeil
+
+</td>
+      <td width="136" valign="top">
+
+Villemoisson-sur-Orge
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Bures-sur-Yvette
+
+</td>
+      <td valign="top" width="136">
+
+Fleury-Mérogis
+
+</td>
+      <td valign="top" width="136">
+
+Morigny-Champigny
+
+</td>
+      <td width="136" valign="top">
+
+Saint-Michel-sur-Orge
+
+</td>
+      <td width="136" valign="top">
+
+Villiers-le-Bacle
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Champlan
+
+</td>
+      <td width="136" valign="top">
+
+Gif-sur-Yvette
+
+</td>
+      <td width="136" valign="top">
+
+Morsang-sur-Orge
+
+</td>
+      <td valign="top" width="136">
+
+Saint-Pierre-du-Perray
+
+</td>
+      <td valign="top" width="136">
+
+Villiers-sur-Orge
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Chilly-Mazarin
+
+</td>
+      <td valign="top" width="136">
+
+Gometz-le-Châtel
+
+</td>
+      <td width="136" valign="top">
+
+Norville (La)
+
+</td>
+      <td width="136" valign="top">
+
+Saintry-sur-Seine
+
+</td>
+      <td width="136" valign="top">
+
+Viry-Châtillon
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Corbeil-Essonnes
+
+</td>
+      <td width="136" valign="top">
+
+Grigny
+
+</td>
+      <td width="136" valign="top">
+
+Ormoy
+
+</td>
+      <td valign="top" width="136">
+
+Saulx-les-Chartreux
+
+</td>
+      <td valign="top" width="136">
+
+Wissous
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Courcouronnes
+
+</td>
+      <td valign="top" width="136">
+
+Igny
+
+</td>
+      <td width="136" valign="top">
+
+Orsay
+
+</td>
+      <td valign="top" width="136">
+
+Savigny-sur-Orge
+
+</td>
+      <td valign="top" width="136">
+
+Yerres
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Crosne
+
+</td>
+      <td valign="top" width="136">
+
+Juvisy-sur-Orge
+
+</td>
+      <td width="136" valign="top">
+
+Palaiseau
+
+</td>
+      <td valign="top" width="136">
+
+Soisy-sur-Seine
+
+</td>
+      <td valign="top" width="136">
+    </td></tr>
+    <tr>
+      <td valign="top" width="136">
+
+Draveil
+
+</td>
+      <td valign="top" width="136">
+
+Linas
+
+</td>
+      <td width="136" valign="top">
+
+Paray-Vieille-Poste
+
+</td>
+      <td valign="top" width="136">
+
+Tigery
+
+</td>
+      <td valign="top" width="136">
+    </td></tr>
+  </tbody>
+</table>
+
+92 - Hauts-de-Seine (la totalité des communes du département).
+
+93 - Seine-Saint-Denis (la totalité des communes du département).
+
+94 - Val-de-Marne (la totalité des communes du département).
+
+95 - Val-d'Oise.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+      <td width="136">
+
+COMMUNES
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Andilly
+
+</td>
+      <td valign="top" width="136">
+
+Cormeilles-en-Parisis
+
+</td>
+      <td valign="top" width="136">
+
+Frette-sur-Seine (La)
+
+</td>
+      <td valign="top" width="136">
+
+Montlignon
+
+</td>
+      <td width="136" valign="top">
+
+Saint-Brice-sous-Forêt
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Argenteuil
+
+</td>
+      <td valign="top" width="136">
+
+Courdimanche
+
+</td>
+      <td valign="top" width="136">
+
+Garges-lès-Gonesse
+
+</td>
+      <td valign="top" width="136">
+
+Montmagny
+
+</td>
+      <td width="136" valign="top">
+
+Saint-Gratien
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Arnouville-lès-Gonesse
+
+</td>
+      <td valign="top" width="136">
+
+Deuil-la-Barre
+
+</td>
+      <td valign="top" width="136">
+
+Gonesse
+
+</td>
+      <td valign="top" width="136">
+
+Montmorency
+
+</td>
+      <td width="136" valign="top">
+
+Saint-Leu-la-Forêt
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Auvers-sur-Oise
+
+</td>
+      <td width="136" valign="top">
+
+Domont
+
+</td>
+      <td valign="top" width="136">
+
+Goussainville
+
+</td>
+      <td width="136" valign="top">
+
+Neuville-sur-Oise
+
+</td>
+      <td width="136" valign="top">
+
+Saint-Ouen-l'Aumône
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Beauchamp
+
+</td>
+      <td width="136" valign="top">
+
+Eaubonne
+
+</td>
+      <td valign="top" width="136">
+
+Groslay
+
+</td>
+      <td width="136" valign="top">
+
+Osny
+
+</td>
+      <td width="136" valign="top">
+
+Saint-Prix
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Beaumont-sur-Oise
+
+</td>
+      <td valign="top" width="136">
+
+Ecouen
+
+</td>
+      <td valign="top" width="136">
+
+Herblay
+
+</td>
+      <td width="136" valign="top">
+
+Parmain
+
+</td>
+      <td valign="top" width="136">
+
+Sannois
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Bessancourt
+
+</td>
+      <td width="136" valign="top">
+
+Enghein-les-Bains
+
+</td>
+      <td width="136" valign="top">
+
+Isle-Adam (L')
+
+</td>
+      <td valign="top" width="136">
+
+Persan
+
+</td>
+      <td width="136" valign="top">
+
+Sarcelles
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Bezons
+
+</td>
+      <td valign="top" width="136">
+
+Ennery
+
+</td>
+      <td width="136" valign="top">
+
+Jouy-le-Moutier
+
+</td>
+      <td valign="top" width="136">
+
+Pierrelaye
+
+</td>
+      <td width="136" valign="top">
+
+Soisy-sous-Montmorency
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Boisemont
+
+</td>
+      <td width="136" valign="top">
+
+Eragny
+
+</td>
+      <td width="136" valign="top">
+
+Margency
+
+</td>
+      <td valign="top" width="136">
+
+Piscop
+
+</td>
+      <td width="136" valign="top">
+
+Taverny
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="136">
+
+Bonneuil-en-France
+
+</td>
+      <td width="136" valign="top">
+
+Ermont
+
+</td>
+      <td width="136" valign="top">
+
+Mériel
+
+</td>
+      <td width="136" valign="top">
+
+Plessis-Bouchard (Le)
+
+</td>
+      <td valign="top" width="136">
+
+Thillay (Le)
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Cergy
+
+</td>
+      <td valign="top" width="136">
+
+Ezanville
+
+</td>
+      <td width="136" valign="top">
+
+Méru-sur-Oise
+
+</td>
+      <td valign="top" width="136">
+
+Pontoise
+
+</td>
+      <td valign="top" width="136">
+
+Vauréal
+
+</td>
+    </tr>
+    <tr>
+      <td width="136" valign="top">
+
+Champagne-sur-Oise
+
+</td>
+      <td valign="top" width="136">
+
+Franconville
+
+</td>
+      <td width="136" valign="top">
+
+Montigny-lès-Cormeilles
+
+</td>
+      <td valign="top" width="136">
+
+Puiseux-Pontoise
+
+</td>
+      <td valign="top" width="136">
+
+Villiers-le-Bel
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
+
+Article devenu sans objet conformément à la loi n° 2010-1658 du 29 décembre 2010, article 28, III A [1°] et 28, III H-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Créé par**:
+
+	  - Arrêté 1988-10-20 art. 1 en vigueur le 15 juillet 1988
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 3 juin 2013 - art. 1
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Cite**:
+
+	  - CGI 159 octies
+
+	**Anciens textes**:
+
+	  - CGIAN4 159 sexies A
+
+
+##### 2° : Taxe sur les certificats d'immatriculation des véhicules.
+
+###### Article 155 quater
+
+Pour l'application de la réduction de tarif édictée par le 3 du I de l'article 1599 sexdecies du code général des impôts,
+l'âge du véhicule se détermine à partir de la date de la première mise en circulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Créé par**:
+
+	  - Arrêté 1988-10-20 art. 1 en vigueur le 15 juillet 1988
+
+	**Anciens textes**:
+
+	  - CGIAN4 159 sexies B
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 sexdecies (V)
+
+
 #### Chapitre II : Taxes sur le chiffre d'affaires et taxes assimilées
 
 ##### Section I : Taxe sur les produits des exploitations forestières.
@@ -12670,6 +14636,36 @@ transfert à ce chantier ou magasin.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 157 bis
+
+Les réfactions prévues à l'article 1613-II-1o du code général des impôts sont fixées à :
+
+15 % pour les sciages rabotés, rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires repris à la position ex
+44-07, ex 44-08, ex 44-09 du tarif des droits de douane;
+
+15 % pour les sciages imprégnés  injectés ou enduits repris aux positions ex 44-07-10, 44-07-21, 44-07-22, 44-07-23,
+44-07-91, 44-07-92, 44-07-99, 44-08-10, 44-08-20, 44-08-90 du tarif des droits de douane.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+	  - Arrêté 1991-09-09
+
+	**Cite**:
+
+	  - CGI 1613 II 1°
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Règlement CEE n°2658/87 1987-07-23 (conseil
 
 
 ##### Section II : Budget annexe des prestations sociales agricoles
@@ -12739,6 +14735,44 @@ l'ouvrage.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### II : Redevance sur l'emploi de la reprographie.
+
+###### Article 159 AD
+
+Sont soumis à la redevance sur l'emploi de la reprographie les appareils mentionnés ci-après  par référence à la nomenclature
+générale des produits :
+
+Machines à imprimer offset  de 500 kg ou moins  d'un format égal ou inférieur à 305 445 mm (84-43-11-00, 84-43-19-19, ex
+84-43-19-90 ;    Duplicateurs hectographiques (ex 84-72-10-00) ;
+
+Duplicateurs à stencils (ex 84-72-10-00) ;
+
+Appareils photographiques spéciaux pour la copie des documents (ex 90-06-30-00, ex 90-06-59-00) ;
+
+Microlecteurs combinés avec un appareil de reproduction (ex 90-08-20-00) ;
+
+Appareils de photocopie à système optique (90-09-11-00, 90-09-12-00, 90-02-21-00) ;
+
+Appareils de thermocopie (90-09-30-00) ;
+
+Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 mm (90-09-22-90).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1993-03-16
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Règlement CEE n°2658/87 1987-07-23 (conseil)
 
 
 ##### Section VII : Fonds d'orientation et de régularisation des marchés agricoles.
@@ -13008,6 +15042,42 @@ hectolitre    Autres vins : 0,40 F par hectolitre.
 
 #### Chapitre III : Enregistrement
 
+##### Section I : Fonds national de garantie des calamités agricoles.
+
+###### Article 159 quater
+
+Sont considérés comme véhicules utilitaires affectés aux exploitations agricoles, et à ce titre assujettis à la contribution
+additionnelle complémentaire prévue au 2° de l'article 1635 bis A du code général des impôts, les véhicules suivants assurés
+par des exploitants agricoles :
+
+a) Les camions, camionnettes et fourgonnettes ;
+
+b) Tous les engins automoteurs agricoles par destination, tels que tracteurs, moissonneuses-batteuses, récolteuses et leurs
+remorques, y compris les engins visés à l'article R. 138-A du code de la route ;
+
+c) Tout autre véhicule automoteur, à l'exception des voitures particulières, utilisé pour les besoins, même partiels, des
+exploitations agricoles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1987-09-23 art. 1 JORF 25 septembre 1987
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGI 1635 bis A
+	  - Code de la route R138-A
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ##### Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole
 
 ##### Contribution des employeurs assurés.
@@ -13121,6 +15191,32 @@ entreprises d'assurance à l'occasion de l'émission des primes ou cotisations r
 	  - CGI 1628 quinquies
 	  - CGIAN2 325
 	  - Code des assurances R321-1
+
+
+##### Section III : Taxe au profit de l'office des migrations internationales.
+
+###### Article 159 sexies
+
+Le taux du prélèvement à opérer au profit du budget général, sur le produit de la vente des timbres mobiles spéciaux destinés
+au paiement de la taxe perçue au profit de l'office des migrations internationales, conformément aux dispositions de
+l'article 1635 bis du code général des impôts et des articles 344 bis à 344 quinquies de l'annexe III audit code, à
+l'occasion du renouvellement des autorisations de travail aux travailleurs étrangers, est fixé à 2 %.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+	  - Arrêté 1991-09-09
+
+	**Cite**:
+
+	  - CGI 1635 bis
+	  - CGIAN3 344 bis à CGIAN3 344 quinquies
+
+	**Modifié par**:
+
+	  - Décret n°88-24 du 7 janvier 1988 - art. 1 (V) JORF 8 janvier 1988
 
 
 ##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
@@ -14592,40 +16688,6 @@ services fiscaux qui a délivré l'agrément, soit par le directeur régional de
 
 #### IMPOT SUR LE REVENU
 
-##### REVENU DES CAPITAUX MOBILIERS.
-
-###### Article 16 bis
-
-1. Les certificats visés aux articles 77 et 78 de l'annexe II au code général des impôts sont établis sur une formule
-conforme au modèle ci-après.
-
-2. Cette formule comprend deux parties :
-
-a. Une partie détachable d'un format de 21 x 8 cm de couleur bleu pâle destinée à être jointe à la déclaration de revenus du
-bénéficiaire;
-
-b. Une partie à conserver par celui-ci de couleur blanche qui comporte les renseignements visés à l'article 15-4o à
-l'exception du montant de l'impôt déjà versé au Trésor qui figure sur la première partie.
-
-Les impressions portées sur l'ensemble du document sont de couleur bleu foncé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1988-10-20
-
-	**Cite**:
-
-	  - CGIAN2 77
-	  - CGIAN2 78
-	  - CGIAN4 15 4°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ##### REVENU GLOBAL.
 
 ###### Article 17 quinquies A
@@ -14700,292 +16762,7 @@ dessus.
 	  - HISTO: EDITION 1979-07-01
 
 
-##### IMPORTATIONS.
-
-###### Article 50 nonies
-
-1. L'exonération de la taxe sur la valeur ajoutée prévue à l'article 291-II-8o du code général des impôts en faveur des
-oeuvres d'art originales  timbres  objets de collection ou d'antiquité repris aux numéros 99-04, 99-05 et 99-06 du tarif des
-droits de douane d'importation importés par des négociants en vue de leur revente est subordonnée à la production  à l'appui
-de la déclaration d'importation  d'une attestation en double exemplaire conforme au modèle annexé à l'arrêté du 23 décembre
-1967 (1) [*conditions*].
-
-2. Cette attestation doit être signée par le négociant importateur et visée par le service des impôts qui certifie la qualité
-d'assujetti à la taxe sur la valeur ajoutée dudit négociant. Elle doit comporter l'engagement du bénéficiaire de
-l'exonération d'acquitter auprès du service des douanes la taxe sur la valeur ajoutée au cas où les objets importés ne
-recevraient pas la destination déclarée  sans préjudice des pénalités éventuelles.
-
-(1) Voir J.O. du 29 décembre 1967.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1967-12-23
-	  - CGI 291 II 8°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### CONTRIBUTIONS INDIRECTES
-
-#### BOISSONS
-
-##### ALCOOLS
-
-###### Article 51 quater
-
-Le directeur des services fiscaux examine les demandes qui lui sont présentées.
-
-Il prononce une décision de rejet si les garanties offertes par le requérant ne lui paraissent pas suffisantes.
-
-Dans le cas contraire  il propose au commissaire de la République l'octroi de l'autorisation demandée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1987-11-23
-
-	**Modifié par**:
-
-	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
-
-
-###### Article 51 quinquies
-
-Après examen des propositions qui lui sont faites par le directeur des services fiscaux le commissaire de la République prend
-soit un arrêté accordant l'autorisation soit une décision de rejet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1983-10-06
-
-	**Modifié par**:
-
-	  - Décret n°82-389 1982-05-10 art. 1 JONC 13 mai 1982
-
-
-###### Article 51 sexies
-
-Lorsque le titulaire d'une autorisation a commis une infraction aux dispositions des articles 303 à 520 du code général des
-impôts ou à celles des textes pris pour leur application  le préfet peut  sur proposition du directeur des services fiscaux
-prononcer par voie d'arrêté le retrait de ladite autorisation pour une période n'excédant pas la campagne au cours de
-laquelle l'infraction a été commise et les deux campagnes suivantes.
-
-Le retrait est obligatoire lorsque l'infraction relevée est passible de l'une des sanctions prévues aux articles 1737, 1746,
-1810 et 1815 du code susvisé. Il en est de même lorsque le titulaire de l'autorisation est convaincu d'avoir facilité la
-fraude commise par ses clients  ou sciemment procuré les moyens de la commettre.
-
-Dans le cas  prévu à l'alinéa précédent  d'infraction punie des sanctions édictées par l'article 1810 du code général des
-impôts  le retrait doit être prononcé pour une période au moins égale à trois campagnes  y compris celle au cours de laquelle
-l'infraction a été commise  sans pouvoir excéder six campagnes. Toutefois  le retrait de l'autorisation d'exercer la
-profession de loueur d'alambic ambulant est définitif dans le cas d'infractions punies des sanctions prévues par les articles
-1737, 1746 et 1815 du code général des impôts ou lorsque  antérieurement ou postérieurement à la date de l'arrêté préfectoral
-l'ayant prononcé  une nouvelle infraction passible des sanctions prévues à l'article 1810 du code précité est relevée à la
-charge du contrevenant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1737
-	  - CGI 1746
-	  - CGI 1810
-	  - CGI 1815
-	  - CGI 303 A CGI 520
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### DROITS DE TIMBRE
-
-#### DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES.
-
-###### Article 121 KA
-
-Nonobstant toute disposition contraire, l'emploi des machines à timbrer est autorisé pour le timbrage de tous documents
-donnant lieu à la perception des droits de timbre dans les régies de recettes des préfectures et sous-préfectures.
-
-Peuvent notamment être timbrés par ce procédé :
-
-1° Les cartes d'identité professionnelle des voyageurs ou représentants de commerce [*VRP*] et autres cartes d'identité, les
-cartes de séjour de ressortissant d'un Etat membre de la communauté économique européenne, les certificats de résidence
-prévus à l'article 7 bis de l'accord du 27 septembre 1968 modifié, publié par les décrets n° 69-243 du 18 mars 1969 et n°
-86-320 du 7 mars 1986 (art. 947 et 948 du code général des impôts);
-
-2° Les cartes de séjour des étrangers, les cartes spéciales délivrées aux étrangers exerçant une profession commerciale
-industrielle, artisanale ou agricole (art. 949 et 950 du code général des impôts);
-
-3° (Abrogé);
-
-4° Les passeports, laissez-passer, sauf-conduits pour l'étranger et les titres de voyages délivrés aux réfugiés ou apatrides
-(art. 953 et 954 du code général des impôts);
-
-5° Les certificats internationaux pour automobiles et les permis internationaux de conduire (art. 966 du code général des
-impôts);
-
-6° Les permis de conduire les véhicules automobiles  les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
-véhicules à moteur (art. 1635 bis D-I du code général des impôts);
-
-7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur (cartes grises) (art.
-1635 bis G du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Accord 1968-09-27 art. 7 bis
-	  - CGI 1635 bis D I
-	  - CGI 1635 bis G
-	  - CGI 947
-	  - CGI 948
-	  - CGI 949
-	  - CGI 950
-	  - CGI 953
-	  - CGI 954
-	  - CGI 966
-	  - CGIAN2 339 A CGIAN2 341
-	  - Décret n°69-243 1969-03-18
-	  - Décret n°86-320 1986-03-07
-
-	**Codifié par**:
-
-	  - Arrêté 1987-11-23
-
-	**Modifié par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 42 IV, V Finances pour 1987 JORF 31 décembre 1986
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986
-
-
-###### Article 121 KM
-
-Les débitants de tabac perçoivent sur le prix de vente des timbres mobiles de toute nature, dont ils assurent la débite, une
-remise calculée au moyen du barème ci-après :
-
-4 % jusqu'à 7.000 F de ventes annuelles;
-
-3 % de 7.001 à 35.000 F de ventes annuelles ;
-
-2 % de 35.001 à 80.000 F de ventes annuelles ;
-
-1 % au-dessus de 80.000 F de ventes annuelles (1).
-
-La remise est liquidée et payée trimestriellement.
-
-Les dispositions du présent article s'appliquent dans les départements de la Corse.
-
-(1) Barème applicable à compter du 1er janvier 1983.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 22 décembre 2014 - art. Annexe 1 (V)
-
-	**Codifié par**:
-
-	  - Arrêté 1987-11-23
-
-	**Modifié par**:
-
-	  - Loi n°86-1318 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
-
-
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
-
-### IMPOSITIONS COMMUNALES
-
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES
-
-##### COMMISSION CONSULTATIVE DEPARTEMENTALE DES EVALUATIONS FONCIERES.
-
-###### Article 121 quinquies DD
-
-Cette commission comprend [*composition*] :
-
-1° Le directeur des services fiscaux (ou un des directeurs s'il existe plusieurs directions dans le département)  président
-ou son représentant;
-
-2° Deux fonctionnaires de la direction générale des impôts ayant au moins le grade d'inspecteur principal;
-
-3° Deux représentants des collectivités locales ou de leurs groupements (communautés urbaines ou districts) désignés par le
-commissaire de la république;
-
-4° Des membres titulaires et des membres suppléants représentants des contribuables concernés par l'actualisation  savoir :
-
-a. Le président de la chambre départementale d'agriculture ou son représentant;
-
-b. Deux titulaires et deux suppléants représentant la fédération départementale des syndicats d'exploitants agricoles;
-
-c. Deux titulaires et deux suppléants représentant la fédération départementale des syndicats de la propriété agricole  dont
-un titulaire et un suppléant propriétaires de bois affiliés au syndicat départemental des propriétaires forestiers
-sylviculteurs;
-
-d. Trois titulaires et trois suppléants désignés par les organismes représentatifs des propriétaires d'immeubles bâtis du
-département à raison d'un titulaire et d'un suppléant choisis respectivement parmi les propriétaires de locaux d'habitation
-ou à usage professionnel ordinaires  les propriétaires de locaux à usage commercial et les propriétaires d'établissements
-industriels situés dans le département;
-
-e. Deux titulaires et deux suppléants désignés par les organismes représentatifs des locataires dans le département.
-
-A défaut de désignation par les fédérations ou syndicats départementaux mentionnés au 4o b et c  les représentants des
-exploitants et des propriétaires agricoles sont désignés d'office par la chambre départementale d'agriculture sur requête du
-directeur des services fiscaux.
-
-Lorsqu'il existe plusieurs organismes représentatifs pour les propriétaires ou les locataires d'immeubles bâtis dans le
-département  et à défaut d'accord entre eux  les membres de la commission sont désignés par le préfet sur proposition de ces
-organismes.
-
-Les membres non fonctionnaires de la commission sont nommés pour un an [*durée*] et leur mandat est renouvelable par tacite
-reconduction.
-
-Le secrétariat de la commission est assuré par un inspecteur des impôts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Modifié par**:
-
-	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DE (V)
-
-
-##### AUTRES IMPOSITIONS.
-
-###### Article 121 sexies
-
-Pour l'application des dispositions de l'article 312 de l'annexe II au code général des impôts  les exploitants de mine sont
-tenus [*obligation*] de faire parvenir chaque année à la préfecture dans le courant de janvier un relevé nominatif des
-ouvriers et employés occupés par eux à la date du 1er dudit mois avec l'indication de la commune du domicile de chacun de ces
-ouvriers. Les relevés ainsi dressés sont communiqués aux maires des communes intéressées qui doivent les renvoyer dans un
-délai de quinze jours en y joignant leurs observations s'il y a lieu. Ces relevés sont ensuite après avis des services des
-mines et des impôts rectifiés éventuellement et arrêtés définitivement par le préfet pour servir de base à la répartition
-afférente à l'année suivant celle au cours de laquelle ils ont été établis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 312
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES
 
@@ -15009,64 +16786,6 @@ afférente à l'année suivant celle au cours de laquelle ils ont été établis
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
-
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES
-
-#### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.
-
-###### Article 157 bis
-
-Les réfactions prévues à l'article 1613-II-1o du code général des impôts sont fixées à :
-
-15 % pour les sciages rabotés, rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires repris à la position ex
-44-13 du tarif des droits de douane;
-
-15 % pour les sciages imprégnés  injectés ou enduits repris aux positions ex 44-05 B et C du tarif des droits de douane.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1985-02-25 art. 1 JORF 27 février 1985
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGI 1613 II 1°
-
-
-#### FONDS NATIONAL DU LIVRE
-
-###### Article 159 AD
-
-Sont soumis à la redevance sur l'emploi de la reprographie les appareils mentionnés ci-après  par référence à la nomenclature
-générale des produits :
-
-Machines à imprimer offset  de 500 kg ou moins  d'un format égal ou inférieur à 305 445 mm (84.35.31.0 et ex 84.35.33.1);
-
-Duplicateurs hectographiques (84.54.31.0);
-
-Duplicateurs à stencils (84.54.39.0);
-
-Appareils photographiques spéciaux pour la copie des documents (90.07.13.1);
-
-Microlecteurs combinés avec un appareil de reproduction (ex 90.09.11.0);
-
-Appareils de photocopie à système optique (90.10.22.0);
-
-Appareils de thermocopie (90.10.32.0);
-
-Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 mm (90.10.42.0).
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ### CONTRIBUTIONS INDIRECTES
 
@@ -15097,133 +16816,6 @@ Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général
 	**Modifié par**:
 
 	  - Loi n°85-695 1986-07-11 art. 19 JORF 12 juillet 1986
-
-
-### ENREGISTREMENT
-
-#### TAXE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.
-
-###### Article 159 sexies
-
-Le taux du prélèvement à opérer au profit du budget général, sur le produit de la vente des timbres mobiles spéciaux destinés
-au paiement de la taxe perçue au profit de l'office national d'immigration, conformément aux dispositions de l'article 1635
-bis du code général des impôts et des articles 344 bis à 344 quinquies de l'annexe III audit code, à l'occasion du
-renouvellement des autorisations de travail aux travailleurs étrangers, est fixé à 2
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635 bis
-	  - CGIAN3 344 bis à CGIAN3 344 quinquies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-#### REGION D'ILE-DE-FRANCE.
-
-###### Article 159 sexies A
-
-Les dispositions de l'article 1635 bis C du code général des impôts établissant en faveur de la région d'Ile-de-France une
-taxe de 1 % complémentaire à la taxe locale d'équipement s'appliquent dans les communes suivantes :
-
-75 - PARIS 77 - Seine-et-Marne Avon. Nandy. Bagneux-sur-Loing. Nangis. Brie-Comte-Robert. Nemours. Brou-sur-Chantereine.
-Noisiel. Cesson. Ozoir-la-Ferrière. Champagne-sur-Seine. Pontault-Combault. Champs-sur-Marne. Provins. Chelles. Rochelle
-(La). Claye-Souilly. Roissy. Combs-la-Ville. Saint-Fargeau-Ponthierry. Coulommiers. Saint-Mammès. Dammarie-les-Lys. Saint-
-Pierre-lès-Nemours. Fontainebleau. Savigny-le-Temple. Gretz-Armainvilliers. Souppes-sur-Loing. Lagny-sur-Marne. Thoméry.
-Lieusaint. Thorigny-sur-Marne. Livry-sur-Seine. Torcy. Lognes. Tournan-en-Brie. Meaux. Vaires-sur-Marne. Mée-sur-Seine (Le).
-Varennes-sur-Seine. Melun. Vaux-le-Pénil. Mitry-Mory. Veneux-les-Sablons. Moissy-Cramayel. Vert-Saint-Denis. Montereau-Faut-
-Yonne. Villenoy. Moret-sur-Loing. Villeparisis.
-
-78 - Yvelines. Achères. Magny-les-Hameaux. Andrésy. Maisons-Laffite. Aubergenville. Mantes-la-Jolie. Bailly. Mantes-la-Ville.
-Bois-d'Arcy. Mareil-Marly. Bouaffle. Marly-le-Roi. Bougival. Maurecourt. Buc. Maurepas. Buchelay. Mesnil-le-Roi (Le).
-Carrières-sous-Poissy. Meulan. Carrières-sur-Seine. Mézières-sur-Seine. Celle-Saint-Cloud (La). Montesson. Chanteloup-les-
-Vignes. Montigny-le-Bretonneux. Chapet. Mureaux (Les). Châteaufort. Noisy-le-Roi. Chatou. Pecq (Le). Chesnay (Le). Plaisir.
-Chevreuse. Poissy. Clayes-sous-Bois (Les). Porcheville. Coignières. Port-Marly. Conflans-Sainte-Honorine. Rambouillet.
-Croissy-sur-Seine. Rennemoulin. Ecquevilly. Rocquencourt. Elancourt. Rosny-sur-Seine. Epone. Saint-Cyr-L'Ecole. Etang-la-
-Ville. Saint-Germain-en-Laye. Flins-sur-Seine. Saint-Rémy-les-Chevreuses. Fontenay-le-Fleury. Sartrouville. Fourqueux.
-Toussus-le-Noble. Gargenville. Trappes. Guerville. Triel-sur-Seine. Guyancourt. Vélizy-Villacoublay. Hardricourt. Verrière
-(La). Houilles. Verneuil-sur-Seine. Issou. Vernouillet. Jouy-en-Josas. Versailles. Limay. Vésinet (Le). Loges-en-Josas (Les).
-Villepreux. Louveciennes. Viroflay. Magnanville. Voisins-le-Bretonneux.
-
-91 - ESSONNE. Arpajon. Morangis. Athis-Mons. Morigny-Champigny. Ballainvilliers. Morsang-sur-Orge. Bièvres. Norville (La).
-Bondoufle. Ormoy. Boussy-Saint-Antoine. Orsay. Brétigny-sur-Orge. Palaiseau. Brunoy. Paray-Vieille-Poste. Bures-sur-Yvette.
-Plessis-Paté. Champlan. Quincy-sous-Sénart. Chilly-Mazarin. Ris-Orangis. Corbeil-Essonnes. Saclay. Courcouronnes. Saint-
-Aubin. Crosne. Sainte-Geneviève-des-Bois. Draveil. Saint-Germain-lès-Arpajon. Dourdan. Saint-Germain-lès-Corbeil. Epinay-
-sous-Sénart. Saint-Michel-sur-Orge. Epinay-sur-Orge. Saint-Pierre-du-Perray. Etampes. Saintry-sur-Seine. Etiolles. Saux-les-
-Chartreux. Etrechy. Savigny-sur-Orge. Evry. Soisy-sur-Seine. Ferté-Alais (La). Tigery. Fleury-Mérogis. Varennes-Jarcy. Gif-
-sur-Yvette. Vauhallan. Gometz-le-Châtel. Verrières-le-Buisson. Grigny. Vigneux-sur-Seine. Igny. Villabé. Juvisy-sur-Orge.
-Villebon-sur-Yvette. Linas. Ville-du-Bois (La). Lisses. Villemoisson-sur-Orge. Longjumeau. Villiers-le-Bacle. Longpont-sur-
-Orge. Villiers-sur-Orge. Massy. Viry-Châtillon. Mennecy. Wissous. Montgeron. Yerres. Montléry.
-
-92 - HAUTS-DE-SEINE.
-
-(la totalité des communes du département) 93 - SEINE-SAINT-DENIS.
-
-(la totalité des communes du département) 94 - VAL-DE-MARNE.
-
-(la totalité des communes du département).
-
-95 - VAL-D'OISE. Andilly. Ennery. Argenteuil. Eragny. Arnouville-lès-Gonesse. Ermont. Auvers-sur-Oise. Ezanville. Beauchamp.
-Franconville. Beaumont-sur-Oise. Frette-sur-Seine (La). Bessancourt. Garges-lès-Gonesse. Bezons. Gonesse. Boisemont.
-Goussainville. Bonneuil-en-France. Groslay. Cergy. Herblay. Champagne-sur-Oise. Isle-Adam (L'). Cormeilles-en-Parisis. Jouy-
-le-Moutier. Courdimanche. Margency. Deuil-la-Barre. Mériel. Domont. Méru-sur-Oise. Eaubonne. Montigny-lès-Cormeilles. Ecouen.
-Montlignon. Enghien-les-Bains. Montmagny. Montmorency. Saint-Gratien. Neuville-sur-Oise. Saint-Leu-la-Forêt. Osny. Saint-
-Ouen-l'Aumône. Parmain. Saint-Prix. Persan. Sannois. Pierrelaye. Sarcelles. Piscop. Soisy-sous-Montmorency. Plessis-Bouchard
-(Le). Taverny. Pontoise. Thillay (Le). Puiseaux-Pontoise. Vauréal. Saint-Brice-sous-Forêt. Villiers-le-Bel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1988-10-20
-
-	**Cite**:
-
-	  - CGI 1635 bis C
-
-	**Nouveaux textes**:
-
-	  - CGIAN4 155 ter
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
-
-### IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
-
-#### ENREGISTREMENT
-
-##### REGIONS.
-
-###### Article 159 sexies B
-
-Pour l'application de la réduction de tarif édictée par l'article 1635 bis H-I-3 du code général des impôts, l'âge du
-véhicule se détermine à partir de la date de la première mise en circulation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
-	  - Arrêté 1988-10-20
-
-	**Cite**:
-
-	  - CGI 1635 bis H I 3
-
-	**Nouveaux textes**:
-
-	  - CGIAN4 155 quater
-
-	**Créé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
 
 
 ## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*
@@ -15345,8 +16937,7 @@ services fiscaux qui a délivré l'agrément, soit par le directeur régional de
 
 Pour les entreprises relevant du régime du forfait ou du régime simplifié de liquidation des taxes sur le chiffre d'affaires
 prévu aux articles 302 ter et 302 septies A du code général des impôts, l'agrément institué par l'article 279-b sexies du
-même code est délivré par le directeur régional des impôts [*autorité compétente*] sur proposition du commissaire de la
-République de région.
+même code est délivré par le directeur régional des impôts sur proposition du préfet.
 
 Pour les autres entreprises, ou lorsque l'affaire présente des difficultés particulières, l'agrément est délivré
 conjointement par le ministre de l'économie, des finances et du budget et le ministre délégué à la culture, après avis de la
@@ -15354,19 +16945,20 @@ commission prévue par l'article 279-b sexies précité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1984-12-07 art. 1, art. 2 JORF 8 décembre 1984
-
 	**Codifié par**:
 
-	  - Arrêté 1985-09-24
+	  - Arrêté 1988-10-20
+	  - Arrêté 1991-09-09
 
 	**Cite**:
 
 	  - CGI 279 b sexies
 	  - CGI 302 septies A
 	  - CGI 302 ter
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 # Livre II : Recouvrement de l'impôt
