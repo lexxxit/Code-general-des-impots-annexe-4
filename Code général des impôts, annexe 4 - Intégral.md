@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-03-07
+Version Consolidée au 1987-05-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -735,6 +735,29 @@ des impôts dont le montant maximal ainsi que les modalités de réintégration 
 
 	  - HISTO: EDITION 1979-07-01
 	  - PEREMPTION: Loi n°93-1313 1993-12-20 art. 9 JORF 21 décembre 1993, article sans objet
+
+
+##### IV : Provision pour implantation commerciale à l'étranger
+
+###### Article 4 D
+
+La provision prévue au I bis de l'article 39 octies A du code général des impôts peut être égale au montant de
+l'investissement lorsque l'implantation est réalisé, dans les conditions prévues à cet article, dans un Etat qui n'est pas
+membre de la Communauté économique européenne.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1987-04-22 art. 1 JORF 28 mai 1987
+
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
+
+	**Cite**:
+
+	  - CGI 39 octies A I bis
 
 
 ##### VIII : Contrôle des frais généraux. Obligations des entreprises
