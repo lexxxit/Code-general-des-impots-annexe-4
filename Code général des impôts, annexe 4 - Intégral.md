@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-12-11
+Version Consolidée au 1985-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2060,6 +2060,54 @@ devra être déposé au service des impôts du siège social de la collectivité
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 22 (V)
 	  - Code général des impôts, CGI. - art. 119 bis (V)
+
+
+##### Option des sociétés de personnes et des sociétés en participation pour le régime fiscal des sociétés de capitaux.
+
+###### Article 22
+
+Les sociétés mentionnées au 3 de l'article 206 qui désirent opter à compter d'une année déterminée pour leur assujettissement
+à l'impôt sur les sociétés doivent  pour que cette option soit valable la notifier [*délai, date de la notification*] dans
+les trois premiers mois de ladite année au service des impôts du lieu de leur principal établissement.
+
+La notification [*mentions obligatoires*] indique la désignation de la société et l'adresse du siège social les nom prénoms
+et adresse de chacun des associés ou participants ainsi que la répartition du capital social entre ces derniers. Elle est
+signée par tous les associés ou participants. Il en est délivré récépissé.
+
+L'option ainsi exercée est irrévocable.
+
+Toutefois les sociétés de personnes qui  ont opté avant le 1er janvier 1981 [*date, point de départ*] pour leur
+assujettissement à l'impôt sur les sociétés peuvent renoncer à leur option si elles sont formées entre personnes parentes en
+ligne directe ou entre frères et soeurs ainsi que les conjoints. La renonciation doit être adressée au service des impôts
+auprès duquel est souscrite la déclaration de résultats avant la date d'ouverture du premier exercice auquel elle s'applique.
+
+Pour les exercices ou périodes d'imposition ouverts en 1981, la renonciation peut être effectuée jusqu'à la date d'expiration
+du délai de déclaration des résultats de ces exercices ou périodes d'imposition et, si ce délai expire après le 31 décembre
+1981 [*date limite*] , au plus tard jusqu'à cette date.
+
+La renonciation à l'option est effectuée selon les modalités prévues au deuxième alinéa du présent article. Elle précise les
+liens de parenté entre les associés.
+
+Les sociétés qui ont renoncé à l'option n'ont plus la possibilité de demander à être de nouveau assujetties à l'impôt sur les
+sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGI 206 3
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 5 (P) JORF 31 décembre 1985
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 (V)
 
 
 ##### Exonérations et régimes particuliers - Sociétés agréées pour le financement des télécommunications.
@@ -11487,57 +11535,6 @@ DEDUCTION DE 20 % PREVUE A L'ARTICLE 159 QUINQUIES II DU MEME CODE.
 	  - HISTO: EDITION 1979-07-01
 
 
-#### IMPOT SUR LES SOCIETES
-
-##### CHAMP D'APPLICATION.
-
-###### Article 22
-
-Les sociétés en nom collectif  les sociétés en commandite simple et les sociétés en participation qui  en application de
-l'article 206-3 du code général des impôts  désirent opter à compter d'une année déterminée pour leur assujettissement à
-l'impôt sur les sociétés doivent  pour que cette option soit valable  la notifier [*délai, date de la notification*] dans les
-trois premiers mois de ladite année au service des impôts du lieu de leur principal établissement.
-
-La notification [*mentions obligatoires*] indique la désignation de la société et l'adresse du siège social les nom prénoms
-et adresse de chacun des associés ou participants ainsi que la répartition du capital social entre ces derniers. Elle est
-signée par tous les associés ou participants. Il en est délivré récépissé.
-
-L'option ainsi exercée est irrévocable.
-
-Toutefois les sociétés de personnes qui  ont opté avant le 1er janvier 1981 pour leur assujettissement à l'impôt sur les
-sociétés peuvent renoncer à leur option si elles sont formées entre personnes parentes en ligne directe ou entre frères et
-soeurs ainsi que les conjoints. La renonciation doit être adressée au service des impôts auprès duquel est souscrite la
-déclaration de résultats avant la date d'ouverture du premier exercice auquel elle s'applique.
-
-Pour les exercices ou périodes d'imposition ouverts en 1981, la renonciation peut être effectuée jusqu'à la date d'expiration
-du délai de déclaration des résultats de ces exercices ou périodes d'imposition et, si ce délai expire après le 31 décembre
-1981, au plus tard jusqu'à cette date.
-
-La renonciation à l'option est effectuée selon les modalités prévues au deuxième alinéa du présent article. Elle précise les
-liens de parenté entre les associés.
-
-Les sociétés qui ont renoncé à l'option n'ont plus la possibilité de demander à être de nouveau assujetties à l'impôt sur les
-sociétés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGI 206 3
-
-	**Modifié par**:
-
-	  - Loi n°84-1208 1984-12-29 art. 83 III Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 (V)
-
-
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*
 
 ##### DEDUCTION FISCALE EN FAVEUR DES INVESTISSEMENTS REALISES OUTRE-MER.
@@ -13598,21 +13595,21 @@ préfectoral pour chaque département, à l'exception du Bas-Rhin, du Haut-Rhin 
 
 ###### Article 121 KA
 
-Nonobstant toute disposition contraire  l'emploi des machines à timbrer est autorisé pour le timbrage de tous documents
+Nonobstant toute disposition contraire, l'emploi des machines à timbrer est autorisé pour le timbrage de tous documents
 donnant lieu à la perception des droits de timbre dans les régies de recettes des préfectures et sous-préfectures.
 
 Peuvent notamment être timbrés par ce procédé :
 
-1° Les cartes d'identité professionnelle des voyageurs ou représentants de commerce [*VRP*] les cartes frontalières et autres
-cartes d'identité les cartes de séjour de ressortissant d'un Etat membre de la communauté économique européenne (art. 947 et
-948 du code général des impôts);
+1° Les cartes d'identité professionnelle des voyageurs ou représentants de commerce [*VRP*] et autres cartes d'identité, les
+cartes de séjour de ressortissant d'un Etat membre de la communauté économique européenne (art. 947 et 948 du code général
+des impôts);
 
-2° Les cartes de séjour des étrangers  les cartes spéciales délivrées aux étrangers exerçant une profession commerciale
-industrielle  artisanale ou agricole (art. 949 et 950 du code général des impôts);
+2° Les cartes de séjour des étrangers, les cartes spéciales délivrées aux étrangers exerçant une profession commerciale
+industrielle, artisanale ou agricole (art. 949 et 950 du code général des impôts);
 
 3° (Abrogé);
 
-4° Les passeports  laissez-passer  sauf-conduits pour l'étranger et les titres de voyages délivrés aux réfugiés ou apatrides
+4° Les passeports, laissez-passer, sauf-conduits pour l'étranger et les titres de voyages délivrés aux réfugiés ou apatrides
 (art. 953 et 954 du code général des impôts);
 
 5° Les certificats internationaux pour automobiles et les permis internationaux de conduire (art. 966 du code général des
@@ -13628,7 +13625,7 @@ véhicules à moteur (art. 1635 bis D-I du code général des impôts);
 
 	**Codifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1986-10-07
 
 	**Cite**:
 
@@ -13645,7 +13642,7 @@ véhicules à moteur (art. 1635 bis D-I du code général des impôts);
 
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 12 (P) JORF 31 décembre 1985
 
 
 ###### Article 121 KM
