@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-02-17
+Version Consolidée au 1982-02-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10675,7 +10675,7 @@ République malgache 6.994 hl                      -------                TOTAL 
 
 ###### Article 53
 
-Le droit de fabrication au tarif visé à l'article 406 A-4° du code général des impôts est applicable aux alcools utilisés
+Le droit de fabrication au tarif visé à l'article 406 A-II-2° du code général des impôts est applicable aux alcools utilisés
 dans la préparation des produits appartenant aux catégories ci-après désignées :
 
 a. Médicaments à base d'alcool définis par l'article L 511 du code de la santé publique  à l'exception des alcools de menthe
@@ -10693,23 +10693,19 @@ d. Alcoolats  extraits alcooliques parfumés non consommables en l'état livrés
 s chocolatiers glaciers pour servir exclusivement à parfumer la pâte des bonbons, gâteaux et glaces ou utilisés dans
 l'industrie de la conserverie l'industrie de la confiturerie ou l'industrie laitière (fabrication de yaourts ou yogourts);
 
-e. Eaux-de-vie et vins de liqueur utilisés  dans les conditions fixées par l'administration  à la préparation de salaisons et
-conserves de viande en boîtes.
+e. Eaux-de-vie, produits assimilés provenant de la distillation de céréales et vins de liqueur utilisés, dans les conditions
+fixées par l'administration, à la préparation de salaisons et conserves de viande en boîtes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 1982-02-09 art. 1 JORF 18 février 1982
 
 	**Cite**:
 
-	  - CGI 406 A 4°
+	  - CGI 406 A II 2°
 	  - Code de la santé publique - art. L511 (M)
-
-	**Modifié par**:
-
-	  - Décret n°79-200 1979-03-05 art. 4 JORF 11 mars 1979
 
 
 ##### CIRCULATION.
