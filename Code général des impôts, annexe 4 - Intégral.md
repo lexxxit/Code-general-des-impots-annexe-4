@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1989-01-12
+Version Consolidée au 1989-07-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3166,18 +3166,18 @@ passagers.
 
 En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
-est fixé, pour l'année 1988, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les demandes
-déposées au titre d'une année civile.
+est fixé, pour les années 1988 et 1989, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
+demandes déposées au titre d'une année civile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-01-26 art. 1 JORF 11 février 1988
+	  - Arrêté 1989-1-23 art. 1 JORF 1er février 1989, incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
@@ -8381,23 +8381,28 @@ impôts    Dégagées en excédent lors des inventaires.
 Aux décharges de ce compte sont portées les quantités d'alcool :
 
 Régulièrement expédiées sous le couvert de titres de mouvement    Renfermées dans les échantillons prélevés par les agents
-des impôts aux fins d'analyse et régulièrement expédiées à cet effet à des laboratoires  notamment à celui du ministère de
-l'économie et des finances    Déclarées soumises à un repassage  une rectification ou une déshydratation    Constituées
-d'alcools imparfaits et déclarées être ajoutées aux matières à distiller lorsque ces alcools ont déjà été pris en charge
-Dénaturées sur place dans les conditions réglementaires    Dont la perte accidentelle ou la destruction est régulièrement
-constatée    Dégagées en manquant lors des inventaires.
+des impôts aux fins d'analyse et régulièrement expédiées à cet effet à des laboratoires  notamment à celui de la direction
+générale des douanes et droits indirects    Déclarées soumises à un repassage  une rectification ou une déshydratation
+Constituées d'alcools imparfaits et déclarées être ajoutées aux matières à distiller lorsque ces alcools ont déjà été pris en
+charge    Dénaturées sur place dans les conditions réglementaires    Dont la perte accidentelle ou la destruction est
+régulièrement constatée    Dégagées en manquant lors des inventaires.
 
 Les quantités d'alcool utilisées pour la macération de fruits ne sont pas portées aux décharges du compte de magasin.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1989-10-30
+
 	**Cite**:
 
 	  - CGIAN1 69
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988, incorporé à l'annexe 4 le 14 juillet 1989
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988, incorporé à l'annexe 4 le 14 juillet 1989
 
 
 ###### Article 51 septies J
@@ -10696,9 +10701,9 @@ l'article L. 82 du livre des procédures fiscales.
 Les débitants de tabac perçoivent sur le prix de vente des timbres mobiles de toute nature, dont ils assurent la débite, une
 remise calculée au moyen du barème ci-après :
 
-4 % jusqu'à 40.000 F de ventes annuelles;
+5 % jusqu'à 40.000 F de ventes annuelles;
 
-2 % au-dessus de 40.000 F de ventes annuelles.
+3 % au-dessus de 40.000 F de ventes annuelles.
 
 Les dispositions du présent article s'appliquent dans les départements de la Corse.
 
@@ -10710,11 +10715,11 @@ Les dispositions du présent article s'appliquent dans les départements de la C
 
 	**Modifié par**:
 
-	  - Arrêté 1986-10-27 art. 1 JORF 30 décembre 1986 en vigueur le 1er octobre 1986
+	  - Arrêté 1989-02-16 art. 1 JORF 23 février 1989 incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20 modifie et complète l'annexe 4 au 15 juillet 1988
+	  - Arrêté 1989-10-30
 
 
 #### Chapitre III : Autres droits et taxes
@@ -11212,28 +11217,6 @@ décentralisations s'entendent des transferts, hors du Bassin parisien défini �
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
 
 
-###### Article 121 quinquies DB septies
-
-L'exonération temporaire de taxe professionnelle accordée sur agrément peut être subordonnée à la réalisation d'un montant
-minimum d'investissements.
-
-Sauf en cas de décentralisation, l'exonération ne peut être accordée lorsque l'opération entraîne une suppression d'emplois
-dans les autres établissements de l'entreprise.
-
-En aucun cas le prix de revient des immobilisations exonérées ne peut excéder un million [*montant maximum*] de francs par
-emploi créé ou maintenu.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1983-12-16 art. 5 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-
 ###### Article 121 quinquies DB sexies
 
 Pour bénéficier sur agrément de l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code général des
@@ -11320,6 +11303,31 @@ sont constitués par les zones délimitées à l'annexe III de l'arrêté du 24 
 	**Codifié par**:
 
 	  - Arrêté 1981-09-15
+
+
+##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire
+
+###### Article 121 quinquies DB septies
+
+L'exonération temporaire de taxe professionnelle accordée sur agrément peut être subordonnée à la réalisation d'un montant
+minimum d'investissements.
+
+Sauf en cas de décentralisation, l'exonération ne peut être accordée lorsque l'opération entraîne une suppression d'emplois
+dans les autres établissements de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1989-10-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Modifié par**:
+
+	  - Loi n°88-1193 du 29 décembre 1988 - art. 19 (V) JORF 30 décembre 1988
 
 
 ##### 2° : Réduction de la valeur locative de matériels agricoles
@@ -11900,26 +11908,36 @@ service des impôts et qui est communiqué à la première demande des agents du
 
 ###### Article 126 F
 
-L'exemption [*exonération*] totale de l'impôt sur les spectacles prévue par l'article 1561-3o-b premier alinéa du code
+L'exemption [*exonération*] totale de l'impôt sur les spectacles prévue par l'article 1561-3°-b premier alinéa du code
 général des impôts est applicable :
 
 a. aux compétitions relevant des activités sportives ci-après :
 
 athlétisme  aviron  natation  gymnastique et escrime;
 
-b. jusqu'au 31 décembre 1988 aux compétitions relevant des activités sportives ci-après : aikido, boxe française, canne,
+b. jusqu'au 31 décembre 1992 aux compétitions relevant des activités sportives ci-après : aikido, boxe française, canne,
 canoe-kayak, haltérophilie, handball, hockey sur gazon, judo, karaté,kendo, lutte pelote basque  ski  tennis de table  tir et
 volley-ball.
 
+c. A compter du 1er janvier 1989 et jusqu'au 31 décembre 1992, aux compétitions relevant des activités sportives ci-après :
+badminton, balle au tambourin, ballon au poing, ball-trap, base-ball, char à voile, escalade, football américain, javelot-tir
+sur cible, jeu de paume, longue paume, motonautisme, parachutisme, patinage à roulettes, pentathlon, pétanque et jeu
+provençal, racquet ball, squash-raquettes, surf, sports boules, sports de quilles, tchouk-ball, tir à l'arc, trampoline,
+triathlon.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-05-09 art. 2 JORF 2 juin 1989, incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1985-09-24
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
-	  - CGI 1561 3° b AL. 1
+	  - CGI 1561 3° b al. 1
 
 
 ##### Contrôle des entrées dans les salles - Billets.
@@ -14871,22 +14889,19 @@ des impôts.
 
 ###### Article 159 AL bis
 
-Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1987 [*date
-limite*] à 0,75 %[*pourcentage*] dont 0,50 % affecté au comité professionnel de développement de l'horlogerie et 0,25 %
+Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1989 [*date
+limite*] à 0,70 % [*pourcentage*] dont 0,45 % affecté au comité professionnel de développement de l'horlogerie et 0,25 %
 affecté au centre technique de l'industrie horlogère [*bénéficiaires*].
-
-Il est fixé pour 1988 à 0,70 % dont 0,45 % affecté au comité professionnel de développement de l'horlogerie et 0,25 % affecté
-au centre technique de l'industrie horlogère.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1986-12-24 art. 1 JORF 31 décembre 1986
+	  - Arrêté 1988-12-30 art. 1 JORF 15 janvier 1989, incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1987-11-23
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
@@ -14897,18 +14912,18 @@ au centre technique de l'industrie horlogère.
 
 ###### Article 159 AL quater
 
-Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,25 % [*pourcentage*]
-du montant hors taxes des ventes jusqu'au 31 décembre 1988 [*date limite*].
+Le taux de la taxe instituée par l'article 363 A de l'annexe II au code général des impôts est fixé à 0,20 % [*pourcentage*]
+du montant hors taxes des ventes jusqu'au 31 décembre 1989 [*date limite*].
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1987-12-31 art. 1 JORF 14 janvier 1988
+	  - Arrêté 1988-12-30 art. 1 JORF 15 janvier 1989, incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
@@ -14919,18 +14934,18 @@ du montant hors taxes des ventes jusqu'au 31 décembre 1988 [*date limite*].
 
 ###### Article 159 AL quater A
 
-Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,24 %
-[*pourcentage*] jusqu'au 31 décembre 1987 [*date limite*] et à 0,22 % pour 1988.
+Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,22 %
+[*pourcentage*] jusqu'au 31 décembre 1989 [*date limite*].
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1986-12-18 art. 1, art. 2 JORF 21 décembre 1986
+	  - Arrêté 1988-12-30 art. 1 JORF 15 janvier 1989 incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1987-11-23
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
@@ -14941,18 +14956,18 @@ Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code
 
 ###### Article 159 AL sexies
 
-Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,12 %
-[*pourcentage*] jusqu'au 31 décembre 1987 [*date limite*] et à 0,11 % pour 1988.
+Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,11 %
+[*pourcentage*] jusqu'au 31 décembre 1989 [*date limite*].
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1986-1-18 art. 1, art. 2 JORF 21 décembre 1986
+	  - Arrêté 1988-12-30 art. 1, JORF 15 janvier 1989 incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1987-11-23
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
@@ -15023,11 +15038,40 @@ de vin.
 	  - HISTO: Edition du 31 juillet 1986
 
 
+##### Section II : Taxe parafiscale au profit du bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré
+
+###### Article 159 AN
+
+Le taux de la taxe mentionnée à l'article 364 de l'annexe II au code général des impôts est fixé comme suit :
+
+" 23,60 F par hectolitre d'alcool pur pour les eaux-de-vie ayant droit à une appellation d'origine contrôlée " Calvados " et
+les eaux-de-vie ayant droit à une appellation d'origine contrôlée " Calvados du Pays d'Auge " ainsi que les produits composés
+élaborés avec ces eaux-de-vie ;
+
+" 11,75 F par hectolitre d'alcool pur pour les eaux-de-vie de cidre et de poiré ayant droit à une appellation d'origine
+réglementée de Normandie, Bretagne et du Maine et pour les produits composés élaborés avec ces eaux-de-vie de cidre et de
+poiré.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1988-08-26 art. 1 JORF 11 septembre 1988, incorporé à l'annexe 4 le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Arrêté 1989-10-30
+
+	**Cite**:
+
+	  - CGIAN2 364
+
+
 ##### Section III : Taxes parafiscale sur certaines viandes.
 
 ###### Article 159 AO
 
-Pour l'année 1988, le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme
+Pour l'année 1989, le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme
 suit, par kilogramme net :
 
 Viande de boeuf et la viande de veau : 0,031 F;
@@ -15044,11 +15088,11 @@ Viandes des espèces chevaline, asine et leurs croisements :
 
 	**Modifié par**:
 
-	  - Arrêté 1987-12-24 art. 1 JORF 31 décembre 1987
+	  - Arrêté 1988-12-30 art. 1 JORF 20 janvier 1989 incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
@@ -15060,7 +15104,7 @@ Viandes des espèces chevaline, asine et leurs croisements :
 ###### Article 159 AP
 
 En application de l'article 363 E de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
-vins au profit de l'association nationale pour le developpement agricole est fixée comme suit pour l'année 1988 :
+vins au profit de l'association nationale pour le developpement agricole est fixée comme suit jusqu'au 31 décembre 1989 :
 
 Vins à appellation d'origine contrôlée : 1,10 F par hectolitre    Vins délimités de qualité supérieure : 0,70 F par
 hectolitre    Autres vins : 0,40 F par hectolitre.
@@ -15069,15 +15113,45 @@ hectolitre    Autres vins : 0,40 F par hectolitre.
 
 	**Modifié par**:
 
-	  - Arrêté 1987-12-19 art. 1 JORF 31 décembre 1987
+	  - Arrêté 1988-12-30 art. 1 JORF 20 janvier 1989, incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
 	  - CGIAN2 363 E
+
+
+#### Section VI : Taxe parafiscale sur les graines oléagineuses.
+
+###### Article 159 AR
+
+Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à l'article 363 F de l'annexe II au code général
+des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1988-1989 :
+
+" Colza : 7,80 F par tonne ;
+
+" Navette : 7,80 F par tonne ;
+
+" Tournesol : 9,40 F par tonne ;
+
+" Soja : 4,55 F par tonne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1988-12-21 art. 1 JORF 23 décembre 1988, incorporé à l'annexe 4 le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Arrêté 1989-10-30
+
+	**Cite**:
+
+	  - CGIAN2 363 F
 
 
 #### Chapitre III : Enregistrement
@@ -15216,21 +15290,29 @@ I. Les contrats d'assurance sur lesquels est assise la contribution prévue aux 
 impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
 branches 3 à 9 de l'article R. 321-1 du code des assurances.
 
-II. Le taux annuel de la contribution est fixé, pour 1988, à 4 F par contrat. Les sommes correspondantes sont perçues par les
+II. Le taux annuel de la contribution est fixé, pour 1989, à 1 F par contrat. Les sommes correspondantes sont perçues par les
 entreprises d'assurance à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre le 1er janvier et le
-31 décembre 1988.
+31 décembre 1989.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1987-10-11 art. 1 JORF 18 octobre 1988
+
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
 	  - CGI 1628 quinquies
 	  - CGIAN2 325
 	  - Code des assurances R321-1
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
 
 
 ##### Section III : Taxe au profit de l'office des migrations internationales.
@@ -15269,17 +15351,17 @@ suit :
 Désignation :
 
 Véhicules automobiles de transport de marchandises dont le P.A.T.C. (1) est égal ou supérieur à 3,5 tonnes et inférieur à 6
-tonnes Pour la période du 1er janvier au 31 décembre 1988 : 274 F
+tonnes Pour la période du 1er janvier au 31 décembre 1989 : 310 F
 
 Désignation :
 
 Véhicules automobiles de transport de marchandises dont le P.A.T.C.   est égal ou supérieur à 6 tonnes et inférieur à 11
-tonnes Pour la période du 1er janvier au 31 décembre 1988 : 410 F 
+tonnes Pour la période du 1er janvier au 31 décembre 1989 : 463 F 
 
 Désignation :
 
 Véhicules automobiles de transport de marchandises dont le P.A.T.C. est égal  ou supérieur à 11 tonnes Tracteurs routiers
-Véhicules de transport en commun de voyageurs Pour la période du 1er janvier au 31 décembre 1988 : 615 F
+Véhicules de transport en commun de voyageurs Pour la période du 1er janvier au 31 décembre 1989 : 695 F
 
 (1) Poids total autorisé en charge.
 
@@ -15287,11 +15369,11 @@ Véhicules de transport en commun de voyageurs Pour la période du 1er janvier a
 
 	**Modifié par**:
 
-	  - Arrêté 1987-12-14 art. 1 JORF 27 décembre 1987
+	  - Arrêté 1988-12-21 art. 1 JORF 29 décembre 1988, incorporé à l'annexe 4 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
+	  - Arrêté 1989-10-30
 
 	**Cite**:
 
@@ -16806,48 +16888,6 @@ fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts
 	  - CGIAN3 41 H
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES
-
-#### TAXE SUR LA VALEUR AJOUTEE
-
-##### OBLIGATIONS DES REDEVABLES.
-
-###### Article 48
-
-Lorsqu'une opération à raison de laquelle l'impôt a été acquitté est ultérieurement résiliée ou annulée ou reste impayée
-l'intéressé pour obtenir l'imputation de l'impôt joint à l'une des plus prochaines déclarations mensuelles à produire après
-la date de la résiliation ou de l'annulation un état spécial indiquant 1° La nature de l'opération initiale ainsi que le nom
-et l'adresse de la personne avec laquelle elle a été conclue;
-
-2° La date de cette opération;
-
-3° Le folio du registre de comptabilité ou du livre spécial sur lequel a été enregistrée la facture initiale ainsi que la
-date de la rectification de cette facture;
-
-4° Le montant de la somme remboursée ou impayée.
-
-Le montant de la somme à déduire à la suite des rectifications effectuées comme il est dit ci-dessus est imputé sur les
-sommes portées sur les premières déclarations produites après le dépôt de la réclamation.
-
-La restitution de l'impôt quand elle ne peut être effectuée par voie d'imputation conformément aux dispositions qui précèdent
-ne peut avoir lieu que sur demande spéciale établie sur papier libre et appuyée de toutes les justifications indiquées ci-
-dessus.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-04-07 art. 1 JORF 16 avril 1989, incorporé à l'annexe 4 le 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Arrêté 1989-10-30
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
 
 ### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES
@@ -16869,37 +16909,6 @@ dessus.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*
-
-### FRAIS D'ASSIETTE ET DE PERCEPTION
-
-#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.
-
-###### Article 161 B
-
-Le taux du prélèvement représentant les frais d'assiette et de perception à opérer sur les recouvrements effectués au titre
-de la contribution additionnelle complémentaire prévue au 2° de l'article 1635 bis A du code général des impôts est fixé à 2
-%.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1987-09-23 art. 2 JORF 25 septembre 1987
-
-	**Codifié par**:
-
-	  - Arrêté 1988-10-20
-
-	**Cite**:
-
-	  - CGI 1635 bis A 2°
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°88-1149 1988-12-232 art. 38 Finances pour 1989 JORF 28 décembre 1988, incorporée à l'annexe 4 le 14 juillet 1989
 
 
 ## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
