@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-02-22
+Version Consolidée au 1986-02-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10022,6 +10022,30 @@ des impôts.
 	  - HISTO: EDITION 1979-07-01
 
 
+#### Chapitre II bis : Contributions indirectes
+
+##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.
+
+###### Article 159 AM bis
+
+Le taux de la taxe mentionnée à l'article 361 bis de l'annexe II au code général des impôts est fixé à 4,83 F par hectolitre
+de vin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGIAN2 361 bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 #### Chapitre III : Enregistrement
 
 ##### Section I bis : Contribution pour l'alimentation du fonds commun des accidents du travail agricole
@@ -15571,28 +15595,6 @@ finances et du budget et par le ministre de la culture.
 	**Cite**:
 
 	  - CGI 238 bis
-
-
-# IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
-
-## CONTRIBUTIONS INDIRECTES
-
-### TAXE PARAFISCALE AU PROFIT D'ORGANISMES INTERPROFESSIONNELS DE VIN.
-
-###### Article 159 AM bis
-
-Le taux de la taxe mentionnée à l'article 361 bis de l'annexe II au code général des impôts est fixé à 4,76 F par hectolitre
-de vin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGIAN2 361 bis
 
 
 # Livre II : Recouvrement de l'impôt
