@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1979-11-03
+Version Consolidée au 1979-12-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -160,6 +160,24 @@ Pétrole brut, 36-36,9 aux puits Kansas-Oklahoma.
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 4 (V)
+
+
+##### II : Provisions pour risques afférents aux opérations de crédit à moyen et à long terme
+
+###### Article 2 bis
+
+Les prêts ou avances consentis à moyen ou à long terme aux caisses de crédit agricole mutuel par la caisse nationale de
+crédit agricole ne sont pas retenus par celle-ci pour le calcul de la provision prévue à l'article 2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGIAN4 2
 
 
 ##### II bis : Provisions pour risques afférents aux crédits à moyen terme résultant de ventes ou de travaux effectués à l'étranger
