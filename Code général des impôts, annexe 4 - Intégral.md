@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-04-18
+Version Consolidée au 1985-04-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15398,7 +15398,7 @@ rouge.
 
 ###### Article 170 octies
 
-Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies sont exercées
+Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies D sont exercées
 dans la région d'Ile-de-France par le délégué régional, dans les départements d'outre-mer [*DOM*], de la Haute-Corse et de la
 Corse du Sud par les directeurs des services fiscaux compétents (1).
 
@@ -15408,18 +15408,19 @@ services fiscaux qui a délivré l'agrément, soit par le directeur régional de
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1983-12-16 art. 12 2° JORF 20 décembre 1983
-	  - Arrêté 1983-12-16 art. 5 JORF 20 décembre 1983
+	  - Arrêté 1984-12-07 art. 2 JORF 8 décembre 1984
+	  - Arrêté 1985-03-26 art. 3 JORF 18 avril 1985
+	  - Arrêté 1985-04-04 art. 2 JORF 20 avril 1985
 
 	**Codifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1985-09-24
 
 	**Cite**:
 
-	  - CGIAN4 170 quinquies à CGIAN4 170 septies
+	  - CGIAN4 170 quinquies à CGIAN4 170 septies D
 
 	**Cité par**:
 
@@ -15475,6 +15476,32 @@ services fiscaux qui a délivré l'agrément, soit par le directeur régional de
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
+
+
+##### OCTROI DE CERTAINS AGREMENTS FISCAUX.
+
+###### Article 170 septies D
+
+L'agrément institué par l'article 238 bis du code général des impôts au profit des fondations ou associations d'intérêt
+général et à caractère culturel est délivré par le directeur régional des impôts sur proposition du commissaire de la
+République de région.
+
+Si l'affaire est évoquée au niveau ministériel, l'agrément est délivré conjointement par le ministre de l'économie, des
+finances et du budget et par le ministre de la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1985-04-04 art. 1 JORF 20 avril 1985) P(Loi 87-571 1987-07-23 art. 2 IV JORF 24 juillet 1987 : cet article est devenu sans objet
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Cite**:
+
+	  - CGI 238 bis
 
 
 # IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
