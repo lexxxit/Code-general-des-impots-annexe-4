@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2004-01-15
+Version Consolidée au 2004-01-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9723,28 +9723,27 @@ exerçant les compétences requises, déterminées par décret, et dont la liste
 budget.
 
 II. - Le directeur régional des douanes et droits indirects peut autoriser l'emploi d'empreintes fiscales imprimées par les
-matériels ou logiciels mentionnés au I de l'article 164 AM en lieu et place des vignettes. Les empreintes doivent comporter
-les mentions requises au II du même article.
+matériels ou logiciels de validation mentionnés à l'article 164 L ou au I de l'article 164 AM en lieu et place des vignettes.
+Les empreintes doivent comporter les mentions requises au II du même article.
 
-III. - Sans préjudice des dispositions des articles 164 AT et 164 AU, tout usager est tenu, pour chaque vignette ou empreinte
-manquante ou en cas de discontinuité dans la série des numéros d'empreintes devant être apposées sur les documents
+III. - Sans préjudice des dispositions des articles 164 AL, 164 AT et 164 AU, tout usager est tenu, pour chaque vignette ou
+empreinte manquante ou en cas de discontinuité dans la série des numéros d'empreintes devant être apposées sur les documents
 d'accompagnement mentionnés à l'article 302 M du code général des impôts et les autres documents de circulation prévus par la
-réglementation des contributions indirectes dans le code général des impôts, d'acquitter une indemnité.
-
-Cette indemnité est égale au montant du droit au tarif le plus élevé, correspondant à la quantité moyenne par titre de
-mouvement des expéditions réalisées au cours des trois mois précédents.
+réglementation des contributions indirectes dans le code général des impôts, d'acquitter une indemnité. Cette indemnité est
+égale au montant du droit au tarif le plus élevé, correspondant à la quantité moyenne par titre de mouvement des expéditions
+réalisées au cours des trois mois précédents.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2000-09-22 art. 1 JORF 5 octobre 2000
+	  - Arrêté 2004-01-13 art. 1, art. 2 JORF 17 janvier 2004
 
 	**Cite**:
 
 	  - CGI 302 M
 	  - CGIAN3 111 H ter
-	  - CGIAN4 164 AM, 164 AT, 164 AU
+	  - CGIAN4 164 L, 164 AM, 164 AL, 164 AT, 164 AU
 
 	**Cité par**:
 
@@ -9753,7 +9752,7 @@ mouvement des expéditions réalisées au cours des trois mois précédents.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 54 B
@@ -17182,6 +17181,46 @@ d'exploitation sans l'autorisation du service des impôts et de se conformer str
 	  - HISTO: Edition du 31 mars 2001
 
 
+###### Article 164 AD bis
+
+Sous réserve des dispositions de l'article 50 duodecies B, toute personne qui désire être autorisée à utiliser les machines à
+timbrer, au titre d'une activité soumise à la réglementation des contributions indirectes, et donc n'entrant pas dans le
+champ d'application de l'article 164 AD, doit présenter toutes garanties d'honorabilité et de solvabilité et en faire la
+demande, sur un imprimé fourni par l'administration, auprès de l'administration des douanes et droits indirects en précisant
+l'usage auquel est destinée la machine.
+
+Une demande séparée est faite par appareil. Le demandeur doit être titulaire de l'autorisation d'employer des empreintes
+visée à l'article 54 A. Il doit prendre l'engagement de ne pas rétrocéder à des tiers la ou les machines louées, de ne les
+utiliser que pour son usage personnel ou des personnes agréées et nommément désignées auprès de l'administration, de ne pas
+déplacer ou laisser déplacer les machines en dehors de l'établissement désigné comme lieu d'exploitation sans l'autorisation
+du service des douanes et droits indirects et de se conformer strictement aux règles en vigueur.
+
+En cas d'utilisation collective, la personne autorisée doit être en mesure pour chaque utilisateur de préciser les nom,
+adresse et numéro d'agrément mentionné au quatrième alinéa de l'article 286 K de l'annexe II au code général des impôts, à
+toute réquisition du service. Ces utilisateurs doivent être titulaires de l'autorisation mentionnée à l'article 54 A pour
+employer les empreintes fiscales de la machine à timbrer mentionnée au premier alinéa du présent article à laquelle ils sont
+rattachés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2004-01-13 art. 3 JORF 17 janvier 2004
+
+	**Cite**:
+
+	  - CGIAN2 286 K
+	  - CGIAN4 50 duodecies B, 164 AD, 54 A
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
 ###### Article 164 AE
 
 Seront réputés non timbrés :
@@ -17466,27 +17505,24 @@ d'incident, de panne, de dysfonctionnement d'un élément du système ou de rupt
 ###### Article 164 AO
 
 Chaque matériel désigné à l'article 164 AM doit être identifié par un numéro composé du numéro d'identification
-d'entrepositaire agréé mentionné au quatrième alinéa de l'article 286 K de l'annexe II au code général des impôts, complété
-par une lettre majuscule attribuée par le service des douanes et droits indirects.
+d'entrepositaire agréé mentionné au quatrième alinéa de l'article 286 K de l'annexe II au code général des impôts, ou du
+numéro d'identification des opérateurs mentionnés à l'article 111 H ter de l'annexe III au même code, complété par une lettre
+majuscule attribuée par le service des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+	  - Arrêté 2004-01-13 art. 4 JORF 17 janvier 2004
 
 	**Cite**:
 
-	  - CGIAN2 286 K
-	  - CGIAN4 164 AM
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H ter (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 164 AP
@@ -17674,17 +17710,21 @@ utilisateurs dans un délai d'un mois suivant la date de notification du retrait
 
 ###### Article 164 AU
 
-I. - Toute personne qui désire être autorisée à utiliser les matériels ou logiciels doit présenter toutes garanties
-d'honorabilité et de solvabilité et en faire la demande, sur un imprimé fourni par l'administration, au directeur régional
-des douanes et droits indirects du lieu d'utilisation, en précisant l'usage auquel ils sont destinés. Une demande séparée est
-faite par matériel ou logiciel.
+I. - Toute personne qui désire être autorisée à utiliser les matériels ou logiciels de validation doit présenter toutes
+garanties d'honorabilité et de solvabilité et en faire la demande, sur un imprimé fourni par l'administration, au directeur
+régional des douanes et droits indirects du lieu d'utilisation, en précisant l'usage auquel ils sont destinés. Une demande
+séparée est faite par matériel ou logiciel de validation. Le demandeur doit être titulaire de l'autorisation d'employer des
+empreintes mentionnée à l'article 54 A. Il doit prendre l'engagement de ne pas rétrocéder à des tiers le ou les matériels ou
+logiciels de validation loués, de ne les utiliser que pour son usage personnel ou des personnes agréées nommément désignées
+auprès de l'administration, de ne pas déplacer ou laisser déplacer les matériels ou logiciels de validation en dehors de
+l'établissement désigné comme lieu d'exploitation sans l'autorisation du service des douanes et droits indirects et de se
+conformer strictement aux règles en vigueur.
 
-Elle doit prendre l'engagement de ne pas rétrocéder à des tiers le ou les matériels ou logiciels loués, de ne les utiliser
-que pour son usage personnel ou des personnes nommément désignées, de ne pas déplacer ou laisser déplacer les matériels ou
-logiciels en dehors de l'établissement désigné comme lieu d'exploitation sans l'autorisation du service des douanes et droits
-indirects et de se conformer strictement aux règles en vigueur.
-
-En cas d'utilisation collective, la personne autorisée doit préciser les nom, adresse et numéro d'agrément des utilisateurs.
+En cas d'utilisation collective, la personne autorisée doit être en mesure pour chaque utilisateur de préciser les nom,
+adresse et numéro d'agrément mentionné au quatrième alinéa de l'article 286 K de l'annexe II au code général des impôts, à
+toute réquisition du service. Ces utilisateurs doivent être titulaires de l'autorisation mentionnée à l'article 54 A pour
+employer les empreintes fiscales des matériels et logiciels de validation mentionnés au premier alinéa du présent article
+auxquels ils sont rattachés.
 
 II. - Seront réputés non timbrés les documents et marques fiscales dont les empreintes auront été apposées par une personne
 non autorisée.
@@ -17719,19 +17759,15 @@ autorisés à embouteiller les vins, autres boissons fermentées, produits inter
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-09-22 art. 5, art. 13 JORF 5 octobre 2000
-
-	**Codifié par**:
-
-	  - Arrêté 2001-05-21
+	  - Arrêté 2004-01-13 art. 5 JORF 17 janvier 2004
 
 	**Cite**:
 
 	  - CGI 302 D, 302 G, 302 M à 302 P
-	  - CGIAN2 286 L
-	  - CGIAN4 54-0 B à 54-0 BX, 164 AM
+	  - CGIAN2 286 K
+	  - CGIAN4 54-0 B à 54-0 BX, 164 AM, 54 A
 
 	**Cité par**:
 
@@ -17741,39 +17777,39 @@ autorisés à embouteiller les vins, autres boissons fermentées, produits inter
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 164 AV
 
-I. - Les fournisseurs sont pécuniairement responsables, vis-à-vis de l'administration des douanes et droits indirects, du
+I.-Les fournisseurs sont pécuniairement responsables, vis-à-vis de l'administration des douanes et droits indirects, du
 paiement des droits ou des pénalités exigibles sur les timbres fiscaux obtenus par les usagers à l'aide de matériels ou
-logiciels mis ou maintenus à leur disposition dans des conditions irrégulières.
+logiciels mis ou maintenus à leur disposition dans des conditions irrégulières. 
 
 Il en est de même pour les utilisateurs et, le cas échéant, leurs cautions en cas d'apposition de timbres fiscaux obtenus
-irrégulièrement du fait d'une utilisation anormale ou détournée des matériels ou logiciels.
+irrégulièrement du fait d'une utilisation anormale ou détournée des matériels ou logiciels. 
 
-II. - Les fournisseurs sont garants envers l'administration des douanes et droits indirects, des dommages qui pourraient
+II.-Les fournisseurs sont garants envers l'administration des douanes et droits indirects, des dommages qui pourraient
 résulter de toutes revendications, saisies, poursuites ou autres actions judiciaires ou extrajudiciaires susceptibles d'être
 intentées par des tiers pour quelque motif que ce soit, notamment pour contrefaçon des systèmes d'organes ou pièces
-brevetées.
+brevetées. 
 
-III. - Les locataires de matériels ou logiciels sont pécuniairement responsables, vis-à-vis de l'administration des douanes
-et droits indirects, du paiement des droits ou des pénalités exigibles sur les timbres fiscaux qui auraient été obtenus par
-des tiers auxquels ils auraient rétrocédé ces matériels ou logiciels.
+III.-Les locataires de matériels ou logiciels sont pécuniairement responsables, vis-à-vis de l'administration des douanes et
+droits indirects, du paiement des droits ou des pénalités exigibles sur les timbres fiscaux qui auraient été obtenus en cas
+de manquement aux dispositions du I de l'article 164 AU. 
 
-IV. - L'administration n'encourt aucune responsabilité en raison du non-fonctionnement ou du fonctionnement défectueux des
+IV.-L'administration n'encourt aucune responsabilité en raison du non-fonctionnement ou du fonctionnement défectueux des
 matériels ou logiciels loués par les fournisseurs.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+	  - Arrêté 2004-01-13 art. 6 JORF 17 janvier 2004
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
 
 
 ###### Article 164 AW
@@ -17805,23 +17841,48 @@ c) Dans le cas d'infraction fiscale de caractère frauduleux commise par les bé
 ###### Article 164 AX
 
 Les matériels ou logiciels agréés avant la date de publication de l'arrêté du 22 septembre 2000 (JO du 5 octobre 2000), en
-application des dispositions des articles 164 L à 164 AL, sont remplacés par les matériels mentionnés au I de l'article 164
-AM, au fur et à mesure de leur installation, et au plus tard le 31 décembre 2003.
+application des dispositions des articles 164 L à 164 AL, peuvent être remplacés par les matériels mentionnés au I de
+l'article 164 AM.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2004-01-13 art. 7 JORF 17 janvier 2004
+
 	**Cite**:
 
-	  - Arrêté 2000-09-22
-	  - CGIAN4 164 L à 164 AL, 164 AM
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 L (V)
+
+
+###### Article 164 AY
+
+Les dispositions prévues aux articles 164 L à 164 AL relatives aux machines à timbrer peuvent également être mises en oeuvre
+par les agents de la direction générale des douanes et droits indirects.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+	  - Arrêté 2004-01-13 art. 8 JORF 17 janvier 2004
+
+	**Transféré par**:
+
+	  - Arrêté 2004-10-08 art. 1 JORF 10 octobre 2004
+
+	**Nouveaux textes**:
+
+	  - CGIAN4 164 AL bis
+
+	**Cite**:
+
+	  - CGIAN4 164 L à 164 AL
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2004
 
 
 ### Titre II : Dispositions diverses
