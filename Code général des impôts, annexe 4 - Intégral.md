@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1988-03-31
+Version Consolidée au 1988-05-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14592,50 +14592,6 @@ services fiscaux qui a délivré l'agrément, soit par le directeur régional de
 
 #### IMPOT SUR LE REVENU
 
-##### BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*.
-
-###### Article 4 J
-
-Les entreprises exerçant une activité industrielle ou commerciale et soumises à l'impôt sur le revenu d'après leur bénéfice
-réel ainsi que les entreprises passibles de l'impôt sur les sociétés sont tenues de fournir  à l'appui de la déclaration des
-résultats de chaque exercice  le relevé détaillé des catégories de frais généraux prévu à l'article 54 quater du code général
-des impôts lorsque ces frais excèdent  pour une ou plusieurs desdites catégories  l'un des chiffres suivants :
-
-1° 900.000 F ou 450.000 F pour l'ensemble des rémunérations directes ou indirectes versées aux 10 ou 5 personnes les mieux
-rémunérées  suivant que l'effectif du personnel dépasse ou non 200 salariés  ou 150.000 F pour l'une d'entre elles prise
-individuellement;
-
-2° 36.000 F pour les frais de voyage et de déplacement exposés par ces personnes;
-
-3° 90.000 F pour le total, d'une part, des dépenses et charges afférentes aux véhicules et autres biens dont elles peuvent
-disposer en dehors des locaux professionnels et, d'autre part, des dépenses et charges de toute nature afférentes aux
-immeubles qui ne sont pas affectés à l'exploitation ;
-
-4° 7.500 F pour les cadeaux de toute nature, à l'exception des objets spécialement conçus pour la publicité et dont la valeur
-unitaire ne dépasse pas 200 F par bénéficiaire ;
-
-5° 15.000 F pour les frais de réception, y compris les frais de restaurant et de spectacles.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1988-03-07 art. 1 JORF 15 mars 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1988-03-21 art. 1
-
-	**Cite**:
-
-	  - CGI 54 quater
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 K (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 L (V)
-
-
 ##### REVENU DES CAPITAUX MOBILIERS.
 
 ###### Article 16 bis
@@ -14845,50 +14801,6 @@ charge du contrevenant.
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
-
-
-### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE
-
-#### OBLIGATIONS DIVERSES.
-
-###### Article 66
-
-Les conservations des hypothèques implantées dans le ressort géographique de la ville de Paris sont ouvertes au public (1)
-tous les jours de 8 h 45 à 12 heures et de 14 heures à 16 h 15, à l'exception :
-
-a. Des samedis et des dimanches;
-
-b. Des jours fériés reconnus par la loi;
-
-c. Des jours où il ne peut être exigé de paiement d'aucune sorte par application des lois des 23 décembre 1904, 22 décembre
-1906 et 29 octobre 1909, réputés fériés en ce qui concerne les services des comptables des impôts;
-
-d. De la matinée du dernier jour ouvrable de chaque mois  ou de l'avant-dernier jour ouvrable  lorsque le dernier jour
-ouvrable est un samedi  date fixée pour l'arrêté mensuel des écritures comptables.    La fermeture des bureaux sera étendue à
-la journée entière lors de l'arrêté de décembre pour qu'il puisse être procédé aux opérations de fin d'année (2).
-
-(1) Décret n° 71-69 du 26 janvier 1971 (J.O. du 27).
-
-(2) Un régime uniforme d'ouverture et de fermeture semblable à celui fixé pour la ville de Paris est établi par arrêté
-préfectoral pour chaque département, à l'exception du Bas-Rhin, du Haut-Rhin et de la Moselle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1988-10-20
-
-	**Cite**:
-
-	  - Décret n°71-69 1971-01-26
-	  - Loi n°1904-12-23
-	  - Loi n°1906-12-22
-	  - Loi n°1909-10-29
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°82-389 1982-05-10 art. 31 JORF 11 mai 1988
 	  - HISTO: EDITION 1979-07-01
 
 
