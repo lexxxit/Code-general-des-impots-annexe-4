@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-05-16
+Version Consolidée au 1981-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -198,6 +198,43 @@ Pétrole brut, 36-36,9 aux puits Kansas-Oklahoma.
 
 
 ##### II : Provisions pour risques afférents aux opérations de crédit à moyen et à long terme
+
+###### Article 2
+
+Les établissements de banque ou de crédit effectuant des prêts à moyen ou à long terme  ainsi que les sociétés autorisées à
+faire des opérations de crédit foncier sont admis à constituer en franchise d'impôt sur le revenu ou d'impôt sur les sociétés
+dans les conditions prévues à l'article 3 bis, une provision destinée à faire face aux risques particuliers afférents à ces
+prêts ou opérations.
+
+Il ne peut être constitué de provision pour les crédits dont le risque n'incombe pas à l'établissement.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Modifié par**:
+
+	  - Arrêté 1981-09-15 en vigueur le 1er juillet 1981
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
+
+	**Cite**:
+
+	  - CGIAN4 3 bis
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 2 bis (P)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 3 bis (P)
+
 
 ###### Article 2 bis
 
@@ -1752,6 +1789,37 @@ molybdène.
 
 ##### I : Taux réduit
 
+##### B : Hôtels de tourisme et villages de vacances
+
+###### Article 30
+
+1. Pour l'application du a de l'article 279 du code général des impôts la base d'imposition au taux réduit de la taxe sur la
+valeur ajoutée est constituée par les trois quarts du prix de pension ou de demi-pension. 
+
+2. Pour l'application du 1, les prix de pension et de demi-pension sont diminués le cas échéant de la fraction représentative
+de prestations autres que la nourriture et le logement. 
+
+3 et 4 (Abrogés).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1467 du 30 décembre 1977 - art. 12 (P) JORF 31 décembre 1977
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D421-1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 279 (VT)
+
+
 ##### C : Aliments pour le bétail, les animaux de basse-cour, les poissons d'élevage et les abeilles
 
 ###### Article 31
@@ -1775,6 +1843,46 @@ Lécithines.
 ##### I : Obligations générales
 
 ##### A : Déclarations d'existence et comptabilité. Déclarations de recettes
+
+###### Article 32
+
+a. Sous réserve des dispositions propres aux entreprises étrangères qui n'ont pas d'établissement en France et des
+dérogations prévues à l'article 33, les déclarations prescrites par l'article 286 et le 1 de l'article 287 du code général
+des impôts doivent être souscrites par les redevables de la taxe sur la valeur ajoutée  pour l'ensemble des opérations qu'ils
+réalisent autres que les importations  auprès du service des impôts auquel doit parvenir leur déclaration de bénéfice ou de
+revenu.
+
+b. Toutefois  les déclarations souscrites par des personnes qui réalisent des opérations soumises à la taxe sur la valeur
+ajoutée à titre occasionnel doivent être déposées auprès du service dans le ressort duquel se trouve le lieu où sont
+accomplies les opérations.
+
+c. Lorsqu'elles sont redevables de la taxe sur la valeur ajoutée en raison des achats qu'elles effectuent  les personnes non
+habituellement assujetties par ailleurs à ladite taxe doivent souscrire ces déclarations auprès du service du lieu de
+destination des produits achetés.
+
+Toutefois, pour les achats de boissons soumis au droit de circulation ou de consommation  la taxe sur la valeur ajoutée est
+acquittée au lieu et au moment où est levé le titre de mouvement comportant paiement du droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Modifié par**:
+
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 29 () JORF 30 décembre 1978
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 49 (P) JORF 30 décembre 1978
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 33 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 36 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+
 
 ###### Article 35
 
@@ -7641,32 +7749,6 @@ commercial.
 
 ##### BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*.
 
-###### Article 2
-
-Les établissements de banque ou de crédit effectuant des prêts à moyen ou à long terme  ainsi que les sociétés autorisées à
-faire des opérations de crédit foncier sont admis à constituer en franchise d'impôt sur le revenu ou d'impôt sur les sociétés
-dans les conditions prévues aux articles 3, 3 bis et 4, une provision destinée à faire face aux risques particuliers
-afférents à ces prêts ou opérations.
-
-Il ne peut être constitué de provision pour les crédits dont le risque n'incombe pas à l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 3
-	  - CGIAN4 3 bis
-	  - CGIAN4 4
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 2 bis (P)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 3
 
 Pour les exercices clos avant le 22 septembre 1972, la dotation annuelle de la provision prévue à l'article 2 peut atteindre
@@ -8646,36 +8728,6 @@ perceptions forfaitaires prévues à l'article 1er  troisième alinéa  de la lo
 
 ##### CALCUL DE LA TAXE
 
-###### Article 30
-
-1. Pour l'application de l'article 279-a du code général des impôts la base d'imposition au taux réduit de la taxe sur la
-valeur ajoutée [*TVA*] est constituée par les trois quarts du prix de pension ou de demi-pension.
-
-2. Pour l'application du 1, les prix de pension et de demi-pension sont diminués  le cas échéant  de la fraction
-représentative de prestations autres que la nourriture et le logement.
-
-3. Les villages de vacances agréés visés à l'article 279-a du code général des impôts sont ceux qui ont fait l'objet d'une
-décision de classement en application des dispositions du décret no 68-476 du 25 mai 1968.
-
-4. Le taux réduit de la taxe sur la valeur ajoutée est applicable dans les conditions prévues aux 1 et 2, aux opérations
-réalisées à compter de la date de la décision de classement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 279 a
-	  - Décret n°68-476 1968-05-25
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D421-1 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 31 A
 
 Sont considérés comme des produits de pâtisserie fraîche les produits alimentaires composés :
@@ -8708,44 +8760,6 @@ Alcools dans une proportion déterminante.
 
 
 ##### OBLIGATIONS DES REDEVABLES.
-
-###### Article 32
-
-a. Sous réserve des dispositions propres aux entreprises étrangères qui n'ont pas d'établissement en France et des
-dérogations prévues à l'article 33, les déclarations prescrites par les articles 286 et 287-1 du code général des impôts
-doivent être souscrites par les redevables de la taxe sur la valeur ajoutée  pour l'ensemble des opérations qu'ils réalisent
-autres que les importations  auprès du service des impôts auquel doit parvenir leur déclaration de bénéfice en application de
-l'article 172 du code général des impôts.
-
-b. Toutefois  les déclarations souscrites par des personnes qui réalisent des opérations soumises à la taxe sur la valeur
-ajoutée [*TVA*] à titre occasionnel doivent être déposées auprès du service dans le ressort duquel se trouve le lieu où sont
-accomplies les opérations.
-
-c. Lorsqu'elles sont redevables de la taxe sur la valeur ajoutée en raison des achats qu'elles effectuent  les personnes non
-habituellement assujetties par ailleurs à ladite taxe doivent souscrire ces déclarations auprès du service du lieu de
-destination des produits achetés.
-
-Toutefois  pour les achats de boissons soumis au droit de circulation ou de consommation  la taxe sur la valeur ajoutée est
-acquittée au lieu et au moment où est levé le titre de mouvement comportant paiement du droit.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 172
-	  - CGI 286
-	  - CGI 287 1
-	  - CGIAN4 33
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 33 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 36 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 36
 
@@ -8919,28 +8933,36 @@ les départements de la Guadeloupe  de la Martinique et de la Réunion peut avoi
 ajoutée  est fixée ainsi qu'il suit :
 
 NUMEROS DU TARIF             DESIGNATION DES PRODUITS    des droits de douane                    ------------
-d'importation           --------        Ex 15-07 ex D       Huile de lin.
+d'importation           --------        Ex 15-07 D          Huile de lin.
 
-25-06            Sables naturels de toutes espèces.
+25-05            Sables naturels de toutes espèces.
 
-Ex 25-13 A          Pierre ponce.
+Ex 25-13            Pierre ponce.
 
 25-14            Ardoise brute, refendue, dégrossie ou                              simplement débitée par sciage.
 
-Ex 25-15 A et B     Marbres, traversins et autres pierres                              calcaires d'une densité apparente
+Ex 25-15            Marbres, travertins et autres pierres                              calcaires d'une densité apparente
 supérieure ou égale à 2,5 ; albâtre.
 
 25-16            Granit, porphyre, basalte, grès et autres                              pierres de taille ou de construction
 bruts, dégrossis ou simplement débités                              par sciage.
 
-Ex 25-17             Silex ; pierres concassées, macadam et                            tarmacadam, cailloux et graviers des
-types                            généralement utilisés pour l'empierrement                            des routes et des voies
-ferrées, ballast,                            bétonnage ; galets, granulés, éclats et                            poudres des
-pierres des n° 25-15 et 25-16.          25-20             Gypse, anhydrite et plâtres.
+Ex 25-17             Cailloux et pierres concassées (même                             traités thermiquement), graviers,
+macadam                             et tarmacadam, des types généralement                             utilisés pour le
+bétonnage et                             pour l'empierrement des routes,                             des voies ferrées ou
+autresballasts ;
+
+silex et galets, même traités                             thermiquement ; granulés et éclats
+(même traités thermiquement) et poudres                             des pierres des n° 25-15 et 25-16.
+
+25-20             Gypse, anhydrite ; plâtres, même colorés                            ou additionnés de faibles quantités
+d'accélérateurs ou de retardateurs, mais                            à l'exclusion des plâtres spécialement
+préparés pour l'art dentaire.
 
 25-21             Castines et pierres à chaux ou à ciment.
 
-25-22             Chaux ordinaire (vive ou éteinte) et chaux                             hydraulique.
+25-22             Chaux ordinaire (vive ou éteinte) ; chaux                             hydraulique, à l'exclusion de l'oxyde
+et de l'hydroxyde de calcium.
 
 25-23             Ciments hydrauliques, y compris les                             ciments non pulvérisés, dits "clinkers",
 même colorés.
@@ -8954,12 +8976,11 @@ Ex 27-08             Brai.
 
 schistes et sables bitumeux ; roches                             asphaltiques.
 
-Ex 27-16 A                 Mastics bitumeux autres.
+Ex 27-16                Mastics bitumeux.
 
-Ex 28-19                 Oxyde de zinc (blanc de zinc).
+Ex 28-19                Oxyde de zinc (blanc de zinc).
 
-Ex 28-27                 Minium et mine-orange. Chapitre 31                 Engrais et tous produits destinés à être
-utilisés comme engrais.
+Ex 28-27                Minium et mine-orange. Chapitre 31                Engrais.
 
 32-07                 Autres matières colorantes ; produits                              inorganiques du genre de ceux
 utilisés                              comme "luminophores". Ex 32-09 A                  Pigments broyés, vernis, peintures.
@@ -8985,9 +9006,9 @@ Ex 40-11 B             Chambres à air et pneumatiques, pour                    
 
 Ex 44-09                 Pieux et piquets en bois, appointés,                               non sciés longitudinalement.
 
-44-11                 Plaques pour constructions et pâte à                               papier, en bois défibrés ou en
-végétaux                               divers défibrés, même agglomérés avec                               des résines
-naturelles ou artificielles                               ou d'autres liants similaires.
+44-11                 Panneaux de fibres de bois ou d'autres                               matières végétales, même
+agglomérées                               avec des résines naturelles ou                               artificielles ou
+d'autres liants                               organiques.
 
 Ex 44-12                 Laine (paille ou fibre) de bois destinée                               à la construction.
 
@@ -8995,9 +9016,8 @@ Ex 44-12                 Laine (paille ou fibre) de bois destinée              
 rabotés,                               rainés, bouvetés, languetés,                               feuillurés, chanfreinés ou
 similaires.
 
-44-14                 Feuilles de placage en bois, sciées,                              tranchées ou déroulées, d'une
-épaisseur                               égale ou inférieure à 5 millimètres,                               même renforcées
-sur une face de papier                               ou de tissu.
+44-14                 Feuilles de placage en bois, pour                              contreplaqués, d'une épaisseur
+égale ou inférieure à 5 millimètres.
 
 44-15 à 44-18             Panneaux et tous articles visés aux                               numéros ci-contre.
 
@@ -9005,15 +9025,15 @@ Ex 44-19                Baguettes et moulures en bois pour                      
 
 44-23                Ouvrages de menuiserie et pièces de                               charpente pour bâtiments et
 constructions, y compris les panneaux                               pour parquets et les constructions
-démontables en bois.
+préfabriqués en bois.
 
 Ex 44-28 D              Lattis en bois ou roseau (dits "lattis                               armés") ; treillages de clôture.
 
 Ex 45-04             Panneaux, plaques, briques, douelles,                               carreaux et dalles, en liège
 aggloméré,                               mi-ouvré.
 
-Ex 48-07             Papiers et crtons goudronnés, bitumés ou                               asphaltés, avec ou sans armure
-textile.
+Ex 48-07             Papiers et cartons goudronnés, bitumés                             ou asphaltés, avec ou sans armure
+textile
 
 68-01             Pavés, bordures de trottoirs et dalles                               de pavage en pierres naturelles
 (autres                               que l'ardoise).
@@ -9027,26 +9047,25 @@ Ex 68-03            Ardoises pour toitures ou pour façades.
 de bois, paille, copeaux ou déchets de                              bois, agglomérés avec du ciment, du
 plâtre ou d'autres liants minéraux.
 
-68-10           Ouvrage en plâtre ou en compositions à                             base de plâtre.
+68-10            Ouvrage en plâtre ou en compositions à                             base de plâtre.
 
 68-11           Ouvrages en ciment, en béton ou en pierre                            artificielle, même armés, y compris les
 ouvrages en ciment de laitier ou en                            "granito".
 
 68-12           Ouvrages en amiante-ciment,                            cellulose-ciment et similaires.
 
-69-01           Briques, dalles, carreaux et autres pièces                            calorifuges en terres d'infusoires,
-kieselgur, farines siliceuses, fossiles et                            autres terres siliceuses analogues.
+69-01           Briques, dalles, carreaux et autres pièces                            calorifuges en farines siliceuses,
+fossiles et autres terres siliceuses                            analogues (kieselgur, tripolite,
+diatomite, etc.).
 
-69-02           Briques, dalles, carreaux et autres pièces                            analogues de construction,
-réfractaires.
-
-69-04           Briques de construction (y compris les                            hourdis, cache-poutrelles et éléments
-similaires).
+69-02            Briques, dalles, carreaux et autres                            pièces analogues de construction,
+réfractaires. 69-04           69-04            Briques de construction (y compris                            les hourdis,
+cache-poutrelles et                            éléments similaires).
 
 69-05           Tuiles, ornements architectoniques                            (corniches, frises, etc.) et autres
 poteries de bâtiment (mitres, boisseaux,                            etc.).
 
-69-06          Tuyaux, raccords et autres pièces pour                           canalisation et usages similaires.
+69-06          Tuyaux, raccords et autres pièces pour                           canalisations et usages similaires.
 
 69-07          Carreaux, pavés et dalles de pavement ou de                           revêtement, non vernissés ni émaillés.
 
@@ -9072,7 +9091,7 @@ verre dit multicellulaire ou verre mousse                           en blocs, pa
 
 Ex 70-20 A        Fibres non textiles (verrofibre) destinées                           à la construction.
 
-Ex 73-01 à 73-19     Fers, fontes et aciers des catégories                           indiquées à ces numéros et destinés
+Ex 73-01 à Ex 73-19  Fers, fontes et aciers des catégories                           indiquées à ces numéros et destinés
 uniquement à la construction.
 
 73-20          Accessoires de tuyauterie en fonte, fer ou                           acier (raccords, coudes, joints,
@@ -9081,9 +9100,10 @@ manchons,                           brides, etc.).
 73-21          Constructions, même incomplètes, assemblées                           ou non, et parties de constructions,
 etc.,                           en fonte, fer ou acier.
 
-73-22          Réservoirs, foudres, cuves et autres                           récipients analogues, pour toutes matières,
-en fonte, fer ou acier, d'une contenance                           supérieure à 300 litres, sans dispositifs
-mécaniques ou thermiques, même avec                           revêtement intérieur ou calorifuge.
+73-22          Réservoirs, foudres, cuves et autres                           récipients analogues, pour toutes matières
+(à l'exclusion des gaz comprimés ou                           liquéfiés), en fonte, fer ou acier d'une
+contenance supérieure à 300 litres,                           sans dispositifs mécaniques ou
+thermiques, même avec revêtement                           intérieur ou calorifuge.
 
 73-25          Câbles, cordages, tresses, élingues et                           similaires, en fils de fer ou d'acier, à
 l'exclusion des articles isolés pour                           l'électricité.
@@ -9091,20 +9111,21 @@ l'exclusion des articles isolés pour                           l'électricité.
 73-26          Ronces artificielles ; torsades, barbelées                           ou non, en fil ou en feuillard de fer ou
 d'acier.
 
-73-27          Toiles métalliques, grillages et treillis,                           en fil de fer ou d'acier, tôle ou bande
-déployée en fer et en acier.
+73-27          Toiles métalliques, grillages et treillis,                           en fil de fer ou d'acier, tôles ou bandes
+déployées en fer et en acier.
 
 73-29          Chaînes, chaînettes et leurs parties, en                           fonte, fer ou acier.
 
-73-31 A et ex B     Pointes, clous, crampons appointés, agrafes                           ondulées et biseautées, pitons et
+Ex 73-31          Pointes, clous, crampons appointés, agrafes                           ondulées et biseautées, pitons et
 crochets                           en fer, fonte ou acier, même avec tête                           en autre matière à
-l'exclusion de ceux avec                           tête en cuivre. Ex 73-32 A et B          Tire-fond (de voies et autres) ;
-autres                           articles de boulonnerie et de visserie.
+l'exclusion de ceux avec                           tête en cuivre.
 
-Ex 73-38              Articles sanitaires en fonte, fer ou acier,                           destinés à la construction
-(éléments fixes                           uniquement).
+73-32          Tire-fond (de voies et autres) ; autres                           articles de boulonnerie et de visserie.
 
-Ex 73-40              Ouvrages en fontes pour canalisations ;
+Ex 73-38          Articles sanitaires en fonte, fer ou acier,                           destinés à la construction (éléments
+fixes                           uniquement).
+
+Ex 73-40          Ouvrages en fontes pour canalisations ;
 
 réservoirs, foudres, cuves et autres                           récipients analogues, du genre de ceux
 repris au n° 73-22, d'une contenance égale                           ou inférieure à 300 litres, destinés à la
@@ -9124,7 +9145,7 @@ etc.).
 74-10            Câbles, cordages, tresses et similaires,                           en fils de cuivre, à l'exclusion des
 articles isolés pour l'électricité.
 
-74-11            Toiles métalliques (y compris les toiles                           continues ou sans fin), grillages et
+Ex 74-11            Toiles métalliques (y compris les toiles                           continues ou sans fin), grillages et
 treillis, en fils de cuivre ; treillis                           d'une seule pièce, en cuivre, exécutés à
 l'aide d'une tôle ou d'une bande incisée                           et déployée.
 
@@ -9137,14 +9158,15 @@ Ex 75-04 A            Tubes, tuyaux (y compris leurs ébauches) et              
 nickel                           contenant plus de 10 % et moins de 50 % de                           nickel, destinés à la
 construction ou à                           l'équipement des lignes et centrales                           électriques.
 
-75-04 B            Accessoires de tuyauterie en nickel, allié                           ou non.
+75-04 B            Accessoires de tuyauterie.
 
 Ex 75-06 B            Toiles et tissus, grillages, treillis, y                           compris les treillis d'une seule
-pièce                           exécutés à l'aide d'une tôle ou d'une band                           incisée et déployée.
+pièce                           exécutés à l'aide d'une tôle ou d'une                           bande incisée et déployée.
 
 Ex 76-02              Barres, profilés et fils de section pleine,                           en aluminium allié.
 
-Ex 76-03              Tôles, planches, feuilles et bandes en                           aluminium allié.
+Ex 76-03              Tôles, planches, feuilles et bandes en                           aluminium allié d'une épaisseur de
+plus                           de 0,20 millimètres.
 
 Ex 76-06              Tubes, tuyaux et barres creuses en aluminium                           allié.
 
@@ -9155,12 +9177,13 @@ brides                           etc.).
 en                           aluminium ; tôles, barres, profilés, tubes                           etc., en aluminium,
 préparés en vue de leur                           utilisation dans la construction.
 
-76-09              Réservoirs, foudres, cuves et autres                           récipients analogues, pour toutes matières,
-en aluminium, d'une contenance supérieure                           à 300 litres, sans dispositifs mécaniques
-ou thermiques, même avec revêtement                           intérieur ou calorifugé.
+76-09              Réservoirs, foudres, cuves et autres                           récipients analogues, pour toutes matières
+(à l'exclusion des gaz comprimés ou                           liquéfiés), en aluminium, d'une contenance
+supérieure à 300 litres, sans dispositifs                           mécaniques ou thermiques, même avec
+revêtementintérieur ou calorifuge.
 
 76-12              Câbles, cordages, tresses et similaires,                           en fils d'aluminium, à l'exclusion des
-articles isolés pour l'élctricité.
+articles isolés pour l'électricité.
 
 Ex 76-16 D             Toiles métalliques, grillages et treillis                           en fils d'aluminium ; treillis
 d'une seule                           pièce, en aluminium, exécutés à l'aide                           d'une tôle ou d'une
@@ -9179,7 +9202,7 @@ Ex 79-03 A           Planches et feuilles en zinc ou en alliage                 
 79-04             Tubes et tuyaux (y compris leurs ébauches),                           barres creuses et accessoires de
 tuyauterie, en zinc.
 
-79-06             Gouttières, faîtages, lucarnes et autres                           ouvrages façonnés, en zinc, pour le
+79-06 A           Gouttières, faîtages, lucarnes et autres                           ouvrages façonnés, en zinc, pour le
 bâtiment.
 
 Ex 79-06             Toiles, tissus, grillages, treillis, y                           compris les treillis d'une seule pièce
@@ -9201,8 +9224,7 @@ utilisés                           dans la construction.
 
 Ex 84-01           Chaudières de locomotives ; chaudières à                           vapeur autres.
 
-Ex 84-02           Appareils auxiliaires pour les générateurs                           de vapeur d'eau repris au n° 84-01 A
-et C.
+Ex 84-02           Appareils auxiliaires pour les générateurs                           de vapeur d'eau repris au n° 84-01.
 
 Ex 84-03           Gazogènes et générateurs de gaz à l'eau ou                           de gaz à l'air ; générateurs
 d'acétylène et                           générateurs similaires.
@@ -9211,11 +9233,10 @@ d'acétylène et                           générateurs similaires.
 
 84-05           Machines à vapeur d'eau ou autres vapeurs,                           séparées de leurs chaudières.
 
-84-06 A, C et ex D    Moteurs pour l'aviation et autres moteurs à                           explosion ou à combustion interne
-et leurs                           parties et pièces détachées.
+Ex 84-06 A, C et D      Moteurs pour l'aviation et autres moteurs à                           explosion ou à combustion
+interne et leurs                           parties et pièces détachées.
 
-84-07           Roues hydrauliques, turbines et autres                           machines motrices hydrauliques, y compris
-leurs régulateurs.
+84-07           Roues hydrauliques, turbines et autres                           machines motrices hydrauliques.
 
 Ex 84-08           Moteurs à vent ou éoliens et moteurs à air                           (ou à autre gaz) comprimé et leurs
 parties                           et pièces détachées.
@@ -9233,7 +9254,7 @@ Ex 84-11 A         Pompes, moto-pompes et turbo-pompes à air et                
 compresseurs et                           turbo-compresseurs d'air et d'autres gaz, à                           usage
 industriel ou agricole.
 
-84-11 C         Ventilateurs (autres que ceux du n° 85-06),                           leurs parties et pièces détachées.
+84-11 C         Ventilateurs et similaires.
 
 84-12 à 84-16       Tous appareils repris aux numéros ci-contre,                           à l'exclusion des appareils
 frigorifiques                           visés au n° 84-15 de 500 kilogrammes et                           moins.
@@ -9244,7 +9265,7 @@ pour                           la production du froid.
 Ex 84-17 F         Dispositifs aérothermes et dispositifs                           aéroréfrigérants pour le conditionnement
 de                           l'air ; séchoirs.
 
-84-18           Machines et appareils centrifuges ;
+84-18           Centrifugeuses et essoreuses centrifuges ;
 
 appareils pour la filtration ou l'épuration                           des liquides ou des gaz.
 
@@ -9262,27 +9283,29 @@ extincteurs                           chargés ou non.
 Machines et appareils repris aux numéros                           ci-contre, à usage industriel, à
 l'exclusion de ceux à usage domestique.
 
-84-43 et 84-44        Convertisseurs, poches de coulée,                           lingotières, machines à couler, laminoirs,
-trains et cylindres de laminoirs.
+84-43 à 84-48         Machines et pièces détachées reprises aux                           numéros ci-contre.
 
-84-45 à 84-48         Machines-outils et leurs pièces détachées.
-
-84-49            Outils et machines-outils pneumatiques ou                           à moteur incorporé (autre
-qu'électrique),                           pour emploi à la main.
+84-49            Outils et machines-outils pneumatiques ou                           à moteur autre qu'électrique incorporé
+pour emploi à la main.
 
 84-50            Machines et appareils aux gaz pour le                           soudage, le coupage et la trempe
 artificielle.
 
-84-53            Machines à statistiques et similaires à                           cartes perforées.
+Ex 84-53            Machines à statistiques et similaires à                           cartes perforées.
 
 84-56 et 84-57         Machines et appareils repris aux numéros                           ci-contre.
 
 Ex 84-59            Machines, appareils et engins mécaniques,                           non dénommés ni compris dans d'autres
 positions du chapitre 84, à usage                           industriel ou agricole.
 
-84-60            Châssis de fonderie, moules et coquilles.
+84-60            Châssis de fonderie, moules et coquilles,                           des types utilisés pour les métaux
+(autres                           que les lingotières), les carbures                           métalliques, le verre, les
+matières                           minérales (pâtes céramiques, béton,                           ciment, etc.), le caoutchouc
+et les                           matières plastiques artificielles.
 
-84-61            Articles de robinetterie et autres organes                           similaires.
+84-61            Articles de robinetterie et autres organes                           similaires (y compris les détenteurs et
+les vannes thermostatiques) pour                           tuyauteries, chaudières, réservoirs, cuves
+et autres contenants similaires.
 
 84-62            Roulements de tous genres.
 
@@ -9299,12 +9322,20 @@ différente pour moteurs des véhicules                           repris aux n°
 
 Ex 84-65             Parties et pièces détachées de machines,                           d'appareils et d'engins mécaniques,
 non                           dénommées ni comprises dans d'autres                           positions du chapitre 84, à
-usage                           industriel ou agricole.
+usage                           industriel ou agricole ne comportant pas                           de connexions électriques,
+de parties,                           isolées électriquement, de bobinages, de                           contacts ou d'autres
+caractéristiques                           électriques.
 
-85-01             Machines génératrices, moteurs et                           convertisseurs rotatifs, transformateurs et
-convertisseurs statiques ; bobines à                           réaction et selfs.
+85-01             Machines génératrices, moteurs et                           convertisseurs rotatifs ou statiques
+statiques (redresseurs, etc.) ;
 
-85-02             Appareils et dispositifs repris au numéro                           ci-contre.
+transformateurs ; bobines de réactance                           et selfs.
+
+85-02             Electro-aimants ; aimants permanents,                           magnétisés ou non ; plateaux, mandrins et
+autres dispositifs magnétiques ou                           électromagnétiques similaires de fixation ;
+accouplements, embrayages, variateurs de                           vitesse et freins électromagnétiques ;
+
+têtes de levage électromagnétiques.
 
 85-04           Accumulateurs électriques.
 
@@ -9313,7 +9344,7 @@ main.         85-11 A          Fours électriques industriels ou de             
 appareils pour                           le traitement thermique des matières par                           induction ou par
 pertes diélectriques.
 
-85-11 B          Machines et appareils à souder, braser ou                           couper, pour toutes matières.
+85-11 B          Machines et appareils électriques ou à laser                           à souder, braser ou couper.
 
 Ex 85-15 A          Appareils émetteurs et appareils émetteurs-                           récepteurs de radiotéléphonie,
 radiotélégraphie, radio-diffusion et                           télévision.
@@ -9331,11 +9362,9 @@ Ex 85-17            Appareils électriques de signalisation                     
 
 85-19            Appareillage pour la coupure, le                           sectionnement, la protection, le
 branchement ou la connexion des circuits                           électriques (interrupteurs, commutateurs,
-relais, coupe-circuits, parafoudres, prises                           de courant, boîtes de jonction, etc.) ;
-
-résistances non chauffantes (y compris les                           lampes à résistance), potentiomètres et
-rhéostats ; régulateurs automatiques de                           tension à commutation par résistance, par
-inductance, à contacts vibrants ou à                           moteur ; tableaux de commande ou de
+relais, coupe-circuits, parafoudres,                           étaleurs d'onde, prises de courant,
+douilles pour lampes, boîtes de jonction,                           etc.) ; résistances non chauffantes,
+potentiomètres et rhéostats ; circuits                           imprimés ; tableaux de commande ou de
 distribution.
 
 85-23            Fils, tresses, câbles (y compris les                           câbles coaxiaux), bandes, barres et
@@ -9343,7 +9372,9 @@ similaires, isolés pour l'électricité                           (même laqué
 munis ou non de pièces de connexion.
 
 85-24            Pièces et objets en charbon ou en graphite,                           avec ou sans métal, pour usages
-électriques                           ou électrotechniques.
+électriques                           ou électrotechniques tels que balais pour                           machines
+électriques, charbons pour lampes,                           piles ou microphones, électrodes pour
+fours, appareils de soudage ou                           installations d'électrolyse, etc..
 
 85-25            Isolateurs en toutes matières.
 
@@ -9355,7 +9386,7 @@ noyées dans la masse,                           pour machines, appareils et ins
 85-27            Tubes isolateurs et leurs pièces de                           raccordement, en métaux communs, isolés
 intérieurement.
 
-85-28           Parties et pièces détachées électrique de                           machines et appareils, non dénommées ni
+85-28           Parties et pièces détachées électriques de                           machines et appareils, non dénommées ni
 comprises dans d'autres positions du                           chapitre 85.
 
 Chapitre 86         Véhicules et matériel pour voies ferrées,                           appareils de signalisation non
@@ -9379,30 +9410,41 @@ ex A,                           87-02 B et 87-03 ci-dessus.
 
 Ex 87-14 B           Remorques pour le transport des                           marchandises.
 
-88-02 et 88-03 B       Aérodynes, parties et pièces détachées                           d'aérodynes.
+Ex 88-02 et 88-03 B    Aérodynes, parties et pièces détachées                           d'aérodynes.
 
 89-05            Engins flottants divers.
 
-90-14            Tous instruments et appareils repris à ce                           numéro.
+90-14            Instruments et appareils de géodésie, de                           topographie, d'arpentage, de nivellement,
+de photogrammétrie et d'hydrographie, de                           navigation (maritime, fluviale ou aérienne)
+de météorologie, d'hydrologie, de                           géophysique ; boussoles, télémètres.
 
 90-22            Machines et appareils d'essais mécaniques.
 
-90-24            Tous appareils et instruments repris à ce                           numéro.
+90-24            Appareils et instruments pour la mesure, le                           contrôle ou la régulation des fluides
+gazeux ou liquides, ou pour le contrôle                           automatique des températures, tels que
+manomètres, thermostats, indicateurs de                           niveau, régulateurs de tirage, débitmètres,
+compteurs de chaleur, à l'exclusion des                           appareils et instruments du n° 90-14.
 
 Ex 90-26            Compteurs d'eau ; compteurs d'électricité.
 
-Ex 90-28            Instruments et appareils pour la mesure, la                           vérification et le contrôle de
-grandeurs                           électriques ; instruments et appareils dont                           la méthode
-opérationnelle a son principe                           dans un phénomène électrique variable avec
-le facteur recherché.
+Ex 90-28            Instruments et appareils électriques ou                           électroniques de mesure, de
+vérification et                           de contrôle.
 
 II. La liste des produits cités au I est complétée par le pain    (ex 19-07) et le riz (10-06).
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Modifié par**:
+
+	  - Arrêté 1981-09-15 art. 1 JORF 20 septembre 1981
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 1er juillet 1981
 
 
 ###### Article 50 duodecies A
@@ -9463,7 +9505,7 @@ l'exploitation agricole.
 
 1. La liste des matériels d'équipement destinés à l'industrie hôtelière et touristique  dont l'importation dans les
 départements de la Guadeloupe  de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur
-ajoutée  est fixée ainsi qu'il suit ... :
+ajoutée  est fixée ainsi qu'il suit     :
 
 NUMEROS DU TARIF                     DESIGNATION DES PRODUITS  des droits de douane                       -------------
 d'importation      ---------     Ex 40-06                Caoutchouc naturel ou synthétique, non
@@ -9471,8 +9513,7 @@ vulcanisé, présenté sous d'autres formes ou                         états (t
 
 articles en caoutchouc naturel ou synthétique                         non vulcanisé (fils textiles imprégnés ;
 
-adhésifs sur tout support, même sur support                         de caoutchouc naturel ou synthétique,
-vulcanisé ; disques, rondelles, etc.).
+adhésifs ; disques, rondelles, etc.).
 
 Ex 40-07                Fils et cordes de caoutchouc vulcanisé,                       non durci, même recouverts de
 textiles ; fils                       textiles imprégnés ou recouverts de caoutchouc                       vulcanisé, non
@@ -9488,7 +9529,7 @@ Ex 42-05          Autres ouvrages en cuir naturel ou en                       su
 etc.).
 
 Ex 44-22          Futailles, cuves, baquets, seaux et autres                       ouvrages de tonnellerie, en bois, et leurs
-parties autres que celles du n° 44-08, montés.
+parties montés.
 
 44-24          Ustensiles de ménage en bois.
 
@@ -9515,7 +9556,7 @@ Ex 48-11         Papiers de tenture, lincrusta et                       vitrauph
 (bourrette).
 
 51-04         Tissus de fibres textiles synthétiques ou                       artificielles continues (y compris les tissus
-de monofils, de lames ou de formes similaires                       des n° 51-01 ou 51-02).
+de monofils, ou de lames des n° 51-01 ou                       51-02).
 
 52-02         Tissus de fils de métal, de filés métalliques                       ou de fils textiles métallisés du n° 52-01
 pour                       l'habillement, l'ameublement et usages                       similaires.
@@ -9532,7 +9573,7 @@ pour                       l'habillement, l'ameublement et usages               
 
 55-09         Autres tissus de coton.
 
-56-07         Tissus de fibres textiles synthétiques ou                       artificielles discontinues.
+56-07         Tissus de fibres textiles synthétiques et                       artificielles discontinues.
 
 57-10         Tissus de jute.
 
@@ -9552,7 +9593,7 @@ n° 55-08 et 58-05.
 
 58-08         Tulles et tissus à mailles nouées (filet),                       unis.
 
-58-09         Tulles, guipures-bobinots, tissus à mailles                       nouées (filet), façonnés ; dentelles (à la
+58-09         Tulles, tulles-bobinots, tissus à mailles                       nouées (filet), façonnés ; dentelles (à la
 main ou à la mécanique) en pièces, en bandes                       ou en motifs.
 
 58-10         Broderies en pièces, en bandes ou en motifs.
@@ -9562,10 +9603,10 @@ main ou à la mécanique) en pièces, en bandes                       ou en moti
 couvre-parquets consistant en un enduit                       appliqué sur support de matières textiles,
 découpés ou non.
 
-59-11         Tissus caoutchoutés (autres que de bonnetterie)         59-12         Autres tissus imprégnés ou enduits ;
-toiles                       peintes pour décors de théâtre, fonds d'atelie                       ou usages analogues.
+59-11         Tissus caoutchoutés (autres que de bonneterie)         59-12         Autres tissus imprégnés ou enduits ;
+toiles                       peintes pour décors de théâtre, fonds                       d'atelier ou usages analogues.
 
-59-13         Tissus (autres que de bonneterie) élastiques                       élastiques formés de matières textiles
+59-13         Tissus (autres que de bonneterie) élastiques                       formés de matières textiles
 associées à des fils de caoutchouc.
 
 59-15         Tuyaux pour pompes et tuyaux similaires, en                       matières textiles, même avec armatures ou
@@ -9589,77 +9630,79 @@ Ex 62-01          Couvertures :
 
 - B. Autres.
 
-62-02     Linge de lit, de table, de toilette, d'office                       ou de cuisine ; rideaux, vitrages et autres
-articles d'ameublement.
+62-02          Linge de lit, de table, de toilette, d'office                       ou de cuisine ; rideaux, vitrages et
+autres                       articles d'ameublement.
 
-Ex 62-04     Bâches, stores d'extérieur, tentes et articles                       de campement.
+Ex 62-04        Bâches, stores d'extérieur, tentes et articles                       de campement.
 
-66-01     Parapluies, parasols et ombrelles, y compris                       les parapluies-cannes et les parasols-tentes et
-similaires.
+66-01        Parapluies, parasols et ombrelles, y compris                       les parapluies-cannes et les parasols-tentes
+et                       similaires.
 
-Ex 66-03     Parties, garnitures et accessoires pour                       articles du n° 66-01 ;
+Ex 66-03        Parties, garnitures et accessoires pour                       articles du n° 66-01 ;
 
 - Ex C. Mâts ou manches.
 
-68-07     Laines de laitier, de scories, de roche et                       autres laines minérales similaires ; vermiculit
-expansée, argile expansée, et produits minéraux                       similaires expansés ; mélanges et ouvrages en
-matières minérales à usages calorifuges ou                       acoustiques, à l'exclusion de ceux des n° 68-12
-68-13 et du chapitre 69.
+68-07        Laines de laitier, de scories, de roche et                       autres laines minérales similaires ;
 
-69-09     Appareils et articles pour usages chimiques et                       autres usages techniques ; auges, bacs et
+vermiculite expansée, argile expansée,                       et produits minéraux similaires expansés ;
+
+mélanges et ouvrages en matières minérales                       à usages calorifuges ou acoustiques,                       à
+l'exclusion de ceux des n° 68-12 et                       68-13 du chapitre 69.
+
+68-07        Appareils et articles pour usages chimiques et                       autres usages techniques ; auges, bacs et
 autres récipients similaires pour l'économie                       rurale ; cruchons et autres récipients
 similaires de transport ou d'emballage.
 
-69-11     Vaisselle et articles de ménage ou de toilette                       en porcelaine.
+69-11         Vaisselle et articles de ménage ou de toilette                       en porcelaine.
 
-69-12     Vaisselle et articles de ménage ou de toilette                       en autres matières céramiques.
+69-12         Vaisselle et articles de ménage ou de toilette                       en autres matières céramiques.
 
-70-08     Glaces ou verres de sécurité, même façonnés,                       consistant en verres trempés ou formés de deux
-ou plusieurs feuilles contre-collées.
+70-08         Glaces ou verres de sécurité, même façonnés,                       consistant en verres trempés ou formés de
+deux                       ou plusieurs feuilles contre-collées.
 
-70-09     Miroirs en verre, encadrés ou non, y compris                       les miroirs rétroviseurs.
+70-09         Miroirs en verre, encadrés ou non, y compris                       les miroirs rétroviseurs.
 
-70-10     Bonbonnes, bouteilles, flacons, bocaux, pots,                       tubes à comprimés et autres récipients
+70-10         Bonbonnes, bouteilles, flacons, bocaux, pots,                       tubes à comprimés et autres récipients
 similaires de transport ou d'emballage, en                       verre ; bouchons, couvercles et autres
 dispositifs de fermeture, en verre.
 
-70-13     Objets en verre pour le service de la table, de                       la cuisine, de la toilette, pour le bureau,
-l'ornementation des appartements ou usages                       similaires, à l'exclusion des articles du
-n° 70-19.
+70-13         Objets en verre pour le service de la table, de                       la cuisine, de la toilette, pour le
+bureau,                       l'ornementation des appartements ou usages                       similaires, à l'exclusion des
+articles du                       n° 70-19.
 
 Ex 71-13 A et B    Articles d'orfèvrerie et leurs parties, en                       métaux précieux ou en plaqués ou doublés
 de                       métaux précieux :
 
 - Autres articles.
 
-73-23     Fûts, tambours, bidons, boîtes et autres                       récipients similaires de transport ou
+73-23         Fûts, tambours, bidons, boîtes et autres                       récipients similaires de transport ou
 d'emballage, en tôle de fer ou d'acier.
 
-73-36     Poêles, calorifères, cuisinières (y compris                       ceux pouvant être utilisés accessoirement
-pour le chauffage central), réchauds, chaudière                       à foyer, chauffe-plats et appareils similaires,
-non électriques, des types servant à des usages                       domestiques, ainsi que leurs parties et pièces
-détachées, en fonte, fer ou acier.
+73-36         Poêles, calorifères, cuisinières (y compris                       ceux pouvant être utilisés accessoirement
+pour le chauffage central), réchauds,                       chaudières à foyer, chauffe-plats                       et
+appareils similaires, non électriques,                       des types servant à des                       usages
+domestiques, ainsi que leurs                       parties et pièces détachées, en                       fonte, fer ou acier.
 
-Ex 73-37     Appareils de chauffage central non électrique                       (chaudières autres que les générateurs de
-vapeur du n° 84-01, calorifères à air chaud et                       radiateurs) et leurs parties, en fonte, fer ou
-acier.
+Ex 73-37         Appareils de chauffage central non électrique                       (chaudières autres que les générateurs
+de                       vapeur du n° 84-01, calorifères à air chaud et                       radiateurs) et leurs parties,
+en fonte, fer ou                       acier.
 
-Ex 73-38     Articles de ménage, d'hygiène et d'économie                       domestique et leurs parties, en fonte, fer ou
-acier.
+Ex 73-38         Articles de ménage, d'hygiène et d'économie                       domestique et leurs parties, en fonte, fer
+ou                       acier.
 
-Ex 73-40     Autres ouvrages en fonte, fer ou acier :
+Ex 73-40         Autres ouvrages en fonte, fer ou acier :
 
 - Ex A et ex B Réservoirs, foudres, cuves et                       autres récipients analogues, du genre de ceux
 repris au n° 73-22, d'une contenance égale ou                       inférieure à 300 litres.
 
 - Ex B Echelles et escabeaux, rayonnages et                       cloisons amovibles ; corbeilles à papier.
 
-74-17     Appareils non électriques de cuisson et de                       chauffage, des types servant à des usages
+74-17         Appareils non électriques de cuisson et de                       chauffage, des types servant à des usages
 domestiques, ainsi que leurs parties et pièces                       détachées, en cuivre.
 
-74-18     Articles de ménage, d'hygiène et d'économie                       domestique et leurs parties, en cuivre.
+74-18        Articles de ménage, d'hygiène et d'économie                       domestique et leurs parties, en cuivre.
 
-Ex 74-19     Autres ouvrages en cuivre :
+Ex 74-19        Autres ouvrages en cuivre :
 
 - Réservoirs, cuves et autres récipients                       analogues d'une contenance égale ou inférieure
 à 300 litres, sans dispositifs mécaniques ou                       thermiques, même avec revêtement intérieur
@@ -9667,81 +9710,69 @@ ou calorifuge.
 
 - Autres.
 
-Ex 75-06     Autres ouvrages en nickel :
+Ex 75-06 B      Articles de ménage, d'hygiène et d'économie                       domestique en nickel.
 
-- Ex B Articles de ménage, d'hygiène et                       d'économie domestique.
+76-15        Articles de ménage, d'hygiène et d'économie                       domestique et leurs parties, en aluminium.
 
-Ex 76-15     Articles de ménage, d'hygiène et d'économie                       domestique et leurs parties, en aluminium :
+Ex 76-16 D      Récipients du genre de ceux visés au n° 76-09,                       d'une contenance de 300 litres au moins,
+en                       aluminium.
 
-- Réchauds et appareils similaires pour la                       cuisson et le chauffage.
-
-- Autres.
-
-Ex 76-16     Autres ouvrages en aluminium :
-
-- Ex D Récipient du genre de ceux visés au                       n° 76-09, d'une contenance de 300 litres au
-moins.
-
-78-03     Tables, feuilles et bandes, en plomb, d'un                       poids au mètre carré de plus de 1.700
+78-03         Tables, feuilles et bandes, en plomb, d'un                       poids au mètre carré de plus de 1.700
 kilogrammes.
 
-78-04     Feuilles et bandes minces, em plomb (même                       gauffrées, découpées, perforées, revêtues,
+78-04         Feuilles et bandes minces, em plomb (même                       gauffrées, découpées, perforées, revêtues,
 imprimées ou fixées sur papier, carton,                       matières plastiques artificielles ou supports
 similaires), d'un poids au mètre carré de                       1.700 kilogrammes et moins (support non
 compris) ; poudres et paillettes de plomb.
 
-80-02     Barres, profilés et fils de section pleine,                       en étain.
+80-02         Barres, profilés et fils de section pleine,                       en étain.
 
-Ex 80-06     Autres ouvrages en étain :
+Ex 80-06         Autres ouvrages en étain :
 
 - Articles de ménage, d'hygiène, d'économie                       domestique et leurs parties.
 
-Ex 82-04     Autres outils et outillage à main, à                       l'exclusion des articles repris dans d'autres
+Ex 82-04         Autres outils et outillage à main, à                       l'exclusion des articles repris dans d'autres
 positions du présent chapitre ; enclumes,                       étaux, lampes à souder, forges portatives,
-meules montées à main ou à pédale et diamants                       de vitriers montés.
+meules avec bâtis à main ou à pédale                       et diamants de vitriers.
 
-82-08     Moulins à café, hache-viande, presse-purée, et                       autres appareils mécaniques des types servant
-à                       des usages domestiques, utilisés pour préparer,                       conditionner, servir, etc., les
-aliments et                       les boissons, d'un poids de 10 kilogrammes au                       moins.
+82-08        Moulins à café, hache-viande, presse-purée, et                       autres appareils mécaniques des types
+servant à                       des usages domestiques, utilisés pour préparer,                       conditionner, servir,
+etc., les aliments et                       les boissons, d'un poids de 10 kilogrammes au                       moins.
 
-Ex 82-09     Couteaux à lame tranchante ou dentelée ;
+Ex 82-09        Couteaux à lame tranchante ou dentelée ;
 
-couteaux non fermants.
+82-12        Ciseaux à doubles branches et leurs lames.
 
-82-12     Ciseaux à doubles branches et leurs lames.
+Ex 82-13        Autres articles de coutellerie (y compris les                       sécateurs, tondeuses, fendoirs,
+couperets,                       hachoirs de bouchers et d'office) ; tondeuses                       à main et leurs pièces
+détachées.
 
-Ex 82-13     Autres articles de coutellerie (y compris les                       sécateurs, tondeuses, fendoirs, couperets,
-hachoirs de bouchers et d'office) ; tondeuses                       à main et leurs pièces détachées.
-
-82-14     Cuillers, louches, fourchettes, pelles à tarte,                       couteaux spéciaux à poisson ou à beurre,
+82-14        Cuillers, louches, fourchettes, pelles à tarte,                       couteaux spéciaux à poisson ou à beurre,
 pinces                       à sucre et articles similaires.
 
-83-03     Coffres-forts, portes et compartiments blindés                       pour chambres fortes, coffrets et cassettes de
-sûreté et articles similaires, en métaux                       communs.
+83-03        Coffres-forts, portes et compartiments blindés                       pour chambres fortes, coffrets et cassettes
+de                       sûreté et articles similaires, en métaux                       communs.
 
-83-04     Classeurs, fichiers, boîtes de classement et                       de triage, porte-copies et autre matériel
+83-04        Classeurs, fichiers, boîtes de classement et                       de triage, porte-copies et autre matériel
 similaire de bureau, en métaux communs, à                       l'exclusion des meubles de bureau du n° 94-03.
 
-Ex 83-07     Appareils d'éclairage, articles de lampisterie                       et de lustrerie, ainsi que leurs parties
+Ex 83-07        Appareils d'éclairage, articles de lampisterie                       et de lustrerie, ainsi que leurs parties
 non                       électriques, en métaux communs, à l'exclusion                       des becs de lampes.
 
-83-14     Plaques indicatrices, plaques-enseignes,                       plaques-réclames, plaques-adresses et autres
+83-14        Plaques indicatrices, plaques-enseignes,                       plaques-réclames, plaques-adresses et autres
 plaques analogues, chiffres, lettres et                       enseignes diverses, en métaux communs.
 
-Ex 84-06     Moteurs à explosion ou à combustion interne,                       à pistons :
+Ex 84-06 B          Propulseurs amovibles, type "hors-bord",                       pour embarcations.
 
-- Ex B Propulseurs amovibles, type "hors-bord",                       pour embarcations.
+Ex 84-06 C          Moteurs pour automobiles et motocycles.
 
-- Ex C Moteurs pour automobiles et motocycles.
-
-84-15     Matériel, machines et appareils pour la                       production du froid, à équipement électrique
+84-15            Matériel, machines et appareils pour la                       production du froid, à équipement électrique
 ou autre.
 
-Ex 84-19     - A et Ex B Machines et appareils à laver la                       vaisselle, avec ou sans dispositif de
-séchage.
+Ex 84-19            Machines et appareils à laver la vaisselle,                       avec ou sans dispositif de séchage.
 
-Ex 84-20     Appareils et instruments de pesage, y compris                       les bascules et balances à vérifier les
-pièces                       usinées, mais à l'exclusion des balances                       sensibles à un poids de 5
+Ex 84-20            Appareils et instruments de pesage, y compris                       les bascules et balances à vérifier
+les pièces                       usinées, mais à l'exclusion des balances                       sensibles à un poids de 5
 centigrammes ou                       moins ; poids pour toutes balances :
 
 - Appareils et instruments de pesage à                       l'exclusion des bascules et balances compteuses
@@ -9750,54 +9781,52 @@ usages spéciaux ; poids pour toutes balances et                       en toutes
 
 - Parties et pièces détachées des appareils et                       instruments ci-dessus.
 
-Ex 84-40    Machines et appareils pour le lavage, le                       nettoyage, le séchage, le blanchiment, la
+Ex 84-40        Machines et appareils pour le lavage, le                       nettoyage, le séchage, le blanchiment, la
 teinture, l'apprêt et le finissage des fils,                       tissus et ouvrages en matières textiles (y
 compris les appareils à lessiver le linge,                       repasser et presser les confections, enrouler,
 plier, couper ou denteler les tissus) :
 
-- Machines et appareils pour le levage, le                       nettoyage, le séchage, le blanchiment, la
+- Machines et appareils pour le lavage, le                       nettoyage, le séchage, le blanchiment, la
 teinture, l'apprêt et le finissage des fils,                       tissus et ouvrages en matières textiles ;
 
 machines et appareils de blanchisserie.
 
-84-41     Machines à coudre (les tissus, les cuirs, les                       chaussures, ect.), y compris les meubles pour
-machines à coudre ; aiguilles pour ces                       machines.
+84-41        Machines à coudre (les tissus, les cuirs, les                       chaussures, etc.), y compris les meubles
+pour                       machines à coudre ; aiguilles pour ces                       machines.
 
-84-51     Machines à écrire ne comportant pas de                       dispositif de totalisation ; machines à
+84-51         Machines à écrire ne comportant pas de                       dispositif de totalisation ; machines à
 authentifier les chèques.
 
-84-52     Machines à calculer, machines à écrire dites                       "comptables", caisses enregistreuses, machines
-à affranchir, à établir les tickets et                       similaires, comportant un dispositif de
-totalisation.
+84-52         Machines à calculer, machines à écrire dites                       "comptables", caisses enregistreuses,
+machines                       à affranchir, à établir les tickets et                       similaires, comportant un
+dispositif de                       totalisation.
 
-84-54     Autres machines et appareils de bureau                       (duplicateurs hectographiques ou à stencils,
+84-54         Autres machines et appareils de bureau                       (duplicateurs hectographiques ou à stencils,
 machines à imprimer les adresses, machines à                       trier, à compter et à encartoucher les pièces
 de monnaie, appareils à tailler les crayons,                       appareils à perforer et à agrafer, etc.).
 
-84-58     Appareils de vente automatiques dont le                       fonctionnement ne repose pas sur l'adresse ou
+84-58        Appareils de vente automatiques dont le                       fonctionnement ne repose pas sur l'adresse ou
 le hasard, tels que distributeurs automatiques                       de timbres-poste, cigarettes, chocolat,
 comestibles, etc..
 
-Ex 85-01    Machines génératrices, moteurs, etc.                       - Groupes électrogènes.
+Ex 85-01        Groupes électrogènes.
 
-85-06    Appareils électromécaniques (à moteur                       incorporé) à usage domestique.
+85-06        Appareils électromécaniques (à moteur                       incorporé) à usage domestique.
 
-85-12    Chauffe-eau, chauffe-bains et thermoplongeurs                       électriques ; appareils électriques pour le
+85-12        Chauffe-eau, chauffe-bains et thermoplongeurs                       électriques ; appareils électriques pour le
 chauffage des locaux et pour autres usages                       similaires ; appareils électrothermiques pour
 la coiffure (sèche-cheveux, appareils à friser,                       chauffe-fers à friser, etc.) ; fers à repasser
 électriques ; appareils électrothermiques pour                       usages domestiques ; résistances chauffantes,
 autres que celles du n° 85-24.
 
-Ex 85-13    Appareils électriques pour la téléphonie et la                       télégraphie par fil, y compris les appareils
-de télécommunication par courant porteur :
+Ex 85-13        Appareils électriques pour la téléphonie et la                       télégraphie par fil, autres que les
+appareils                       de télécommunication par courant porteur.
 
-- B. Autres appareils (y compris les                       téléimprimeurs, émetteurs-récepteurs).
+85-14        Microphones et leurs supports, haut-parleurs et                       amplificateurs électriques de basse
+fréquence.
 
-85-14     Microphones et leurs supports, haut-parleurs et                       amplificateurs électriques de basse
-fréquence,                       y compris les combinaisons de ces appareils                       (appareils d'amplification
-du son).
-
-Ex 85-15     Appareils de transmission et de réception pour                       la radiotéléphonie et la radiotélégraphie ;
+Ex 85-15         Appareils de transmission et de réception pour                       la radiotéléphonie et la
+radiotélégraphie ;
 
 appareils d'émission et de réception pour la                       radiodiffusion et appareils de télévision, y
 compris les récepteurs combinés avec un                       phonographe et les appareils de radioguidage,
@@ -9805,52 +9834,48 @@ de radiodétection, de radiosondage et de                       radiotélécomma
 
 - A. III Appareils récepteurs.
 
-Ex 87-02     Voitures automobiles à tous moteurs pour le                       transport des personnes ou des marchandises :
-
-- Ex A. Voitures pour le transport des                       personnes, comportant un minimum de sept places
+Ex 87-02 A       Voitures pour le transport des personnes,                       comportant un minimum de sept places
 assises.
 
-87-13     Voitures sans mécanisme de propulsion pour le                       transport des enfants et des malades, leurs
-parties et pièces détachées.
+87-13         Voitures sans mécanisme de propulsion pour le                       transport des enfants ; leurs parties et
+pièces détachées.
 
-Ex 87-14     Autres véhicules non automobiles et remorques                       pour tous véhicules ; leurs parties et
+Ex 87-14         Autres véhicules non automobiles et remorques                       pour tous véhicules ; leurs parties et
 pièces                       détachées :
 
 - C. Autres véhicules.
 
-89-01     Bateaux non repris sous les n° 89-02 à 89-05.
+89-01         Bateaux non repris sous les n° 89-02 à 89-05.
 
-Ex 90-13     Appareils ou instruments d'optique, non                       dénommés ni compris dans les autres positions
+Ex 90-13         Appareils ou instruments d'optique, non                       dénommés ni compris dans les autres positions
 du présent chapitre (y compris les                       projecteurs) :
 
 - Projecteurs.
 
-Ex 91-04     Horloges, pendules, réveils et appareils                       d'horlogerie similaires à mouvement autre que
-de montre :
+Ex 91-04         Horloges, pendules, réveils et appareils                       d'horlogerie similaires à mouvement autre que
+de montre.
 
-Ex A. et ex B. Pendulettes et réveils pesant                       1 kilogramme ou moins.
+91-05         Appareils de contrôle et compteurs de temps à                       mouvement d'horlogerie ou à moteur
+synchrone                       (enregistreurs de présence, horodateurs,                       contrôleurs de rondes,
+minutiers, compteurs                       de secondes, etc.).
 
-- Ex A. et ex B. Autres.
-
-91-05     Appareils de contrôle et compteurs de temps à                       mouvement d'horlogerie ou à moteur synchrone,
-enregistreurs de présence, horodateurs,                       contrôleurs de rondes, minutiers, compteurs
-de secondes, etc..
-
-92-01     Pianos (même automatiques, avec ou sans                       clavier) ; clavecins et autres instruments à
+92-01         Pianos (même automatiques, avec ou sans                       clavier) ; clavecins et autres instruments à
 cordes à clavier ; harpes (autres que les                       harpes éoliennes).
 
-92-07     Instruments de musique électromagnétiques,                       électrostatiques, électroniques et similaires
+92-07         Instruments de musique électromagnétiques,                       électrostatiques, électroniques et similaires
 (pianos, orgues, accordéons, etc.).
 
-Ex 92-11     Phonographes, machines à dicter et autres                       appareils d'enregistrement et de reproduction
-du son, y compris les tourne-disques, les                       tourne-films et les tourne-fils, avec ou sans
-lecteur de son.
+Ex 92-11         Phonographes, machines à dicter et autres                       appareils d'enregistrement et de
+reproduction                       du son, y compris les tourne-disques, les                       tourne-films et les
+tourne-fils, avec ou sans                       lecteur de son. 94-01 à 94-04         Tous produits repris au chapitre 94.
 
-94-01 à 94-04     Tous produits repris au chapitre 94.
+97-04         Articles pour jeux de société (y compris les                       jeux à moteur ou à mouvement pour lieux
+publics, les tennis de table,                       les billards meubles et les tables                       spéciales pour
+jeux de casinos).
 
-97-04     Articles pour jeux de société (y compris les                       jeux à moteur ou à mouvement pour lieux
-publics, les tennis de table, les billards meubles et les tables spéciales pour jeux de casinos). 98-15 Bouteilles isolantes
-et autres récipients isothermiques montés ainsi que leurs parties (à l'exclusion des ampoules de verre).
+98-15         Bouteilles isolantes et autres                       récipients isothermiques                       montés,
+dont l'isolation est assurée                       par le vide, ainsi que leurs                       parties (à l'exclusion
+de ampoules en verre).
 
 2. L'exonération dont sont susceptibles de bénéficier les voitures pour le transport des personnes comportant un minimum de
 sept places assises, reprises au paragraphe ci-dessus (n° Ex 87-02 Ex A) est subordonnée [*condition*] à l'affectation
@@ -9871,6 +9896,14 @@ des pénalités prévues aux articles 1727, 1728, 1731 et 1784 à 1786 du code g
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Modifié par**:
+
+	  - Arrêté 1981-09-15 art. 1 JORF 20 septembre 1981
+
 	**Cite**:
 
 	  - CGI 1727
@@ -9880,7 +9913,7 @@ des pénalités prévues aux articles 1727, 1728, 1731 et 1784 à 1786 du code g
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 1er juillet 1981
 
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES
@@ -13046,36 +13079,43 @@ NUMERO DU TARIF DE DOUANE D'IMPORTATION : 38-05        Par quintal
 F    Tall Oil (résine liquide) :
 
 - A Brut                                           0,3       - B Autre                                          0,3 NUMERO DU
-TARIF DE DOUANE D'IMPORTATION : 38-07  Essence de térébentine, essence de bois de     pin ou essence de pin, essence de
+TARIF DE DOUANE D'IMPORTATION : 38-07  Essence de térébenthine, essence de bois de     pin ou essence de pin, essence de
 papeterie     au sulfate et autres solvants terpéniques, etc. :
 
-- A Essence de térébentine                         0,3       - B Essence de papeterie au sulfate,           dipentène brut
+- A Essence de térébenthine                        0,3       - B Essence de papeterie au sulfate,           dipentène brut
 0,3       - C Autres :
 
 - huiles de pin                            0,3               - autres essences et solvants                 terpéniques
 provenant de la                 distillation ou d'autres traitements                 de conifères ; essence de papeterie
 au bisulfite                             0,3  NUMERO DU TARIF DE DOUANE D'IMPORTATION : 38-08   Colophanes et acides
-résiniques et leurs      dérivés autres que les gommes esters      du 39-05 ; essence de résine et huile      de résine :
+résiniques et leurs      dérivés autres que les gommes esters      du 39-05 ; essence de colophane et huiles      de
+colophane.
 
 - A Colophane (y compris les produits               dits brais résineux)                        0,7           - B Essence de
 résine et huile de résine        0,7           - C Autres (y compris les dérivés des acides               résiniques et des
 colophanes)               0,7   NUMERO DU TARIF DE DOUANE D'IMPORTATION :
 
-Ex 38-09 B    Poix végétales ; poix de brasserie, liants      pour noyaux de fonderie, à base de      résineux naturels :
-
-Ex B       Liants pour noyaux de fonderie à base de         produits résineux naturels                         0,7   NUMERO
-DU TARIF DE DOUANE D'IMPORTATION :
+Ex 38-09 B    Liants pour noyaux de fonderie à base de      produits résineux naturels                           0,7
+Ex B   NUMERO DU TARIF DE DOUANE D'IMPORTATION :
 
 Ex 39-05       Résines naturelles, modifiées par fusion ;
 
-Résines artificielles obtenues par          estérification de résines naturelles          ou d'acides résiniques (gommes
+résines artificielles obtenues par          estérification de résines naturelles          ou d'acides résiniques (gommes
 esters),          etc.                Ex B          Gommes esters                                     0,7.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Modifié par**:
+
+	  - Arrêté 1981-09-15 art. 1 JORF 20 septembre 1981
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 1er juillet 1981
 
 
 #### COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE.
