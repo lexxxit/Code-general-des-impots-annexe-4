@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-07-29
+Version Consolidée au 1981-08-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11698,13 +11698,12 @@ Les dispositions du présent article s'appliquent dans les départements de la C
 
 ###### Article 121 L
 
-I. Le paiement de la taxe différentielle sur les véhicules à moteur, automobiles ou motocyclettes, et de la taxe spéciale sur
-les voitures d'une puissance fiscale supérieure à 16 CV, instituées par l'article 1007 du code général des impôts, est
-constaté au moyen de la délivrance d'une vignette mobile. Celle-ci est constituée uniquement par un reçu pour la taxe
-afférente aux motocyclettes. Pour la taxe relative aux autres véhicules, ce reçu est accompagné d'un timbre adhésif. Les
-conditions d'utilisation des éléments constitutifs de la vignette sont définies à l'article 121 Q.
+I. Le paiement de la taxe différentielle sur les véhicules à moteur et de la taxe spéciale sur les voitures d'une puissance
+fiscale supérieure à 16 CV, instituées par l'article 1007 du code général des impôts, est constaté au moyen de la délivrance
+d'une vignette mobile, constituée d'un reçu et d'un timbre adhésif, dont les conditions d'utilisation sont définies à
+l'article 121 Q.
 
-II. Outre la série normale des vignettes payantes  dont les types correspondent aux différentes catégories d'imposition  il
+II. Outre la série normale des vignettes payantes, dont les types correspondent aux différentes catégories d'imposition, il
 existe une vignette spéciale destinée à la délivrance des duplicata et une vignette gratuite devant permettre d'identifier
 certaines catégories de véhicules exonérés de la taxe. Ces vignettes sont constituées des mêmes éléments que les vignettes
 payantes.
@@ -11713,14 +11712,18 @@ III. Les modèles de vignettes sont fixés par décision du ministre de l'écono
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1980-10-14 art. 1 JORF 7 novembre 1980
-
 	**Cite**:
 
 	  - CGI 1007
 	  - CGIAN4 121 Q
+
+	**Modifié par**:
+
+	  - Loi n°81-734 1981-08-03 art. 9 Finances rectificative pour 1981 JORF 4 août 1981
+
+	**Transféré par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ###### Article 121 M
@@ -11806,24 +11809,33 @@ nouveau certificat d'immatriculation. Le cachet de ce service est apposé au ver
 
 ###### Article 121 Q
 
-Le reçu est conservé par le conducteur du véhicule qui est tenu de le présenter à toute réquisition des agents et
-fonctionnaires visés à l'article 307 de l'annexe II au code général des impôts. Le timbre adhésif doit être directement fixé
-sur le pare-brise  dans l'angle inférieur droit  de manière que les mentions qu'il comporte soient lisibles de l'extérieur du
-véhicule.
+Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
+désignés aux articles L. 213 et R. 213-1 du livre des procédures fiscales. Le timbre adhésif doit être directement fixé dans
+l'angle inférieur droit du pare-brise du véhicule automobile de manière que les mentions qu'il comporte soient lisibles de
+l'extérieur de ce véhicule.
 
 Ces dispositions s'appliquent aux vignettes de la série normale comme aux vignettes spéciales et gratuites prévues à
 l'article 121 L.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+
 	**Cite**:
 
-	  - CGIAN2 307
+	  - CGI L213
+	  - CGI R213-1
 	  - CGIAN4 121 L
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - loi 81-734 1981-08-03 art. 9 Finances rectificative pour 1981 JORF 4 août 1981
+
+	**Transféré par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ###### Article 121 R
