@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-10-07
+Version Consolidée au 1981-10-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14720,6 +14720,26 @@ Le redevable peut se libérer dans les conditions prévues aux deuxième et troi
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 194
+
+Lorsqu'un redevable est admis au bénéfice du paiement par obligations cautionnées dans les conditions prévues à l'article
+1698 du code général des impôts, le taux de l'intérêt pour les crédits concédés est fixé à 14,50 % l'an en France
+continentale et à 10,40 % l'an dans les départements d'outre-mer.
+
+Ces obligations cautionnées donnent lieu au paiement d'une remise spéciale fixée à un tiers de F pour cent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1978-12-05
+	  - CGI 1698
+
+	**Modifié par**:
+
+	  - Arrêté 1981-10-30 art. 1 JORF 31 octobre 1981
+
+
 ### Section IV : Enregistrement, publicité foncière et timbre
 
 #### 1 : Taxe spéciale sur les conventions d'assurances
@@ -15098,28 +15118,6 @@ centralisateur peut viser à la fois le versement de la retenue à la source pr�
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-### CONTRIBUTIONS INDIRECTES.
-
-###### Article 194
-
-Lorsqu'un redevable est admis au bénéfice du paiement par obligations cautionnées dans les conditions prévues à l'article
-1698 du code général des impôts  le taux de l'intérêt pour les crédits concédés est fixé à 13,60 % l'an en France
-continentale et à 10,40 % l'an dans les départements d'outre-mer [*DOM*].
-
-Ces obligations cautionnées donnent lieu au paiement d'une remise spéciale fixée à un tiers de F pour cent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1978-12-05
-	  - CGI 1698
-
-	**Modifié par**:
-
-	  - Arrêté 1980-03-27 art. 1 JORF 30 mars 1980
 
 
 ### PENALITES
