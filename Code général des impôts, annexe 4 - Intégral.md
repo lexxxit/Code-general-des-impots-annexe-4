@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1983-12-20
+Version Consolidée au 1983-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1369,6 +1369,56 @@ disposition de l'administration pendant le délai visé à l'article L. 82 du li
 
 ##### Section III bis : Revenu global
 
+##### 0II : Dépenses destinées à économiser l'énergie utilisée pour le chauffage
+
+###### Article 17 J
+
+Les frais d'études et de diagnostics destinés à apprécier la nature, la quantité et l'intérêt économique des travaux définis
+par les articles 17 H et 17 I ouvrent droit à réduction d'impôt.
+
+Sauf lorsqu'elles portent sur des constructions neuves, ces études doivent être réalisées par des professionnels disposant de
+qualifications ou agréments délivrés par l'administration ou des organismes publics chargés de l'énergie ou inscrits sur une
+liste établie sous la responsabilité de l'administration ou de ces organismes publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGIAN4 17 H
+	  - CGIAN4 17 I
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
+
+
+###### Article 17 K
+
+Les dépenses ouvrant droit à la réduction d'impôt définies par les articles 17 H et 17 J s'entendent sous déduction des
+subventions, primes ou aides accordées à ce titre aux contribuables. Les frais occasionnés par les travaux accessoires aux
+opérations visées aux articles 17 H et 17 I ne peuvent ouvrir droit à la réduction d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGI 17 H
+	  - CGI 17 I
+	  - CGI 17 J
+
+	**Modifié par**:
+
+	  - Loi n°83-179 1983-12-29 art. 3 I Finances pour 1984 JORF 30 décembre 1983
+
+
 ##### II : Monuments historiques. Charges déductibles
 
 ###### Article 17 quater
@@ -2135,6 +2185,26 @@ Lors de toute modification de la forme juridique de l'entreprise.
 	**Cite**:
 
 	  - CGI 286
+
+
+###### Article 36
+
+Les redevables de la taxe sur la valeur ajoutée qui cessent d'exercer leur activité doivent dans les trente jours en faire la
+déclaration au service qui a reçu les déclarations visées à l'article 32.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 99 (V) JORF 30 décembre 1983
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 32 (V)
 
 
 ###### Article 37
@@ -10054,18 +10124,20 @@ autres au prélèvement  les relevés individuels font l'objet d'un classement s
 ###### Article 17 E
 
 1. Les assureurs auprès desquels ont été souscrits des contrats ou des avenants d'augmentation d'assurance en cas de vie ou
-d'assurance en cas de décès  dont les primes peuvent être déduites du revenu global soumis à l'impôt sur le revenu en
-application des dispositions de l'article 156-II-7o-a et b du code général des impôts  sont tenus de délivrer chaque année
-aux souscripteurs de ces contrats ou avenants un certificat permettant aux intéressés de justifier l'existence d'un contrat
-susceptible de donner droit à la déduction des primes y afférentes.
+d'assurance en cas de décès, dont les primes peuvent ouvrir droit à la réduction d'impôt prévue à l'article 199 septies du
+code général des impôts, s sont tenus de délivrer chaque année aux souscripteurs de ces contrats ou avenants un certificat
+permettant aux intéressés de justifier l'existence d'un contrat susceptible de donner droit à la déduction d'impôt prévue ci-
+dessus.
 
-2. Le certificat prévu au 1 ci-dessus comporte l'indication :
+2. Le certificat prévu au 1 comporte l'indication :
 
 De l'assureur;
 
 Des nom et prénoms du souscripteur;
 
 Du montant des primes venues à échéance au cours de l'année civile;
+
+De la part de ces primes représentative de l'opération d'épargne (1) ;
 
 Du numéro du contrat.
 
@@ -10076,7 +10148,7 @@ Soit dans un duplicata de la quittance ou des quittances de paiement des primes;
 Soit  à défaut d'établissement de quittance  dans l'avis d'échéance de chaque prime ou dans un document annexe à cet avis.
 
 3. Les contrats ou avenants d'augmentation donnent lieu à l'établissement par l'assureur  lors de la souscription du contrat
-ou de l'avenant  d'une attestation destinée au souscripteur.
+ou de l'avenant d'une attestation destinée au souscripteur.
 
 Cette attestation indique :
 
@@ -10086,14 +10158,14 @@ Le numéro du contrat;
 
 La date d'effet et la durée du contrat ou de l'avenant;
 
-Le montant  la périodicité et la durée de versement des primes.
+Le montant, la périodicité et la durée de versement des primes.
 
 Elle précise en outre :
 
-Pour les contrats ou avenants visés à l'article 156-II-7o-a précité  le montant du capital en cas de vie ou de la rente
+Pour les contrats ou avenants visés à l'article 199 septies-1° précité le montant du capital en cas de vie ou de la rente
 viagère garanti;
 
-Pour les contrats ou avenants visés au b du même article  le montant du capital ou de la rente viagère garanti et les nom et
+Pour les contrats ou avenants visés au 2° du même article le montant du capital ou de la rente viagère garanti et les nom et
 prénom du bénéficiaire du capital ou de la rente viagère.
 
 L'attestation peut être remplacée par la copie intégrale des conditions particulières du contrat.
@@ -10101,7 +10173,7 @@ L'attestation peut être remplacée par la copie intégrale des conditions parti
 En ce qui concerne les contrats ou les avenants souscrits avant le 1er janvier 1971, l'attestation n'est délivrée que si
 l'assuré en fait la demande.
 
-4. Lorsque les contrats d'assurance en cas de décès visés à l'article 156-II-7o-b précité sont souscrits sous la forme de
+4. Lorsque les contrats d'assurance en cas de décès visés à l'article 199 septies-2° précité sont souscrits sous la forme de
 contrats collectifs  l'assureur délivre à l'organisme souscripteur lors de la souscription du contrat  une attestation
 indiquant la nature du contrat et les garanties qu'il comporte.
 
@@ -10114,15 +10186,21 @@ la déclaration des revenus de l'année au cours de laquelle elle est délivrée
 
 Les mêmes dispositions s'appliquent aux documents prévus au 4.
 
+(1) Disposition applicable à compter de l'imposition des revenus de 1984.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
 
 	**Cite**:
 
-	  - CGI 156 II 7° a, b
+	  - CGI 199 septis
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
 
 
 ###### Article 17 octies
@@ -10219,18 +10297,15 @@ application de l'article 8 modifié de la loi du 13 juin 1941 et de l'article 1e
 
 ###### Article 17 H
 
-La liste des dépenses destinées à économiser l'énergie admises en déduction du revenu imposable dans les conditions prévues à
-l'article 156-II-1° quater-a du code général des impôts est fixée comme suit pour les logements existants au 1er juillet 1981
-ou ayant fait l'objet, avant cette date, d'une demande de permis de construire :
+La liste des dépenses destinées à économiser l'énergie ouvrant droit à la réduction d'impôt prévue à l'article 199 sexies du
+code général des impôts est fixée comme suit pour les logements existants au 1er juillet 1981 ou ayant fait l'objet, avant
+cette date, d'une demande de permis de construire :
 
-1 - Remplacement de chaudière.
-
-Remplacement d'une chaudière usagée par une chaudière neuve de puissance au plus égale fonctionnant à l'aide d'une source
-d'énergie autre que l'électricité ; toutefois, la déduction n'est pas applicable si l'ancienne chaudière fonctionnait à
-l'aide de combustibles non pétroliers et si la nouvelle fonctionne à l'aide de produits pétroliers. Pour l'application de
-cette disposition, les générateurs de chaleur fixes sont assimilés à des chaudières ;
-
-Remplacement d'un brûleur de chaudière usagé par un brûleur neuf d'un débit au plus égal ;
+1 - Remplacement de chaudière.    Remplacement d'une chaudière usagée par une chaudière neuve de puissance au plus égale
+fonctionnant à l'aide d'une source d'énergie autre que l'électricité ; toutefois, la réduction d'impôt n'est pas applicable
+si l'ancienne chaudière fonctionnait à l'aide de combustibles non pétroliers et si la nouvelle fonctionne à l'aide de
+produits pétroliers. Pour l'application de cette disposition, les générateurs de chaleur fixes sont assimilés à des
+chaudières ;    Remplacement d'un brûleur de chaudière usagé par un brûleur neuf d'un débit au plus égal ;
 
 Fourniture et pose de récupérateurs de chaleur sur les fumées de chaudières, à l'exclusion des systèmes d'obturation des
 conduits de fumée ;
@@ -10273,24 +10348,24 @@ Fourniture et pose d'échangeurs de chaleur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1982-04-20 art. 1 JONC 24 avril 1982
-
 	**Codifié par**:
 
-	  - Arrêté 1982-10-15
+	  - Arrêté 1984-10-01
 
 	**Cite**:
 
-	  - CGI 156 II 1° quater a
+	  - CGI 199 sexies
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 1983-12-29 ar. 3 I Finances pour 1984 JORF 30 décembre 1983
 
 
 ###### Article 17 I
 
 La liste des dépenses relatives à l'utilisation des énergies nouvelles et à l'installation de pompes à chaleur mentionnées à
-l'article 156-II-1° quater-b du code général des impôts est fixée comme suit pour l'ensemble des logements, quelle que soit
-leur date de construction :
+l'article 199 sexies-2°-b du code général des impôts est fixée comme suit pour l'ensemble des logements, quelle que soit leur
+date de construction :
 
 1. Dépenses relatives à l'utilisation des énergies nouvelles.    1° Installations de captation, transformation et utilisation
 des énergies renouvelables pour le chauffage ou la production d'eau chaude sanitaire.
@@ -10334,16 +10409,15 @@ Dispositifs de régulation, de commande et de contrôle du fonctionnement des in
 
 d. Travaux d'installation des matériels désignés aux a, b et c..
 
-2. Autres aménagements spécifiques réalisés dans les constructions neuves en vue d'accroître les apports solaires.
+2° Autres aménagements spécifiques réalisés dans les constructions neuves en vue d'accroître les apports solaires.
 
-Les dépenses correspondantes ne peuvent être déduites que si la valeur du coefficient des besoins volumiques de chauffage
-(coefficient B) défini à l'article 2-2° de l'arrêté du 24 mars 1982 relatif aux équipements et aux caractéristiques
-thermiques des bâtiments d'habitation est inférieure d'au moins 10 % à la valeur maximale autorisée pour la zone géographique
-intéressée.
+Les dépenses correspondantes ne peuvent ouvrir droit à la réduction d'impôt que si la valeur du coefficient des besoins
+volumiques de chauffage (coefficient B) défini à l'article 2-2° de l'arrêté du 24 mars 1982 relatif aux équipements et aux
+caractéristiques thermiques des bâtiments d'habitation est inférieure d'au moins 10 % à la valeur maximale autorisée pour la
+zone géographique intéressée.
 
-2. Installation de pompes à chaleur.
-
-Fourniture et pose des pompes à chaleur destinées au chauffage du logement ou à la production d'eau chaude sanitaire.
+2. Installation de pompes à chaleur.    Fourniture et pose des pompes à chaleur destinées au chauffage du logement ou à la
+production d'eau chaude sanitaire.
 
 Sont exclus tous les appareils dont la conception permet l'usage à des fins telles que le refroidissement ou le
 rafraîchissement de l'eau ou des locaux, notamment les pompes réversibles et les climatiseurs.
@@ -10367,76 +10441,28 @@ ainsi que tout système bi-énergie ayant fait l'objet d'un agrément de l'Agenc
 	**Cite**:
 
 	  - Arrêté 1982-03-24 art. 2 2°
-	  - CGI 156 II 1° quater b
-
-	**Créé par**:
-
-	  - Arrêté 1982-04-20 art. 2 JONC 24 avril 1982
+	  - CGI 199 sexies 2° b
 
 	**Codifié par**:
 
-	  - Arrêté 1982-10-15
+	  - Arrêté 1984-10-01
 
+	**Modifié par**:
 
-###### Article 17 J
-
-Les frais d'études et de diagnostics destinés à apprécier la nature, la quantité et l'intérêt économique des travaux définis
-par les articles 17 H et 17 I sont admis en déduction.
-
-Sauf lorsqu'elles portent sur des constructions neuves, ces études doivent être réalisées par des professionnels disposant de
-qualifications ou agréments délivrés par l'administration ou des organismes publics chargés de l'énergie ou inscrits sur une
-liste établie sous la responsabilité de l'administration ou de ces organismes publics.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1982-04-20 art. 3 JONC 24 avril 1982
-
-	**Codifié par**:
-
-	  - Arrêté 1982-10-15
-
-	**Cite**:
-
-	  - CGIAN4 17 H
-	  - CGIAN4 17 I
-
-
-###### Article 17 K
-
-Les dépenses déductibles définies par les articles 17 H à 17 J s'entendent sous déduction des subventions, primes ou aides
-accordées à ce titre aux contribuables. Les frais occasionnés par les travaux accessoires aux opérations visées aux articles
-17 H et 17 I ne sont pas admis en déduction.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1982-04-20 art. 4 JONC 24 avril 1982
-
-	**Codifié par**:
-
-	  - Arrêté 1982-10-15
-
-	**Cite**:
-
-	  - CGIAN4 17 H
-	  - CGIAN4 17 I
-	  - CGIAN4 17 J
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
 
 
 ###### Article 17 L
 
-1. Pour bénéficier des déductions relatives aux économies d'énergie, les contribuables doivent produire les justifications
-suivantes, à la demande du service des impôts :
+1. Pour bénéficier des réductions d'impôt relatives aux économies d'énergie, les contribuables doivent produire les
+justifications suivantes, à la demande du service des impôts :
 
-a. Les factures délivrées par les fournisseurs et installateurs des matériels admis en déduction. Ces factures doivent
+a. Les factures délivrées par les fournisseurs et installateurs des matériels ouvrant droit à déduction. Ces factures doivent
 mentionner :
 
 L'identité et l'adresse du client ;
 
-Le prix des travaux et des fournitures ouvrant droit au bénéfice de la déduction et la date du paiement ;
+Le prix des travaux et des fournitures ouvrant droit au bénéfice de la réduction d'impôt et la date du paiement ;
 
 La nature et la marque des matériels et matériaux ;
 
@@ -10451,44 +10477,44 @@ ces matériels et des matériaux neufs ;
 En cas d'installation de pompe à chaleur : une attestation du fournisseur certifiant que le matériel installé ne peut être
 utilisé à des fins autres que le chauffage.
 
-Pour les équipements faisant l'objet d'un contrat de location-vente, les déductions doivent être justifiées par les
-quittances relatives à ce contrat ; le montant total des sommes déduites ne peut excéder le prix de vente des équipements à
-la date de conclusion du contrat ;
+Pour les équipements faisant l'objet d'un contrat de location-vente, les dépenses ouvrant droit à réduction d'impôt doivent
+être justifiées par les quittances relatives à ce contrat ; le montant total des sommes ouvrant droit à réduction d'impôt ne
+peut excéder le prix de vente des équipements à la date de conclusion du contrat ;
 
 b. Pour les dépenses visées à l'article 17 J, les factures délivrées par les professionnels ayant réalisé les études et
 diagnostics. Ces factures doivent mentionner les qualifications ou agréments des professionnels ou leur inscription sur une
 liste d'habilitation ;
 
 c. En cas d'acquisition d'un logement neuf déjà équipé, une attestation du vendeur mentionnant la nature et le montant des
-dépenses déductibles en application des articles 17 I et 17 J ;
+dépenses ouvrant droit à réduction d'impôt en application des articles 17 I et 17 J ;
 
 d. En outre, pour les dépenses visées à l'article 17 I-1-2° :
 
 un certificat visé par la direction départementale de l'équipement précisant la valeur du coefficient des besoins volumiques
 de chauffage.
 
-2. Dans le cas des immeubles en copropriété, chacun des copropriétaires est admis à déduire la quote-part, correspondant à sa
-participation aux charges communes, des dépenses définies aux articles 17 H à 17 J exposées par le syndicat des
-copropriétaires.
+2. Dans le cas des immeubles en copropriété, chacun des copropriétaires est admis à bénéficier d'une réduction d'impôt pour
+la quote-part, correspondant à sa participation aux charges communes, des dépenses définies aux articles 17 H à 17 J exposées
+par le syndicat des copropriétaires.
 
-Cette déduction est justifiée par une attestation du syndic ; ce dernier doit en outre produire, à la demande du service des
-impôts, les factures et documents administratifs visés au 1.
+Le bénéfice de cette réduction d'impôt est justifié par une attestation du syndic ; ce dernier doit en outre produire, à la
+demande du service des impôts, les factures et documents administratifs visés au 1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1982-04-20 art. 5 JONC 24 avril 1982
-
 	**Codifié par**:
 
-	  - Arrêté 1982-10-15
+	  - Arrêté 1984-10-01
 
 	**Cite**:
 
 	  - CGIAN4 17 H 3
 	  - CGIAN4 17 I 1 2°
 	  - CGIAN4 17 J
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
 
 
 #### IMPOT SUR LES SOCIETES
@@ -10759,22 +10785,6 @@ code de la route.
 
 
 ##### OBLIGATIONS DES REDEVABLES.
-
-###### Article 36
-
-Les redevables de la taxe sur la valeur ajoutée [*TVA*] qui cessent d'exercer leur activité doivent dans les dix jours en
-faire la déclaration [*délai, formalité obligatoire*] au service qui a reçu les déclarations visées à l'article 32.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 32
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 48
 
@@ -13123,380 +13133,6 @@ Les dispositions du présent article s'appliquent dans les départements de la C
 	  - Arrêté 1983-10-06
 
 
-### AUTRES DROITS ET TAXES
-
-#### TAXES SUR LES VEHICULES A MOTEUR.
-
-###### Article 121 L
-
-I. Le paiement de la taxe différentielle sur les véhicules à moteur et de la taxe spéciale sur les voitures d'une puissance
-fiscale supérieure à 16 CV, instituées par l'article 1007 du code général des impôts, est constaté au moyen de la délivrance
-d'une vignette mobile, constituée d'un reçu et d'un timbre adhésif, dont les conditions d'utilisation sont définies à
-l'article 121 Q.
-
-II. Outre la série normale des vignettes payantes, dont les types correspondent aux différentes catégories d'imposition, il
-existe une vignette spéciale destinée à la délivrance des duplicata et une vignette gratuite devant permettre d'identifier
-certaines catégories de véhicules exonérés de la taxe. Ces vignettes sont constituées des mêmes éléments que les vignettes
-payantes.
-
-III. Les modèles de vignettes sont fixés par décision du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1007
-	  - CGIAN4 121 Q
-
-	**Modifié par**:
-
-	  - Loi n°81-734 1981-08-03 art. 9 Finances rectificative pour 1981 JORF 4 août 1981
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 M
-
-Les vignettes mentionnées aux I et II de l'article 121 L sont délivrées par les recettes des impôts désignées par
-l'administration.    Sont également habilités à délivrer les vignettes payantes :
-
-les services préfectoraux  pour les véhicules faisant l'objet d'une première mise en circulation;
-
-pendant une période fixée chaque année par l'administration  les distributeurs auxiliaires commissionnés pour la vente des
-timbres fiscaux  les gérants des débits de tabac et les receveurs auxiliaires des impôts gérant le débit de tabac annexé à
-leur bureau de déclarations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 121 L I, II
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 N
-
-Les distributeurs auxiliaires et les débitants visés à l'article 121 M pourront recevoir  à titre de dépôt  et dans des
-conditions fixées par l'administration  un approvisionnement de vignettes dont ils seront comptables vis-à-vis du Trésor.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 121 M
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 10983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 O
-
-La vignette est délivrée sur présentation du certificat d'immatriculation du véhicule.
-
-Le numéro minéralogique du véhicule est inscrit sur le reçu par le préposé chargé de la délivrance qui appose au verso le
-cachet de la recette ou du débit distributeur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 P
-
-En cas de changement du numéro minéralogique du véhicule  le numéro de l'ancien certificat d'immatriculation est maintenu sur
-le reçu. Le numéro du nouveau certificat est inscrit immédiatement au-dessous par les soins du service chargé de la remise du
-nouveau certificat d'immatriculation. Le cachet de ce service est apposé au verso.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 Q
-
-Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
-désignés aux articles L. 213 et R. 213-1 du livre des procédures fiscales. Le timbre adhésif doit être directement fixé dans
-l'angle inférieur droit du pare-brise du véhicule automobile de manière que les mentions qu'il comporte soient lisibles de
-l'extérieur de ce véhicule.
-
-Ces dispositions s'appliquent aux vignettes de la série normale comme aux vignettes spéciales et gratuites prévues à
-l'article 121 L.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1982-10-15
-
-	**Cite**:
-
-	  - CGI L213
-	  - CGI R213-1
-	  - CGIAN4 121 L
-
-	**Modifié par**:
-
-	  - loi 81-734 1981-08-03 art. 9 Finances rectificative pour 1981 JORF 4 août 1981
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 R
-
-Un duplicata peut être délivré en cas de destruction de perte ou de vol d'une vignette sur demande écrite du contribuable
-adressée à la recette des impôts qui a vendu ou dans le ressort de laquelle a été vendue cette vignette.
-
-La demande doit indiquer indépendamment des circonstances de la perte la date précise de l'acquisition et le cas échéant le
-nom et l'adresse du distributeur auxiliaire ou du débitant qui l'a vendue.
-
-Les duplicata sont utilisés dans les mêmes conditions que les vignettes de la série normale.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 S
-
-Tout propriétaire d'un véhicule dispensé ou exonéré de la taxe différentielle ou de la taxe spéciale en raison de sa qualité
-personnelle est tenu de demander à la recette des impôts dont il dépend en fournissant les justifications dont la nature est
-fixée par l'administration la délivrance d'une vignette gratis qui est utilisée dans les mêmes conditions que les vignettes
-de la série normale.
-
-Doivent également être munis d'une vignette gratis les véhicules répondant aux normes figurant au III de l'annexe I du décret
-n° 79-80 du 25 janvier 1979 relatif aux transports sanitaires privés utilisés par une entreprise agréée conformément à
-l'article 1er dudit décret.
-
-La vignette gratis est également délivrée sur justification :
-
-a. Pour les véhicules visés à l'article 304-3o de l'annexe II au code général des impôts lorsqu'ils ne portent aucune marque
-extérieure susceptible d'identifier leur affectation;
-
-b. Pour les véhicules autres que ceux visés aux alinéas précédents qui cessant en cours d'année d'être en situation de
-bénéficier d'une exonération continuent néanmoins en vertu de l'article 306-I de l'annexe II au code général des impôts à
-échapper à la taxe jusqu'à la fin de ladite période.
-
-Le titre justificatif produit à l'appui de la demande d'exonération est annoté de la date de la délivrance de la vignette
-suivie de la mention " Gratis ".
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1981-02-24 art. 2 JORF 27 février 1981
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGIAN2 304 3°
-	  - CGIAN2 306 I
-	  - Décret n°79-80 1979-01-25 art. 1, annexe I III
-	  - Décret n°79-80 du 25 janvier 1979 - art. 1 ()
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 T
-
-Sont dispensés de la taxe différentielle sur les véhicules à moteur et de la taxe spéciale sur les véhicules d'une puissance
-fiscale supérieure à 16 CV :
-
-1° Les véhicules immatriculés dans les séries spéciales "CMD", " CD ", " C " et " K ", à l'exclusion de ceux dont le numéro
-d'immatriculation comprend la lettre " X " apposée à droite du dernier groupe de chiffres.
-
-2° (Abrogé).
-
-3° Les véhicules immatriculés dans les séries spéciales " TT ", à l'exclusion des véhicules immatriculés " TTW " et " TTQ ".
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 U
-
-En cas de régularisation de la situation douanière des véhicules immatriculés dans la série spéciale TT, la taxe
-différentielle sur les véhicules à moteur ou  le cas échéant  la taxe spéciale sur les véhicules d'une puissance fiscale
-supérieure à 16 CV devient immédiatement exigible au titre de la période en cours.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
-###### Article 121 V
-
-Sont exonérés de la taxe différentielle sur les véhicules à moteur instituée par l'article 1007-a du code général des impôts
-les véhicules spéciaux dont la liste suit :
-
-1° Les fourgons funéraires et corbillards automobiles;
-
-2° Les bennes à ordures ménagères les arroseuses les balayeuses; 3° Les ambulances;
-
-4° Les tonnes de vidange;
-
-5° Les engins considérés pour l'application des articles R 110 à R117 du code de la route comme matériels de travaux publics
-et énumérés ci-après :
-
-a. Pompes centrifuges groupes moto-pompes pompes ou stations de pompages mobiles fixés à demeure sur camion;
-
-b. Sonnettes avec mouton bloc et treuil à moteur sonnettes à vapeur complètes sur galets derricks moutons blocs à déclic
-moutons à vapeur (genre Tifine ou Lacour) moutons diesel marteaux trépideurs (batteurs et arracheurs) fixés à demeure sur
-camion;
-
-c. Groupes moto-compresseurs mobiles fixés à demeure sur camion;
-
-d. Grues grues derricks sapins ou pylônes sur camion;
-
-e. Postes automobiles d'enrobage mobile type Central-Plant ou Maintoner-Plant pour enrobés à chaud postes automobiles
-d'enrobage type Travel-Plant pour enrobés à froid;
-
-f. Citernes mobiles de stockage de liants (cuves de transport de liants) et fondoirs sur camion;
-
-g. Répandeurs finisseurs sur camion;
-
-h. Générateurs de vapeur bacs de chauffage (réchauffeurs de produits bitumeux et autres liants) tonnes répandeuses (y compris
-les arroseurs) sur camion;
-
-i. Appareils gravillonneurs sableurs chargeurs élévateurs de gravillon balayeuses mécaniques sur camion;
-
-j. Chasse-neige sur camion;
-
-k. Concasseurs mobiles gravillonneurs granulateurs et broyeurs mobiles cribleurs ou trommels groupes concasseurs mobiles
-(type Iowa) sur camion;
-
-l. Bétonnières tambours cylindriques pompes à béton sur camion; m. Groupes électrogènes mobiles groupes convertisseurs ou
-transformateurs mobiles postes mobiles de soudure sur camion;
-
-n. Soudeuses mobiles sur camion;
-
-o. Postes automobiles de dégraissage et de gonflage;
-
-6° Les camions ateliers dépanneurs munis d'un engin de levage;
-
-7° Le matériel d'incendie automobile énuméré ci-après :
-
-a. Matériel d'incendie de premier secours ordinaire;
-
-b. Matériel d'incendie de premier secours à mousse;
-
-c. Citerne automobile d'incendie;
-
-d. Auto-pompe;
-
-e. Fourgon-pompe;
-
-f. Fourgon d'incendie;
-
-g. Echelle;
-
-h. Dévidoir;
-
-i. Accessoires divers;
-
-8° Le matériel sanitaire automobile ci-après :
-
-a. Chirurgical;
-
-b. Radiologie;
-
-c. Stérilisateur;
-
-d. Epurateur d'eau;
-
-e. Désinfection et désinsectisation;
-
-9° Le matériel de radiodiffusion et de télévision ci-après fixé à demeure sur camion camionnette ou fourgon automobile :
-
-a. Appareils émetteurs de T.S.F.;
-
-b. Appareils de prise de son et de prise de vue;
-
-c. Appareils de mesure de son;
-
-d. Laboratoire de développement de films;
-
-10° Les véhicules militaires faisant l'objet d'une immatriculation particulière;
-
-11° Les véhicules aménagés spécialement pour le transport du lait du vin du bétail et de la viande ne transportant que ces
-produits et ne sortant pas des limites de la zone courte à laquelle ils sont rattachés.
-
-12° Les véhicules répondant aux normes figurant au III de l'annexe I du décret n° 79-80 du 25 janvier 1979 relatif aux
-transports sanitaires privés utilisés par une entreprise agréée conformément à l'article 1er dudit décret.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1981-02-24 art. 1 JORF 27 février 1981
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI 1007 a
-	  - Décret n°79-80 1979-01-25 art. 1, annexe I III
-	  - Décret n°79-80 du 25 janvier 1979 - art. 1 ()
-	  - Code de la route R110 A Code de la route R117
-
-	**Transféré par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
-
-
 ### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE
 
 #### ENTREPRISES EXERCANT LEUR ACTIVITE DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.
@@ -13956,6 +13592,176 @@ dont ils sont détenteurs  sous peine des sanctions prévues par les articles 17
 	  - CGI 1791
 	  - CGI 1797
 	  - CGIAN4 149 A CGIAN4 152
+
+
+### IMPOSITIONS DEPARTEMENTALES.
+
+###### Article 155 C
+
+I. Le paiement de la taxe différentielle sur les véhicules à moteur et de la taxe spéciale sur les voitures d'une puissance
+fiscale supérieure à 16 CV, instituées par l'article 1599 C du code général des impôts, est constaté au moyen de la
+délivrance d'une vignette mobile constituée d'un reçu et d'un timbre adhésif, dont les conditions d'utilisation sont définies
+à l'article 155 H.
+
+II. Outre la série normale des vignettes payantes, dont les types correspondent aux différentes catégories d'imposition, il
+existe une vignette spéciale destinée à la délivrance des duplicata et une vignette gratuite devant permettre d'identifier
+certaines catégories de véhicules exonérés de la taxe. Ces vignettes sont constituées des mêmes éléments que les vignettes
+payantes.
+
+III. Les modèles de vignettes sont fixés par décision du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1972-07-21 art. 1 JORF 27 juillet 1972
+	  - Loi n°72-1121 1972-12-20 art. 16 Finances pour 1973 JORF 21 décembre 1972
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGI 1599 C
+	  - CGIAN4 155 H
+
+
+###### Article 155 D
+
+Les vignettes mentionnées aux I et II de l'article 155 C sont délivrées par les recettes des impôts désignées par
+l'administration.
+
+Sont également habilités à délivrer les vignettes payantes :
+
+- les services préfectoraux, pour les véhicules faisant l'objet d'une première mise en circulation ;
+
+- pendant une période fixée chaque année par l'administration, les distributeurs auxiliaires commissionnés par la vente des
+timbres fiscaux, les gérants des débits de tabac et les receveurs auxiliaires des impôts gérant le débit de tabac annexé à
+leur bureau de déclarations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1977-10-03 art. 1 JORF 8 octobre 1977
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGIAN4 155 C I, II
+
+
+###### Article 155 J
+
+Tout propriétaire d'un véhicule dispensé ou exonéré de la taxe différentielle ou de la taxe spéciale en raison de sa qualité
+personnelle est tenu de demander à la recette des impôts dont il dépend, en fournissant les justifications dont la nature est
+fixée par l'administration, la délivrance d'une vignette gratis qui est utilisée dans les mêmes conditions que les vignettes
+de la série normale. Doivent également être munis d'une vignette gratis les véhicules répondant aux normes figurant au III de
+l'annexe I du décret n° 79-80 du 25 janvier 1979 relatif aux transports sanitaires privés utilisés par une entreprise agréée
+conformément à l'article 1er dudit décret.
+
+La vignette gratis est également délivrée sur justification :
+
+a. Pour les véhicules visés à l'article 317 decies-3° de l'annexe II au code général des impôts lorsqu'ils ne portent aucune
+marque extérieure susceptible d'identifier leur affectation ;
+
+b. Pour les véhicules autres que ceux visés aux alinéas précédents qui, cessant en cours d'année d'être en situation de
+bénéficier d'une exonération, continuent néanmoins, en vertu de l'article 317 duodecies-I de l'annexe précitée, à échapper à
+la taxe jusqu'à la fin de ladite période.
+
+Le titre justificatif produit à l'appui de la demande d'exonération est annoté de la date de la délivrance de la vignette
+suivie de la mention "gratis".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1956-10-19 art. 8 JORF 23 octobre 1956
+	  - Arrêté 1981-02-24 art. 2 JORF 27 février 1981
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGIAN2 317 decies 3°
+	  - CGIAN2 317 duodecies I
+	  - Décret n°79-80 1979-01-25 art. 1, annexe I, III
+	  - Décret n°79-80 du 25 janvier 1979 - art. 1 ()
+
+
+###### Article 155 K
+
+Sont dispensés de la taxe différentielle sur les véhicules à moteur [*vignette*] et de la taxe spéciale sur les véhicules
+d'une puissance fiscale supérieure à 16 CV :
+
+1° Les véhicules immatriculés dans les séries spéciales "CMD", "CD" "C" et "K", à l'exclusion de ceux dont le numéro
+d'immatriculation comprend la lettre "X" apposée à droite du dernier groupe de chiffres ;
+
+2° Les véhicules immatriculés dans les séries spéciales "TT" à l'exclusion des véhicules immatriculés "TTW" et "TTQ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1956-11-09 art. 1 JORF 10 novembre 1956
+	  - Arrêté 1966-11-29 art. 1 JORF 10 décembre 1966
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+
+###### Article 155 L
+
+En cas de régularisation de la situation douanière des véhicules immatriculés dans la série spéciale TT, la taxe
+différentielle sur les véhicules à moteur [*vignette*] ou, le cas échéant, la taxe spéciale sur les véhicules d'une puissance
+fiscale supérieure à 16 CV devient immédiatement exigible au titre de la période en cours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1956-11-09 art. 2 JORF 10 novembre 1956
+	  - Circulaire 1967-05-10 équipement et logement JORF 10 juin 1967
+	  - Loi n°72-1121 1972-12-20 art. 16 Finances pour 1973 JORF 21 décembre 1972
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+
+### IMPOSITIONS REGIONALES.
+
+###### Article 155 N
+
+Les dispositions des articles 155 C à 155 M sont applicables à la taxe différentielle [*vignette*] sur les véhicules à moteur
+et à la taxe spéciale sur les voitures particulières d'une puissance fiscale supérieure à 16 CV perçues au profit de la
+région de Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGIAN4 155 C à CGIAN4 155 M
+
+	**Créé par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
