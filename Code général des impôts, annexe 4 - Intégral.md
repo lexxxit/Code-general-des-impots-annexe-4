@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1983-01-14
+Version Consolidée au 1983-03-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15019,6 +15019,28 @@ désigné à cet effet. Dans ce cas  l'impôt est augmenté des frais de traite 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 192 bis
+
+Lorsqu'un redevable est admis au bénéfice du paiement par obligations cautionnées dans les conditions prévues à l'article
+1692 du code général des impôts, le taux de l'intérêt pour les crédits concédés prévu à l'article 194 est fixé à 12,50 % l'an
+en France continentale.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 1983-02-25 JORF 5 mars 1983)
+
+	**Codifié par**:
+
+	  - Arrêté 1983-07-10
+
+	**Cite**:
+
+	  - CGI 1692
+	  - CGIAN4 194
 
 
 ### Section III : Contributions indirectes
