@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1990-06-29
+Version Consolidée au 1991-02-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3250,18 +3250,15 @@ passagers.
 
 En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
-est fixé, pour les années 1989 et 1990, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
+est fixé, pour les années 1990 et 1991, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
 demandes déposées au titre d'une année civile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1990-02-06 art. 1 JORF 14 février 1990
-
-	**Codifié par**:
-
-	  - Arrêté 1990-09-10
+	  - Arrêté 1991-01-24 art. 1 JORF 1er février 1991
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 	**Cite**:
 
