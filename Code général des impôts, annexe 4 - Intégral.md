@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-02-01
+Version Consolidée au 1985-02-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12395,14 +12395,14 @@ des pénalités prévues aux articles 1727, 1728, 1731 et 1784 à 1786 du code g
 
 En application de l'article 242-0P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
 ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0M de la même annexe
-est fixé, pour 1984 à 1500 F pour les demandes déposées au titre d'un trimestre civil et à 180 F pour les demandes déposées
-au titre d'une année civile.
+est fixé, pour l'année 1985, à 1500 F pour les demandes déposées au titre d'un trimestre civil et à 180 F pour les demandes
+déposées au titre d'une année civile.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1985-09-24
 
 	**Cite**:
 
