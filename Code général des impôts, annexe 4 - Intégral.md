@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-11-13
+Version Consolidée au 1987-12-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11288,6 +11288,47 @@ entreprises d'assurance à l'occasion de l'émission des primes ou cotisations r
 	  - Code des assurances R321-1
 
 
+##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
+
+###### Article 159 septies
+
+Les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général des impôts sont fixés comme
+suit :
+
+Désignation :
+
+Véhicules automobiles de transport de marchandises dont le P.A.T.C. (1) est égal ou supérieur à 3,5 tonnes et inférieur à 6
+tonnes Pour la période du 1er janvier au 31 décembre 1988 : 274 F
+
+Désignation :
+
+Véhicules automobiles de transport de marchandises dont le P.A.T.C.   est égal ou supérieur à 6 tonnes et inférieur à 11
+tonnes Pour la période du 1er janvier au 31 décembre 1988 : 410 F 
+
+Désignation :
+
+Véhicules automobiles de transport de marchandises dont le P.A.T.C. est égal  ou supérieur à 11 tonnes Tracteurs routiers
+Véhicules de transport en commun de voyageurs Pour la période du 1er janvier au 31 décembre 1988 : 615 F
+
+(1) Poids total autorisé en charge.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1987-12-14 art. 1 JORF 27 décembre 1987
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGIAN2 339
+	  - CGIAN2 340
+	  - CGIAN2 341
+
+
 ### Titre III : Dispositions communes
 
 #### Frais d'assiette et de perception
@@ -14399,44 +14440,6 @@ Ouen-l'Aumône. Parmain. Saint-Prix. Persan. Sannois. Pierrelaye. Sarcelles. Pis
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### TAXE AU PROFIT DE L'ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANS LES TRANSPORTS.
-
-###### Article 159 septies
-
-Les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général des impôts sont fixés comme
-suit :
-
------------------------------------------------------------------- !                                       !   Pour la
-période du   ! !             DESIGNATION               ! 1er janvier au 31      ! !                                       !
-décembre 1987.  F.  ! ------------------------------------------------------------------ ! Véhicules automobiles de transport
-de !                        ! ! marchandises dont le P.A.T.C. (1)     !                        ! ! est égal ou supérieur à
-3,5 tonnes    !                        ! ! et inférieur à 6 tonnes ..............!         257            ! ! Véhicules
-automobiles de transport de !                        ! ! marchandises dont le P.A.T.C. est égal!                        ! !ou
-supérieur à 6 tonnes et inférieur   !                        ! !à 11 tonnes............................!
-385            ! ! Véhicules automobiles de transport de !                        ! ! marchandises dont le P.A.T.C. est
-égal!                        ! !ou supérieur à 11 tonnes ..............!                        ! ! Tracteurs
-routiers....................!         578            ! ! Véhicules de transport en commun de   !                        ! !
-voyageurs ............................!                        !
------------------------------------------------------------------- ! (1) Poids total autorisé en
-charge.                            ! ---------------------------------------------------------------
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1986-12-29 art. 1 JORF 1 janvier 1987
-
-	**Codifié par**:
-
-	  - Arrêté 1987-11-23
-
-	**Cite**:
-
-	  - CGIAN2 339
-	  - CGIAN2 340
-	  - CGIAN2 341
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
