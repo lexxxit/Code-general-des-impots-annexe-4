@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2002-08-31
+Version Consolidée au 2003-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1738,53 +1738,53 @@ Taux applicable : 0 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Moins de 9 839 euros / Année
+Moins de 10 007 euros / Année
 
-Moins de 2 460 euros / Trimestre
+Moins de 2 502 euros / Trimestre
 
-Moins de 820 Euros / Mois
+Moins de 834 euros / Mois
 
-Moins de 190 Euros / Semaine
+Moins de 192 euros / Semaine
 
-Moins de 32 Euros / Jour ou fraction de jour
+Moins de 32 euros / Jour ou fraction de jour
 
 Taux applicable : 15 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-De 9 839 à 28 548 Euros / Année
+De 10 007 à 29 034 euros / Année
 
-De 2 460 à 7 137 Euros / Trimestre
+De 2 502 à 7 259 euros / Trimestre
 
-De 820 à 2 379 Euros / Mois
+De 834 à 2 420 euros / Mois
 
-De 190 à 549 Euros / Semaine
+De 192 à 558 euros / Semaine
 
-De 32 à 92 Euros / Jour ou fraction de jour
+De 32 à 93 euros / Jour ou fraction de jour
 
 Taux applicable : 25 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de 28 548 Euros / Année
+Au-delà de 29 034 euros / Année
 
-Au-delà de 7 137 Euros / Trimestre
+Au-delà de 7 259 euros / Trimestre
 
-Au-delà de 2 379 Euros / Mois
+Au-delà de 2 420 euros / Mois
 
-Au-delà de 549 Euros / Semaine
+Au-delà de 558 euros / Semaine
 
-Au-delà de 92 Euros / Jour ou fraction de jour.
+Au-delà de 93 euros / Jour ou fraction de jour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2001-12-28 art. 1 JORF 29 décembre 2001
+	  - Arrêté 2002-12-30 art. 1 JORF 31 décembre 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -6176,6 +6176,29 @@ timbrer faisant l'objet du présent article est simplement tenue d'en faire la d
 	  - HISTO: Edition du 1er janvier 2007
 
 
+#### Chapitre 0 II : Taxe sur le chiffre d'affaires des exploitants agricoles
+
+###### Article 50 terdecies-0
+
+Le montant de la partie forfaitaire de la taxe sur le chiffre d'affaires des exploitants agricoles perçue au profit de
+l'Agence de développement agricole et rural, mentionné au III de l'article 302 bis MB du code général des impôts, est fixé à
+90 euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2002-12-31 art. 1 JORF 1er janvier 2003
+
+	**Codifié par**:
+
+	  - Arrêté 2003-03-31
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
 #### Chapitre II : Redevance sanitaire d'abattage
 
 ###### Article 50 terdecies
@@ -8068,7 +8091,7 @@ Produits pour l'entretien de la chevelure (l'hygiène et les soins de la chevelu
 
 Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
 réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
-d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2002 conformément au tableau ci-après :
+d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2005 conformément au tableau ci-après :
 
 Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
 d'alcool pur ;
@@ -8080,16 +8103,15 @@ Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ;
 
 Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur.
 
-**Nota:**
-
-NOTA : Arrêté 2005-12-23 art. 1  : Les dispositions prévues par l'arrêté du 31 décembre 1999 sont prorogées jusqu'au 31
-décembre 2008.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-12-31 art. 1 JORF 27 janvier 2000
+	  - Arrêté 2002-12-31 art. 1 JORF 4 janvier 2003
+
+	**Codifié par**:
+
+	  - Arrêté 2003-03-31
 
 	**Cite**:
 
@@ -8097,7 +8119,7 @@ décembre 2008.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### 2° : Régime de l'exportation préalable
@@ -9979,7 +10001,10 @@ indications suivantes ;
 
 1. appellation du produit telle qu'elle figure dans l'arrêté fixant son prix de vente au détail ;
 
-2. pays de fabrication ;
+a) Pays de fabrication, pour les produits fabriqués dans un pays tiers ;
+
+b) Pays de fabrication, ou mention : "fabriqué en Union européenne", ou mention : "fabriqué en UE", pour les produits
+fabriqués dans un Etat membre de l'Union ;
 
 3. désignation du fournisseur ;
 
@@ -9996,23 +10021,21 @@ d. (disposition devenue sans objet).
 
 e. exportation ou la désignation du pays de destination pour les produits destinés à l'exportation.
 
+6. Le numéro du lot ou un équivalent permettant d'identifier le lieu et le moment de la fabrication.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2002-06-11 art. 1, art. 2 JORF 15 juin 2002
 
 	**Codifié par**:
 
-	  - Arrêté 1987-11-23
+	  - Arrêté 2003-03-31
 
 	**Cité par**:
 
 	  - Arrêté du 11 décembre 2001 - art. 1 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-
-	**Modifié par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 32 (P) JORF 31 décembre 1986
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -15016,49 +15039,43 @@ EN EUROS
 
 Huile d'olive
 
-Par centaine de kg : 15,365
+Par centaine de kg : 15,595
 
-Par centaine de litre : 13,833 
+Par centaine de litre : 14,040 
 
 Huile d'arachide et de maïs
 
-Par centaine de kg : 13,833
+Par centaine de kg : 14,040
 
-Par centaine de litre : 12,595 
+Par centaine de litre : 12,784 
 
 Huiles de colza et de pépins de raisins
 
-Par centaine de kg : 7,087
+Par centaine de kg : 7,193
 
-Par centaine de litre : 6,452 
+Par centaine de litre : 6,549 
 
 Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
 internationales ou nationales relatives aux espèces protégées
 
-Par centaine de kg : 12,069
+Par centaine de kg : 12,250
 
-Par centaine de litre : 10,522 
+Par centaine de litre : 10,680 
 
 Huiles de coprah et de palmiste
 
-Par centaine de kg : 9,207
-
-Par centaine de litre : néant 
+Par centaine de kg : 9,345
 
 Huile de palme
 
-Par centaine de kg : 8,433
-
-Par centaine de litre : néant 
+Par centaine de kg : 8,559
 
 Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux
 espèces protégées
 
-Par centaine de kg : 15,365
+Par centaine de kg : 15,595
 
-Par centaine de litre : néant 
-
-(Ces taux sont applicables à compter du 1er janvier 2002).
+(Ces taux sont applicables à compter du 1er janvier 2003).
 
 Le tarif forfaitaire dont le redevable peut demander l'application est fixé par arrêté (1).
 
@@ -15070,26 +15087,25 @@ Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arreté 2002-06-06
-
 	**Modifié par**:
 
-	  - Arrêté 2001-12-17 art. 1 JORF 22 décembre 2001 en vigueur le 1er janvier 2002
+	  - Arrêté 2002-11-29 art. 1 JORF 13 décembre 2002
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_ASSOCIE: Arrêté 2002-03-27
-	  - HISTO: Edition du 31 août 2002
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2000-03-13 3P-5-00
-	  - TXT_ASSOCIE: Instruction 2001-03-23 3P-2-01
-	  - TXT_ASSOCIE: Instruction 2002-12-26 3P-4-02
+	  - Arrêté 2003-03-31
 
 	**Cite**:
 
 	  - CGI 1609 vicies
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+	  - TXT_ASSOCIE: Instruction 2000-03-13 3P-5-00
+	  - TXT_ASSOCIE: Instruction 2001-03-23 3P-2-01
+	  - TXT_ASSOCIE: Instruction 2002-12-26 3P-4-02
+	  - TXT_ASSOCIE: Instruction 2003-06-06 3P-3-03
 
 
 ##### Section IV : Fonds national du livre
@@ -15144,234 +15160,6 @@ Appareils de reprographie de bureautique utilisant la technique du scanner.
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
-
-
-##### Section VII quater A : Taxe parafiscale sur certaines viandes.
-
-###### Article 159 AL quater-0 A
-
-En application de l'article 363 D de l'annexe II au code général des impôts, le montant de la taxe perçue sur certaines
-viandes au profit de l'Association nationale pour le développement agricole est fixé comme suit pour l'année 2002 :
-
-a) 7,30 euros par tonne pour les viandes des animaux des espèces bovine et ovine, des espèces chevaline et asine et de leurs
-croisements, et pour les viandes de poules de réforme ;
-
-b) 5,49 euros par tonne pour les viandes des animaux de l'espèce porcine ;
-
-c) 3,80 euros par tonne pour les viandes des animaux des espèces caprine et cunicole et pour les viandes de dinde, de canard,
-de pintade et d'oie labellisées ;
-
-d) 2,80 euros par tonne pour les viandes de poulet et coq labellisées et les viandes de canard, de pintade et d'oie non
-labellisées ;
-
-e) 1,60 euro par tonne pour les viandes de dinde non labellisées ;
-
-f) 1,45 euro par tonne pour les viandes de poulet et coq non labellisées.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-12-27 art. 1 JORF 30 décembre 2001 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGIAN2 363 D
-
-	**Liens**:
-
-	  - HISTO: Edition 2002-03-31
-	  - HISTO: Edition du 1er janvier 2003
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C, I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-
-##### Section VII quater B : Taxe parafiscale forfaitaire sur les activités agricoles.
-
-###### Article 159 AL quater-0 B
-
-En application de l'article 363 DA de l'annexe II au code général des impôts, le taux de la taxe parafiscale forfaitaire due
-par les exploitants agricoles au titre de leurs activités agricoles au profit de l'Association nationale pour le
-développement agricole est fixé à 76,22 Euros pour l'année 2002.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-12-27 art. 1 JORF 30 décembre 2001 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGIAN2 363 DA
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2002
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C, I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-
-##### Section VII quater C : Taxe parafiscale sur les produits de l'horticulture florale, ornementale et des pépinières.
-
-###### Article 159 AL quater-0 C
-
-En application de l'article 363 DB de l'annexe II au code général des impôts, le taux de la taxe parafiscale perçue sur les
-produits de l'horticulture florale, ornementale et des pépinières au profit de l'Association nationale pour le développement
-agricole est fixé à 1,5 pour mille pour l'année 2002.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-12-27 art. 1 JORF 30 décembre 2001
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGIAN2 363 DB
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2002
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C, I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-
-##### Section X : Taxe parafiscale perçue au profit du fonds de soutien à l'expression radiophonique.
-
-###### Article 159 AL septies
-
-Le taux de la taxe parafiscale mentionnée à l'article 365 de l'annexe II au code général des impôts est fixé, pour les
-recettes perçues à compter du 1er janvier 2002, comme suit :
-
-I. - Publicité radiodiffusée
-
-De 45 734,71 à 228 673,53 euros inclus : 526 euros
-
-De 228 673,53 à 457 347,05 euros inclus : 1 314 euros
-
-De 457 347,05 à 914 694,10 euros inclus : 2 761 euros
-
-De 914 694,10 à 1 372 041,16 euros inclus : 4 734 euros
-
-De 1 372 041,16 à 2 286 735,26 euros inclus : 7 889 euros
-
-De 2 286 735,26 à 3 201 429,36 euros inclus : 12 492 euros
-
-De 3 201 429,36 à 4 573 470,52 euros inclus : 17 882 euros
-
-De 4 573 470,52 à 6 860 205,78 euros inclus : 26 297 euros
-
-De 6 860 205,78 à 9 146 941,03 euros inclus : 38 131 euros
-
-De 9 146 941,03 à 13 720 411,55 euros inclus : 54 435 euros
-
-De 13 720 411,55 à 18 293 882,07 euros inclus : 76 263 euros
-
-De 18 293 882,07 à 22 867 352,59 euros inclus : 102 560 euros
-
-De 22 867 352,59 à 27 440 823,10 euros inclus : 126 228 euros
-
-De 27 440 823,10 à 32 014 293,62 euros inclus : 149 896 euros
-
-De 32 014 293,62 à 36 587 764,14 euros inclus : 173 563 euros
-
-De 36 587 764,14 à 41 161 234,65 euros inclus : 197 231 euros
-
-De 41 161 234,65 à 45 734 705,17 euros inclus : 220 899 euros
-
-De 45 734 705,17 à 50 308 175,69 euros inclus : 244 566 euros
-
-De 50 308 175,69 à 54 881 646,21 euros inclus : 268 234 euros
-
-De 54 881 646,21 à 59 455 116,72 euros inclus : 291 902 euros
-
-De 59 455 116,72 à 64 028 587,24 euros inclus : 315 569 euros
-
-Au-dessus de 64 028 587,24 euros : 344 497 euros
-
-II. - Publicité télévisée
-
-Jusqu'à inclus 457 347,05 euros inclus : 991 euros
-
-De 457347,05 à 914 694,10 euros inclus : 2 942 euros
-
-De 914694,10 à 2 286 735,26 euros inclus : 6 953 euros
-
-De 2 286 735,26 à 4 573 470,52 euros inclus : 17 660 euros
-
-De 4 573 470,52 à 9 146 941,03 euros inclus : 40 617 euros
-
-De 9 146 941,03 à 18 293 882,07 euros inclus : 92 492 euros
-
-De 18 293 882,07 à 27 440 823,10 euros inclus : 182 116 euros
-
-De 27 440 823,10 à 36 587 764,14 euros inclus : 284 764 euros
-
-De 36 587 764,14 à 45 734 705,17 euros inclus : 367 544 euros
-
-De 45 734 705,17 à 54 881 646,21 euros inclus : 454 740 euros
-
-De 54 881 646,21 à 64 028 587,24 euros inclus : 545 246 euros
-
-De 64 028 587,24 à 73 175 528,27 euros inclus : 629 133 euros
-
-De 73 175 528,27 à 82 322 469,31 euros inclus : 717 431 euros
-
-De 82 322 469,31 à 91 469 410,34 euros inclus : 805 731 euros
-
-De 91 469 410,34 à 100 616 351,38 euros inclus : 894 030 euros
-
-De 100 616 351,38 à 109 763 292,41 euros inclus : 982 324 euros<rl 910="" 763="" 233,45="" inclus="" de="" :="" 118="" à=""
-292,41="" 109="" euros="" <br="">
-
-1 070 628 euros<rl de="" 233,45="" 118="" :="" 910="" 174,48="" inclus="" 128="" 057="" euros="" à="" <br="">
-
-1 158 928 euros<rl <br="" :="" euros="" de="" à="" inclus="" 128057174,48="" 137204115,51="">
-
-1 247 224 euros
-
-Au-dessus 137 204 115,51 euros : 1 335 527 euros
-
-</rl></rl></rl>
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1998-07-23 art. 1 JORF 2 septembre 1998
-	  - Loi n°98-546 1998-07-02 1998-07-02 art. 26 JORF 3 juillet 1998 en vigueur le 1er janvier 2002
-	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGIAN2 365
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 3 () JORF 28 décembre 2002
-	  - PEREMPTION: Décret n°2002-1545 du 24 décembre 2002 - art. 4 () JORF 28 décembre 2002
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2002
 
 
 #### Chapitre II bis : Contributions indirectes
@@ -15431,152 +15219,24 @@ hectolitre de vin.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2002-12-31 art. 1 JORF 3 janvier 2003
+
+	**Codifié par**:
+
+	  - Arrêté 2003-03-31
+	  - Arrêté 2004-03-26
+
 	**Cite**:
 
 	  - CGIAN2 361 bis
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
-
-
-##### Section II : Taxe parafiscale au profit du bureau national interprofessionnel du calvados, du pommeau et des eaux-de-vie de cidre et de poiré
-
-###### Article 159 AN
-
-Le taux de la taxe mentionnée à l'article 364 de l'annexe II au code général des impôts est fixé comme suit :
-
-a. 3,81 euros par hectolitre d'alcool pur pour les eaux-de-vie ayant droit à une appellation d'origine contrôlée "Calvados"
-et les eaux-de-vie ayant droit à une appellation d'origine contrôlée "Calvados du Pays d'Auge" ainsi que les produits
-composés élaborés avec ces eaux-de-vie ;
-
-b. 1,89 euros par hectolitre d'alcool pur pour les pommeaux, les eaux-de-vie de cidre et de poiré ayant droit à une
-appellation d'origine réglementée de Normandie, Bretagne et du Maine et pour les produits composés élaborés avec ces eaux-de-
-vie de cidre et de poiré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-	  - Arrêté 2003-03-31
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-06 art. 1 JORF 8 juin 2002
-
-	**Cite**:
-
-	  - CGIAN2 364
-
-	**Liens**:
-
 	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2002
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C, I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-
-##### Section VI : Taxe parafiscale sur les graines oléagineuses et protéagineuses
-
-###### Article 159 AR
-
-En application de l'article 363 F de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
-graines oléagineuses et protéagineuses au profit de l'Association nationale pour le développement agricole est fixé comme
-suit pour la campagne 2001-2002 :
-
-a. colza : 0,56 euro par tonne ;
-
-b. navette : 0,56 euro par tonne ;
-
-c. tournesol : 0,68 euro par tonne ;
-
-d. soja : 0,36 euro par tonne ;
-
-e. pois : 0,16 euro par tonne ;
-
-f. fèves : 0,16 euro par tonne ;
-
-g. féveroles : 0,16 euro par tonne ;
-
-h. lupin doux : 0,16 euro par tonne.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-08-29 art. 1 JORF 13 septembre 2001
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGIAN2 363 F
-
-	**Liens**:
-
-	  - HISTO: Edition 2002-03-31
-	  - HISTO: Edition du 1er janvier 2003
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C, I Finances rectificative pour 2002 JORF 31 décembre 2002
-
-
-##### Section VII : Taxe parafiscale sur les céréales et le riz.
-
-###### Article 159 AS
-
-I. - En application de l'article 363 FA de l'annexe II au code général des impôts, le montant de la taxe parafiscale sur les
-céréales perçue au profit de l'Association nationale pour le développement agricole est fixé comme suit pour la campagne
-2001-2002 :
-
-a) 0,44 euro par tonne pour le blé tendre, le blé dur, l'orge, le maïs et le riz ;
-
-b) 0,24 euro par tonne pour l'avoine, le seigle, le sorgho et le triticale.
-
-II. Les blés tendres retenus au titre de rémunération en nature par les meuniers et boulangers échangistes et livrés à un
-collecteur agréé supportent la somme prévue au I.
-
-III. La taxe prévue par le présent article pour les céréales de qualité saine, loyale et marchande est applicable aux
-céréales non saines, loyales et marchandes.
-
-IV. La taxe assise sur les entrées est calculée par collecteur agréé ou producteur grainier sur le poids à la réception des
-céréales livrées aux collecteurs agréés, déduction faite :
-
-a) De l'humidité excédant le taux de 15 % pour le blé tendre, l'orge, le seigle, le blé dur, le maïs, le sorgho et le riz.
-Pour l'application de cette disposition, l'Office national interprofessionnel des céréales établit les barèmes de conversion
-de poids des céréales présentant une humidité élevée ;
-
-b) Du pourcentage d'impuretés excédant 0,5 % pour le blé dur, 1 % pour le blé tendre, le seigle, l'orge, le maïs, le sorgho,
-le triticale et le riz dans la limite de 1 % pour le blé tendre, le blé dur, le seigle et le triticale, 2 % pour le maïs et
-le sorgho et 2,5 % pour le riz.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-08-29 art. 1 JORF 13 septembre 2001
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGIAN2 363 FA
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2002
-	  - PEREMPTION: Loi n°2002-1576 2002-12-30 art. 43 C, I Finances rectificative pour 2002 JORF 31 décembre 2002
+	  - HISTO: Edition du 1er janvier 2004
+	  - PEREMPTION: Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
 
 
 ##### Section VIII : Taxe parafiscale pour le financement des actions du secteur céréalier
@@ -15584,13 +15244,13 @@ le sorgho et 2,5 % pour le riz.
 ###### Article 159 AT
 
 I. - Les montants de la taxe parafiscale visée au I de l'article 363 AE de l'annexe II au code général des impôts sont fixés
-comme suit pour la campagne céréalière 2001-2002 :
+comme suit pour la campagne céréalière 2002-2003 :
 
-a) 0,77 euro par tonne de blé tendre, d'orge, de maïs et de blé dur ;
+a) 0,77 Euros par tonne de blé tendre, d'orge, de maïs et de blé dur ;
 
-b) 0,72 euro par tonne de seigle, de triticale et de riz ;
+b) 0,72 Euros par tonne de seigle, de triticale et de riz ;
 
-c) 0,49 euro par tonne d'avoine et de sorgho.
+c) 0,49 Euros par tonne d'avoine et de sorgho.
 
 II. - Le produit de cette taxe sera affecté de la façon suivante :
 
@@ -15613,25 +15273,28 @@ de poids des céréales présentant une humidité élevée ;
 
 b) Du pourcentage d'impuretés excédant 0,5 % pour le blé dur, 1 % pour le blé tendre, le seigle, l'orge, le maïs, le sorgho,
 le triticale et le riz dans la limite de 1 % pour le blé tendre, le blé dur, le seigle et le triticale, 2 % pour le maïs et
-le sorgho et 2,5 % pour le riz.
+le sorgho et 2,5 % pour le riz."
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2001-08-29 art. 1 JORF 13 septembre 2001
+	  - Arrêté 2002-12-16 art. 1 à art. 5 JORF 24 décembre 2002
 
 	**Codifié par**:
 
-	  - Arrêté 2002-06-06
+	  - Arrêté 2003-03-31
+	  - Arrêté 2004-03-26
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2004-03-26 art. 1 JORF 30 mars 2004
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2004
 
 	**Cite**:
 
 	  - CGIAN2 363 AE
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
 
 
 #### Chapitre III : Enregistrement
@@ -15756,34 +15419,35 @@ c) Contribution forfaitaire des assurés : 0,02 euro par personne garantie.
 
 ###### Article 159 septies
 
-A compter du 1er janvier 2002, les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général
+A compter du 1er janvier 2003, les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au code général
 des impôts sont fixés ainsi qu'il suit :
 
 1° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est inférieur ou égal à 3,5
 tonnes :
 
-28,30 euros ;
+29 euros ;
 
 2° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est supérieur à 3,5 tonnes et
-inférieur à 6 tonnes : 116 euros ;
+inférieur à 6 tonnes : 118 euros ;
 
 3° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 6 tonnes
-et inférieur à 11 tonnes : 173,54 euros ;
+et inférieur à 11 tonnes : 176 euros ;
 
 4° Véhicules automobiles de transport de marchandises dont le poids total autorisé en charge est égal ou supérieur à 11
 tonnes, tracteurs routiers et véhicules de transport en commun de personnes :
 
-260,46 euros.
+265 euros.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2001-10-16 art. 1 JORF 6 novembre 2001 en vigueur le 1er janvier 2002
+	  - Arrêté 2002-12-27 art. 1 JORF 29 décembre 2002
 
 	**Codifié par**:
 
-	  - Arrêté 2002-06-06
+	  - Arrêté 2003-03-31
+	  - Arrêté 2004-03-26
 
 	**Cite**:
 
@@ -15791,101 +15455,9 @@ tonnes, tracteurs routiers et véhicules de transport en commun de personnes :
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-
-
-### Titre III : Dispositions communes
-
-#### Frais d'assiette et de perception
-
-##### Section II : Contributions indirectes.
-
-###### Article 162
-
-Le produit brut de la licence des débitants de boissons perçue par le service des douanes et droits indirects pour le compte
-des communes en application de l'article 1568 du code général des impôts est versé mensuellement aux collectivités
-bénéficiaires.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGI 1568
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
 	  - HISTO: Edition du 1er janvier 2003
-	  - PEREMPTION: Loi - art. 27 (V) JORF 31 décembre 2002
-
-
-###### Article 163
-
-Le décompte des frais d'assiette et de perception de la taxe visée à l'article 162 est effectué par application du tarif ci-
-après :
-
-Sur la tranche de recettes inférieure à 1 500 euros : 2 % ;
-
-Sur la tranche de recettes comprise entre 1 500 euros et 1 500 000 euros : 1,75 % ;
-
-Sur la tranche de recettes comprise entre 1 500 000 euros et 3 000 000 euros : 0,50 % ;
-
-Sur la tranche de recettes supérieure à 3 000 000 euros : 0,10 %.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2002
-	  - PEREMPTION: Loi - art. 27 (V) JORF 31 décembre 2002
-
-	**Codifié par**:
-
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGIAN4 162
-
-
-###### Article 164
-
-Les frais d'assiette et de perception établis au profit du service des douanes et droits indirects sur les bases indiquées à
-l'article 162, sont payés en une seule fois pour l'année entière dès le début de l'année suivante.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGIAN4 162
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 1er janvier 2003
-	  - PEREMPTION: Loi - art. 27 (V) JORF 31 décembre 2002
+	  - HISTO: Edition du 1er janvier 2004
+	  - PEREMPTION: Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties

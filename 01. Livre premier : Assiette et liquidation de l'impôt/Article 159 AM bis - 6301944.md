@@ -5,16 +5,21 @@ hectolitre de vin.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2002-12-31 art. 1 JORF 3 janvier 2003
+
+	**Codifié par**:
+
+	  - Arrêté 2003-03-31
+	  - Arrêté 2004-03-26
+
 	**Cite**:
 
 	  - CGIAN2 361 bis
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2004
+	  - PEREMPTION: Loi n°2001-692 du 1 août 2001 - art. 63 (V) JORF 2 août 2001
