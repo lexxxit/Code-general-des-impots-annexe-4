@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-08-10
+Version Consolidée au 1987-09-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14371,6 +14371,31 @@ additionnelle au droit de bail instituée par l'article 1635 A du code général
 
 	  - HISTO: EDITION 1979-07-01
 	  - PEREMPTION: Loi n°87-1060 du 30 décembre 1987 - art. 42 (P) JORF 31 décembre 1987
+
+
+###### Article 161 B
+
+Le taux du prélèvement représentant les frais d'assiette et de perception à opérer sur les recouvrements effectués au titre
+de la contribution additionnelle complémentaire prévue au 2° de l'article 1635 bis A du code général des impôts est fixé à 2
+%.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1987-09-23 art. 2 JORF 25 septembre 1987
+
+	**Codifié par**:
+
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGI 1635 bis A 2°
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°88-1149 1988-12-232 art. 38 Finances pour 1989 JORF 28 décembre 1988, incorporée à l'annexe 4 le 14 juillet 1989
 
 
 ## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *RELATIVES AUX IMPOTS D'ETAT ET AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
