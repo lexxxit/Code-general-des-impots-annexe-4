@@ -16,7 +16,7 @@ Le directeur général des impôts ;
 
 Le directeur du budget ;
 
-Le directeur du Trésor ;
+Le directeur général du Trésor et de la politique économique ou son représentant ;
 
 Le directeur de la comptabilité publique ;
 
@@ -44,13 +44,16 @@ Les avis sont émis par la commission en présence uniquement des membres ayant 
 
 	**Codifié par**:
 
-	  - Arrêté 1986-10-07
-	  - Arrêté 1994-10-17
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
 	  - Décret n°52-152 du 13 février 1952 - art. 18, v. init.
 
+	**Modifié par**:
+
+	  - Décret n°2004-1203 du 15 novembre 2004 - art. 3 () JORF 16 novembre 2004
+
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 1er janvier 2005

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2004-09-17
+Version Consolidée au 2005-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1117,40 +1117,43 @@ paiement et éventuellement le relevé de coupons visé à l'article 57 de l'ann
 ###### Article 9
 
 1. Les personnes inconnues des payeurs doivent justifier de leur identité ainsi que de leur domicile ou siège social, par la
-production de l'une des pièces de la liste figurant à l'article 13.
+production de l'une des pièces de la liste figurant à l'article 13. 
 
 L'indication de la pièce produite, ou son numéro de référence à la liste visée au premier alinéa, est portée sur les pièces
-de paiement.
+de paiement. 
 
 2. Lorsque le domicile ou le siège social indiqué par le présentateur ou le bénéficiaire diffère de celui qui figure sur la
 pièce produite, l'intéressé doit souscrire une déclaration de changement de domicile dont le modèle est fixé par
-l'administration.
+l'administration. 
 
 Toutefois, si le domicile ou le siège social indiqué est situé en France alors que la pièce produite mentionne une adresse
 située hors de France, la justification du nouveau domicile ou du nouveau siège ne peut résulter que de l'attestation prévue
-au n° 19 de la liste visée au 1. Cette attestation doit dater de moins d'un an.
+au n° 19 de la liste visée au 1. Cette attestation doit dater de moins d'un an. 
+
+Les personnes présentant un passeport ou une carte d'identité officielle délivré par un Etat membre de la Communauté
+européenne qui déclarent être résidentes d'un pays tiers produisent l'attestation de résidence fiscale prévue au dernier
+alinéa de l'article 13. A défaut, elles sont considérées comme résidentes fiscales de l'Etat membre qui délivre le passeport
+ou la carte d'identité officielle.
+
+**Nota:**
+
+Ces dispositions entrent en vigueur pour l'identification des présentateurs et des bénéficiaires de revenus de capitaux
+mobiliers à compter du 1er janvier 2004, en application des dispositions du II de l'article 24 de la loi de finances
+rectificative pour 2003.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-
 	**Modifié par**:
 
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
-
-	**Cite**:
-
-	  - CGIAN4 13
+	  - Arrêté 2005-02-15 art. 1 I JORF 17 février 2005 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 11 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 13 (V)
 
 
 ###### Article 10
@@ -1168,23 +1171,28 @@ code général des impôts, justifie que les coupons sont présentés pour le co
 
 ###### Article 11
 
-Lorsque le présentateur déclare encaisser des coupons pour le compte de tiers qu'il désigne  il doit produire les
-justifications visées à l'article 9, pour chacun des bénéficiaires non connus du payeur. Dans cette hypothèse  le payeur
-établit au nom de chaque bénéficiaire une pièce de paiement  ainsi que le relevé prévu à l'article 14 et le certificat
-d'avoir fiscal ou de crédit d'impôt ; il conserve, le cas échéant, comme pièce justificative la liste prévue au 2 de
-l'article 57 de l'annexe II du code général des impôts qui lui a été remise par le présentateur.
+Lorsque le présentateur déclare encaisser des coupons pour le compte de tiers qu'il désigne il doit produire les
+justifications visées à l'article 9, pour chacun des bénéficiaires non connus du payeur. Dans cette hypothèse le payeur
+établit au nom de chaque bénéficiaire une pièce de paiement ainsi que le relevé prévu à l'article 14 et le certificat de
+crédit d'impôt ; il conserve, le cas échéant, comme pièce justificative la liste prévue au 2 de l'article 57 de l'annexe II
+du code général des impôts qui lui a été remise par le présentateur. 
 
 Si la présentation est faite par une personne ou société soumise aux dispositions du 1 de l'article 57 susvisé et tenue par
-conséquent de déclarer à l'administration les coupons payés par elle  ces coupons peuvent faire l'objet d'une pièce distincte
-de paiement établie au nom de la personne ou société requérante  comme il est dit ci-dessus  mais sans production de liste
-annexe  et portant la mention "P.C. tiers" (pour le compte de tiers).
+conséquent de déclarer à l'administration les coupons payés par elle ces coupons peuvent faire l'objet d'une pièce distincte
+de paiement établie au nom de la personne ou société requérante comme il est dit ci-dessus mais sans production de liste
+annexe et portant la mention " P. C. tiers " (pour le compte de tiers).
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2004-12-30 art. 1 JORF 31 décembre 2004
+
 	**Cite**:
 
-	  - CGIAN2 57 1, 2
-	  - CGIAN4 9, 14
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 57 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 14 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 9 (V)
 
 
 ###### Article 12
@@ -1204,61 +1212,76 @@ une pièce d'identité à son propre nom, n'a pas fait la déclaration ci-dessus
 ###### Article 13
 
 L'identité des présentateurs et des bénéficiaires de revenus ainsi que leur domicile ou leur siège social sont valablement
-établis à l'égard du payeur par la production des pièces suivantes :
+établis à l'égard du payeur par la production des pièces suivantes : 
 
-A. Personnes physiques
+I. Personnes physiques 
 
-1° Carte nationale d'identité ;
+1° Carte nationale d'identité ou carte d'identité officielle délivrée par un autre Etat que la France accompagnée si
+nécessaire de tout document probant comportant l'adresse ou le numéro d'identification fiscale ; 
 
 2° Carte photographique d'identité non périmée, délivrée aux membres de familles nombreuses pour les voyages en chemin de
-fer ;
+fer ; 
 
-3° Carte photographique d'abonnement, non périmée, sur les chemins de fer ;
+3° Carte photographique d'abonnement, non périmée, sur les chemins de fer ; 
 
-4° Permis de chasse ;
+4° Permis de chasse ; 
 
 5° Livret d'identité à coupons pour le paiement des pensions et retraites civiles et militaires de l'Etat, portant la
-photographie du bénéficiaire ;
+photographie du bénéficiaire ; 
 
-6° Carte d'identité professionnelle à l'usage des voyageurs de commerce ;
+6° Carte d'identité professionnelle à l'usage des voyageurs de commerce ; 
 
 7° Carte photographique d'invalidité, non périmée, délivrée par les comités départementaux des mutilés et réformés de
-guerre ;
+guerre ; 
 
-8° Carte d'identité délivrée par les préfectures aux grands mutilés pour les voyages à tarif réduit ;
+8° Carte d'identité délivrée par les préfectures aux grands mutilés pour les voyages à tarif réduit ; 
 
 9° Carte photographique de priorité dans les voitures de transport en commun, non périmée, délivrée aux mutilés de guerre par
-la préfecture ;
+la préfecture ; 
 
-10° Carte photographique d'identité des officiers de l'armée active ;
+10° Carte photographique d'identité des officiers de l'armée active ; 
 
-11° Livret de solde pour officier marinier et marin ;
+11° Livret de solde pour officier marinier et marin ; 
 
-12° Livret professionnel maritime ;
+12° Livret professionnel maritime ; 
 
-13° Passeport français non périmé, ou périmé depuis moins de cinq ans ;
+13° Passeport français non périmé, ou périmé depuis moins de cinq ans ; 
 
-14° Passeport étranger non périmé ;
+14° Passeport étranger non périmé accompagné si nécessaire de tout document probant comportant l'adresse ou le numéro
+d'identification fiscale ; 
 
-15° Carte photographique d'identité, non périmée, instituée pour tous les étrangers résidant en France.
+15° Carte photographique d'identité, non périmée, instituée pour tous les étrangers résidant en France. 
 
-B. Personnes morales
+II. Personnes morales ou organismes sans personnalité morale 
 
-16° Exemplaire des statuts certifié par le représentant légal de la société ;
+1° Exemplaire des statuts ou tous documents constitutifs certifiés par le représentant légal de la société ou de
+l'organisme ; 
 
-17° Récépissé de la déclaration à la préfecture ou sous-préfecture (associations) ; 18° Récépissé de la déclaration
-d'existence visée à l'article 23 A, ou de la déclaration modificative visée à l'article 23 B.
+2° Récépissé de la déclaration à la préfecture ou sous-préfecture (associations) ; 
 
-C. Personnes physiques ou morales
+3° Récépissé de la déclaration d'existence visée à l'article 23 A, ou de la déclaration modificative visée à l'article 23 B.
 
-19° Attestation délivrée par le service des impôts et mentionnant le domicile ou siège social ainsi que le lieu d'imposition
-de la personne qui y est désignée.
+III. Personnes physiques ou morales ou organismes sans personnalité morale 
+
+Attestation délivrée par le service des impôts ou par l'autorité administrative compétente du lieu de résidence fiscale et
+mentionnant le domicile ou siège social ainsi que le lieu d'imposition de la personne qui y est désignée.
+
+**Nota:**
+
+Ces dispositions entrent en vigueur pour l'identification des présentateurs et des bénéficiaires de revenus de capitaux
+mobiliers à compter du 1er janvier 2004, en application des dispositions du II de l'article 24 de la loi de finances
+rectificative pour 2003.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2005-02-15 art. 1 II JORF 17 février 2005 en vigueur le 1er janvier 2004
+
 	**Cite**:
 
-	  - CGIAN4 23 A, 23 B
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 A (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 B (V)
 
 	**Cité par**:
 
@@ -1323,36 +1346,36 @@ ces fiches ne dépasse pas 21 cm x 13 cm ;
 
 2° Les relevés visés à l'article 14 (coupons payés aux guichets ou par correspondance) portent :
 
-a. La désignation et l'adresse de l'établissement payeur ou le cachet du comptable public ;
+a. la désignation et l'adresse de l'établissement payeur ou le cachet du comptable public ;
 
-b. La date de paiement ;
+b. la date de paiement ;
 
-c. Le numéro de la pièce de paiement correspondante si celle-ci est numérotée ;
+c. le numéro de la pièce de paiement correspondante si celle-ci est numérotée ;
 
-d. Selon le cas, l'une des mentions suivantes :
+d. selon le cas, l'une des mentions suivantes :
 
 Les nom et prénoms ou raison sociale du bénéficiaire des revenus, ainsi que l'adresse de son domicile ou de son siège
 social ;
 
 La mention "P.C. tiers" ;
 
-e. Les nom, prénoms et adresse du domicile réel du présentateur, s'il est différent du bénéficiaire des revenus ;
+e. les nom, prénoms et adresse du domicile réel du présentateur, s'il est différent du bénéficiaire des revenus ;
 
-f. Suivant le cas, soit la mention "C" (connu), soit l'indication de la pièce justificative présentée ou son numéro de
+f. suivant le cas, soit la mention "C" (connu), soit l'indication de la pièce justificative présentée ou son numéro de
 référence à la liste figurant à l'article 13 ;
 
 3° (Disposition devenue sans objet).
 
 4° Les relevés visés au 2° comportent en outre :
 
-a. Le montant imposable à l'impôt sur le revenu, déduction faite des seuls frais d'encaissement des coupons, d'une part, des
+a. le montant imposable à l'impôt sur le revenu, déduction faite des seuls frais d'encaissement des coupons, d'une part, des
 produits de valeurs mobilières à revenu fixe ouvrant droit à l'abattement prévu au troisième alinéa du 3 de l'article 158 du
-code général des impôts, d'autre part des dividendes susceptibles de bénéficier de ce même abattement (1) ;
+code général des impôts, d'autre part des dividendes susceptibles de bénéficier de ce même abattement ;
 
 b. Le montant imposable à l'impôt sur le revenu, déterminé comme ci-dessus, des revenus des valeurs autres que celles visées
 au a ;
 
-c. Le montant net payé au titre des revenus visés aux a et b, après déduction, le cas échéant :
+c. le montant net payé au titre des revenus visés aux a et b, après déduction, le cas échéant :
 
 de la retenue à la source prévue à l'article 119 bis du code général des impôts ;
 
@@ -1360,33 +1383,23 @@ de l'impôt étranger, s'il s'agit de revenus de valeurs mobilières étrangère
 
 des frais d'encaissement des coupons ;
 
-d. L'avoir fiscal ou le crédit d'impôt attaché à la perception des revenus visés aux a et b ;
+d. le crédit d'impôt attaché à la perception des revenus visés aux a et b ;
 
-e. Le montant net payé des revenus non imposables à l'impôt sur le revenu, les intérêts des emprunts 4,25 % 1963 et 4,25 % -
+e. le montant net payé des revenus non imposables à l'impôt sur le revenu, les intérêts des emprunts 4,25 % 1963 et 4,25 % -
 4,75 % 1963 étant, le cas échéant, mentionnés à part.
 
 Pour les produits payés en monnaie étrangère, les sommes figurant sur les relevés de coupons doivent être indiquées pour leur
 contre-valeur en euros au jour du paiement.
 
-**Nota:**
-
-(1) Abattement sur ces produits abrogé pour l'imposition des revenus des années 1996 et suivantes.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 2 II JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+	  - Arrêté 2004-12-30 art. 1 JORF 31 décembre 2004
 
 	**Liens**:
 
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 mars 2002
-
-	**Cite**:
-
-	  - CGI 158, 119 bis
-	  - CGIAN4 14, 13
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 16
@@ -1644,27 +1657,34 @@ L'agrément prévu à l'article 41 H de l'annexe III au code général des impô
 de l'article 156 du même code est délivré par le directeur des services fiscaux du département au chef-lieu duquel est
 localisée la direction de contrôle fiscal dans le ressort de laquelle est situé l'immeuble concerné. Si la demande présente
 des difficultés particulières tenant notamment à la nature de l'immeuble ou aux conditions de son occupation, la décision est
-prise par le ministre de l'économie, des finances et du budget.
+prise par le ministre chargé du budget. 
 
 L'agrément est délivré pour la région d'Ile-de-France par le directeur chargé de la direction spécialisée des impôts pour la
 région d'Ile-de-France et pour Paris et dans les départements d'outre-mer par le directeur des services fiscaux
 territorialement compétent.
 
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 26-I [l] et XI-3 de la loi n° 2013-1278 du 29 décembre 2013.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2005-04-06
 
 	**Modifié par**:
 
-	  - Arrêté 2000-08-31 art. 1 JORF 3 septembre 2000
+	  - Décret n°2004-1016 2004-09-22 art. 1 C JORF 29 septembre 2004
 
 	**Liens**:
 
-	  - SPEC_APPLI: Arrêté 2000-08-31 art. 8
-	  - HISTO: Edition du 31 mars 2001
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - CGI 156
-	  - CGIAN3 41 H
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 156
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 H
 
 
 ###### Article 17 ter
@@ -1752,20 +1772,20 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2004, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2005, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 Taux applicable : 0 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Moins de 10 177 euros / Année
+Moins de 10 350 euros / Année
 
-Moins de 2 544 euros / Trimestre
+Moins de 2 588 euros / Trimestre
 
-Moins de 848 euros / Mois
+Moins de 863 euros / Mois
 
-Moins de 196 euros / Semaine
+Moins de 199 euros / Semaine
 
 Moins de 33 euros / Jour ou fraction de jour
 
@@ -1773,39 +1793,39 @@ Taux applicable : 15 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-De 10 177 à 29 528 euros / Année
+De 10 350 à 30 030 euros / Année
 
-De 2 544 à 7 382 euros / Trimestre
+De 2 588 à 7 508 euros / Trimestre
 
-De 848 à 2 461 euros / Mois
+De 863 à 2 503 euros / Mois
 
-De 196 à 568 euros / Semaine
+De 199 à 578 euros / Semaine
 
-De 33 à 94 euros / Jour ou fraction de jour
+De 33 à 96 euros / Jour ou fraction de jour
 
 Taux applicable : 25 p. 100
 
 Limite des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de 29 528 euros / Année
+Au-delà de 30 030 euros / Année
 
-Au-delà de 7 382 euros / Trimestre
+Au-delà de 7 508 euros / Trimestre
 
-Au-delà de 2 461 euros / Mois
+Au-delà de 2 503 euros / Mois
 
-Au-delà de 568 euros / Semaine
+Au-delà de 578 euros / Semaine
 
-Au-delà de 94 euros / Jour ou fraction de jour.
+Au-delà de 96 euros / Jour ou fraction de jour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2003-12-31 art. 1 JORF 1er janvier 2004
+	  - Arrêté 2004-12-30 art. 1 JORF 31 décembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -1931,6 +1951,38 @@ foyers fermés, les inserts des cheminées intérieures et les chaudières.
 	**Liens**:
 
 	  - HISTO: Edition du 31 août 2004
+
+
+##### Crédit d'impôt pour dépenses d'équipement de l'habitation principale
+
+###### Article 18 ter
+
+La liste des équipements spécialement conçus pour les personnes âgées ou handicapées, mentionnés au 1 de l'article 200 quater
+A du code général des impôts, est fixée comme suit : 
+
+1. Equipements sanitaires attachés à perpétuelle demeure : éviers et lavabos à hauteur réglable ; baignoires à porte ;
+surélévateur de baignoire ; siphon dévié ; cabines de douche intégrales ; bacs et portes de douche ; sièges de douche muraux,
+w.-c. pour personnes handicapées ; surélévateurs de w.-c. ; 
+
+2. Autres équipements de sécurité et d'accessibilité attachés à perpétuelle demeure : appareils élévateurs verticaux
+comportant une plate-forme aménagée en vue du transport d'une personne handicapée et les élévateurs à déplacements inclinés
+spécialement conçus pour le déplacement d'une personne handicapée, définis à l'article 30-0 C ; mains courantes ; barres de
+maintien ou d'appui ; appui ischiatique ; poignées de rappel de portes ; poignées ou barre de tirage de porte adaptée ; barre
+métallique de protection ; rampes fixes ; systèmes de commande, de signalisation ou d'alerte ; dispositifs de fermeture,
+d'ouverture ou systèmes de commande des installations électriques, d'eau, de gaz et de chauffage ; mobiliers à hauteur
+réglable ; revêtement de sol antidérapant ; revêtement podotactile ; nez de marche ; protection d'angle ; revêtement de
+protection murale basse ; boucle magnétique ; système de transfert à demeure ou potence au plafond.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-02-09 art. 1 B JORF 15 février 2005
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 30-0 C (V)
+	  - Code général des impôts, CGI. - art. 200 quater A (V)
 
 
 #### Chapitre II : Impôt sur les sociétés
@@ -2310,19 +2362,30 @@ d'instruments représentatifs de coupons ;
 
 2° L'indication du montant des distributions, correspondant à des rémunérations ou avantages occultes ;
 
+2° bis L'indication du montant des revenus distribués aux associés, actionnaires ou porteurs de parts suivant qu'ils sont
+éligibles ou non à la réfaction de 50 % mentionnée au 2° du 3 de l'article 158 du code général des impôts ;
+
 3° Un relevé des bénéficiaires de distributions autres que celles visées aux 1° et 2°, indiquant les noms, prénoms, qualités
 et domiciles des intéressés, la nature et le montant des sommes versées à chacun d'eux et l'année au cours de laquelle les
 versements ont été effectués.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2004-12-30 art. 1 JORF 31 décembre 2004
+
 	**Cite**:
 
-	  - CGI 223, 108 et suivants
+	  - CGI 223, 108, 158
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 I (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 23 I
@@ -3039,14 +3102,42 @@ Si l'administration le demande, les registres tenus sur support informatique son
 
 ##### Section IV : Calcul de la taxe
 
+##### 0I : Taux normal
+
+###### Article 30-00 A
+
+La liste des gros équipements mentionnés au 1 de l'article 279-0 bis du code général des impôts est fixée comme suit :
+
+1. Système de chauffage : équipements collectifs suivants situés dans un immeuble comportant plusieurs locaux : chaudière
+utilisée comme mode de chauffage ou de production d'eau chaude, cuve à fioul, citerne à gaz et pompe à chaleur ;
+
+2. Ascenseur ;
+
+3. Installations sanitaires : cabine hammam ou sauna prête à poser.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2004-12-30 art. 1 JORF 31 décembre 2004
+
+	**Cite**:
+
+	  - CGI 279-0 bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+
+
 ##### I : Taux réduit
 
 ##### A bis : Equipements spéciaux pour personnes handicapées
 
 ###### Article 30-0 B
 
-La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur ajoutée en application du premier alinéa de
-l'article 278 quinquies du code général des impôts est fixée comme suit :
+La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur ajoutée en application du I de l'article 278
+quinquies du code général des impôts est fixée comme suit :
 
 1. Pour les handicapés moteurs :
 
@@ -3125,48 +3216,57 @@ Dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 2004-09-07 art. 1 JORF 17 septembre 2004
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
 	  - CGI 278 quinquies
 
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Modifié par**:
+
+	  - Loi n°2004-1485 2004-12-30 art. 83 I, II Finances rectificative pour 2004 JORF 31 décembre 2004
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+
 
 ###### Article 30-0 C
 
-Les ascenseurs et matériels assimilés soumis au taux réduit de la taxe sur la valeur ajoutée en application du cinquième
-alinéa de l'article 278 quinquies du code général des impôts sont les matériels suivants, spécialement conçus pour le
-déplacement d'une personne handicapée :
+Les ascenseurs et matériels assimilés soumis au taux réduit de la taxe sur la valeur ajoutée en application du quatrième
+alinéa du II de l'article 278 quinquies du code général des impôts sont les matériels suivants, spécialement conçus pour le
+déplacement d'une personne handicapée : 
 
 1. Les appareils élévateurs verticaux, installés à demeure, comportant une plate-forme aménagée en vue du transport d'une
-personne handicapée, debout ou en fauteuil roulant, avec ou sans accompagnateur, qui répondent aux conditions suivantes :
+personne handicapée, debout ou en fauteuil roulant, avec ou sans accompagnateur, qui répondent aux conditions suivantes : 
 
-a) Ils permettent le déplacement entre deux niveaux définis, avec éventuellement un ou plusieurs niveaux intermédiaires ;
+a) Ils permettent le déplacement entre deux niveaux définis, avec éventuellement un ou plusieurs niveaux intermédiaires ; 
 
-b) Leur vitesse n'excède pas 0,15 mètre par seconde ;
+b) Leur vitesse n'excède pas 0,15 mètre par seconde ; 
 
 c) Ils comportent un frein de sécurité ou autre dispositif d'arrêt d'urgence, et un dispositif protégeant l'accès de la gaine
-à chaque palier ;
+à chaque palier ; 
 
 d) Leur charge nominale minimale est de 200 kilogrammes, à l'exception des appareils élévateurs manuels, pour lesquels la
-charge nominale ne doit pas excéder 200 kilogrammes.
+charge nominale ne doit pas excéder 200 kilogrammes. 
 
 2. Les élévateurs à déplacements inclinés spécialement conçus pour le déplacement d'une personne handicapée accompagnée ou
 non, installés à demeure, se déplaçant le long de guides inclinés, desservant des niveaux définis, circulant au non le long
-d'une ou de plusieurs parois ou éléments de parois, qui répondent aux conditions suivantes :
+d'une ou de plusieurs parois ou éléments de parois, qui répondent aux conditions suivantes : 
 
-a) Ils circulent le long d'un escalier ou d'un plan incliné ;
+a) Ils circulent le long d'un escalier ou d'un plan incliné ; 
 
-b) Ils comportent un plateau accessible au fauteuil roulant ou un siège ;
+b) Ils comportent un plateau accessible au fauteuil roulant ou un siège ; 
 
-c) Leur inclinaison par rapport à l'horizontale n'excède pas 45° ;
+c) Leur inclinaison par rapport à l'horizontale n'excède pas 45° ; 
 
-d) Leur vitesse n'excède pas 0,15 mètre par seconde ;
+d) Leur vitesse n'excède pas 0,15 mètre par seconde ; 
 
 e) Ils comportent un frein de sécurité ou autre dispositif d'arrêt d'urgence, et un dispositif de maintien des personnes lors
-du fonctionnement de l'appareil ;
+du fonctionnement de l'appareil ; 
 
 f) Leur charge nominale n'excède pas 200 kilogrammes.
 
@@ -3174,23 +3274,20 @@ f) Leur charge nominale n'excède pas 200 kilogrammes.
 
 	**Codifié par**:
 
-	  - Arrêté 2002-06-06
+	  - Arrêté 2005-04-06
 
 	**Modifié par**:
 
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
-
-	**Cite**:
-
-	  - CGI 278 quinquies
+	  - Loi n°2004-1485 2004-12-30 art. 83 I, II Finances rectificative pour 2004 JORF 31 décembre 2004
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 ter (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 278 quinquies (Ab)
 
 
 ##### B : Hôtels de tourisme et villages de vacances
@@ -3429,7 +3526,7 @@ b. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les r
 déclaration et dont le lieu d'imposition est situé à Paris ainsi que dans les départements des Hauts-de-Seine, de la Seine-
 Saint-Denis et du Val-de-Marne :
 
-Entreprises individuelles  selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
+Entreprises individuelles  selon que le nom de famille de l'exploitant commence par l'une ou l'autre des lettres ci-après :
 
 A, B, C, D, E, F, G, H : au plus tard le 15 du mois suivant ;
 
@@ -3457,7 +3554,7 @@ Autres redevables : au plus tard le 24 du mois suivant.
 c. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les redevables placés sous le régime de la
 déclaration et dont le lieu d'imposition est situé dans les autres départements :
 
-Entreprises individuelles, selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
+Entreprises individuelles, selon que le nom de famille de l'exploitant commence par l'une ou l'autre des lettres ci-après :
 
 A, B, C, D, E, F, G, H : au plus tard le 16 du mois suivant ;
 
@@ -3485,23 +3582,28 @@ de ces mois sont ceux prévus aux b et c.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 2004-03-18 art. 1 JORF 31 mars 2004
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
 	  - CGI 287
 	  - CGIAN4 199-0
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-1159 2004-10-29 art. 23 : champ d'application
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Modifié par**:
+
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 19 (V) JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 242 sexies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 39 bis (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 39 bis
@@ -11082,27 +11184,50 @@ signature sur ledit contrat.
 Le gérant d'un débit de tabac ordinaire peut demander à modifier le nom du suppléant à tout moment, à partir de la date de
 signature du contrat visé au premier alinéa.
 
+III. -  Le suppléant nommé par le gérant d'un débit de tabac ordinaire doit suivre un stage de formation professionnelle. A
+cet effet, il doit produire une attestation de suivi de stage établie par l'organisme de formation professionnelle au service
+compétent de l'administration des douanes et droits indirects avant de signer le contrat de gérance mentionné au deuxième
+alinéa du 1 de l'article 244 sexies de l'annexe III ou un avenant audit contrat.
+
+Il peut être dérogé à l'obligation de suivi du stage de formation professionnelle dans les cas suivants :
+
+a) Si le suppléant a déjà effectué cette formation et n'a jamais cessé son activité dans un débit de tabac pendant plus d'une
+année ;
+
+b) Si le suppléant est désigné par le gérant du seul débit de tabac d'une commune de moins de 750 habitants et réalisant un
+chiffre d'affaires inférieur à 15 000 Euros par an ;
+
+c) Si le suppléant est désigné par le gérant du seul débit de tabac d'une commune de moins de 750 habitants et s'il répond à
+au moins deux des trois conditions suivantes :
+
+1° Il a exercé la fonction de gérant d'un débit de tabac ou de suppléant d'un gérant de débit de tabac pendant au moins douze
+ans ;
+
+2° Il a plus de soixante ans ;
+
+3° Le chiffre d'affaires du débit dont il est désigné suppléant est inférieur ou égal à 45 000 Euros par an.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2004-10-08
 
 	**Modifié par**:
 
-	  - Arrêté 2004-10-08 art. 1 JORF 10 octobre 2004
+	  - Arrêté 2005-01-28 art. 1 JORF 2 avril 2005
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-07-27 art. 13 JORF 9 août 2007
 
 	**Cite**:
 
 	  - CGIAN3 244 sexies
 
-	**Anciens textes**:
-
-	  - CGIAN4 57 G
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Codifié par**:
+
+	  - L'abrogation sera codifiée ultérieurement
 
 
 ###### Article 57 E
@@ -11473,6 +11598,11 @@ présenter de successeur à l'administration des douanes et droits indirects.
 I. - Les débits de tabac ordinaires peuvent être provisoirement ou définitivement fermés sur décision du directeur régional
 des douanes et droits indirects.
 
+Un débit de tabac ordinaire peut être provisoirement fermé sur décision du directeur régional des douanes et droits indirects
+pour la durée pendant laquelle le représentant de l'Etat dans le département ou le préfet de police à Paris a ordonné la
+fermeture du commerce annexé en application des dispositions de l'article L. 3332-15 du code de la santé publique. Pendant ce
+délai, aucune demande de réouverture par une personne intéressée par la reprise de la gérance n'est recevable.
+
 II. - Sans préjudice de l'arrêté du 31 décembre 1982, modifié par l'arrêté du 5 décembre 1990, relatif au régime des
 sanctions disciplinaires applicables aux débitants de tabac, un débit de tabac ordinaire doit être provisoirement fermé dans
 les cas suivants :
@@ -11527,22 +11657,23 @@ instruite comme une demande de création, dont l'instruction est soumise aux cri
 	  - Arrêté 1990-12-05
 	  - CGI 57 I, 57, 57 A, 57 B
 	  - CGIAN3 244 duodecies, 244 undecies
-
-	**Codifié par**:
-
-	  - Arrêté 2004-10-08
+	  - Code de la santé publique - art. L3332-15 (M)
 
 	**Modifié par**:
 
-	  - Arrêté 2004-10-08 art. 1 JORF 10 octobre 2004
+	  - Arrêté 2005-01-28 art. 2 JORF 2 avril 2005
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - CGIAN4 57 Q
+	  - Arrêté 2007-07-27 art. 13 JORF 9 août 2007
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Codifié par**:
+
+	  - L'abrogation sera codifiée ultérieurement
 
 
 ###### Article 57 O
@@ -11642,6 +11773,11 @@ Le contrat, le cahier des charges et la soumission mentionnés respectivement au
 de l'annexe III au code général des impôts et au 2 du II de l'article 244 undecies de la même annexe sont conformes aux
 modèles figurant en annexe à l'arrêté du 16 janvier 2004.
 
+**Nota:**
+
+NOTA : Le contrat mentionné à l'article 57 Q est conforme au modèle figurant en annexe à l' arrêté du 28 janvier 2005.
+L'annexe I à l'arrêté du 16 janvier 2004 est abrogée.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -11649,21 +11785,13 @@ modèles figurant en annexe à l'arrêté du 16 janvier 2004.
 	  - Arrêté 2004-01-16 annexe
 	  - CGIAN3 244 sexies, 244 undecies
 
-	**Codifié par**:
-
-	  - Arrêté 2004-10-08
-
 	**Modifié par**:
 
-	  - Arrêté 2004-10-08 art. 1 JORF 10 octobre 2004
-
-	**Anciens textes**:
-
-	  - CGIAN4 57 T
+	  - Arrêté 2005-01-28 art. 3 JORF 2 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 57 R
@@ -11861,26 +11989,23 @@ par l'indication de l'état civil et du domicile du défunt, et par la date du d
 
 ###### Article 60 A
 
-Le centre-recette des impôts des entreprises étrangères, installé à Paris, est désigné pour recevoir les déclarations
-relatives à des apports de biens n'ayant pas d'assiette matérielle fixe effectués au profit de sociétés ou groupements
-d'intérêt économique et non constatés par un acte lorsque le siège social ou le domicile des apporteurs n'est pas situé en
-France.
-
-**Nota:**
-
-NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
-2 de l'article 218 A et aux articles 990 D à 990 F du code général des impôts sont tenues de souscrire à compter de cette
-date.
+Le centre-recette des impôts des entreprises étrangères est désigné pour recevoir les déclarations relatives à des apports de
+biens n'ayant pas d'assiette matérielle fixe effectués au profit de sociétés ou groupements d'intérêt économique et non
+constatés par un acte lorsque le siège social ou le domicile des apporteurs n'est pas situé en France.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2005-04-06
+
 	**Modifié par**:
 
-	  - Arrêté 2004-09-08 art. 1, art. 3 JORF 9 septembre 2004
+	  - Arrêté 2005-04-06 art. 1 JORF 8 avril 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### Section II : Obligations diverses
@@ -12742,29 +12867,32 @@ d. Timbres-amendes.
 
 ###### Article 121 KN
 
-Les extraits du répertoire visés au premier alinéa de l'article 983 du code général des impôts sont produits dans les
-conditions prévues à l'article 305 F de l'annexe II au même code à la recette des impôts dont dépendent les personnes visées
-au premier alinéa de l'article 982 de ce code. Ils sont produits dans les mêmes conditions à la recette principale Vivienne
-du 2e arrondissement de Paris lorsque ces personnes sont établies dans la région Ile-de-France.
+La déclaration visée au premier alinéa de l'article 983 du code général des impôts et dont le modèle est joint en annexe à
+l'arrêté du 24 février 2005 est produite dans les conditions prévues à l'article 305 C de l'annexe II au même code à la
+recette des impôts dont dépendent les personnes visées au premier alinéa de l'article 982 de ce code. Elle est produite dans
+les mêmes conditions à la recette principale Vivienne du 2e arrondissement de Paris lorsque ces personnes sont établies dans
+la région Ile-de-France, à l'exclusion de celles relevant de la compétence de la direction des grandes entreprises.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1996-09-12 art. 2 JORF 15 septembre 1996
-
-	**Codifié par**:
-
-	  - Arrêté 1997-05-28
-
-	**Cite**:
-
-	  - CGI 983, 982
-	  - CGIAN2 305 F
+	  - Arrêté 2005-02-24 art. 1 JORF 26 février 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - PERIME: Arrêté du 1er avril 2008 - art. 1
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 305 C
+	  - Code général des impôts, CGI. - art. 982
+	  - Code général des impôts, CGI. - art. 983
 
 
 #### Chapitre III : Autres droits et taxes
@@ -12781,7 +12909,7 @@ en France dans un ou plusieurs établissements, à la recette des impôts du lie
 2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
 plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, à la recette des impôts du
 lieu de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, la déclaration est
-déposée à la recette du centre-recette des impôts des entreprises étrangères.
+déposée au centre-recette des impôts des entreprises étrangères.
 
 **Nota:**
 
@@ -12793,7 +12921,11 @@ date.
 
 	**Modifié par**:
 
-	  - Arrêté 2004-09-08 art. 1 JORF 9 septembre 2004
+	  - Arrêté 2004-02-05 art. 1 JORF 21 mars 2004
+
+	**Codifié par**:
+
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
@@ -12801,7 +12933,7 @@ date.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2005
 
 
 #### Chapitre IV : Régimes spéciaux et exonérations de portée générale
@@ -12969,7 +13101,7 @@ Le directeur général des impôts ;
 
 Le directeur du budget ;
 
-Le directeur du Trésor ;
+Le directeur général du Trésor et de la politique économique ou son représentant ;
 
 Le directeur de la comptabilité publique ;
 
@@ -12997,16 +13129,19 @@ Les avis sont émis par la commission en présence uniquement des membres ayant 
 
 	**Codifié par**:
 
-	  - Arrêté 1986-10-07
-	  - Arrêté 1994-10-17
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
 	  - Décret n°52-152 du 13 février 1952 - art. 18, v. init.
 
+	**Modifié par**:
+
+	  - Décret n°2004-1203 du 15 novembre 2004 - art. 3 () JORF 16 novembre 2004
+
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 1er janvier 2005
 
 
 #### Chapitre III : Déclarations des personnes physiques résidant en Principauté de Monaco
@@ -13306,7 +13441,7 @@ Modification effectuée en conséquence de l'art. 1er  [8°].) du décret n° 20
 
 ###### Article 121 quinquies DB octies
 
-La liste des travaux et des matériels agricoles prévue au 3° bis de l'article 1469 du code général des impôts est fixée comme
+La liste des travaux et des matériels agricoles prévue au 3° ter de l'article 1469 du code général des impôts est fixée comme
 suit :
 
 1. Labours, préparation et entretien des sols de culture :
@@ -13322,28 +13457,32 @@ charrues, matériels de préparation et d'entretien des sols de culture, à dent
 5. Récoltes : matériels de fenaison, de moisson, de vendange ; matériels spécifiques de récolte des racines, des tubercules,
 des fruits et légumes ; matériels de transport et de manutention spécialement agencés pour la récolte ;
 
-6. Ensemble des travaux mentionnés ci-dessus : tracteurs agricoles définis au vingt-sixième alinéa de l'article R. 311-1 du
+6. Ensemble des travaux mentionnés ci-dessus : tracteurs agricoles définis au vingt-huitième alinéa de l'article R. 311-1 du
 code de la route.
+
+**Nota:**
+
+Péremption en conséquence de l'article 2-6.1.34 de la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 2002-06-06
+	  - Arrêté 2005-04-06
+
+	**Modifié par**:
+
+	  - Loi - art. 59 (V) JORF 31 décembre 2003
+	  - Décret n°2004-209 du 4 mars 2004 - art. 1 () JORF 11 mars 2004
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 27 avril 2010 - art. 1
+	  - HISTO: Edition du 1er janvier 2005
 
 	**Cite**:
 
 	  - CGI 1469
-	  - Code de la route. - art. R311-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2001-251 2001-03-22 art. 1, art. 2, art. 5 JORF 25 mars 2001
-	  - Décret n°2001-751 du 27 août 2001 - art. 5 () JORF 28 août 2001
-
-	**Liens**:
-
-	  - HISTO: Edition 2002-03-31
 
 
 ##### 3° : Exonération temporaire de la valeur locative de certains outillages, équipements et installations spécifiques de manutention portuaire
@@ -14868,7 +15007,7 @@ nouveau certificat d'immatriculation. Le cachet de ce service est apposé au ver
 ###### Article 155 H
 
 Le reçu est conservé par le conducteur du véhicule pour être présenté à toute réquisition des agents et fonctionnaires
-désignés aux articles L. 213 et R. 213-1 du livre des procédures fiscales.
+désignés à l'article L. 213 du livre des procédures fiscales.
 
 Cette disposition s'applique aux vignettes de la série normale comme aux vignettes spéciales prévues à l'article 155 C.
 
@@ -14876,17 +15015,21 @@ Cette disposition s'applique aux vignettes de la série normale comme aux vignet
 
 	**Modifié par**:
 
-	  - Arrêté 2001-12-19 art. 1 JORF 22 décembre 2001
+	  - Arrêté 2005-04-06 art. 1 JORF 8 avril 2005
+
+	**Abrogé par**:
+
+	  - Arrêté 2005-05-13 art. 1 JORF 21 mai 2005 en vigueur le 1er mars 2005
 
 	**Cite**:
 
 	  - CGIAN4 155 C
 	  - Livre des procédures fiscales - art. L213 (M)
-	  - Livre des procédures fiscales L213, R213-1
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 155 I
@@ -16797,9 +16940,9 @@ l'âge du véhicule se détermine à partir de la date de la première mise en c
 
 #### Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées
 
-##### Section II : Budget annexe des prestations sociales agricoles
+##### Section II : Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles
 
-##### III : Huiles.
+##### III : Huiles
 
 ###### Article 159 ter A
 
@@ -16812,43 +16955,43 @@ EN EUROS
 
 Huile d'olive
 
-Par centaine de kg : 15,829
+Par centaine de kg : 16,114
 
-Par centaine de litre : 14,251 
+Par centaine de litre : 14,508 
 
 Huile d'arachide et de maïs
 
-Par centaine de kg : 14,251
+Par centaine de kg : 14,508
 
-Par centaine de litre : 12,976 
+Par centaine de litre : 13,209 
 
 Huiles de colza et de pépins de raisins
 
-Par centaine de kg : 7,301
+Par centaine de kg : 7,433
 
-Par centaine de litre : 6,647 
+Par centaine de litre : 6,767 
 
 Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
 internationales ou nationales relatives aux espèces protégées
 
-Par centaine de kg : 12,434
+Par centaine de kg : 12,658
 
-Par centaine de litre : 10,840 
+Par centaine de litre : 11,035 
 
 Huiles de coprah et de palmiste
 
-Par centaine de kg : 9,485
+Par centaine de kg : 9,656
 
 Huile de palme
 
-Par centaine de kg : 8,688
+Par centaine de kg : 8,844
 
 Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux
 espèces protégées
 
-Par centaine de kg : 15,829
+Par centaine de kg : 16,114
 
-(Ces taux sont applicables à compter du 1er janvier 2004).
+(Ces taux sont applicables à compter du 1er janvier 2005).
 
 Le tarif forfaitaire dont le redevable peut demander l'application est fixé par arrêté (1).
 
@@ -16856,21 +16999,18 @@ Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
 
 **Nota:**
 
-(1) Arrêté du 27 mars 2002, JO du 2 mai.    NOTA : Dans les dispositions de nature réglementaire, les références au "budget
-annexe des prestations sociales agricoles" sont remplacées par les références à "l'établissement de gestion du fonds de
-financement des prestations sociales des non-salariés agricoles", cf décret 2004-1428 du 23 décembre 2004 article 14.
-
-Ces dispositions entrent en vigueur le 1er janvier 2005.
+(1) Arrêté du 14 février 2003 - JO du 15 mars 2003.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2003-12-10 art. 1 JORF 23 décembre 2003
+	  - Arrêté 2004-12-15 art. 1 JORF 19 décembre 2004
+	  - Décret n°2004-1428 du 23 décembre 2004 - art. 14 (Ab) JORF 29 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Codifié par**:
 
-	  - Arrêté 2004-03-26
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
@@ -16878,10 +17018,7 @@ Ces dispositions entrent en vigueur le 1er janvier 2005.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
-	  - TXT_ASSOCIE: Instruction 2001-03-23 3P-2-01
-	  - TXT_ASSOCIE: Instruction 2002-12-26 3P-4-02
-	  - TXT_ASSOCIE: Instruction 2003-06-06 3P-3-03
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### Section III : Taxe d'abattage
@@ -17003,7 +17140,7 @@ exploitants agricoles :
 a) Les camions, camionnettes et fourgonnettes ;
 
 b) Tous les engins automoteurs agricoles par destination, tels que tracteurs, moissonneuses-batteuses, récolteuses et leurs
-remorques, y compris les engins visés aux vingt-cinquième à trente et unième alinéas de l'article R. 311-1 du code de la
+remorques, y compris les engins visés aux vingt-septième à trente-troisième alinéas de l'article R. 311-1 du code de la
 route ;
 
 c) Tout autre véhicule automoteur, à l'exception des voitures particulières, utilisé pour les besoins, même partiels, des
@@ -17013,7 +17150,7 @@ exploitations agricoles.
 
 	**Codifié par**:
 
-	  - Arrêté 2002-06-06
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
@@ -17022,12 +17159,11 @@ exploitations agricoles.
 
 	**Modifié par**:
 
-	  - Décret n°2001-251 2001-03-22 art. 1, art. 2, art. 5 JORF 25 mars 2001
-	  - Décret n°2001-751 du 27 août 2001 - art. 5 () JORF 28 août 2001
+	  - Décret n°2004-809 2004-03-04 art. 1 JORF 11 mars 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### Section II : Fonds de garantie des assurances obligatoires de dommages
@@ -19496,7 +19632,7 @@ Trésor public sur un compte visé à l'article 1681 D du code général des imp
 3. Le contribuable peut renoncer à son option en adressant, au comptable chargé du recouvrement, une dénonciation dix jours
 ouvrés au moins avant la date limite de paiement de l'impôt concerné.
 
-4. Le prélèvements sont effectués cinq jours après les dates limites de paiement fixées aux articles 1761, 1762 et 1762
+4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées aux articles 1761, 1762 et 1762
 quater du code général des impôts.
 
 **Nota:**
@@ -19507,7 +19643,7 @@ NOTA : Les dispositions de cette phrase s'appliquent à compter du 1er janvier 2
 
 	**Modifié par**:
 
-	  - Arrêté 2003-09-15 art. 1 JORF 19 septembre 2003
+	  - Arrêté 2004-12-23 art. 1 JORF 29 décembre 2004
 
 	**Cite**:
 
@@ -19520,7 +19656,7 @@ NOTA : Les dispositions de cette phrase s'appliquent à compter du 1er janvier 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ### Section I bis : Intérêts des bons de caisse
@@ -19549,21 +19685,21 @@ créés à seule fin de faciliter le recouvrement ou la mobilisation de la créa
 ###### Article 188 C
 
 Les personnes morales visées à l'article 108 du code général des impôts versent l'impôt afférent aux intérêts de bons de
-caisse à la recette des impôts de la direction des services généraux et de l'informatique.
+caisse à la recette des impôts de la direction des résidents à l'étranger et des services généraux.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
+	  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
+
+	**Codifié par**:
+
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
-	  - CGI 108
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
+	  - Code général des impôts, CGI. - art. 108 (V)
 
 
 ###### Article 188 D
@@ -19610,24 +19746,24 @@ intérêt.
 1. La retenue opérée par les agences ou succursales des établissements de crédit peut faire l'objet de versements globaux.
 Dans ce cas l'organisme centralisateur dresse et conserve pour chaque versement un état faisant apparaître le montant des
 sommes versées pour le compte de chacune des agences ou succursales. Les liasses visées au 3 de l'article 17 A sont
-conservées soit par l'organisme centralisateur soit par l'agence ou succursale.
+conservées soit par l'organisme centralisateur soit par l'agence ou succursale. 
 
-2. La possibilité d'effectuer des versements globaux est subordonnée au dépôt d'une déclaration à la direction des services
-généraux et de l'informatique. Cette déclaration  établie sur papier libre  est signée de la personne habilitée à engager
-l'établissement justifiant de son identité et de l'étendue de ses pouvoirs et contient la désignation de chacune des agences
-ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu où seront conservées les liasses
-visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle déclaration souscrite dans les
-mêmes formes. Chaque déclaration prend effet dès le versement afférent au mois au cours duquel elle intervient.
+2. La possibilité d'effectuer des versements globaux est subordonnée au dépôt d'une déclaration à la direction des résidents
+à l'étranger et des services généraux. Cette déclaration, établie sur papier libre, est signée de la personne habilitée à
+engager l'établissement justifiant de son identité et de l'étendue de ses pouvoirs et contient la désignation de chacune des
+agences ou succursales pour le compte desquelles les versements seront effectués ainsi que du lieu où seront conservées les
+liasses visées au 1. Toute modification des indications qu'elle comporte fait l'objet d'une nouvelle déclaration souscrite
+dans les mêmes formes. Chaque déclaration prend effet dès le versement afférent au mois au cours duquel elle intervient.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
+	  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGIAN4 17 A 3
+	  - Arrêté 2005-04-06
 
 	**Cité par**:
 
@@ -19635,29 +19771,25 @@ mêmes formes. Chaque déclaration prend effet dès le versement afférent au mo
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 A (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 I (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-
 
 ###### Article 188-0 H
 
 La retenue à la source prévue au 2 de l'article 119 bis du code général des impôts est versée à la recette des impôts de la
-direction des services généraux et de l'informatique.
+direction des résidents à l'étranger et des services généraux.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
+	  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
+
+	**Codifié par**:
+
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
-	  - CGI 119 bis
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
+	  - Code général des impôts, CGI. - art. 119 bis (V)
 
 
 ### Section I quater : Prélèvement sur les produits de placements à revenu fixe
@@ -19667,14 +19799,18 @@ direction des services généraux et de l'informatique.
 Le prélèvement opéré par les agences et succursales des établissements de crédit par les caisses publiques et par les caisses
 d'épargne peut faire l'objet de versements globaux dans les conditions prévues à l'article 188 H.
 
-La déclaration préalable qui doit être adressée à la direction des services généraux et de l'informatique peut viser à la
-fois le versement de la retenue à la source prévue audit article et celui du prélèvement.
+La déclaration préalable qui doit être adressée à la direction des résidents à l'étranger et des services généraux peut viser
+à la fois le versement de la retenue à la source prévue audit article et celui du prélèvement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
+	  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
+
+	**Codifié par**:
+
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
@@ -19686,24 +19822,24 @@ fois le versement de la retenue à la source prévue audit article et celui du p
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 188 J
 
 La recette des impôts compétente pour recouvrer l'impôt mentionné à l'article 381 K de l'annexe III au code général des
-impôts est la recette de la direction des services généraux et de l'informatique, quel que soit le lieu de situation de la
-collectivité émettrice.
+impôts est la recette de la direction des résidents à l'étranger et des services généraux, quel que soit le lieu de situation
+de la collectivité émettrice.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1996-09-12 art. 1 JORF 15 septembre 1996
+	  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
 
 	**Codifié par**:
 
-	  - Arrêté 1997-05-28
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
@@ -19711,19 +19847,23 @@ collectivité émettrice.
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 188-0 I
 
 Le prélèvement sur les produits de placements à revenu fixe prévu à l'article 125 A du code général des impôts est versé à la
-recette des impôts de la direction des services généraux et de l'informatique.
+recette des impôts de la direction des résidents à l'étranger et des services généraux.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1997-05-31 art. 1 JORF 1er juin 1997
+	  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
+
+	**Codifié par**:
+
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
@@ -19731,7 +19871,7 @@ recette des impôts de la direction des services généraux et de l'informatique
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2005
 
 
 ### Section II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -19984,15 +20124,14 @@ des impôts.
 ###### Article 207 sexies
 
 1. Par application du 10 de l'article 396 bis de l'annexe II au code général des impôt, la contexture des bordereaux
-d'inscription, attestations de contestation, attestations de paiement,  certificats de subrogation,  états des inscriptions
-et certificats négatifs d'inscription prévus aux 3, 5, 6, 7 et 9 de cet article est fixée conformément aux modèles annexés à
+d'inscription, attestations de contestation, attestations de paiement, certificats de subrogation, états des inscriptions et
+certificats négatifs d'inscription prévus aux 3, 5, 6, 7 et 9 de cet article est fixée conformément aux modèles annexés à
 l'arrêté du 30 mai 1968 (1).
 
-2. Les bordereaux d'inscription,  attestations de contestation, attestations de paiement et certificats de subrogation visés
-au 1 sont établis sur du papier couleur jaune et du format A4 (21- 29,7) de la norme NF Q 02000.
+2. (abrogé)
 
 3. Les états d'inscription visés au 1 peuvent être remplacés par des reproductions photographiques des bordereaux
-d'inscription comportant mention des contestations  des radiations partielles ou des subrogations reçues au greffe.
+d'inscription comportant mention des contestations, des radiations partielles ou des subrogations reçues au greffe.
 
 4. La réquisition de l'état des inscriptions prévue au 9 de l'article 396 bis de l'annexe II au code général des impôts est
 établie sur papier libre par le requérant.
@@ -20006,5 +20145,13 @@ attestations de contestation, des attestations de paiement et des certificats de
 
 	  - Arrêté 1968-05-30 annexe
 	  - CGIAN2 396 bis
+
+	**Modifié par**:
+
+	  - Arrêté 2004-10-15 art. 1 JORF 27 octobre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
 
 

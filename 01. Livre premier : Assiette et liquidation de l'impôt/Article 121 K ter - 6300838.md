@@ -8,7 +8,7 @@ en France dans un ou plusieurs établissements, à la recette des impôts du lie
 2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
 plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, à la recette des impôts du
 lieu de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, la déclaration est
-déposée à la recette du centre-recette des impôts des entreprises étrangères.
+déposée au centre-recette des impôts des entreprises étrangères.
 
 **Nota:**
 
@@ -20,7 +20,11 @@ date.
 
 	**Modifié par**:
 
-	  - Arrêté 2004-09-08 art. 1 JORF 9 septembre 2004
+	  - Arrêté 2004-02-05 art. 1 JORF 21 mars 2004
+
+	**Codifié par**:
+
+	  - Arrêté 2005-04-06
 
 	**Cite**:
 
@@ -28,4 +32,4 @@ date.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2005
