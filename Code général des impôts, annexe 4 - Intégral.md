@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-07-29
+Version Consolidée au 1982-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7572,6 +7572,55 @@ l'ouvrage.
 
 ##### Section VII : Fonds d'orientation et de régularisation des marchés agricoles.
 
+###### Article 159 AJ
+
+Les taux de la taxe parafiscale perçue au profit du fonds d'orientation et de régularisation des marchés agricoles en matière
+de produits résineux sont déterminés comme suit  par référence au tarif des douanes :
+
+NUMERO DU TARIF DE DOUANE D'IMPORTATION : 38-05        Par quintal
+F    Tall Oil (résine liquide) :
+
+- A Brut                                           0,3       - B Autre                                          0,3 NUMERO DU
+TARIF DE DOUANE D'IMPORTATION : 38-07  Essence de térébenthine, essence de bois de     pin ou essence de pin, essence de
+papeterie     au sulfate et autres solvants terpéniques, etc. :
+
+- A Essence de térébenthine                        0,3       - B Essence de papeterie au sulfate,           dipentène brut
+0,3       - C Autres :
+
+- huiles de pin                            0,3               - autres essences et solvants                 terpéniques
+provenant de la                 distillation ou d'autres traitements                 de conifères ; essence de papeterie
+au bisulfite                             0,3  NUMERO DU TARIF DE DOUANE D'IMPORTATION : 38-08   Colophanes et acides
+résiniques et leurs      dérivés autres que les gommes esters      du 39-05 ; essence de colophane et huiles      de
+colophane.
+
+- A Colophane (y compris les produits               dits brais résineux)                        0,7           - B Essence de
+colophane et huile de               colophane                                   0,7           - C Autres
+0,7   NUMERO DU TARIF DE DOUANE D'IMPORTATION :
+
+Ex 38-09 B    Liants pour noyaux de fonderie à base de      produits résineux naturels                           0,7
+Ex B   NUMERO DU TARIF DE DOUANE D'IMPORTATION :
+
+Ex 39-05       Résines naturelles, modifiées par fusion ;
+
+résines artificielles obtenues par          estérification de résines naturelles          ou d'acides résiniques (gommes
+esters),          etc.                Ex B          Gommes esters                                     0,7.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1981-09-15 art. 1 JORF 20 septembre 1981
+
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 1991-09-09 art. 1 JORF 10 septembre 1991
+	  - HISTO: Edition du 24 juin 1991
+
+
 ###### Article 159 AK
 
 Pour les produits fabriqués en France  les factures établies par les personnes redevables de la taxe doivent obligatoirement
@@ -7718,6 +7767,32 @@ payés en une seule fois pour l'année entière dès le début de l'année suiva
 
 ##### I : Déclaration des comptes financiers
 
+###### Article 164 FB
+
+Les déclarations d'ouverture, de clôture ou de modification des comptes de toute nature incombent aux établissements,
+personnes physiques ou morales, qui gèrent ces comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1982-06-14 art. 1 JONC 22 juin 1982
+
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 FC (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 FD (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 FF (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
 ###### Article 164 FC
 
 Les déclarations d'ouverture, de clôture ou de modification de comptes visées à l'article 164 FB sont souscrites dans le mois
@@ -7748,6 +7823,66 @@ fichier (1) la liste de ceux qui sont détenus par une ou plusieurs personnes ph
 	**Liens**:
 
 	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 164 FD
+
+Les déclarations d'ouverture, de clôture ou de modification de comptes mentionnées à l'article 164 FB doivent comporter les
+renseignements suivants :
+
+La désignation et l'adresse de l'établissement qui gère ce compte ;
+
+La désignation du compte, numéro, nature, type et caractéristique ;
+
+La date et la nature de l'opération déclarée : ouverture, clôture ou modification en distinguant si celle-ci affecte le
+compte lui-même ou son titulaire ;
+
+Pour les personnes physiques, leurs nom, prénoms, date et lieu de naissance, adresse et numéro SIRET pour les entrepreneurs
+individuels ;
+
+Pour les personnes morales, leur dénomination ou raison sociale, forme juridique, numéro SIRET et adresse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1982-06-14 art. 3 JONC 22 juin 1982
+
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+
+	**Cite**:
+
+	  - CGIAN4 164 FB
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 164 FE
+
+Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés, s'exerce auprès du centre des impôts du domicile fiscal du titulaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1982-06-14 art. 5 JONC 22 juin 1982
+
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06 art. 34
 
 
 ###### Article 164 FF
@@ -13426,56 +13561,6 @@ Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### FONDS D'ORIENTATION ET DE REGULARISATION DES MARCHES AGRICOLES
-
-###### Article 159 AJ
-
-Les taux de la taxe parafiscale perçue au profit du fonds d'orientation et de régularisation des marchés agricoles en matière
-de produits résineux sont déterminés comme suit  par référence au tarif des douanes :
-
-NUMERO DU TARIF DE DOUANE D'IMPORTATION : 38-05        Par quintal
-F    Tall Oil (résine liquide) :
-
-- A Brut                                           0,3       - B Autre                                          0,3 NUMERO DU
-TARIF DE DOUANE D'IMPORTATION : 38-07  Essence de térébenthine, essence de bois de     pin ou essence de pin, essence de
-papeterie     au sulfate et autres solvants terpéniques, etc. :
-
-- A Essence de térébenthine                        0,3       - B Essence de papeterie au sulfate,           dipentène brut
-0,3       - C Autres :
-
-- huiles de pin                            0,3               - autres essences et solvants                 terpéniques
-provenant de la                 distillation ou d'autres traitements                 de conifères ; essence de papeterie
-au bisulfite                             0,3  NUMERO DU TARIF DE DOUANE D'IMPORTATION : 38-08   Colophanes et acides
-résiniques et leurs      dérivés autres que les gommes esters      du 39-05 ; essence de colophane et huiles      de
-colophane.
-
-- A Colophane (y compris les produits               dits brais résineux)                        0,7           - B Essence de
-résine et huile de résine        0,7           - C Autres (y compris les dérivés des acides               résiniques et des
-colophanes)               0,7   NUMERO DU TARIF DE DOUANE D'IMPORTATION :
-
-Ex 38-09 B    Liants pour noyaux de fonderie à base de      produits résineux naturels                           0,7
-Ex B   NUMERO DU TARIF DE DOUANE D'IMPORTATION :
-
-Ex 39-05       Résines naturelles, modifiées par fusion ;
-
-résines artificielles obtenues par          estérification de résines naturelles          ou d'acides résiniques (gommes
-esters),          etc.                Ex B          Gommes esters                                     0,7.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Modifié par**:
-
-	  - Arrêté 1981-09-15 art. 1 JORF 20 septembre 1981
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
 
 
 #### COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE.
