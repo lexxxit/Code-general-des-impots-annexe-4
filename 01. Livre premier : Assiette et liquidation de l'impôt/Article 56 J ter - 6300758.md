@@ -1,8 +1,8 @@
 # Article 56 J ter
 
-La date limite à laquelle les redevables du droit de garantie doivent remettre ou envoyer à la recette des impôts de
-rattachement du bureau de garantie dont ils dépendent la déclaration prévue à l'article 521 du code général des impôts est
-fixée comme suit :
+La date limite à laquelle les redevables du droit de garantie doivent remettre ou envoyer à la recette des douanes et droits
+indirects de rattachement du bureau de garantie dont ils dépendent la déclaration prévue à l'article 521 du code général des
+impôts est fixée comme suit :
 
 1° Pour les entreprises individuelles, avant le 10 du mois suivant ;
 
@@ -13,13 +13,10 @@ suivant ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1984-07-17 art. 1 JORF 24 juillet 1984
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
+	  - Arrêté 1993-01-04 art. 15 JORF 5 janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cite**:
 
