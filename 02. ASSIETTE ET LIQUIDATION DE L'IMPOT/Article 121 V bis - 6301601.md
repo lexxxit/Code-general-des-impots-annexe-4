@@ -4,8 +4,8 @@ Dans chacun des départements de la Guadeloupe, de la Guyane, de la Martinique, 
 territoriale de Saint-Pierre-et-Miquelon , la commission locale instituée par l'article 18 du décret n° 52-152 du 13 février
 1952 est composée comme suit :
 
-Le commissaire de la République du département, le préfet représentant de l'Etat dans la collectivité territoriale ou leur
-représentant, président;
+Le commissaire de la République du département, le préfet commissaire de la République de la collectivité territoriale de
+Saint-Pierre-et-Miquelon ou leur représentant, président;
 
 Le trésorier payeur général;
 
@@ -46,7 +46,7 @@ l'INSEE.
 
 	**Codifié par**:
 
-	  - Arrêté 1986-10-07
+	  - Arrêté 1987-11-23
 
 	**Cite**:
 
@@ -54,4 +54,4 @@ l'INSEE.
 
 	**Modifié par**:
 
-	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
+	  - Loi n°86-1358 1986-12-24 art. 2 JORF 31 décembre 1986

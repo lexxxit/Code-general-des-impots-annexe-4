@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-12-30
+Version Consolidée au 1986-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5984,6 +5984,49 @@ d'outre-mer.
 	  - CGIAN4 56 AA à CGIAN4 56 AO
 
 
+###### Article 56 AQ
+
+Chaque unité de conditionnement pour la vente au détail des tabacs manufacturés doit porter de façon apparente les
+indications suivantes ;
+
+1. appellation du produit telle qu'elle figure dans l'arrêté fixant son prix de vente au détail ;
+
+2. pays de fabrication ;
+
+3. désignation du fournisseur ;
+
+4. nombre de pièces pour les cigares ou cigarillos et cigarettes ou poids net en grammes pour les tabacs à fumer, à priser ou
+à mâcher ; ces mentions doivent être données en chiffres ;
+
+5. a. vente en France pour les produits vendus dans les départements continentaux ;
+
+b. vente en France (Corse) pour les produits vendus dans les départements de la Corse ;
+
+c. vente en France (DOM) pour les produits vendus dans les départements d'outre-mer ;
+
+d. (disposition devenue sans objet).
+
+e. exportation ou la désignation du pays de destination pour les produits destinés à l'exportation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
+
+	**Cité par**:
+
+	  - Arrêté du 11 décembre 2001 - art. 1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 32 (P) JORF 31 décembre 1986
+
+
 ### Titre III : Contributions indirectes et monopoles fiscaux
 
 #### Chapitre premier : Boissons
@@ -10664,6 +10707,32 @@ des impôts.
 	  - HISTO: EDITION 1979-07-01
 
 
+##### Section VII bis : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
+
+###### Article 159 AL bis
+
+Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1987 [*date
+limite*] à 0,75 %[*pourcentage*] dont 0,50 % affecté au comité professionnel de développement de l'horlogerie et 0,25 %
+affecté au centre technique de l'industrie horlogère [*bénéficiaires*].
+
+Il est fixé pour 1988 à 0,70 % dont 0,45 % affecté au comité professionnel de développement de l'horlogerie et 0,25 % affecté
+au centre technique de l'industrie horlogère.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1986-12-24 art. 1 JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
+
+	**Cite**:
+
+	  - CGIAN2 345
+
+
 ##### Section VII quinquies : Taxe parafiscale des industries textiles.
 
 ###### Article 159 AL quater A
@@ -13415,45 +13484,6 @@ correspondantes sont comptabilisées aux produits divers du budget.
 	  - CGIAN3 191
 
 
-### MONOPOLES FISCAUX
-
-#### TABACS.
-
-###### Article 56 AQ
-
-Chaque unité de conditionnement pour la vente au détail des tabacs manufacturés doit porter de façon apparente les
-indications suivantes [*mentions*] :
-
-1. appellation du produit telle qu'elle figure dans l'arrêté fixant son prix de vente au détail;
-
-2. pays de fabrication;
-
-3. désignation du fournisseur;
-
-4. nombre de pièces pour les cigares ou cigarillos et cigarettes ou poids net en grammes pour les tabacs à fumer  à priser ou
-à mâcher; ces mentions doivent être données en chiffres;
-
-5. a. vente en France pour les produits vendus dans les départements continentaux;
-
-b. vente en France (Corse) pour les produits vendus dans les départements de la Corse;
-
-c. vente en France (DOM) pour les produits vendus dans les départements d'outre-mer;
-
-d. vente restreinte pour les produits livrés à ce titre;
-
-e. exportation ou la désignation du pays de destination pour les produits destinés à l'exportation.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 11 décembre 2001 - art. 1 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE
 
 #### OBLIGATIONS DIVERSES.
@@ -13510,8 +13540,9 @@ donnant lieu à la perception des droits de timbre dans les régies de recettes 
 Peuvent notamment être timbrés par ce procédé :
 
 1° Les cartes d'identité professionnelle des voyageurs ou représentants de commerce [*VRP*] et autres cartes d'identité, les
-cartes de séjour de ressortissant d'un Etat membre de la communauté économique européenne (art. 947 et 948 du code général
-des impôts);
+cartes de séjour de ressortissant d'un Etat membre de la communauté économique européenne, les certificats de résidence
+prévus à l'article 7 bis de l'accord du 27 septembre 1968 modifié, publié par les décrets n° 69-243 du 18 mars 1969 et n°
+86-320 du 7 mars 1986 (art. 947 et 948 du code général des impôts);
 
 2° Les cartes de séjour des étrangers, les cartes spéciales délivrées aux étrangers exerçant une profession commerciale
 industrielle, artisanale ou agricole (art. 949 et 950 du code général des impôts);
@@ -13532,12 +13563,9 @@ véhicules à moteur (art. 1635 bis D-I du code général des impôts);
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
 	**Cite**:
 
+	  - Accord 1968-09-27 art. 7 bis
 	  - CGI 1635 bis D I
 	  - CGI 1635 bis G
 	  - CGI 947
@@ -13548,28 +13576,37 @@ véhicules à moteur (art. 1635 bis D-I du code général des impôts);
 	  - CGI 954
 	  - CGI 966
 	  - CGIAN2 339 A CGIAN2 341
+	  - Décret n°69-243 1969-03-18
+	  - Décret n°86-320 1986-03-07
+
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 12 (P) JORF 31 décembre 1985
+	  - Loi n°86-1317 1986-12-30 art. 42 IV, V Finances pour 1987 JORF 31 décembre 1986
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 42 (P) JORF 31 décembre 1986
 
 
 ###### Article 121 KM
 
-Les débitants de tabac perçoivent sur le prix de vente des papiers timbrés et timbres mobiles de toute nature, dont ils
-assurent la débite, une remise calculée au moyen du barème ci-après :
+Les débitants de tabac perçoivent sur le prix de vente des timbres mobiles de toute nature, dont ils assurent la débite, une
+remise calculée au moyen du barème ci-après :
 
-4 % jusqu'à 8.500 F de ventes annuelles;
+4 % jusqu'à 7.000 F de ventes annuelles;
 
-3 % de 8.501 F à 45.000 F de ventes annuelles;
+3 % de 7.001 à 35.000 F de ventes annuelles ;
 
-2 % de 45.001 F à 95.000 F de ventes annuelles;
+2 % de 35.001 à 80.000 F de ventes annuelles ;
 
-1 % au-dessus de 95.000 F de ventes annuelles.
+1 % au-dessus de 80.000 F de ventes annuelles (1).
 
 La remise est liquidée et payée trimestriellement.
 
 Les dispositions du présent article s'appliquent dans les départements de la Corse.
+
+(1) Barème applicable à compter du 1er janvier 1983.
 
 **Liens relatifs à cet article**
 
@@ -13577,9 +13614,13 @@ Les dispositions du présent article s'appliquent dans les départements de la C
 
 	  - Arrêté du 22 décembre 2014 - art. Annexe 1 (V)
 
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
+
 	**Modifié par**:
 
-	  - Arrêté 1985-02-15 art. 1 JORF 6 mars 1985, en vigueur le 1er janvier 1985
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
 
 
 ### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET TAXES ASSIMILEES, A L'ENREGISTREMENT, A LA PUBLICITE FONCIERE ET AU TIMBRE
@@ -13592,8 +13633,8 @@ Dans chacun des départements de la Guadeloupe, de la Guyane, de la Martinique, 
 territoriale de Saint-Pierre-et-Miquelon , la commission locale instituée par l'article 18 du décret n° 52-152 du 13 février
 1952 est composée comme suit :
 
-Le commissaire de la République du département, le préfet représentant de l'Etat dans la collectivité territoriale ou leur
-représentant, président;
+Le commissaire de la République du département, le préfet commissaire de la République de la collectivité territoriale de
+Saint-Pierre-et-Miquelon ou leur représentant, président;
 
 Le trésorier payeur général;
 
@@ -13634,7 +13675,7 @@ l'INSEE.
 
 	**Codifié par**:
 
-	  - Arrêté 1986-10-07
+	  - Arrêté 1987-11-23
 
 	**Cite**:
 
@@ -13642,7 +13683,7 @@ l'INSEE.
 
 	**Modifié par**:
 
-	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
+	  - Loi n°86-1358 1986-12-24 art. 2 JORF 31 décembre 1986
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
@@ -13812,29 +13853,6 @@ Appareils de photocopie par contact  d'un format égal ou inférieur à 305 445 
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### COMITE PROFESSIONNEL INTERREGIONAL DE L'HORLOGERIE ET CENTRE TECHNIQUE DE L'INDUSTRIE HORLOGERE.
-
-###### Article 159 AL bis
-
-Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé jusqu'au 31 décembre 1986 [*date
-limite*] à 0,80 %[*pourcentage*] dont 0,55 % affecté au comité professionnel de développement de l'horlogerie et 0,25 %
-affecté au centre technique de l'industrie horlogère.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1986-02-04 art. 1 JORF 6 février 1986
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Cite**:
-
-	  - CGIAN2 345
 
 
 #### TAXE PERCUE AU PROFIT DU COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT.
