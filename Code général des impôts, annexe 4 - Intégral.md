@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1999-07-01
+Version Consolidée au 1999-12-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17131,7 +17131,7 @@ général des impôts est fixé à 6,10 % du montant hors taxes des cessions en 
 ###### Article 159 AL bis
 
 Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des impôts est fixé à 0,20 % jusqu'au 31 décembre
-((1998)) (M).
+((1999)) (M).
 
 (M) Modification.
 
@@ -17139,11 +17139,11 @@ Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des
 
 	**Modifié par**:
 
-	  - Arrêté 1997-12-23 art. 1 JORF 27 décembre 1997
+	  - Arrêté 1998-12-22 art. 1 JORF 27 décembre 1998
 
 	**Codifié par**:
 
-	  - Arrêté 1998-05-22
+	  - Arrêté 1999-05-18
 
 	**Cite**:
 
@@ -17151,7 +17151,7 @@ Le taux de la taxe prévue à l'article 345 de l'annexe II au code général des
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 1999
 
 
 ##### Section VII quater A : Taxe parafiscale sur certaines viandes.
