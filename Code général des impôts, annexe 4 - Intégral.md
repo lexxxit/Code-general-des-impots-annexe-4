@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-09-01
+Version Consolidée au 1982-10-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15399,6 +15399,32 @@ La mention que le versement est fait en un chèque doit être portée au volant 
 En ce qui concerne les impositions comprises dans les rôles d'impôt sur le revenu mis en recouvrement au cours du mois de
 décembre, la date d'application de la majoration de 10 % pour paiement tardif est fixée au 15 mars de l'année suivante.
 
+
+
+### II : Taxes sur le chiffre d'affaires et taxes assimilées.
+
+###### Article 207 quater A bis
+
+L'amende prévue à l'article 1788 quater du code général des impôts est recouvrée par les comptables de la direction générale
+des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1982-10-01 art. 1 JORF 6 octobre 1982
+
+	**Codifié par**:
+
+	  - Arrêté 1983-07-10
+
+	**Cite**:
+
+	  - CGI 1788 quater
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
 
 
 ## Chapitre I bis A : Sûretés et privilèges
