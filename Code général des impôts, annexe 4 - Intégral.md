@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1987-05-28
+Version Consolidée au 1987-06-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5844,6 +5844,38 @@ La déclaration mentionnée à l'article 56 J ter est souscrite en double exempl
 
 	  - HISTO: Edition du 20 juillet 1984
 	  - HISTO: Edition du 31 août 2004
+
+
+#### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine
+
+##### 1° : Organisation des bureaux de garantie.
+
+###### Article 56 J bis
+
+La rémunération due par les professionnels, en application de l'article 191 de l'annexe III au code général des impôts, pour
+la détermination par les bureaux de garantie du titre des lingots, apprêts ou composants entrant dans leurs fabrications, est
+fixée, par opération, à 250 F pour l'or et le platine et à 100 F pour l'argent.
+
+La rémunération est perçue par la recette divisionnaire de la garantie et des services industriels ; les recettes
+correspondantes sont comptabilisées aux produits divers du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1987-06-15 art. 1 JORF 25 juin 1987
+
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
+
+	**Cite**:
+
+	  - CGIAN3 191
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
 
 
 #### Chapitre I quater : Régime économique du sucre dans les départements d'outre-mer.
@@ -13563,36 +13595,6 @@ charge du contrevenant.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE
-
-###### Article 56 J BIS
-
-La rémunération [*montant*] due par les professionnels, en application de l'article 191 de l'annexe III au code général des
-impôts, pour la détermination par les bureaux de garantie du titre des lingots, apprêts ou composants entrant dans leurs
-fabrications, est fixée, par opération, à 100 F pour l'or et le platine et à 60 F pour l'argent.
-
-La rémunération est perçue par la recette divisionnaire de la garantie et des services industriels ; les recettes
-correspondantes sont comptabilisées aux produits divers du budget.
-
-**Nota:**
-
-[*Arrêté 1987-06-15 art. 1 JORF 25 juin 1987 : tarifs portés à 250 F et 100 F*].
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1982-05-24 art. 1, art. 2 JONC 5 juin 1982
-
-	**Codifié par**:
-
-	  - Arrêté 1982-10-15
-
-	**Cite**:
-
-	  - CGIAN3 191
 
 
 ### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE
