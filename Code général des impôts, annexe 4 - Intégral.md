@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1992-01-09
+Version Consolidée au 1992-01-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2420,64 +2420,60 @@ Egal ou supérieur à 150 % du montant du capital vie : 55 %.
 
 ###### Article 18
 
-Pour l'année 1991, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 1992, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
-TAUX APPLICABLE : 0 p. 100
+Taux applicable : 0 p.100
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
 
-Année (en francs) : Moins de 53 870
+Moins de : 55.500 F / Année
 
-Trimestre (en francs) : Moins de 13 468
+13.875 F / Trimestre
 
-Mois (en francs) : Moins de  4 490
+4.625 F / Mois
 
-Semaine (en francs) : Moins de 1 036
+1.068 F / Semaine
 
-Jour ou fraction de jour (en francs) : Moins de 173
+178 F / Jour ou fraction de jour
 
-TAUX APPLICABLE : 15 p. 100
+Taux applicable : 15 p. 100
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
 
-Année (en francs) : De 53 870 à 156 370
+De : 55.500 F à 161.070 F / Année
 
-Trimestre (en francs) : De 13 468 à 39 093
+De : 13.875 F à 401268 F / Trimestre
 
-Mois (en francs) : De 4 490 à 13 031
+De : 4.625 F à 131423 F / Mois
 
-Semaine (en francs) : De 1 036 à 3 008
+De : 1.068 F à 3.098 F / Semaine
 
-Jour ou fraction de jour (en francs) : De 173 à 502
+De : 178 F à 517 F / Jour ou fraction de jour
 
-TAUX APPLICABLE : 25 p. 100
+Taux applicable : 25 p. 100
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
 
-Année (en francs) : Au-delà de 156 370
+Au-delà de : 161.070 F / Année
 
-Trimestre (en francs) : Au-delà de 39 093
+40.268 F / Trimestre
 
-Mois (en francs) : Au-delà de 13 031
+13.423 F / Mois
 
-Semaine (en francs) : Au-delà de 3 008
+3.098 F / Semaine
 
-Jour ou fraction de jour (en francs) : Au-delà de 502.
+517 F / Jour ou fraction de jour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1991-01-11 art. 1 JORF 16 janvier 1991
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
+	  - Arrêté 1992-01-08 art. 1 JORF 19 janvier 1992
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 4 juillet 1992
 
 
 #### Chapitre II : Impôt sur les sociétés
