@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-04-24
+Version Consolidée au 1982-05-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4640,6 +4640,25 @@ recommandée avec demande d'avis de réception.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 51 F
+
+Après instruction, au cours de laquelle le requérant peut être entendu, le directeur des services fiscaux statue sur la
+demande.
+
+Sa décision est notifiée à l'intéressé au plus tard dans les quatre mois suivant la réception de la demande [*délai de
+notification*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982
 
 
 ##### C : Dispositions générales - Conditions d'exercice de la profession de distillateur.
@@ -10782,108 +10801,23 @@ aux factures-congés dont les marques fiscales ont été imprimées à l'aide de
 
 ##### ALCOOLS
 
-###### Article 51 C
-
-Après instruction  au cours de laquelle le requérant peut être entendu  la direction des services fiscaux intéressée soumet
-la demande  avec ses observations  à la commission départementale prévue à l'article 51 D.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGIAN4 51 D
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982 : les articles 51 C à 51 E deviennent sans objet
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 D
-
-Il est institué dans chaque département une commission  dont la composition est fixée comme suit :
-
-Le directeur des services fiscaux ou son représentant  président;
-
-Le chef de l'arrondissement minéralogique ou son représentant;
-
-Le directeur départemental des prix et des enquêtes économiques ou son représentant.
-
-La commission peut solliciter l'audition d'experts. Elle peut demander au requérant de lui fournir tous documents utiles à
-l'exécution de sa mission. Celui-ci peut être entendu soit sur sa demande  soit sur celle de la commission.
-
-(Les articles 51 C à 51 E deviennent sans objet).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982
-
-
-###### Article 51 E
-
-La commission prévue à l'article 51 D émet un avis  pour chaque dossier qui lui est soumis :
-
-1o Sur le principe du rachat par l'Etat du ou des appareils proposés par le requérant;
-
-2o Si ce principe est admis  sur le prix auquel il convient de fixer ledit rachat.
-
-A cet égard  elle tient compte  d'une part  de l'âge des  appareils, de leur état de marche et du prix des appareils neufs de
-même type ou présentant des caractéristiques similaires et d'autre part de la valeur de récupération des matières dont sont
-composés les organes principaux des appareils.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGIAN4 51 D
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°82-389 1982-05-10 art. 28 JORF 11 mai 1982 : les articles 51 C à 51 E deviennent sans objet
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 51 F
-
-Le directeur des services fiscaux statue sur chaque demande au vu de l'avis émis par la commission.
-
-Sa décision est notifiée à l'intéressé au plus tard dans les quatre mois suivant la réception de la demande [*délai de
-notification*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 51 quater
 
 Le directeur des services fiscaux examine les demandes qui lui sont présentées.
 
 Il prononce une décision de rejet si les garanties offertes par le requérant ne lui paraissent pas suffisantes.
 
-Dans le cas contraire  il propose au préfet l'octroi de l'autorisation demandée.
+Dans le cas contraire  il propose au commissaire de la République l'octroi de l'autorisation demandée.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Arrêté 1987-11-23
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
 
 
 ###### Article 51 quinquies
@@ -12687,7 +12621,7 @@ ou son représentant;
 2° Deux fonctionnaires de la direction générale des impôts ayant au moins le grade d'inspecteur principal;
 
 3° Deux représentants des collectivités locales ou de leurs groupements (communautés urbaines ou districts) désignés par le
-préfet;
+commissaire de la république;
 
 4° Des membres titulaires et des membres suppléants représentants des contribuables concernés par l'actualisation  savoir :
 
@@ -12721,13 +12655,17 @@ Le secrétariat de la commission est assuré par un inspecteur des impôts.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DE (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### AUTRES IMPOSITIONS.
