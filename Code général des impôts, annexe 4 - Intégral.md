@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-07-12
+Version Consolidée au 1986-07-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8584,6 +8584,64 @@ exemplaires à la direction générale des impôts qui en accuse réception.
 	  - CGI 1655 bis
 
 
+###### Article 121 V ter
+
+La commission centrale instituée par l'article 18 du décret n° 52-152 du 13 février 1952 est composée comme suit :
+
+Le représentant des ministres de l'économie et du budget, président ;
+
+Le représentant du secrétaire d'Etat auprès du ministre de l'intérieur (DOM-TOM) ;
+
+Le représentant du ministre dont relève l'activité à encourager ;
+
+Le commissaire général du plan d'équipement et de la productivité ;
+
+L'inspecteur général des finances chargé de la division des départements d'outre-mer ;
+
+Le directeur général des impôts ;
+
+Le directeur du budget ;
+
+Le directeur du Trésor ;
+
+Le directeur de la comptabilité publique ;
+
+Le directeur général des douanes et des droits indirects ;
+
+Le directeur général de la concurrence et de la consommation ;
+
+Le directeur général de la SOCREDOM, ou leurs représentants.
+
+Le secrétariat de la commission centrale est assuré par les services de la direction des affaires économiques, sociales et
+culturelles du secrétariat d'Etat auprès du ministre de l'intérieur (DOM-TOM).
+
+La commission se réunit sur la convocation du président. Sauf en cas d'urgence dûment motivé, ses membres sont convoqués dix
+jours au moins avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins sept membres
+présents . En cas de partage égal des voix, la voix du président est prépondérante.
+
+La commission peut entendre, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
+
+Les membres de la commission, ainsi que les personnalités ou experts entendus à titre consultatif, sont tenus au secret
+professionnel.
+
+Les avis sont émis par la commission en présence uniquement des membres ayant voix délibérative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+	  - Arrêté 1994-10-17
+
+	**Cite**:
+
+	  - Décret n°52-152 du 13 février 1952 - art. 18, v. init.
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 121 V undecies
 
 Le montant minimal du programme d'investissement visé au V de l'article 1655 bis du code général des impôts est fixé à 20
@@ -10390,6 +10448,27 @@ La taxe visée à l'article 1618 bis du code général des impôts est perçue d
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+##### III : Huiles.
+
+###### Article 159 ter A
+
+1. La taxe prévue par l'article 1618 quinquies du code général des impôts est perçue en fonction du poids net des huiles
+végétales et des huiles d'animaux marins incorporées. Ce poids, ainsi que la nature des huiles, doit être expressément
+mentionné sur les déclarations d'importation des produits alimentaires en cause.
+
+2. (Disjoint).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGI 1618 quinquies
 
 
 ##### Section IV : Fonds national du livre
@@ -13463,62 +13542,6 @@ l'INSEE.
 	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
 
 
-###### Article 121 V ter
-
-La commission centrale mentionnée à l'article 208 quater du code général des impôts est composée comme suit :
-
-Le représentant des ministres de l'économie et du budget, président;
-
-Le représentant du secrétaire d'Etat auprès du ministre de l'intérieur (DOM-TOM) ;
-
-Le représentant du ministre dont relève l'activité à encourager ;
-
-Le commissaire général du plan d'équipement et de la productivité; L'inspecteur général des finances chargé de la division
-des départements d'outre-mer ;
-
-Le directeur général des impôts ;
-
-Le directeur du budget ;
-
-Le directeur du Trésor ;
-
-Le directeur de la comptabilité publique ;
-
-Le directeur général des douanes et des droits indirects ;
-
-Le directeur général de la concurrence et de la consommation ;
-
-Le directeur général de la SOCREDOM, ou leurs représentants.
-
-Le secrétariat de la commission centrale est assuré par les services de la direction des affaires économiques, sociales et
-culturelles du secrétariat d'Etat auprès du ministre de l'intérieur (DOM-TOM).
-
-La commission se réunit sur la convocation du président. Sauf en cas d'urgence dûment motivé, ses membres sont convoqués dix
-jours au moins avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins sept membres
-présents. En cas de partage égal des voix, la voix du président est prépondérante.
-
-La commission peut entendre, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
-
-Les membres de la commission, ainsi que les personnalités ou experts entendus à titre consultatif, sont tenus au secret
-professionnel.
-
-Les avis sont émis par la commission en présence uniquement des membres ayant voix délibérative.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1981-12-02 art. 2 JONC 19 décembre 1981
-
-	**Codifié par**:
-
-	  - Arrêté 1982-10-15
-
-	**Cite**:
-
-	  - CGI 208 quater
-
-
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
 
 ### IMPOSITIONS COMMUNALES
@@ -13678,134 +13701,6 @@ Les réfactions prévues à l'article 1613-II-1o du code général des impôts s
 	  - CGI 1613 II 1°
 
 
-#### BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA*
-
-###### Article 159 ter A
-
-1. La taxe prévue par l'article 1618 quinquies du code général des impôts est perçue en fonction du poids net des huiles
-végétales et des huiles d'animaux marins incorporées. Ce poids, ainsi que la nature des huiles, doit être expressément
-mentionné sur les         é déclarations d'importation des produits alimentaires en cause.
-
-2. Le tarif forfaitaire dont le redevable peut demander l'application est fixé comme suit (1) :
-
-NUMERO DU TARIF                            Unité    SOMME A PERCEVOIR    DOUANIER     : Ex 07-02            de perception
-(en francs) DESIGNATION DES MARCHANDISES   Légumes et plantes potagères, cuits ou non, à l'état congelé auxquels ont été
-incorporées   des huiles végétales ou des huiles   d'animaux marins dans une proportion :
-
-- inférieure ou égale à 15 %           100 kg nets          4,8   - comprise entre 15 et 25 %                 -
-7,9   - égale ou supérieure à 25 %                -              12,7 NUMERO DU TARIF : 15-13 DESIGNATION DES MARCHANDISES
-Margarine et assimilés                             Non applicable
-
-NUMERO DU TARIF : Ex 16-02 DESIGNATION DES MARCHANDISES   Autres préparations et conserves   de viandes ou d'abats auxquelles
-ont   été incorporées des huiles végétales   ou des huiles d'animaux marins dans   une proportion :
-
-- inférieure ou égale à 15 %            100 kg nets       4,8     - comprise entre 15 et 25 %               -
-7,9     - égale ou supérieure à 25 %              -              12,7 NUMERO DU TARIF : 16-03 DESIGNATION DES MARCHANDISES
-Extraits et jus de viande et extraits   de poissons auxquels ont été incorporées     des huiles végétales ou des huiles
-d'animaux marins dans une proportion :
-
-- inférieure ou égale à 15 %                 -            4,8     - comprise entre 15 et 25 %                  -
-7,9     - égale ou supérieure à 25 %                 -           12,7
-
-NUMERO DU TARIF : Ex 16-04 DESIGNATION DES MARCHANDISES :
-
-Préparations et conserves de    poissons, y compris le caviar    et ses succédanés, à l'exclusion    des conserves contenant
-moins de    5 % d'huile au kg demi-brut :
-
-- à l'huile d'olive                  100 kg demi-bruts     14,2   - à une autre huile végétale ou     à l'huile d'animaux
-marins                    -          12,7   - à la tomate, cette sauce contenant     une proportion d'huile végétale ou
-d'animaux marins :
-
-- inférieure ou égale à 15 %                   -           4,8    - comprise entre 15 et 25 %                    -
-7,9    - égale ou supérieure à 25 %                   -          12,7
-
-NUMERO DU TARIF : Ex 16-05 DESIGNATION DES MARCHANDISES   Crustacés, mollusques et coquillages   préparés ou conservés :
-100 kg demi-bruts  - à l'huile d'olive                              -          14,2  - à une autre huile végétale ou à
-l'huile d'animaux marins                       -          12,7
-
-NUMERO DU TARIF : Ex 17-04 DESIGNATION DES MARCHANDISES   Sucreries sans cacao auxquelles ont été   incorporées des huiles
-végétales ou   des huiles d'animaux marins dans une   proportion :
-
-- inférieure ou égale à 15 %               100 kg nets      4,8   - comprise entre 15 et 25 %                    -
-7,9   - égale ou supérieure à 25 %                   -           12,7
-
-NUMERO DU TARIF : Ex 18-06 B, C, D DESIGNATION DES MARCHANDISES   Chocolat et autres préparations   alimentaires contenant du
-cacao   auxquels ont été incorporées des   des huiles végétales ou des huiles   d'animaux marins dans une proportion :
-
-- inférieure ou égale à 15 %                   -             4,8   - comprise entre 15 % et 25 %                  -
-7,9   - égale ou supérieure à 25 %                   -            12,7
-
-NUMERO DU TARIF : Ex 19-02 B DESIGNATION DES MARCHANDISES   Préparations pour l'alimentation des    enfants ou pour usages
-diététiques    ou culinaires auxquelles ont été    incorporées des huiles végétales ou    des huiles d'animaux marins dans
-une proportion :
-
-- inférieure ou égale à 15 %                     -            4,8   - comprise entre 15 % et 25 %                    -
-7,9   - égale ou supérieure à 25 %                     -           12,7
-
-NUMERO DU TARIF : Ex 19-08 DESIGNATION DES MARCHANDISES   Produits de la boulangerie fine, de la   pâtisserie et de la
-biscuiterie, même   additionnés de cacao en toutes proportions :
-
-a. Produits de la biscuiterie auxquels ont      été incorporées des huiles végétales ou      des huiles d'animaux marins dans
-une      proportion :
-
-- inférieure ou égale à 15 %                    -           4,8     - comprise entre 15 et 25 %                     -
-7,9     - égale ou supérieure à 25 %                    -          12,7   b. Autres :
-
-- produits de la boulangerie fine               -           1,6     - produits de la pâtisserie                    -
-7,9
-
-NUMERO DU TARIF : Ex 20-02 DESIGNATION DES MARCHANDISES   Légumes et plantes potagères   préparés ou conservés sans
-vinaigre ou acide acétique :
-
-- auxquels ont été incorporées     des huiles végétales ou des huiles     d'animaux marins dans une proportion :
-
-- inférieure ou égale à 15 %                    -           4,8     - comprise entre 15 et 25 %                     -
-7,9     - égale ou supérieure à 25 %                    -          12,7   - pommes chips
-25,4
-
-NUMERO DU TARIF : Ex 20-06 A DESIGNATION DES MARCHANDISES   Fruits à coques (y compris les   arachides) grillés auxquels ont
-été   incorporées des huiles végétales ou   des huiles d'animaux marins dans une   proportion :
-
-- inférieure ou égale à 15 %                    -         4,8     - comprise entre 15 % et 25 %                   -
-7,9     - égale ou supérieure à 25 %                    -        12,7
-
-NATURE DU TARIF : Ex 21-03 B DESIGNATION DES MARCHANDISES   Moutarde préparée                            100 kg nets    7,9
-
-NATURE DU TARIF : Ex 21-04 DESIGNATION DES MARCHANDISES   Sauces, condiments et assaisonnements    composés auxquels ont été
-incorporées    des huiles végétales ou des huiles    d'animaux marins dans une proportion :
-
-- inférieure ou égale à 25 %                      -        12,7   - comprise entre 25 et 50 %                       -
-25,4   - supérieure à 50 % et inférieure à 75 %          -        33,5   - égale ou supérieure à 75 %                      -
-51
-
-NUMERO DU TARIF : Ex 21-05 DESIGNATION DES MARCHANDISES   Préparations pour soupes, potages ou    bouillons ; soupes, potages
-ou bouillons    préparés ; préparations alimentaires    composites homogénéisées                        -           7,9
-
-NUMERO DU TARIF : Ex 21-07 DESIGNATION DES MARCHANDISES   Préparations alimentaires non dénommées    ni comprises ailleurs
-auxquelles ont été    incorporées des huiles végétales ou des    huiles d'animaux marins dans une    proportion :
-
-- inférieure ou égale à 15 %                     -           4,8    - comprise entre 15 et 25 %                      -
-7,9    - égale ou supérieure à 25 %                     -          12,7
-
-NATURE DU TARIF : 22-02  DESIGNATION DES MARCHANDISES    Boissons non alcooliques auxquelles ont    été incorporées des
-huiles végétales ou    des huiles d'animaux marins dans une    proportion :
-
-- inférieure ou égale à 15 %                      -         4,8    - comprise entre 15 et 25 %                       -
-7,9    - égale ou supérieure à 25 %                      -        12,7
-
-(1) Applicable à partir du 1er janvier 1984.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Cite**:
-
-	  - CGI 1618 quinquies
-
-
 #### FONDS NATIONAL DU LIVRE
 
 ###### Article 159 AD
@@ -13904,27 +13799,6 @@ Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au c
 
 
 ### CONTRIBUTIONS INDIRECTES
-
-###### Article 159 AQ
-
-Le taux de la taxe sur certains lubrifiants mis à la consommation prévue à l'article 363 T de l'annexe II au code général des
-impôts est fixé à 40 F par tonne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arreté 1986-10-07
-	  - Arrêté 1981-09-15
-
-	**Créé par**:
-
-	  - Arrêté 1979-06-30 art. 1 JORF 7 juillet 1979
-
-	**Cite**:
-
-	  - CGIAN2 363 T
-
 
 #### COMITE DES FRUITS A CIDRE ET DES PRODUCTIONS CIDRICOLES.
 
@@ -14885,152 +14759,6 @@ doses n'excédant pas 5 %.
 	**Codifié par**:
 
 	  - Arrêté 1981-09-15
-
-
-#### ARTISANS.
-
-###### Article 164 G
-
-Les artisans et façonniers peuvent, sans perdre la qualité d'artisan au sens des dispositions de l'article 1649 quater A du
-code général des Impôts et à la condition d'avoir été désignés à cet effet par les chambres de métiers et de rester sous le
-contrôle de celles-ci, employer, en sus de la main-d'oeuvre prévue à l'article 1649 quater A-1° dudit code, aux fins de
-formation professionnelle ir ou d'apprentissage, un ou plusieurs compagnons ou apprentis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1986-10-07 art. 1
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°69-1161 1969-12-24 art. 5 I Finances pour 1970 JORF 27 décembre 1969 : dispositions devenues sans objet
-
-	**Cite**:
-
-	  - CGI 1649 quater A 1°
-
-
-###### Article 164 H
-
-Les compagnons stagiaires supplémentaires employés ainsi qu'il est prévu à l'article 164 G doivent relever du ministère des
-affaires sociales et faire l'objet entre ce ministère et l'employeur d'un contrat spécial d'apprentissage.
-
-Les apprentis supplémentaires employés dans les conditions prévues à l'article 164 G doivent être âgés de moins de vingt ans
-et provenir :
-
-Soit des centres de formation professionnelle artisanale dépendant du ministère de l'éducation nationale;
-
-Soit d'institutions d'apprentissage artisanal spécialement agréées par le ministère de l'industrie;
-
-Soit d'organismes s'intéressant à la formation professionnelle et au placement des jeunes  spécialement agréés par le
-ministère de l'industrie.
-
-Pendant la durée de l'apprentissage  les apprentis restent sous la dépendance des organismes qui les ont placés et sous le
-contrôle du ministère de l'industrie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1986-10-07 art. 1
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°69-1161 1969-12-24 art. 5 I Finances pour 1970 JORF 27 décembre 1969 : dispositions devenues sans objet
-
-	**Cite**:
-
-	  - CGIAN4 164 G
-
-
-###### Article 164 I
-
-Les dispositions de l'article 164 G ne s'appliquent que si la durée d'emploi n'excède pas un an pour les compagnons visés à
-l'article 164 H et deux ans pour les apprentis visés au même article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1986-10-07 art. 1
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°69-1161 1969-12-24 art. 5 I Finances pour 1970 JORF 27 décembre 1969 : dispositions devenues sans objet
-
-	**Cite**:
-
-	  - CGIAN4 164 G
-	  - CGIAN4 164 H
-
-
-###### Article 164 J
-
-Les chambres de métiers notifient aux directions des services fiscaux les nom prénoms et adresse des artisans chez qui des
-apprentis ou compagnons sont placés dans les conditions prévues aux articles 164 G à 164 I. Elles doivent indiquer également
-les nom prénoms et date de naissance des compagnons ou apprentis ainsi que la date de leur placement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1986-10-07 art. 1
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°69-1161 1969-12-24 art. 5 I Finances pour 1970 JORF 27 décembre 1969 : dispositions devenues sans objet
-
-	**Cite**:
-
-	  - CGIAN4 164 G
-	  - CGIAN4 164 H
-	  - CGIAN4 164 I
-
-
-###### Article 164 K
-
-1. Les artisans ou façonniers peuvent  sans perdre la qualité d'artisan fiscal  employer un compagnon ou un apprenti
-supplémentaire handicapé en sus des concours autorisés prévus à l'article 1649 quater A-1o du code général des impôts.
-
-En outre  au lieu et place de chaque compagnon ou apprenti dont le concours est autorisé par les articles 1649 quater A et
-1649 quater B dudit code  l'entreprise pourra utiliser deux compagnons ou deux apprentis handicapés.
-
-2. Les travailleurs handicapés visés au 1 s'entendent de ceux définis par les articles L 323-9 à L 323-11 du code du travail
-et dont la qualité est reconnue par les commissions départementales techniques d'orientation et de reclassement
-professionnel.
-
-3. Les directions départementales du travail et de la main-d'oeuvre notifient aux directions des services fiscaux les noms
-prénoms et adresses des artisans chez qui sont placés des compagnons ou apprentis qui remplissent les conditions prévues au
-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1986-10-07 art. 1
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°69-1161 1969-12-24 art. 5 I Finances pour 1970 JORF 27 décembre 1969 : dispositions devenues sans objet
-
-	**Cite**:
-
-	  - CGI 1649 quater A 1°
-	  - CGI 1649 quater B
-	  - Code du travail - art. L323-10 (M)
-	  - Code du travail - art. L323-11 (M)
-	  - Code du travail - art. L323-9 (Ab)
 
 
 #### REGLEMENTATION DES MACHINES A TIMBRER.
