@@ -1,4 +1,4 @@
-# Article 164 AY
+# Article 164 AL bis
 
 Les dispositions prévues aux articles 164 L à 164 AL relatives aux machines à timbrer peuvent également être mises en oeuvre
 par les agents de la direction générale des douanes et droits indirects.
@@ -9,19 +9,14 @@ par les agents de la direction générale des douanes et droits indirects.
 
 	  - Arrêté 2004-01-13 art. 8 JORF 17 janvier 2004
 
-	**Transféré par**:
+	**Codifié par**:
 
-	  - Arrêté 2004-10-08 art. 1 JORF 10 octobre 2004
+	  - Arrêté 2004-10-08
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN4 164 AL bis
+	  - CGIAN4 164 AY
 
 	**Cite**:
 
-	  - CGIAN4 164 L à 164 AL
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 L (V)

@@ -1,34 +1,34 @@
 # Article 159 quinquies-0 B
 
 Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
-application des articles 323 et 323 A de l'annexe II au code général des impôts sont fixés comme suit :
+application des articles 323 et 323 A de l'annexe II au code général des impôts sont fixés conformément aux dispositions de
+l'article A. 421-4 du code des assurances ci-après reproduit :
 
-a) Contribution des entreprises d'assurance : 1 % de la totalité des charges du fonds de garantie ;
+Art. A. 421-4 - Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de
+dommages en application des articles R. 421-38 et R. 421-39 sont fixés comme suit :
 
-b) Contribution des responsables d'accidents corporels non assurés :
+Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-38 : 1 % de la totalité des charges des
+opérations du fonds de garantie afférentes à la chasse et à la destruction des animaux nuisibles ;
 
-1° Taux normal : 10 % des indemnités restant à leur charge ;
+Contribution des responsables d'accidents corporels non assurés au titre du 2° de l'article R. 421-38 :
 
-2° Taux réduit lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des
-articles L. 427-6 à L. 427-9 du code de l'environnement : 5 % ;
+- taux normal : 10 % des indemnités restant à leur charge ;
 
-c) Contribution forfaitaire des assurés : 0,02 euro par personne garantie.
+- taux réduit, lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des
+articles 393 à 395 du code rural : 5 % ;
+
+Contribution forfaitaire des assurés au titre du 3° de l'article R. 421-38 : 0,02 euro par personne garantie.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 2004-07-16 art. 2, art. 3 JORF 5 août 2004
+
 	**Codifié par**:
 
-	  - Arrêté 2004-03-26
-
-	**Cite**:
-
-	  - CGIAN2 323, 323 A
-	  - Code de l'environnement L427-6 à L427-9
+	  - Arrêté 2004-10-08
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 81 (V) JORF 2 août 2003
+	  - HISTO: Edition du 31 août 2004

@@ -18,11 +18,11 @@ b. A raison des participations détenues dans une autre société dans la propor
 prévu au premier alinéa du a du I de l'article 219 du code général des impôts et le taux normal prévu au deuxième alinéa du I
 du même article ;
 
-c. En application des dispositions des articles 39 octies A, 39 octies B ou 39 octies D du code général des impôts, par une
-société française à raison des investissements réalisés à l'étranger. Si le résultat de l'exploitation étrangère qui a fait
-l'objet de l'investissement n'est pas retenu pour la détermination du résultat consolidé, la réintégration est limitée à la
-fraction de la provision qui excède le déficit de cette exploitation déterminé selon les modalités prévues au III de
-l'article 39 octies B ou au III de l'article 39 octies D du code déjà cité ;
+c. En application des dispositions des articles 39 octies A ou 39 octies D du code général des impôts, par une société
+française à raison des investissements réalisés à l'étranger. Si le résultat de l'exploitation étrangère qui a fait l'objet
+de l'investissement n'est pas retenu pour la détermination du résultat consolidé, la réintégration est limitée à la fraction
+de la provision qui excède le déficit de cette exploitation déterminé selon les modalités prévues au III de l'article 39
+octies D du code déjà cité ;
 
 2° Des déductions effectuées au titre des dispositions du 2 de l'article 39 quinquies A et du II de l'article 217 undecies du
 code général des impôts par une société à raison des sommes versées pour la souscription au capital d'une autre société.
@@ -40,17 +40,17 @@ deux tiers de leur montant.
 
 	**Codifié par**:
 
-	  - Arrêté 1998-05-22
+	  - Arrêté 2004-10-08
 
 	**Cite**:
 
-	  - CGI 23 bis A, 223 A, 219, 39 octies A, 39 octies B, 39 octies D, 39 octies, 238 bis HA, 39 quinquies A, 216 A, 217 bis
+	  - CGI 23 bis A, 223 A, 219, 39 octies A, 39 octies D, 39 octies, 217 undecies, 39 quinquies A, 216 A, 217 bis
 	  - CGIAN2 116
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2004
 
 	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1997
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 1 () JORF 27 mars 2004

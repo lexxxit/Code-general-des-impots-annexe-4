@@ -5,8 +5,9 @@ fiscaux du département dans lequel le programme d'investissement est réalisé 
 euros.
 
 La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 1.500.000
-euros ou qu'il est réalisé dans plus d'un département d'outre-mer, dans un territoire d'outre-mer, dans la collectivité
-territoriale de Mayotte ou dans celle de Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
+euros ou qu'il est réalisé dans plus d'un département d'outre-mer, en Polynésie française, aux îles Wallis et Futuna, dans
+les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, dans la collectivité territoriale de Mayotte ou dans
+celle de Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
 
 L'agrément est également délivré par le ministre lorsqu'il concerne les investissements nécessaires à l'exploitation d'une
 concession de service public local à caractère industriel et commercial mentionnés au quatrième alinéa du I de l'article 217
@@ -35,16 +36,21 @@ IV. (Dispositions devenues sans objet).
 	  - Arrêté 1996-03-15
 	  - CGI 217 undecies, 8, 239 quater
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 mars 2002
+	  - Arrêté 2004-10-08
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. A333-2 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quaterdecies V (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
+	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
+	  - Loi n°2003-660 2003-07-21 art. 61 II JORF 22 juillet 2003

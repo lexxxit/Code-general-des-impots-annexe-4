@@ -4,7 +4,7 @@
 départements de la Guadeloupe de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée
 est fixée ainsi qu'il suit :
 
-NUMERO DU TARIF des droits de douane d'importation : DESIGNATION DES PRODUITS
+NUMERO DU TARIF des droits de douane d'importation / DESIGNATION DES PRODUITS
 
 40-06 à 40-07 : Tous produits de ces positions.
 
@@ -63,7 +63,7 @@ polyesters ou de rayonne viscose.
 Ex 59-11 : Produits et articles textiles pour usages techniques visés à la note 7 du présent chapitre à l'exclusion des gazes
 et toiles à bluter, même confectionnées.
 
-Ex 63-01 : Couvertures autres que les couvertures chauffantes électriques. 
+Ex 63-01 : Couvertures autres que les couvertures chauffantes électriques.
 
 63-02 à 63-04 : Tous produits de ces positions.
 
@@ -105,9 +105,9 @@ Ex 71-14 : Articles d'orfèvrerie et leurs parties, plaqués ou doublés de mét
 
 Ex 73-23 : Articles de ménage ou d'économie domestique et leurs parties, en fonte, fer ou acier.
 
-73-26 : Autres ouvrages en fer ou en acier.
+73-26 : Autres ou ouvrages en fer ou en acier.
 
-74-17 à 74-19 : Tous produits de ces positions.
+74-17 à 74-19 : : Tous produits de ces positions.
 
 75-08 : Autres ouvrages en nickel.
 
@@ -175,7 +175,7 @@ distributeurs automatiques de billets de banque, machines à trier, à compter o
 appareils à tailler les crayons, appareils à perforer ou à agrafer, par exemple).
 
 Ex 84-73 : Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant exclusivement
-ou principalement destinés aux machines ou appareils des n°s 84-69, 84-70, 84-72.
+ou principalement destinés aux machines ou appareils des n°s 84-69,84-70, 84-72.
 
 84-76 : Machines automatiques de vente de produits (timbres-poste, cigarettes, denrées alimentaires, boissons, par exemple),
 y compris les machines pour changer la monnaie.
@@ -190,7 +190,7 @@ par exemple) ou pour sécher les mains ; fers à repasser électriques ; autres 
 domestiques, résistances chauffantes, autres que celles du n° 85-45.
 
 Ex 85-17 : Appareils électriques pour la téléphonie ou la télégraphie par fil, à l'exception des appareils de
-télécommunication par courant porteur. NUMERO DU TARIF des droits de douane d'importation
+télécommunication par courant porteur. 
 
 85-18 à 85-20 : Tous produits de ces positions.
 
@@ -206,11 +206,13 @@ que ceux du n° 87-02) y compris les voitures du type "break", comportant un min
 
 87-15 : Landaus, poussettes et voitures similaires pour le transport des enfants et leurs parties.
 
-87-16-80 : Autres véhicules non automobiles et leurs parties.
+87-16-80
 
-Ex 87-16-90
+Ex 87-16-90 
 
-89-01
+Autres véhicules non automobiles et leurs parties.
+
+89-01 : : 
 
 Paquebots, bateaux de croisières, transbordeurs, cargos, péniches et bateaux similaires pour le transport de personnes et de
 marchandises.
@@ -241,27 +243,31 @@ sept places assises, reprises au paragraphe ci-dessus (n° Ex 87-02 Ex A) est su
 véhicules au service de la clientèle et limitée en outre à un véhicule par hôtel de 20 à 100 chambres et à deux véhicules par
 hôtel de plus de 100 chambres.
 
-3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée les importateurs doivent :
+3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée, les importateurs doivent :
 
-1° En faire la demande sur la déclaration d'importation;
+1° En faire la demande sur la déclaration d'importation ;
 
-2° Déposer à l'appui de la déclaration d'importation une attestation en double exemplaire indiquant les nom prénoms
-profession ou raison sociale et adresse du destinataire ainsi que la nature la quantité et la valeur des produits importés.
+2° Déposer à l'appui de la déclaration d'importation une attestation en double exemplaire indiquant les nom, prénoms,
+profession ou raison sociale et adresse du destinataire, ainsi que la nature, la quantité et la valeur des produits importés.
 
-Cette attestation devra porter l'engagement pour le cas où les produits ne recevraient pas l'affectation justifiant
-l'exonération de la taxe sur la valeur ajoutée d'acquitter à la recette des impôts la taxe devenue exigible sans préjudice
-des pénalités prévues aux articles 1727, 1729, 1731 et 1784 à 1786 du code général des impôts.
+Cette attestation devra porter l'engagement, pour le cas où les produits ne recevraient pas l'affectation justifiant
+l'exonération de la taxe sur la valeur ajoutée, d'acquitter à la recette des impôts, la taxe devenue exigible, sans préjudice
+des pénalités prévues aux articles 1727, 1729, 1731 et 1785 B à 1786 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 1991-07-24 art. 1 JORF 24 août 1991
+	  - Arrêté 2004-10-08
 
 	**Cite**:
 
-	  - CGI 1727, 1729, 1731, 1784 à 1786
+	  - CGI 1727, 1729, 1731, 1785 B à 1786
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 31 août 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
