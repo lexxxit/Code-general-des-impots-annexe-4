@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1994-08-03
+Version Consolidée au 1994-09-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -883,133 +883,6 @@ s'entend des matériaux naturels présentant une teneur sur produit sec d'au moi
 	  - HISTO: Edition du 24 juin 1991
 
 
-##### III bis : Provision pour prêts d'installation consentis par les entreprises à leurs salariées.
-
-###### Article 4 C quater
-
-Les prêts à taux privilégié sont ceux comportant une durée minimale de sept ans ou  en cas de remboursement anticipé  une vie
-moyenne d'au moins cinq ans  moyennant un taux d'intérêt au plus égal à celui des avances de la Banque de France diminué de
-trois points et apprécié à la date d'octroi du prêt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1994-10-17
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°93-1313 1993-12-20 art. 9 JORF 21 décembre 1993, article sans objet
-
-
-###### Article 4 C quinquies
-
-Les entreprises nouvelles doivent être exploitées en France métropolitaine ou dans les départements d'outre-mer. Elles
-doivent réunir les caractéristiques suivantes :
-
-1o à la clôture de chacun des trois premiers exercices le chiffre d'affaires hors taxe ramené s'il y a lieu à une période de
-douze mois n'excède pas 30 millions de francs et le nombre de salariés est au plus égal à 150, ce chiffre étant apprécié
-comme en matière de participation à la formation professionnelle continue ;
-
-2o à la clôture du deuxième exercice au plus tard le prix de revient des immobilisations amortissables selon le mode
-dégressif en vertu de l'article 39 A-1 du code général des impôts représente au moins les deux tiers du prix de revient des
-immobilisations corporelles amortissables autres que les bâtiments.
-
-3o si l'entreprise nouvelle est constituée sous forme de société les droits de vote attachés aux actions ou aux parts sont
-détenus à concurrence du tiers au moins par le ou les fondateurs à raison de qui le ou les prêts ont été consentis et la
-fraction de ces droits appartenant à des personnes physiques étroitement liées à l'entreprise prêteuse ou détenue par des
-sociétés n'excède pas un tiers. Sont considérées comme étroitement liées à l'entreprise prêteuse les personnes qui y exercent
-des fonctions de dirigeant de droit ou de fait ou qui y détiennent au moins 10 % des droits de vote ainsi que leurs conjoints
-ascendants descendants et alliés en ligne directe.
-
-4o La création a été réalisée un an au plus tard après que le prêt aura été effectivement accordé. Sauf preuve contraire la
-création est réputée intervenir à la date limite fixée par l'article 286-1o du code général des impôts pour le dépôt de la
-déclaration d'existence exigée de toute personne assujettie à la taxe sur la valeur ajoutée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1994-10-17
-
-	**Cite**:
-
-	  - CGI 286 1°
-	  - CGI 39 A 1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°93-1313 1993-12-20 art. 9 JORF 21 décembre 1993, article sans objet
-
-
-###### Article 4 C septies
-
-L'agrément est subordonné à l'engagement souscrit par le représentant légal de l'entreprise prêteuse de garantir la bonne
-exécution au sein de l'entreprise nouvelle des obligations fixées par les articles 4 C quinquies et 4 C sexies.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1994-10-17
-
-	**Cite**:
-
-	  - CGIAN4 4 C quinquies
-	  - CGIAN4 4 C sexies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°93-1313 1993-12-20 art. 9 JORF 21 décembre 1993, article sans objet
-
-
-###### Article 4 C sexies
-
-Les fondateurs de l'entreprise nouvelle à raison desquels les prêts sont consentis ne doivent pas exercer ou avoir exercé des
-fonctions de dirigeant de droit ou de fait dans l'entreprise accordant le prêt  ni être conjoint  ascendant  descendant et
-allié en ligne directe des personnes ayant exercé de telles fonctions. Ils ne peuvent être regardés comme membres du
-personnel de l'entreprise prêteuse qu'à condition d'avoir  à la date d'octroi du prêt  la qualité de salarié de ladite
-entreprise depuis un an au moins. Ils doivent mettre fin à leurs fonctions dès la création de l'entreprise nouvelle et en
-assurer la direction effective.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1994-10-17
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°93-1313 1993-12-20 art. 9 JORF 21 décembre 1993, article sans objet
-
-
-###### Article 4 C ter
-
-Sous réserve que les opérations aient été agréées à cet effet par le ministre du budget les entreprises qui consentent des
-prêts à taux privilégié à des entreprises industrielles nouvelles petites ou moyennes fondées par des membres de leur
-personnel peuvent constituer en franchise d'impôt la provision spéciale prévue à l'article 39 quinquies H-I du code général
-des impôts dont le montant maximal ainsi que les modalités de réintégration sont fixés par le II du même article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1994-10-17
-
-	**Cite**:
-
-	  - CGI 39 quinquies H I, II
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°93-1313 1993-12-20 art. 9 JORF 21 décembre 1993, article sans objet
-
-
 ##### IV : Provision pour implantation commerciale à l'étranger
 
 ###### Article 4 D
@@ -1583,34 +1456,47 @@ général des impôts.
 
 ###### Article 6 ter
 
-La liste des valeurs assorties d'une clause d'indexation auxquelles ne s'appliquent pas les dispositions du troisième alinéa
-du 3 de l'article 158 du code général des impôts  est fixée comme suit :
+La liste des valeurs assorties d'une clause d'indexation auxquelles ne s'appliquent pas les ((dispositions du 1° du troisième
+alinéa du 3 de l'article 158 du code général des impôts)) (1) est fixée comme suit :
 
 1° Fonds d'Etat:
 
-Emprunt d'Etat 7 % [*pourcentage*] 1973;
+Emprunt d'Etat 7 % 1973 ;
 
 2° Valeurs françaises du secteur public et semi-public:
 
 Caisse nationale de l'énergie :
 
-3 % indemnisation E.D.F., G.D.F.
+3 % indemnisation EDF, GDF,
 
-3 % indemnisation E.G.A.
+3 % indemnisation EGA
 
 Charbonnages de France :
 
 3 % intérêt complémentaire variable remboursables avec prime.
 
+(1) Modification.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 158 3 AL. 3
+	  - Arrêté 1994-10-17
+	  - Arrêté 1996-06-21
 
 	**Modifié par**:
 
-	  - Loi n°84-1208 du 29 décembre 1984 - art. 5 (P) JORF 30 décembre 1984
+	  - Arrêté 1994-10-17 art. 1 JORF 19 octobre 1994
+
+	**Cite**:
+
+	  - CGI 158
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 2 septembre 1994
+	  - PEREMPTION: Loi n°95-1346 1995-12-30 art. 5-I JORF 31 décembre 1995
 
 
 ##### I ter : Prélèvement opéré d'office sur les produits de certains placements
@@ -1639,7 +1525,7 @@ Les placements visés à l'article 6 quater comprennent :
 
 Les bons du Trésor sur formules.
 
-Les bons d'épargne des PTT.
+Les bons d'épargne des PTT ou de La Poste ;
 
 Les bons de la caisse nationale de crédit agricole.
 
@@ -1651,13 +1537,22 @@ Les versements en comptes sur livrets.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
 	**Cite**:
 
 	  - CGIAN4 6 quater
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°90-568 1990-07-02 art. 1, art. 41 JORF 8 juillet 1990
+	  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990
 
 
 ##### II : Contrôle des revenus mobiliers
@@ -1890,74 +1785,77 @@ par l'établissement qui en effectue le paiement.
 
 ###### Article 15
 
-1° Les relevés sont établis sous forme de fiches individuelles conformes aux modèles ci-après [*non représentés*].
+1° Les relevés sont établis sous forme de fiches individuelles conformes aux modèles ci-après.
 
-Toutefois  les établissements qui peuvent présenter les renseignements que comportent ces modèles au moyen de fiches
+Toutefois, les établissements qui peuvent présenter les renseignements que comportent ces modèles au moyen de fiches
 mécanographiques ont la faculté de substituer l'usage de ces fiches à l'emploi du modèle officiel pourvu que la dimension de
-ces fiches ne dépasse pas 21 cm x 13 cm.
+ces fiches ne dépasse pas 21 cm x 13 cm ;
 
-2° Les relevés visés à l'article 14 (coupons payés aux guichets ou par correspondance) portent [*mentions obligatoires*] :
+2° Les relevés visés à l'article 14 (coupons payés aux guichets ou par correspondance) portent :
 
-a. La désignation et l'adresse de l'établissement payeur ou le cachet du comptable public;
+a. La désignation et l'adresse de l'établissement payeur ou le cachet du comptable public ;
 
-b. La date de paiement;
+b. La date de paiement ;
 
-c. Le numéro de la pièce de paiement correspondante si celle-ci est numérotée;
+c. Le numéro de la pièce de paiement correspondante si celle-ci est numérotée ;
 
 d. Selon le cas  l'une des mentions suivantes :
 
-Les nom et prénoms ou raison sociale du bénéficiaire des revenus ainsi que l'adresse de son domicile ou de son siège social;
+Les nom et prénoms ou raison sociale du bénéficiaire des revenus, ainsi que l'adresse de son domicile ou de son siège
+social ;
 
-La mention " P.C. tiers ";
+La mention "P.C. tiers" ;
 
-e. Les nom  prénoms et adresse du domicile réel du présentateur s'il est différent du bénéficiaire des revenus;
+e. Les nom, prénoms et adresse du domicile réel du présentateur, s'il est différent du bénéficiaire des revenus ;
 
-f. Suivant le cas  soit la mention " C " (connu)  soit l'indication de la pièce justificative présentée ou son numéro de
-référence à la liste figurant à l'article 13.
+f. Suivant le cas, soit la mention "C" (connu), soit l'indication de la pièce justificative présentée ou son numéro de
+référence à la liste figurant à l'article 13 ;
 
-3° (Devenu sans objet).
+3° (Disposition devenue sans objet).
 
 4° Les relevés visés au 2° comportent en outre :
 
-a. Le montant imposable à l'impôt sur le revenu  déduction faite des seuls frais d'encaissement des coupons  d'une part des
-produits de valeurs mobilières à revenu fixe ouvrant droit à l'abattement de 5.000 F prévu à l'article 158-3 du code général
-des impôts  d'autre part des dividendes susceptibles de bénéficier de l'abattement de 3.000 F prévu au même article;
+a. Le montant imposable à l'impôt sur le revenu, déduction faite des seuls frais d'encaissement des coupons, d'une part, des
+produits de valeurs mobilières à revenu fixe ouvrant droit à l'abattement prévu au troisième alinéa du 3 de l'article 158 du
+code général des impôts, d'autre part des dividendes susceptibles de bénéficier de ce même abattement (1) ;
 
-b. Le montant imposable à l'impôt sur le revenu  déterminé comme ci-dessus  des revenus des valeurs autres que celles visées
-au a;
+b. Le montant imposable à l'impôt sur le revenu, déterminé comme ci-dessus, des revenus des valeurs autres que celles visées
+au a ;
 
-c. Le montant net payé au titre des revenus visés aux a et b après déduction  le cas échéant :
+c. Le montant net payé au titre des revenus visés aux a et b, après déduction, le cas échéant :
 
-De la retenue à la source prévue à l'article 119 bis du code général des impôts;
+De la retenue à la source prévue à l'article 119 bis du code général des impôts ;
 
-De l'impôt étranger  s'il s'agit de revenus de valeurs mobilières étrangères;
+De l'impôt étranger, s'il s'agit de revenus de valeurs mobilières étrangères ;
 
-Des frais d'encaissement des coupons;
+Des frais d'encaissement des coupons ;
 
-d. L'avoir fiscal ou le crédit d'impôt attaché à la perception des revenus visés aux a et b;
+d. L'avoir fiscal ou le crédit d'impôt attaché à la perception des revenus visés aux a et b ;
 
-e. Le montant net payé des revenus non imposables à l'impôt sur le revenu  les intérêts des emprunts 4,25 % 1963 et 4,25
-%-4,75 % 1963 étant  le cas échéant  mentionnés à part.
+e. Le montant net payé des revenus non imposables à l'impôt sur le revenu, les intérêts des emprunts 4,25 % 1963 et 4,25 %
+-4,75 % 1963 étant, le cas échéant, mentionnés à part.
 
-Pour les produits payés en monnaie étrangère  les sommes figurant sur les relevés de coupons doivent être indiquées pour leur
+Pour les produits payés en monnaie étrangère, les sommes figurant sur les relevés de coupons doivent être indiquées pour leur
 contre-valeur en francs au jour du paiement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1985-09-24
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
-	  - CGI 119 bis
-	  - CGI 158 3
-	  - CGIAN4 13
-	  - CGIAN4 14
+	  - CGI 158, 119 bis
+	  - CGIAN4 14, 13
 
 	**Modifié par**:
 
-	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+	  - Décret n°87-416 1987-06-17 art. 28 I JORF 18 juin 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ###### Article 16
@@ -2944,60 +2842,60 @@ Egal ou supérieur à 150 % du montant du capital vie : 55 %.
 
 ###### Article 18
 
-Pour l'année 1992, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 1994, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 Taux applicable : 0 p.100
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
+Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-Moins de : 55.500 F / Année
+Moins de : 58.150 F / Année
 
-13.875 F / Trimestre
+14.538 F / Trimestre
 
-4.625 F / Mois
+4.846 F / Mois
 
-1.068 F / Semaine
+1.119 F / Semaine
 
-178 F / Jour ou fraction de jour
+187 F / Jour ou fraction de jour
 
 Taux applicable : 15 p. 100
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
+Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-De : 55.500 F à 161.070 F / Année
+De : 58.150 F à 168.730 F / Année
 
-De : 13.875 F à 401268 F / Trimestre
+De : 14.538 F à 42.183 F / Trimestre
 
-De : 4.625 F à 131423 F / Mois
+De : 4.846 F à 14.061 F / Mois
 
-De : 1.068 F à 3.098 F / Semaine
+De : 1.119 F à 3.245 F / Semaine
 
-De : 178 F à 517 F / Jour ou fraction de jour
+De : 187 F à 541 F / Jour ou fraction de jour
 
 Taux applicable : 25 p. 100
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
+Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de : 161.070 F / Année
+Au-delà de : 168.730 F / Année
 
-40.268 F / Trimestre
+42.183 F / Trimestre
 
-13.423 F / Mois
+14.061 F / Mois
 
-3.098 F / Semaine
+3.245 F / Semaine
 
-517 F / Jour ou fraction de jour.
+541 F / Jour ou fraction de jour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1992-01-08 art. 1 JORF 19 janvier 1992
+	  - Arrêté 1994-01-10 art. 1 JORF 15 janvier 1994
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 2 septembre 1994
 
 
 #### Chapitre II : Impôt sur les sociétés
@@ -3067,36 +2965,37 @@ sociétés.
 	  - HISTO: Edition du 18 août 1993
 
 
-##### Exonérations et régimes particuliers - Sociétés agréées pour le financement des télécommunications.
+##### 2° : Exonérations et régimes particuliers. Sociétés agréées pour le financement des télécommunications
 
 ###### Article 23 bis
 
-Sont assimilés aux bénéfices provenant des contrats de crédit-bail conclus avec l'administration des postes et
-télécommunications avant le 1er janvier 1993 pour l'application de l'article 208-3° quinquies du code général des impôts :
+Sont assimilés aux bénéfices provenant des contrats de crédit-bail conclus avec l'exploitant public avant le 1er janvier 1993
+pour l'application du 3° quinquies de l'article 208 du code général des impôts : 
 
-1° Les profits retirés par les sociétés agréées pour le financement des télécommunications  du placement à vue ou à court
-terme des sommes en instance d'emploi  dans la mesure où ce placement peut être regardé comme une opération de trésorerie
-accessoire. Cette condition est réputée remplie pour la fraction des placements qui n'excède pas  en valeur nominale  pour
-chaque exercice  la moitié des dépenses annuelles de gestion augmentée du montant des dividendes mis en paiement au cours de
+1° Les profits retirés par les sociétés agréées pour le financement des télécommunications du placement à vue ou à court
+terme des sommes en instance d'emploi, dans la mesure où ce placement peut être regardé comme une opération de trésorerie
+accessoire. Cette condition est réputée remplie pour la fraction des placements qui n'excède pas, en valeur nominale, pour
+chaque exercice, la moitié des dépenses annuelles de gestion augmentée du montant des dividendes mis en paiement au cours de
 l'exercice ainsi que du montant de l'augmentation de capital libérée par les actionnaires pendant le même exercice et
-l'exercice précédent;
+l'exercice précédent ; 
 
-2° Les intérêts versés par l'administration des postes et télécommunications  à raison des avances sur marchés consenties par
-les sociétés agréées aux constructeurs  fournisseurs et autres ayants droit  avant la livraison des immeubles et équipements.
+2° Les intérêts versés par l'exploitant public à raison des avances sur marchés consenties par les sociétés agréées aux
+constructeurs, fournisseurs et autres ayants droit, avant la livraison des immeubles et équipements.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
-
-	**Cite**:
-
-	  - CGI 208 3° quinquies
+	  - Arrêté 1994-10-17
 
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 75 (V) JORF 28 décembre 1988 incorporée à l'annexe 4 le 14 juillet 1989
+	  - Loi n°90-568 1990-07-02 art. 1, art. 41 JORF 8 juillet 1990
+	  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 208 (V)
 
 
 ##### Section I bis : Rectification du résultat consolidé
@@ -3689,21 +3588,26 @@ excéder 60 %, ni être e inférieure à 50 % de la valeur libératoire des titr
 
 ###### Article 23 N
 
-La limite visée au premier alinéa du 8° de l'article 257 du code général des impôts est fixée à 200 F toutes taxes comprises.
+La limite visée au a du 1 du deuxième alinéa du 8° de l'article 257 du code général des impôts est fixée à 200 F toutes taxes
+comprises.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1993-01-26 art. 1 JORF 3 février 1993
-
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
 	  - CGI 257
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°93-1353 du 30 décembre 1993 - art. 17 () JORF 31 décembre 1993
 
 
 ##### I bis : Opérations imposables sur option
@@ -3783,6 +3687,49 @@ livraisons exonérées en vertu du I de l'article 262 ter dudit code ;
 
 ##### II : Opérations exonérées
 
+##### 2° : Transports de voyageurs par trains internationaux
+
+###### Article 24 A
+
+((La liste des transports de voyageurs effectués par trains internationaux mentionnée au 9° du II de l'article 262 du code
+général des impôts est fixée comme suit)) (1) : 
+
+1° Transports effectués en trafic international sur des relations comprenant, en plus des parcours initiaux ou terminaux
+éventuels l'un des parcours suivant ou vice versa : 
+
+Paris-Londres, Paris-Bruxelles, Paris-Luxembourg, Paris-Dusseldorf Paris-Cologne, Paris-Francfort, Paris-Stuttgart, Paris-
+Munich, Paris-Bâle, Paris-Berne, Paris-Lausanne, Paris-Genève, Paris-Turin ; 
+
+Paris-Milan, Paris-Barcelone, Paris-Madrid, Paris-Bilbao ; 
+
+Strasbourg-Bruxelles, Strasbourg-Francfort, Strasbourg-Londres ; 
+
+Lille-Londres, Lille-Bruxelles, Lille-Bale ; Lyon-Londres, Lyon-Bruxelles, Lyon-Luxembourg, Lyon-Cologne, Lyon-Francfort,
+Lyon-Genève, Lyon-Milan, Lyon-Barcelone ; Marseille-Londres, Marseille-Genève, Marseille-Rome ; Nice-Copenhague, Nice-Genève,
+Nice-Zurich, Nice-Gênes, Nice-Londres, Nice-Milan, Nice-Barcelone, Nice-Madrid, Nice-Lisbonne, Nice-Francfort, Nice-
+Luxembourg, Nice-Bruxelles ; Bordeaux-Bilbao, Bordeaux-Genève, Bordeaux-Londres ; 
+
+Toulouse-Genève, Toulouse-Barcelone ; Lourdes-Bruxelles, Lourdes-Dublin, Lourdes-Cork ; 
+
+2° Transports de groupes en trafic international dont l'effectif correspond au moins à la capacité d'une voiture-lits ou
+d'une voiture du chemin de fer au départ et à destination de localités desservies par des aérodromes ouverts au trafic des
+passagers. 
+
+((3° Transports effectués dans le cadre de la liaison fixe transmanche)) (1). 
+
+(1) Modifications de l'arrêté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1994-06-16 art. 1 JORF 25 juin 1994
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 262 (V)
+
+
 ##### Section III : Liquidation de la taxe
 
 ##### I : Remboursement de la taxe aux assujettis établis hors de France.
@@ -3790,24 +3737,23 @@ livraisons exonérées en vertu du I de l'article 262 ter dudit code ;
 ###### Article 28 A
 
 En application de l'article 242-0 P de l'annexe II au code général des impôts, le montant minimum de la taxe sur la valeur
-ajoutée dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0 M de la même annexe
-est fixé, pour les années 1992 et 1993, à 1400 F pour les demandes déposées au titre d'un trimestre civil et à 170 F pour les
-demandes déposées au titre d'une année civile.
+ajoutée [*TVA*] dont le remboursement peut être demandé par les assujettis étrangers désignés à l'article 242-0 M de la même
+annexe est fixé, pour les années ((1993 et 1994)) (1), à 1400 F pour les demandes déposées au titre d'un trimestre civil et à
+170 F pour les demandes déposées au titre d'une année civile.
+
+(1) Modification de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-02-10 art. 1 JORF 17 février 1993
+	  - Arrêté 1994-02-18 art. 1 JORF 26 février 1994
+	  - Modifications directes incorporées dans l'édition du 2 septembre 1994
 
 	**Cite**:
 
 	  - CGIAN2 242-0 M
 	  - CGIAN2 242-0 P
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 28-0 A
@@ -6617,60 +6563,121 @@ timbrer faisant l'objet du présent article est simplement tenue d'en faire la d
 
 ###### Article 50 terdecies
 
-Le tarif de la redevance sanitaire d'abattage perçue du 1er janvier 1993 jusqu'au 31 décembre 1993 s'établit comme suit :
+Le tarif de la redevance sanitaire d'abattage s'établit comme suit :
 
-Pour les gros bovins : 86 F par tonne, 0,086 F par kilogramme.
+Tarif applicable du 1er janvier 1994 au 30 juin 1994 (En poids net de viande)
 
-Pour les veaux : 101 F par tonne, 0,101 F par kilogramme.
+Pour les gros bovins
 
-Pour les animaux des espèces chevaline, asine et leur croisement :
+Par tonne : 86 F, Par kilogramme : 0,086 F
 
-72 F par tonne, 0,072 F par kilogramme.
+Pour les veaux
 
-Pour les ovins : 68 F par tonne, 0,068 F par kilogramme.
+Par tonne : 101 F, Par kilogramme : 0,101 F
 
-Pour les caprins : 68 F par tonne, 0,068 F par kilogramme.
+Pour les animaux des espèces chevaline, asine et leur croisement
 
-Pour les porcins : 75 F par tonne, 0,075 F par kilogramme.
+Par tonne : 72 F, Par kilogramme : 0,072 F
 
-Pour les volailles du genre Gallus : 28 F par tonne, 0,028 F par kilogramme.
+Pour les ovins
 
-Pour les dindes : 26 F par tonne, 0,026 F par kilogramme.
+Par tonne : 68 F, Par kilogramme : 0,068 F
 
-Pour les canards : 29 F par tonne, 0,029 F par kilogramme.
+Pour les caprins
 
-Pour les pintades : 29 F par tonne, 0,029 F par kilogramme.
+Par tonne : 68 F, Par kilogramme : 0,068 F
+
+Pour les porcins
+
+Par tonne : 75 F, Par kilogramme : 0,075 F
+
+Pour les volailles du genre Gallus
+
+Par tonne : 28 F, Par kilogramme : 0,028 F
+
+Pour les dindes
+
+Par tonne : 26 F, Par kilogramme : 0,026 F
+
+Pour les canards
+
+Par tonne : 29 F, Par kilogramme : 0,029 F
+
+Pour les pintades
+
+Par tonne : 29 F, Par kilogramme : 0,029 F
+
+Pour les oies
+
+Par tonne : 22 F, Par kilogramme : 0,022 F
+
+Tarif applicable à compter du 1er juillet 1994 (Par carcasse abattue)
+
+A. - Animaux de boucherie
+
+Pour les gros bovins, 30 F
+
+Pour les veaux, 12 F
+
+Pour les solipèdes domestiques, 21 F
+
+Pour les ovins et caprins :
+
+- d'un poids carcasse inférieur à 12 kilogrammes, 1 F
+
+- d'un poids carcasse de 12 kilogrammes ou plus, 1,7 F
+
+Pour les porcins, 5,8 F
+
+B. - Volailles
+
+Pour les volailles du genre Gallus et les pintades, 0,035 F
+
+Pour les canards, 0,070 F
+
+Pour les oies, 0,100 F
+
+Pour les dindes, 0,145 F
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1992-12-23 art. 1 JORF 27 décembre 1992
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Arrêté 1993-11-03 art. 1 JORF 26 novembre 1993
+	  - Arrêté 1994-06-24 art. 1 JORF 25 juin 1994
+
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 #### Chapitre III : Redevance sanitaire de découpage
 
 ###### Article 50 quaterdecies
 
-Le tarif de la redevance sanitaire de découpage perçue du 1er janvier 1993 jusqu'au 31 décembre 1993 s'établit comme suit :
+Le tarif de la redevance sanitaire de découpage s'établit comme suit (par tonne) : 
 
-Pour les espèces d'animaux de boucherie : 11 F par tonne, 0,011 F par kilogramme.
+Pour les animaux de boucherie : 11 F 
 
-Pour les volailles du genre Gallus : 1,4 F par tonne, 0,0014 F par kilogramme.
+Pour les volailles du genre Gallus : 1,4 F 
 
-Pour les dindes : 7,3 F par tonne, 0,0073 F par kilogramme.
+Pour les dindes : 7,3 F 
 
-Pour les canards : 7,7 F par tonne, 0,0077 F par kilogramme.
+Pour les canards : 7,7 F 
 
-Pour les pintade : 0,7 F par tonne, 0,0007 F par kilogramme.
+Pour les oies :6,2 F 
+
+Pour les pintades : 0,7 F.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1992-12-23 art. 2 JORF 27 décembre 1992
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Arrêté du 24 juin 1994 - art. 2 JORF 25 juin 1994, v. init.
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -9116,6 +9123,92 @@ fabrication calculé sur la base des quantités maximales susceptibles d'être e
 	  - HISTO: Edition du 31 mars 2001
 
 
+##### III : Exemption des formalités à la circulation
+
+###### Article 54 bis
+
+Bénéficient des dispositions du 5° de l'article 458 du code général des impôts les cidres et poirés répondant à la définition
+légale de ces boissons et aux prescriptions du décret n° 87-600 du 29 juillet 1987, libérés des droits et livrés en
+récipients d'une capacité au plus égale à deux litres portant, de manière apparente, l'indication du nom et de l'adresse du
+fabricant ou de l'embouteilleur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1994-07-26 art. 1 JORF 3 août 1994
+
+	**Cite**:
+
+	  - CGI 458 5°
+	  - Décret n°87-600 1987-07-29
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+
+###### Article 54 quater
+
+Les cidres et poirés détenus par les marchands en gros qui les conditionnent comme il est prévu à l'article 54 bis doivent
+être libérés des droits dès qu'ils sont expédiés à la consommation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1994-07-26 art. 1 JORF 3 août 1994
+
+	**Cite**:
+
+	  - CGIAN4 54 bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+
+###### Article 54 quinquies
+
+Les opérations de conditionnement, de livraison et de réintégration des cidres et poirés, réalisées par les personnes qui
+effectuent la présentation commerciale définitive desdits produits, sont suivies sur des carnets spéciaux dans les conditions
+fixées par la direction générale des douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2000-09-22 art. 6 JORF 5 octobre 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 54 ter
+
+Sans préjudice des dispositions relatives à la circulation intracommunautaire des produits soumis à accises, lorsqu'ils sont
+livrés à des personnes n'ayant pas la qualité fiscale de marchand en gros qui en assurent le conditionnement définitif, les
+cidres et poirés dont la présentation commerciale ne répond pas aux prescriptions de l'article 54 bis circulent sous le lien
+d'acquits-à-caution. Ces acquits-à-caution sont échangés à l'arrivée des boissons contre des congés. (1)
+
+(1) Article entièrement reformulé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1994-07-26 art. 1 JORF 3 août 1994
+
+	**Cite**:
+
+	  - CGIAN4 54 bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+
 ##### IV : Utilisation de machines à timbrer
 
 ##### A : Machines à timbrer les capsules représentatives des droits indirects sur les vins et cidres.
@@ -9468,6 +9561,30 @@ d'abus.
 	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
 
 
+##### Section IV : Mise sur le marché des vins doux naturels à appellation d'origine contrôlée
+
+###### Article 55 F
+
+L'authentification par l'instance compétence ou par les expéditeurs des mentions relatives à l'appellation d'origine des vins
+doux naturels à appellation d'origine contrôlée figurant sur les documents d'accompagnement est effectuée au vue d'une
+attestation établie par le comité interprofessionnel des vins doux naturels constatant que le produit a fait l'objet d'un
+agrément par l'Institut national des appellations d'origine et précisant, s'il y a lieu, les comptes d'âge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1993-12-27 art. 3 JORF 28 décembre 1993
+
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+
 #### Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine
 
 ##### 2° : Droit spécifique : régime déclaratif ; dates limites de dépôt des déclarations.
@@ -9493,6 +9610,38 @@ La déclaration mentionnée à l'article 56 J ter est souscrite en double exempl
 	**Liens**:
 
 	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 56 J ter
+
+La date limite à laquelle les redevables du droit spécifique sur les ouvrages mentionnés à l'article 522 du code général des
+impôts doivent remettre ou envoyer à la recette des douanes et droits indirect dans le ressort de laquelle ils sont établis
+la déclaration prévue à l'article 527 du code précité est fixée comme suit :
+
+1° Pour les entreprises individuelles, avant le 10 du mois suivant ;
+
+2° Pour les sociétés à responsabilité limitée et les sociétés en nom collectif, avant le 15 du mois suivant ;
+
+3° Pour les autres sociétés, avant le 20 du mois suivant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1994-05-04 art. 1 JORF 14 mai 1994
+
+	**Abrogé par**:
+
+	  - Arrêté 2004-07-08 art. 1 JORF 17 juillet 2004
+
+	**Cite**:
+
+	  - CGI 522, 527
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 	  - HISTO: Edition du 31 août 2004
 
 
@@ -9715,6 +9864,37 @@ leur demande.
 Le crédit à la livraison autorise le débitant à ne régler chaque livraison d'un fournisseur qu'au moment de la plus prochaine
 livraison à crédit effectuée par ledit fournisseur et au plus tard dans un délai de trente jours.
 
+
+
+###### Article 56 AF
+
+Le crédit de stock permet à tout débitant bénéficiant du crédit à la livraison d'obtenir de chaque fournisseur en sus de ce
+crédit un crédit permanent d'un montant égal à un pourcentage de la valeur moyenne des livraisons à crédit effectuées par ce
+fournisseur au cours de l'année précédente. Ce pourcentage est fixé par décision du ministre de l'économie et des finances.
+
+Le montant du crédit de stock accordé par un fournisseur à un débitant est révisé au début de chaque année civile. Toutefois
+il n'est pas procédé à cette révision si le crédit calculé à partir de la valeur moyenne des livraisons à crédit effectuées
+par le même fournisseur au cours de l'année précédente diffère de moins de 5 p. cent du montant du crédit de la pénultième
+année.
+
+En cas de modification des prix de vente des tabacs, le montant du crédit de stock est également révisé lorsque le prix moyen
+du kilogramme poids-vente du mois suivant la hausse ou la baisse des prix est supérieur ou inférieur de plus de 5 p. 100 à
+celui du mois précédant le changement de tarif. Ce prix moyen est égal au chiffre d'affaires total du mois divisé par les
+quantités vendues, mille cigarettes étant retenues pour un kilogramme, et par convention, mille cigares pour un kilogramme.
+
+Dans ce cas, le fournisseur procède à la révision du crédit de stock consenti à chaque débitant pour l'année en cours en
+l'augmentant ou en le diminuant forfaitairement d'un montant correspondant à 70 p. 100 de la hausse ou de la baisse
+enregistrée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1994-04-12 art. 1 JORF 22 avril 1994
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ###### Article 56 AG
@@ -9999,6 +10179,39 @@ conditions prévues aux articles 54 E à 54 G et 54 I et 54 J.
 
 ### Titre III : Contributions indirectes et monopoles fiscaux
 
+#### Chapitre 0I : Echanges intracommunautaires des alcools, boissons alcooliques et tabacs manufacturés.
+
+###### Article 50-0 A
+
+I. - L'attestation de consignation des droits dus par un opérateur non enregistré, visée à l'article 302 N du code général
+des impôts, pour la réception en France de produits expédiés en suspension d'accise d'un autre Etat membre de la Communauté
+économique européenne, est établie par la recette des douanes et droits indirects conformément aux modèles repris selon la
+nature des produits en annexe à l'arrêté du 24 décembre 1992 (Journal officiel du 30).
+
+II. - Cette attestation est établie en deux exemplaires. L'exemplaire n° 1 est remis, par la recette des douanes et droits
+indirects ayant effectué la consignation, à l'opérateur non enregistré. Ce dernier se charge de l'adresser à l'entrepositaire
+agréé expéditeur qui doit le joindre au document d'accompagnement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1992-12-24 annexe
+	  - CGI 302 N
+
+	**Créé par**:
+
+	  - Arrêté 1992-12-24 art. 1, art. 2 JORF 30 décembre 1992
+
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
+	**Abrogé par**:
+
+	  - Article incorporé dans l'édition du 2 septembre 1994
+
+
 #### Chapitre premier : Boissons
 
 ##### Section I : Alcools
@@ -10046,98 +10259,6 @@ TOTAL 204.050 hl
 	**Modifié par**:
 
 	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 rectificatif JORF 13 juillet 1985
-
-
-##### Section I bis : Circulation
-
-##### III : Exemption des formalités à la circulation.
-
-###### Article 54 bis
-
-Seuls peuvent être admis à bénéficier des dispositions de l'article 458 5° du code général des impôts, les cidres doux et
-poirés doux, les cidres pur jus doux et poirés pur jus doux répondant à la définition légale de ces boissons, libérés des
-droits et livrés en récipients d'une capacité au plus égale à un litre, portant de manière apparente la mention "cidre doux",
-"poiré doux", "cidre pur jus doux" ou "poiré pur jus doux", accompagnée de l'indication du nom et de l'adresse du fabricant
-ou de l'embouteilleur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 458 5°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 quater
-
-Les cidres et poirés doux détenus par les marchands en gros doivent être libérés des droits dès qu'ils sont conditionnés
-comme il est prévu à l'article 54 bis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 54 bis
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 54 quinquies
-
-Les opérations de conditionnement de livraison et de réintégration des cidres et poirés doux réalisées par les personnes qui
-effectuent la présentation commerciale définitive desdits produits sont suivies sur des carnets spéciaux dans les conditions
-fixées par le service des douanes et droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-
-###### Article 54 ter
-
-Lorsqu'ils sont livrés à des personnes n'ayant pas la qualité fiscale de marchand en gros  qui en assurent le conditionnement
-définitif  les cidres ou poirés doux dont la présentation commerciale ne répond pas aux prescriptions de l'article 54 bis
-circulent obligatoirement sous le lien d'acquits-à-caution portant la mention "cidre doux" ou "poiré doux". Ces acquits-à-
-caution sont échangés à l'arrivée des boissons contre des congés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 54 bis
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-#### Chapitre II : Monopoles
-
-##### Section unique : Tabacs.
-
-###### Article 56 AF
-
-Le crédit de stock permet à tout débitant bénéficiant du crédit à la livraison d'obtenir de chaque fournisseur en sus de ce
-crédit un crédit permanent d'un montant égal à un pourcentage de la valeur moyenne des livraisons à crédit effectuées par ce
-fournisseur au cours de l'année précédente. Ce pourcentage est fixé par décision du ministre de l'économie et des finances.
-
-Le montant du crédit de stock accordé par un fournisseur à un débitant est révisé au début de chaque année civile. Toutefois
-il n'est pas procédé à cette révision si le crédit calculé à partir de la valeur moyenne des livraisons à crédit effectuées
-par le même fournisseur au cours de l'année précédente diffère de moins de 10 % du montant du crédit de la pénultième année.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -11607,12 +11728,11 @@ de l'article L. 102 B du livre des procédures fiscales.
 
 ###### Article 121 KM
 
-Les débitants de tabac perçoivent sur le prix de vente des timbres mobiles de toute nature, dont ils assurent la débite, une
-remise calculée au moyen du barème ci-après :
+Les débitants de tabac perçoivent sur le prix de vente des timbres mobiles de toute nature dont ils assurent la débite une
+remise uniforme de 5 p. 100.
 
-5 % jusqu'à 40.000 F de ventes annuelles;
-
-3 % au-dessus de 40.000 F de ventes annuelles.
+La remise est liquidée et payée au fur et à mesure des versements opérés par les débitants de tabac auprès des receveurs des
+impôts à la condition qu'elle atteigne au moins 100 F.
 
 Les dispositions du présent article s'appliquent dans les départements de la Corse.
 
@@ -11624,11 +11744,15 @@ Les dispositions du présent article s'appliquent dans les départements de la C
 
 	**Modifié par**:
 
-	  - Arrêté 1989-02-16 art. 1 JORF 23 février 1989 incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1994-01-25 art. 1, art. 2, art. 3 JORF 15 février 1994, en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 #### Chapitre III : Autres droits et taxes
@@ -12462,6 +12586,30 @@ Les maisons de jeux sont celles où sont pratiqués les jeux d'argent et qui n'e
 	  - Loi du 1er juillet 1901 (V)
 
 
+##### 3° : Appareils automatiques.
+
+###### Article 126 E
+
+Les appareils automatiques sont munis, par les soins du propriétaire, d'une plaque d'immatriculation indiquant, outre le nom
+et l'adresse du propriétaire, le numéro d'ordre attribué à chacun d'eux.
+
+Les propriétaires et les exploitants d'appareils automatiques tiennent un répertoire destiné à assurer le suivi de ces
+appareils dont la forme et le contenu sont déterminés par la direction générale des douanes et droits indirects. Le
+répertoire est communiqué à la première demande du service des douanes et droits indirects (1).
+
+(1) Article reformulé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1993-12-20 art. 3 JORF 24 décembre 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+
 ##### 4° : Réunions sportives
 
 ###### Article 126 F
@@ -13076,53 +13224,6 @@ dater de l'établissement de la déclaration des recettes mensuelles.
 
 ##### Déclaration d'existence.
 
-###### Article 124 A
-
-La déclaration prévue à l'article 1565 du code général des impôts est souscrite, en un seul exemplaire, par les exploitants
-d'appareils automatiques, à la recette des douanes et droits indirects du lieu où les appareils sont mis en service.
-
-Les personnes qui exploitent plusieurs appareils dans une même commune peuvent être autorisées par l'administration à
-souscrire,
-
-à la recette des douanes et droits indirects qui leur est désignée, l'ensemble des déclarations afférentes aux appareils mis
-en service dans cette commune.
-
-La déclaration comporte les indications suivantes :
-
-Nom et adresse du propriétaire de l'appareil ;
-
-Nom et adresse de l'exploitant ;
-
-Adresse de l'établissement où l'appareil est mis en service ou , pour les personnes mentionnées au deuxième alinéa ci-dessus,
-indication de la commune où il est exploité ;
-
-Nom du constructeur, marque, type, numéro de série et année de fabrication ou d'importation de l'appareil ;
-
-Nature de l'appareil : billard électrique, électrophone automatique, jeu vidéo, etc. ;
-
-Origine de l'appareil : nom et adresse du vendeur et date de la livraison.
-
-La déclaration est souscrite au moins vingt-quatre heures avant la date d'installation des appareils automatiques.
-
-Chaque appareil automatique fait l'objet d'une déclaration distincte. Cette déclaration n'est valable que pour l'année à
-laquelle elle se rapporte : elle est renouvelable entre le 1er et le 5 janvier de chaque année.
-
-Le receveur des douanes et droits indirects délivre, pour chaque déclaration, un récépissé qui indique le montant de la taxe
-exigible et qui doit être représenté à toute réquisition des agents intervenant dans l'établissement où l'appareil est
-installé. La délivrance du duplicata est interdite.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1993-01-04 art. 14, art. 16 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-	**Cite**:
-
-	  - CGI 1565
-
-
 ###### Article 124 B
 
 La déclaration prévue à l'article 1560 ter du code général des impôts est souscrite par l'exploitant en trois exemplaires
@@ -13159,6 +13260,97 @@ La nature, la marque, le type et le numéro de série de l'appareil.
 	  - CGI 1560 ter
 
 
+##### 1° : Déclaration d'existence.
+
+###### Article 124 A
+
+La déclaration prévue à l'article 1565 du code général des impôts doit être conforme au modèle fixé par la direction générale
+des douanes et droits indirects. Il s'agit, selon le cas, d'une déclaration de première mise en service ou d'une déclaration
+de renouvellement pour les appareils déjà exploités l'année précédente.
+
+La déclaration comporte les indications suivantes :
+
+a. Nom et adresse du propriétaire de l'appareil ;
+
+b. Numéro d'immatriculation au répertoire du propriétaire ;
+
+c. Nom et adresse de l'exploitant ;
+
+d. Numéro d'immatriculation au répertoire de l'exploitant ;
+
+e. Adresse de l'établissement où l'appareil est mis en service ;
+
+f. Nom du constructeur, marque, type, numéro de série et année de fabrication ou d'importation de l'appareil ;
+
+g. Nature de l'appareil : billard électrique, électrophone automatique, jeu vidéo, etc. ;
+
+h. Origine de l'appareil : nom et adresse du vendeur et date de la livraison ;
+
+i. Montant de la taxe ;
+
+j. Numéro d'ordre de la vignette ;
+
+k. Date, lieu et signature de l'exploitant ;
+
+l. Visa du bureau ou de la recette locale des douanes et droits indirects.
+
+La déclaration est souscrite en deux exemplaires par les exploitants d'appareils automatiques qui la déposent au bureau ou à
+la recette locale des douanes et droits indirects du lieu où les appareils sont exploités. La déclaration est visée par le
+bureau ou la recette locale des douanes et droits indirects. Les exploitants conservent un exemplaire de la déclaration.
+
+La déclaration est appuyée d'un extrait du registre du commerce et des sociétés.
+
+Lorsqu'un exploitant doit déposer des déclarations auprès de deux ou plusieurs bureaux ou recettes locales des douanes et
+droits indirects, l'extrait du registre du commerce et des sociétés peut être remplacé par une attestation de production
+dudit document délivrée par un bureau de douanes et droits indirects. L'attestation est remise, au vu de l'extrait du
+registre du commerce et des sociétés, en autant d'exemplaires que de bureaux ou recettes locales destinataires des
+déclarations.
+
+Les personnes qui exploitent plusieurs appareils dans un même département peuvent être autorisées par le receveur des douanes
+et droits indirects territorialement compétent à déposer au bureau ou à la recette locale des douanes et droits indirects qui
+leur est désigné l'ensemble des déclarations afférentes aux appareils exploités dans le département.
+
+Chaque appareil automatique fait l'objet d'une déclaration distincte.
+
+Lorsqu'il s'agit d'une première mise en service, la déclaration et l'extrait du registre du commerce et des sociétés ou
+l'attestation de production de cet extrait désignée au cinquième alinéa ci-dessus, selon le cas, sont déposés au moins vingt-
+quatre heures avant la date d'installation des appareils automatiques.
+
+Lorsqu'il s'agit d'un renouvellement, la déclaration et l'extrait du registre du commerce et des sociétés ou l'attestation de
+production de cet extrait désignée au cinquième alinéa, selon le cas, sont déposés entre le 1er mars et le 15 mai de chaque
+année.
+
+Le bureau ou la recette locale des douanes et droits indirects délivre, pour chaque déclaration, une vignette millésimée
+conforme au modèle fixé par la direction générale des douanes et droits indirects qui indique, notamment, le montant de la
+taxe perçue. La délivrance de la vignette intervient lors du dépôt de la déclaration.
+
+La vignette doit être obligatoirement apposée sur l'appareil automatique auquel elle se rapporte, à un endroit accessible et
+protégé.
+
+Elle est valable du 1er janvier au 31 décembre de chaque année.
+
+La délivrance de duplicata est interdite.
+
+A l'intérieur de la vignette sont mentionnés le millésime, les mots "République française", "Taxe sur les appareils
+automatiques", "Exploitant", "Montant", "Commune" et "Bureau" et les sigles DGDDI (direction générale des douanes et droits
+indirects) et PT ou DT (plein tarif ou demi-tarif) ainsi qu'un numéro d'ordre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1993-12-20 art. 1 JORF 24 décembre 1993
+	  - Modification incorporée dans l'édition du 2 septembre 1994
+
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
+	**Cite**:
+
+	  - CGI 1565
+
+
 ##### Appareils automatiques.
 
 ###### Article 126 A
@@ -13190,41 +13382,47 @@ qui encaissent la totalité des recettes et qui enregistrent les bénéfices ou 
 	  - HISTO: EDITION 1979-07-01
 
 
+##### 3° : Appareils automatiques.
+
 ###### Article 126 D
 
-La taxe annuelle applicable aux appareils automatiques visés ci-dessus [*art. 126 A à art. 126 C*] est exigible d'avance au
-moment de la déclaration de mise en service. Quelle que soit la durée de l'exploitation elle est perçue au tarif plein pour
-les appareils mis en service au cours du premier semestre de l'année et au demi-tarif pour les appareils mis en service au
-cours du second semestre. 
+La taxe annuelle applicable aux appareils automatiques visés à l'article 126 A est liquidée et perçue dans son intégralité au
+moment du dépôt, au bureau ou à la recette locale des douanes et droits indirects, de la déclaration.
 
-La taxe peut avec l'accord du service des douanes et droits indirects être reportée d'un appareil retiré de l'exploitation
-sur un nouvel appareil mis en service en remplacement de celui-ci.
+Quelle que soit la durée de l'exploitation, elle est perçue au tarif plein pour les appareils mis en service au cours du
+premier semestre de l'année et au demi-tarif pour les appareils mis en service au cours du second semestre.
 
-**Liens relatifs à cet article**
+Avec l'accord du service des douanes et droits indirects et dans les conditions qu'il détermine, la taxe peut être reportée
+d'un appareil retiré de l'exploitation sur un nouvel appareil mis en service en remplacement de celui-ci.
 
-	**Modifié par**:
+L'accord du service est également requis lorsque les appareils sont transférés, dans les conditions qu'il détermine, à
+l'intérieur d'une même commune ou dans une autre commune appliquant soit un tarif égal ou inférieur, soit un tarif supérieur
+à celui de la commune d'origine. Dans cette dernière hypothèse :
 
-	  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+a. La taxe est perçue au tarif plein en vigueur dans la commune du nouveau lieu d'exploitation si le transfert a lieu entre
+le 1er janvier et le 15 mai et s'il concerne un appareil déjà exploité l'année précédente qui n'a pas encore fait l'objet des
+formalités de renouvellement.
 
+La vignette est délivrée au moment du dépôt de la déclaration et de l'extrait du registre du commerce et des sociétés ou de
+l'attestation de production de cet extrait désignée au cinquième alinéa de l'article 124 A. Par dérogation au dixième alinéa
+de l'article 124 A, ledit dépôt doit intervenir au moins vingt-quatre heures avant la date du transfert ;
 
-###### Article 126 E
-
-Les appareils automatiques sont munis par les soins du propriétaire d'une plaque d'immatriculation indiquant outre le nom et
-l'adresse du propriétaire le numéro d'ordre attribué à chacun d'eux. 
-
-En outre pour les appareils déclarés sans indication de l'établissement où ils sont exploités chaque récépissé de déclaration
-est fixé à demeure à un endroit accessible et protégé sur l'appareil auquel il se rapporte. 
-
-Les propriétaires d'appareils automatiques déposés chez des tiers tiennent un répertoire dont la forme est déterminée par le
-service des douanes et droits indirects et qui est communiqué à la première demande des agents du contrôle.
+b. Il est perçu un complément de taxe dans les autres cas.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 11 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Arrêté 1993-12-20 art. 2 JORF 24 décembre 1993
+	  - Modification incorporée dans l'édition du 2 septembre 1994
+
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
+	**Cite**:
+
+	  - CGIAN4 124 A, 126 A
 
 
 ##### Assiette et contrôle de la taxe.
@@ -15494,6 +15692,32 @@ Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
 	  - TXT_ASSOCIE: Instruction 2001-03-23 3P-2-01
 
 
+##### Section V : Contribution sur les produits de sang labiles.
+
+###### Article 159 AG
+
+Le taux de la contribution à la charge des établissements de transfusion sanguine prévue à l'article 1609 tervicies du code
+général des impôts est fixé à 5 % du montant hors taxes des cessions en France de produits sanguins labiles.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1994-01-28 art. 1 JORF 29 janvier 1994
+
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
+	**Cite**:
+
+	  - CGI 1609 tervicies
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+
 ##### Section VII bis : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
 
 ###### Article 159 AL bis
@@ -15591,17 +15815,20 @@ Viandes des espèces chevaline, asine et leurs croisements :
 ###### Article 159 AL quater A
 
 Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,14 p. 100 pour
-le textile et à 0,11 p. 100 pour la maille du 1er janvier 1993 au 31 décembre 1993.
+le textile et à 0,11 p. 100 pour la maille (( du 1er janvier 1994 au 31 décembre 1994 )) (1).
+
+(1) Modification de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1992-12-29 art. 1 JORF 31 décembre 1992
+	  - Arrêté 1993-12-28 art. 1 JORF 31 décembre 1993
+	  - Modification incorporée dans l'édition du 2 septembre 1994
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
@@ -15613,17 +15840,19 @@ le textile et à 0,11 p. 100 pour la maille du 1er janvier 1993 au 31 décembre 
 ###### Article 159 AL sexies
 
 Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,11 %
-[*pourcentage*] du 1er janvier 1993 au 31 décembre 1993.
+[*pourcentage*] ((du 1er janvier 1994 au 31 décembre 1994)) (1).
+
+(1) Modification de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1992-12-29 art. 1 JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+	  - Arrêté 1993-12-28 art. 1 JORF 31 décembre 1993
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
@@ -15802,42 +16031,42 @@ Appareils de reprographie de bureautique utilisant la technique du scanner.
 
 ###### Article 159 AM
 
-Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général des impôts est fixé comme suit :
+Le taux de la taxe mentionnée aux articles 358 à 361 de l'annexe II au code général des impôts est fixé comme suit :
 
-0,60 F par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
+0,60 F par quintal de pommes et de poires et par 12,5 kilogrammes de concentré desdits produits ;
 
 0,80 F par hectolitre :
 
-De jus de pommes à cidre et de poires à poiré et de moûts de de pommes et de poires;
+De jus de pommes à cidre et de poires à poiré et de moûts de pommes et de poires ;
 
-De cidre aromatisé ou non à due proportion de cidre contenu dans le produit fini ;
+De cidre aromatisé ou non à due proportion du cidre contenu dans le produit fini ;
 
-De fermenté de pommes aromatisé ou non à due proportion de fermenté de pommes contenu dans le produit fini ;
+De fermenté de pommes aromatisé ou non à due proportion du fermenté de pommes contenu dans le produit fini ;
 
 De poiré ;
 
 De fermenté de poires ;
 
-15,20 F par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré et d'apéritifs à base de cidre et de
-poiré.
+15,20 F par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré, de pommeaux et d'apéritifs à base de
+cidre et de poiré.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-07-31 art. 1 JORF 15 août 1989
+	  - Arrêté 1993-10-27 art. 1 JORF 3 novembre 1993
 
 	**Codifié par**:
 
-	  - Arrêté 1990-09-10
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
-	  - CGIAN2 358
+	  - CGIAN2 358 à 361
 
 	**Liens**:
 
-	  - HISTO: du
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.
@@ -15868,23 +16097,25 @@ de vin.
 
 Le taux de la taxe mentionnée à l'article 364 de l'annexe II au code général des impôts est fixé comme suit :
 
-" 23,60 F par hectolitre d'alcool pur pour les eaux-de-vie ayant droit à une appellation d'origine contrôlée " Calvados " et
+23,60 F par hectolitre d'alcool pur pour les eaux-de-vie ayant droit à une appellation d'origine contrôlée " Calvados " et
 les eaux-de-vie ayant droit à une appellation d'origine contrôlée " Calvados du Pays d'Auge " ainsi que les produits composés
 élaborés avec ces eaux-de-vie ;
 
-" 11,75 F par hectolitre d'alcool pur pour les eaux-de-vie de cidre et de poiré ayant droit à une appellation d'origine
-réglementée de Normandie, Bretagne et du Maine et pour les produits composés élaborés avec ces eaux-de-vie de cidre et de
-poiré.
+11,75 F par hectolitre d'alcool pur pour ((les pommeaux)) (1) les eaux-de-vie de cidre et de poiré ayant droit à une
+appellation d'origine réglementée de Normandie, Bretagne et du Maine et pour les produits composés élaborés avec ces eaux-de-
+vie de cidre et de poiré.
+
+(1) Modification de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-08-26 art. 1 JORF 11 septembre 1988, incorporé à l'annexe 4 le 14 juillet 1989
+	  - Arrêté 1994-03-14 art. 1 JORF 16 mars 1994
 
 	**Codifié par**:
 
-	  - Arrêté 1989-10-30
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
@@ -15916,30 +16147,31 @@ hectolitre    Autres vins : 0,50 F par hectolitre.
 	  - CGIAN2 363 E
 
 
-##### Section VI : Taxe parafiscale sur les graines oléagineuses.
+#### Section VI : Taxe parafiscale sur les graines oléagineuses.
 
 ###### Article 159 AR
 
 Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à l'article 363 F de l'annexe II au code général
-des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1992-1993 :
+des impôts destinée au Fonds national du développement agricole est fixé comme suit pour la campagne 1993-1994 :
 
-Colza : 5,75 F par tonne ;
+Colza : 4,90 F par tonne ;
 
-Navette : 5,75 F par tonne ;
+Navette : 4,90 F par tonne ;
 
-Tournesol : 7 F par tonne ;
+Tournesol : 5,95 F par tonne ;
 
-Soja : 3,70 F par tonne.
+Soja : 3,15 F par tonne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1992-09-01 art. 1 JORF 11 septembre 1992
+	  - Arrêté 1993-09-06 art. 1 JORF 11 septembre 1993
+	  - Modification incorporée dans l'édition du 2 septembre 1994
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
@@ -16108,33 +16340,31 @@ alinéa du code des assurances suivant les modalités prévues au paragraphe I d
 
 ###### Article 159 quinquies A
 
-I. Les contrats d'assurance sur lesquels est assise la contribution prévue aux articles 1628 quinquies du code général des
+I. Les contrats d'assurances sur lesquels est assise la contribution prévue aux articles 1628 quinquies du code général des
 impôts et 325 de l'annexe II audit code sont ceux garantissant les biens situés sur le territoire national et relevant des
 branches 3 à 9 de l'article R. 321-1 du code des assurances.
 
-II. Le taux de la contribution est fixé, à compter du 1er juillet 1993 à 9 F par contrat. Les sommes correspondantes sont
-perçues par les entreprises d'assurance à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre le
-1er juillet 1993 et le 31 décembre 1993.
+II. Le taux de la contribution est fixé, ((à compter du 1er janvier 1994 à 9 F par contrat)) (1) . Les sommes correspondantes
+sont perçues par les entreprises d'assurances à l'occasion de l'émission des primes ou cotisations recouvrées par elles entre
+((le 1er janvier 1994 et le 31 décembre 1994)) (1).
+
+(1) Modification de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-05-07 art. 1 JORF 15 mai 1993
+	  - Arrêté 1993-10-13 art. 1 JORF 22 octobre 1993
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
 	  - CGI 1628 quinquies
 	  - CGIAN2 325
 	  - Code des assurances R321-1
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
 
 
 ##### Section IV : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports.
@@ -16146,17 +16376,23 @@ suit :
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est inférieur ou égal à 3,5 tonnes :
 
-A compter du 1er janvier 1993 : 110 F
+A compter du 1er janvier 1994 : 130 F
 
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est supérieur à 3,5 tonnes et inférieur à 6
+A compter du 1er janvier 1995 : 148 F
+
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC est supérieur à 3,5 tonnes et inférieur à 6
 tonnes.
 
-A compter du 1er janvier 1993 : 537 F
+A compter du 1er janvier 1994 : 573 F
+
+A compter du 1er janvier 1995 : 608 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal ou supérieur à 6 tonnes et inférieur à
 11 tonnes.
 
-A compter du 1er janvier 1993 : 802 F
+A compter du 1er janvier 1994 : 856 F
+
+A compter du 1er janvier 1995 : 912 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal  ou supérieur à 11 tonnes
 
@@ -16164,7 +16400,9 @@ Tracteurs routiers
 
 Véhicules de transport en commun de personnes
 
-A compter du 1er janvier 1993 : 1207 F
+A compter du 1er janvier 1994 : 1288 F
+
+A compter du 1er janvier 1995 : 1368 F
 
 (1) Poids total autorisé en charge.
 
@@ -16172,17 +16410,19 @@ A compter du 1er janvier 1993 : 1207 F
 
 	**Modifié par**:
 
-	  - Arrêté 1992-12-29 art. 1 JORF 1er janvier 1993
+	  - Arrêté 1993-12-21 art. 1 JORF 31 décembre 1993
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
-	  - CGIAN2 339
-	  - CGIAN2 340
-	  - CGIAN2 341
+	  - CGIAN2 339 à 341
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ### Titre III : Dispositions communes
@@ -17759,6 +17999,52 @@ Les régies municipales, intercommunales et départementales exploitant des serv
 
 ##### Octroi de certains agréments fiscaux
 
+###### Article 170 decies
+
+I.  L'agrément prévu au III ter de l'article 238 bis HA du code général des impôts est délivré par le directeur des services
+fiscaux du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas
+10.000.000 F.
+
+La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 10.000.000
+F ou qu'il est réalisé dans plus d'un département d'outre-mer, dans un territoire d'outre-mer, dans la collectivité
+territoriale de Mayotte ou dans celle de Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
+
+L'agrément est également délivré par le ministre lorsqu'il concerne les investissements nécessaires à l'exploitation d'une
+concession de service public local à caractère industriel et commercial mentionnés au sixième alinéa du I de l'article 238
+bis HA du code général des impôts, les souscriptions au capital des sociétés concessionnaires mentionnées au cinquième alinéa
+du II du même article et les souscriptions au capital des sociétés en difficulté visées au II bis de l'article précité.
+
+II. Dans les cas visés au premier alinéa du I, les demandes d'agrément, établies en cinq exemplaires, sont adressées au
+directeur des services fiscaux du département où sera réalisé le programme d'investissement.
+
+Dans les cas visés aux deuxième et troisième alinéas du I, les demandes sont transmises en cinq exemplaires à la direction
+générale des impôts.
+
+III. Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
+groupements visés aux articles 8 ou 239 quater du code général des impôts, la demande d'agrément est faite par un
+représentant unique, promoteur de l'opération, gérant ou associé, qui doit remettre une copie de la décision obtenue aux
+investisseurs, copropriétaires ou associés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1994-01-04 art. 1 JORF 6 janvier 1994
+
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
+	**Cite**:
+
+	  - CGI 238 bis HA, 8, 239 quater
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. A333-2 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quaterdecies V (V)
+
+
 ###### Article 170 octies
 
 Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies E sont exercées
@@ -18049,6 +18335,45 @@ fonds est tenu de transmettre sans retard par la poste.
 	**Abrogé par**:
 
 	  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
+
+
+###### Article 188 bis
+
+1. Le paiement des impôts directs peut s'effectuer, sur option du contribuable, par prélèvement opéré à l'initiative du
+Trésor public sur un compte visé à l'article 1681 D du code général des impôts.
+
+2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II au code général des impôts. Elle est
+exercée, au choix du contribuable, avant le 1er novembre pour prendre effet au 1er janvier suivant ou six mois avant la date
+limite de paiement de l'impôt concerné. Elle est valable sans limitation de durée.
+
+3. Le contribuable peut renoncer à son option en adressant par écrit au comptable chargé du recouvrement une dénonciation
+vingt jours au moins avant la date limite de paiement de l'impôt concerné.
+
+4. Les prélèvements sont effectués aux dates limites de paiement fixées aux articles 1761, 1762 et 1762 quater du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1994-04-21 art. 1 JORF 4 mai 1994
+
+	**Codifié par**:
+
+	  - Arrêté 1994-10-17
+
+	**Cite**:
+
+	  - CGI 1681 D, 1761, 1762, 1762 quater
+	  - CGIAN2 376 ter
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 199 novodecies (P)
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ### Section I bis : Intérêts des bons de caisse

@@ -5,17 +5,23 @@ suit :
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est inférieur ou égal à 3,5 tonnes :
 
-A compter du 1er janvier 1993 : 110 F
+A compter du 1er janvier 1994 : 130 F
 
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC (1) est supérieur à 3,5 tonnes et inférieur à 6
+A compter du 1er janvier 1995 : 148 F
+
+Désignation : Véhicules automobiles de transport de marchandises dont le PATC est supérieur à 3,5 tonnes et inférieur à 6
 tonnes.
 
-A compter du 1er janvier 1993 : 537 F
+A compter du 1er janvier 1994 : 573 F
+
+A compter du 1er janvier 1995 : 608 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal ou supérieur à 6 tonnes et inférieur à
 11 tonnes.
 
-A compter du 1er janvier 1993 : 802 F
+A compter du 1er janvier 1994 : 856 F
+
+A compter du 1er janvier 1995 : 912 F
 
 Désignation : Véhicules automobiles de transport de marchandises dont le PATC est égal  ou supérieur à 11 tonnes
 
@@ -23,7 +29,9 @@ Tracteurs routiers
 
 Véhicules de transport en commun de personnes
 
-A compter du 1er janvier 1993 : 1207 F
+A compter du 1er janvier 1994 : 1288 F
+
+A compter du 1er janvier 1995 : 1368 F
 
 (1) Poids total autorisé en charge.
 
@@ -31,14 +39,16 @@ A compter du 1er janvier 1993 : 1207 F
 
 	**Modifié par**:
 
-	  - Arrêté 1992-12-29 art. 1 JORF 1er janvier 1993
+	  - Arrêté 1993-12-21 art. 1 JORF 31 décembre 1993
 
 	**Codifié par**:
 
-	  - Arrêté 1993-09-24
+	  - Arrêté 1994-10-17
 
 	**Cite**:
 
-	  - CGIAN2 339
-	  - CGIAN2 340
-	  - CGIAN2 341
+	  - CGIAN2 339 à 341
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
