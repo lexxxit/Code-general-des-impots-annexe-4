@@ -1,19 +1,25 @@
 # Article 170 octies
 
-Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies C sont exercées
+Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies E sont exercées
 par le délégué régional dans la région d'Ile-de-France, par le directeur des services fiscaux de la Corse du Sud dans les
-départements de Corse et par les directeurs des services fiscaux compétent dans les départements d'outre-mer.
+départements de Corse et par les directeurs des services fiscaux compétent dans les départements d'outre-mer (1).
+
+(1) Ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 1er septembre 1990.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-07-04 art. 1 JORF 22 août 1989
+	  - Arrêté 1990-06-26 art. 3 JORF 29 juin 1990
 
 	**Cite**:
 
-	  - CGIAN4 170 quinquies à CGIAN4 170 septies C
+	  - CGIAN4 170 quinquies à 170 septies E
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991

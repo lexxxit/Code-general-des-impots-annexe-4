@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1990-06-15
+Version Consolidée au 1990-06-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16836,23 +16836,29 @@ Les régies municipales  intercommunales et départementales exploitant des serv
 
 ###### Article 170 octies
 
-Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies C sont exercées
+Les compétences attribuées aux directeurs régionaux des impôts par les articles 170 quinquies à 170 septies E sont exercées
 par le délégué régional dans la région d'Ile-de-France, par le directeur des services fiscaux de la Corse du Sud dans les
-départements de Corse et par les directeurs des services fiscaux compétent dans les départements d'outre-mer.
+départements de Corse et par les directeurs des services fiscaux compétent dans les départements d'outre-mer (1).
+
+(1) Ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 1er septembre 1990.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-07-04 art. 1 JORF 22 août 1989
+	  - Arrêté 1990-06-26 art. 3 JORF 29 juin 1990
 
 	**Cite**:
 
-	  - CGIAN4 170 quinquies à CGIAN4 170 septies C
+	  - CGIAN4 170 quinquies à 170 septies E
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 170 quinquies
@@ -16905,29 +16911,27 @@ l'établissement (1).
 ###### Article 170 septies
 
 Il est statué par le directeur régional des impôts compétent sur les demandes d'agrément présentées en application de
-l'article 239 bis B du code général des impôts, lorsque l'actif net de la société concernée n'excède pas 25 millions F et
+l'article 239 bis B du code général des impôts, lorsque l'actif net de la société concernée n'excède pas 50 millions F et
 sauf difficultés particulières tenant notamment aux modalités de la liquidation ou à la nature du remploi.
 
 Dans les autres cas, la décision est prise par le ministre de l'économie, des finances et du budget après avis du conseil de
 direction du fonds de développement économique et social (1).
 
-(1) Dispositions applicables aux demandes d'agrément déposées à compter du 1er janvier 1984. Les agréments délivrés par les
-directeurs des services fiscaux sur des demandes déposées avant cette date peuvent être retirés soit par le directeur des
-services fiscaux qui a délivré l'agrément, soit par le directeur régional des impôts territorialement compétent.
+(1) Dispositions applicables aux demandes d'agrément déposées à compter du 1er septembre 1990.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1983-12-16 art. 4 JORF 20 décembre 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
+	  - Arrêté 1990-06-26 art. 1, art. 4 JORF 29 juin 1990
 
 	**Cite**:
 
 	  - CGI 239 bis B
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 170 septies B
@@ -17003,6 +17007,38 @@ NOTA : Ces dispositions s'appliquent aux demandes d'agrément déposées à comp
 
 	  - CGI 170 quinquies
 	  - CGI 44 quater al. 3
+
+
+###### Article 170 septies E
+
+Il est statué par le directeur régional des impôts dont dépend le lieu de situation de l'entreprise cédante sur les demandes
+d'agrément présentées en application de l'article 238 octies A du code général des impôts.
+
+En cas de difficultés particulières, la décision est prise par le ministre du budget.
+
+**Nota:**
+
+NOTA : Ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 1er septembre 1990.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1990-06-26 art. 2, art. 4 JORF 29 juin 1990
+
+	**Codifié par**:
+
+	  - Arrêté 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 1997-05-28 art. 1 JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+	**Cite**:
+
+	  - CGI 238 octies A
 
 
 ###### Article 170 sexies
