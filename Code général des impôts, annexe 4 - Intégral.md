@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-01-18
+Version Consolidée au 1980-01-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11087,97 +11087,6 @@ l'article 2002 bis du code général des impôts [*obligation de conservation*].
 	  - Livre des procédures fiscales A37-1 4°
 
 
-###### Article 103
-
-Les compagnies de chemins de fer autres que la société nationale des chemins de fer français et toutes autres entreprises
-concessionnaires d'un service public de transport autorisées à acquitter sur états les droits de timbre de quittance
-afférents aux billets et bulletins qu'elles délivrent versent le montant de l'impôt pour toutes les gares du réseau dans les
-derniers jours du deuxième mois qui suit celui dans lequel les droits ont dû être perçus ; le versement est fait à la recette
-des impôts qui est désignée à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 104
-
-A l'appui du versement il est fourni par le transporteur un état indiquant distinctement pour chaque gare de départ le nombre
-des timbres dus sur les billets ou bulletins assujettis à l'impôt et délivrés :
-
-1o Pour la circulation des voyageurs;
-
-2o Pour recettes supplémentaires;
-
-3o Pour les bagages;
-
-4o Pour les chiens;
-
-5o Pour les voitures de correspondance.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 105
-
-L'état visé à l'article 104 est certifié conforme aux écritures du transporteur; il est totalisé et le montant des droits est
-provisoirement liquidé et payé en conséquence.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGIAN4 104
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 106
-
-L'administration peut si elle le juge convenable faire vérifier tant au siège social que dans les gares du réseau ou dans les
-agences ou succursales des entreprises l'exactitude des résultats présentés par les états. A cet effet tous les documents de
-comptabilité et autres nécessaires pour la vérification seront conservés pendant le délai prévu à l'article 2002 bis du code
-général des impôts pour être communiqués aux agents des impôts compétents.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGI 2002 bis
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
 ###### Article 107
 
 Les commerçants industriels et entrepreneurs de spectacles autorisés à acquitter sur états le droit de timbre des quittances
@@ -11255,204 +11164,6 @@ faciliter les opérations de contrôle.
 	**Abrogé par**:
 
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 DECEMBRE 1982
-
-
-###### Article 111 A
-
-Les entreprises de transports publics routiers de voyageurs qui en font la demande peuvent être autorisées par la direction
-des services fiscaux à acquitter les droits de timbre-quittance afférents aux bulletins de bagages sur la base d'un
-pourcentage appliqué au montant total des recettes brutes correspondant aux titres délivrés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 111 B
-
-Ce pourcentage est déterminé forfaitairement d'après les résultats d'une période d'épreuve choisie d'un commun accord entre
-la direction des services fiscaux et l'entreprise intéressée. Il est obtenu en appliquant la formule suivante :   P = T x 100
-----------                                        R    dans laquelle P représente le pourcentage cherché  T le montant total
-des droits de timbre-quittance exigibles pendant la période retenue et R le montant total des recettes pendant la même
-période. Le pourcentage obtenu est obligatoirement arrondi au centime supérieur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 111 C
-
-La durée de la période d'épreuve visée à l'article 111 B est de deux mois entiers. En cas de désaccord sur le choix de ces
-deux mois un mois est désigné par la direction des services fiscaux  l'autre par l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGIAN4 111 B
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 111 D
-
-Dans le mois qui suit la date d'expiration de la période d'épreuve l'entreprise intéressée doit fournir à la direction des
-services fiscaux un état signé par son représentant qualifié et certifié conforme aux écritures comptables indiquant pour
-l'ensemble de la période :
-
-1o Le montant des recettes brutes du réseau;
-
-2o Le montant des droits de timbre-quittance correspondant.
-
-Après vérification des énonciations de cet état le pourcentage et le point de départ de l'autorisation sont fixés par
-décision de l'administration.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 111 E
-
-Le pourcentage est en principe fixé pour une période de cinq années.
-
-Toutefois il est revisé :
-
-1o D'office en cas de changement dans le tarif ou l'assiette de l'impôt ainsi que dans le cas de modification de la
-tarification des transports;
-
-2o Sur demande expresse de l'administration ou du redevable dans tous les autres cas.
-
-A cet égard pour permettre à l'administration d'exercer éventuellement son droit de révision les redevables doivent notifier
-à la direction des services fiscaux les suppressions ou créations de lignes ainsi que les changements intervenus dans le prix
-des billets. Cette notification doit être faite au plus tard le quinzième jour suivant les dates de suppression ou de
-création de lignes ou l'entrée en vigueur de la nouvelle tarification des transports.
-
-Les opérations de révision donnent lieu au choix d'une nouvelle période d'épreuve et sont conduites comme il est dit aux
-articles 111 C et 111 D.
-
-Le nouveau pourcentage résultant de la révision est applicable à compter du premier jour du mois qui suit soit la date
-d'entrée en vigueur des dispositions modifiant le prix des billets les tarifs ou l'assiette de l'impôt soit la date de la
-demande de révision.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGIAN4 111 C
-	  - CGIAN4 111 D
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 111 F
-
-Les droits font l'objet d'une liquidation distincte pour chaque mois.
-
-Ils sont versés à la recette des impôts désignée par l'administration dans le mois qui suit celui dans lequel ils ont été ou
-auraient été perçus par l'entreprise de transport.
-
-A l'appui de ce versement cette dernière produit un état signé par un de ses représentants qualifiés indiquant le montant des
-recettes, le pourcentage applicable et l'impôt dû au Trésor. Cet état totalisé et certifié conforme aux écritures comptables
-est fourni en double exemplaire; l'un de ces exemplaires est rendu au redevable revêtu de l'acquit du comptable des impôts
-l'autre est conservé par le service.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 111 G
-
-L'administration peut faire vérifier tant au siège social que dans les agences bureaux établissements annexes ou succursales
-des entreprises l'exactitude des renseignements figurant sur les états visés aux articles 111 D et 111 F. A cet effet tous
-les documents nécessaires pour la vérification doivent être conservés pendant le délai prévu à l'article 2002 bis du code
-général des impôts pour être communiqués aux agents des impôts.
-
-Si de cette vérification il résulte un complément de droits au profit du Trésor ce complément doit être acquitté
-immédiatement. Dans le cas où la vérification fait ressortir un excédent dans les versements effectués par l'entreprise cet
-excédent est imputé sur le montant des plus prochains versements.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGI 2002 bis
-	  - CGIAN4 111 D
-	  - CGIAN4 111 F
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
-
-
-###### Article 111 H
-
-Les autorisations délivrées en vertu des articles 111 B et 111 E sont révocables au gré de l'administration.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 19 JANVIER 1980)
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - CGIAN4 111 B
-	  - CGIAN4 111 E
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF
 
 
 ###### Article 113
@@ -12027,8 +11738,8 @@ produits et ne sortant pas des limites de la zone courte à laquelle ils sont ra
 
 ###### Article 121 V bis
 
-La commission locale instituée dans chacun des départements de la Guadeloupe  de la Guyane  de la Martinique et de la Réunion
-par l'article 238 bis E-I du code général des impôts est composée comme suit [*composition*] :
+Dans chacun des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, la commission locale
+mentionnée à l'article 208 quater du code général des impôts est composée comme suit :
 
 Le préfet du département ou son représentant  président;
 
@@ -12053,55 +11764,51 @@ La commission entend  à titre consultatif  les personnalités et experts dont e
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
-	  - CGI 238 bis E I
+	  - CGI 208 quater
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-30 1980-01-18 art. 79 II, V Finances pour 1980 JORF 19 janvier 1980
+	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 janvier 1980
 
 
 ###### Article 121 V decies
 
-Les contribuables bénéficiant d'un agrément au titre de l'article 238 bis E-I du code général des impôts doivent
-[*exonération des bénéfices ou revenus investis dans les DOM*] lorsque la réalisation du programme de travaux agréé est
-échelonnée sur plusieurs exercices, joindre à la déclaration des bénéfices de tout exercice postérieur au premier exercice
-d'échelonnement une déclaration spéciale faisant connaître d'une part la fraction de ces bénéfices qu'ils se proposent de
-consacrer à l'exécution de travaux dans le cadre du programme agréé, et, d'autre part, le montant des bénéfices déjà
-investis.
-
-Les sociétés bénéficiant d'un agrément au titre de l'article 208 quater du même code [*exonération d'IS*] sont tenues de
-joindre à la déclaration des résultats de tout exercice sur lequel porte cet agrément un compte rendu détaillé de leur
-activité au cours dudit exercice [*obligation*].
+Les sociétés bénéficiant d'un agrément au titre de l'article 208 quater du même code sont tenues de joindre à la déclaration
+des résultats de tout exercice sur lequel porte cet agrément un compte rendu détaillé de leur activité au cours dudit
+exercice.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Abrogé par**:
+
+	  - Arrêté 1981-12-02 art. 8 JONC 19 décembre 1981
+
 	**Cite**:
 
-	  - CGI 238 bis E I, 208 quater
+	  - CGI 208 quater
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 janvier 1980
 
 
 ###### Article 121 V nonies
 
 1. Le ministre de l'économie et des finances  président de la commission centrale  statue :
 
-1o Sur les demandes d'agrément présentées au titre de l'article 238 bis E du code général des impôts [*exonération des
-bénéfices ou revenus investis dans les DOM*] :
-
-Lorsque le montant des investissements projetés excède le plafond fixé à l'article 121 V octies-2-1o;
-
-Lorsque les investissements pour lesquels l'agrément est sollicité doivent être réalisés dans le département de la Guyane ou
-sur le territoire d'un département d'outre-mer autre que le département d'où proviennent les bénéfices devant en assurer le
-financement;
-
-Lorsque le directeur des services fiscaux ne partage pas l'avis émis par la commission locale.
-
-2o Sur les demandes d'agrément présentées au titre de l'article 208 quater du code général des impôts [*exonération d'IS*] :
+1o (Abrogé)    2o Sur les demandes d'agrément présentées au titre de l'article 208 quater du code général des impôts
+[*exonération d'IS*] :
 
 Lorsque le montant du programme d'investissement excède le plafond fixé à l'article 121 V octies-2-2o;
 
@@ -12117,16 +11824,23 @@ général des impôts [*régime fiscal des sociétés ayant pour objet la recher
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
 	  - CGI 1655 bis
 	  - CGI 208 quater
-	  - CGI 238 bis E
 	  - CGIAN4 121 V octies 2 1°, 2°
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: JORF 19 janvier 1980)
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P)
 
 
 ###### Article 121 V octies
@@ -12172,47 +11886,6 @@ d'un exemplaire du dossier  au secrétariat de la commission centrale ainsi qu'�
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 121 V quater
-
-Les demandes d'agrément d'investissements présentées au titre de l'article 238 bis E du code général des impôts sont établies
-en quatre exemplaires conformément à un modèle fixé par la commission centrale. Des demandes distinctes doivent être établies
-par catégorie d'investissements suivant la classification ci-après :
-
-Constructions de maisons d'habitation;
-
-Industrie sucrière et activités agricoles;
-
-Industrie hôtelière et touristique;
-
-Autres activités.
-
-Les programmes d'investissements présentés à l'agrément dans les conditions fixées au premier alinéa doivent faire l'objet
-d'une demande unique pour chacune des catégories visées ci-dessus.
-
-Les demandes ainsi établies sont adressées au plus tard en même temps que la déclaration des résultats du premier exercice
-dont les bénéfices doivent servir au financement des investissements au directeur des services fiscaux du lieu d'exécution
-des investissements. Ce dernier en accuse réception et en effectue la transmission au secrétariat de la commission locale de
-son département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI 238 bis E
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 JANVIER 1980
-
-
 ###### Article 121 V quinquies
 
 Les demandes d'agrément présentées au titre de l'article 208 quater du code général des impôts [*possibilité d'exonération de
@@ -12234,7 +11907,7 @@ dernier en accuse réception et en effectue la transmission au secrétariat de l
 
 ###### Article 121 V ter
 
-La commission centrale instituée par l'article 238 bis E-I du code général des impôts est composée comme suit :
+La commission centrale mentionnée à l'article 208 quater du code général des impôts est composée comme suit :
 
 Le ministre de l'économie et des finances ou son représentant président;
 
@@ -12268,14 +11941,19 @@ La commission peut entendre à titre consultatif les personnalités et experts d
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
 	  - CGI 1655 bis
-	  - CGI 238 bis E I
+	  - CGI 208 quater
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-30 1980-01-18 art. 79 II, V Finances pour 1980 JORF 19 janvier 1980
+	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 janvier 1980
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES

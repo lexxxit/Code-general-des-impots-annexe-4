@@ -1,6 +1,6 @@
 # Article 121 V ter
 
-La commission centrale instituée par l'article 238 bis E-I du code général des impôts est composée comme suit :
+La commission centrale mentionnée à l'article 208 quater du code général des impôts est composée comme suit :
 
 Le ministre de l'économie et des finances ou son représentant président;
 
@@ -34,11 +34,16 @@ La commission peut entendre à titre consultatif les personnalités et experts d
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
 	  - CGI 1655 bis
-	  - CGI 238 bis E I
+	  - CGI 208 quater
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-30 1980-01-18 art. 79 II, V Finances pour 1980 JORF 19 janvier 1980
+	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P) JORF 19 janvier 1980

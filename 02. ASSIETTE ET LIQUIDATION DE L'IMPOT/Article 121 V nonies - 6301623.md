@@ -2,18 +2,8 @@
 
 1. Le ministre de l'économie et des finances  président de la commission centrale  statue :
 
-1o Sur les demandes d'agrément présentées au titre de l'article 238 bis E du code général des impôts [*exonération des
-bénéfices ou revenus investis dans les DOM*] :
-
-Lorsque le montant des investissements projetés excède le plafond fixé à l'article 121 V octies-2-1o;
-
-Lorsque les investissements pour lesquels l'agrément est sollicité doivent être réalisés dans le département de la Guyane ou
-sur le territoire d'un département d'outre-mer autre que le département d'où proviennent les bénéfices devant en assurer le
-financement;
-
-Lorsque le directeur des services fiscaux ne partage pas l'avis émis par la commission locale.
-
-2o Sur les demandes d'agrément présentées au titre de l'article 208 quater du code général des impôts [*exonération d'IS*] :
+1o (Abrogé)    2o Sur les demandes d'agrément présentées au titre de l'article 208 quater du code général des impôts
+[*exonération d'IS*] :
 
 Lorsque le montant du programme d'investissement excède le plafond fixé à l'article 121 V octies-2-2o;
 
@@ -29,13 +19,20 @@ général des impôts [*régime fiscal des sociétés ayant pour objet la recher
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
 	  - CGI 1655 bis
 	  - CGI 208 quater
-	  - CGI 238 bis E
 	  - CGIAN4 121 V octies 2 1°, 2°
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: JORF 19 janvier 1980)
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 79 (P)
