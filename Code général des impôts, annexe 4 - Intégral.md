@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1981-02-27
+Version Consolidée au 1981-05-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8569,6 +8569,38 @@ d'obligations.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+#### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*
+
+##### DEDUCTION FISCALE EN FAVEUR DES INVESTISSEMENTS REALISES OUTRE-MER.
+
+###### Article 23 L ter
+
+Sont assimilées à des activités industrielles pour l'application des articles 238 bis HA à 238 bis HC du code général des
+impôts :
+
+1. L'extraction des substances suivantes : chromite, phosphorite, kaolin, columbo-tantalite, minerais aurifères non
+alluvionnaires ;
+
+2. L'exploitation de gîtes géothermiques au sens de l'article 3 du code minier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1981-05-08 art. 1 JORF 16 mai 1981
+
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
+	**Cite**:
+
+	  - CGI 238 bis HA
+	  - CGI 238 bis HB
+	  - CGI 238 bis HC
+	  - Code minier 3
 
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES
