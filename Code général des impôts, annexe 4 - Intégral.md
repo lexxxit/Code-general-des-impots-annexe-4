@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-01-08
+Version Consolidée au 1982-01-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12788,6 +12788,21 @@ dont ils sont détenteurs  sous peine des sanctions prévues par les articles 17
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES
+
+###### Article 159 AL quater A
+
+Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,44 %.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1983-07-10
+
+	**Cite**:
+
+	  - CGIAN2 357 A
+
 
 ###### Article 159 AL sexies
 
