@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1993-02-17
+Version Consolidée au 1993-03-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4532,6 +4532,53 @@ prévues au I de l'article L. 102 B du livre des procédures fiscales.
 	**Cite**:
 
 	  - Livre des procédures fiscales L102 B I
+
+
+###### Article 50 sexies I
+
+I. - Les billets prévus au I de l'article 290 quater du code général des impôts peuvent être établis par un système
+informatisé dont les caractéristiques et le fonctionnement doivent être conformes au cahier des charges annexé à l'arrêté du
+8 mars 1993.
+
+II. Les exploitants d'établissements de spectacles visés au I de l'article 290 quater susmentionné déclarent à la direction
+des services fiscaux dont ils dépendent la mise en service d'un système informatisé de billetterie au plus tard lors de la
+première utilisation.
+
+Cette déclaration comporte les mentions suivantes nécessaires à la description du système utilisé :
+
+1° Le nom du logiciel, son numéro de version et, le cas échéant, sa date ainsi que l'identité de son concepteur ou le nom du
+progiciel ;
+
+2° La configuration informatique ;
+
+3° Le système d'exploitation ;
+
+4° Le langage de programmation ;
+
+5° Le format du logiciel source ou exécutable fourni par le concepteur ;
+
+6° La description fonctionnelle du système ;
+
+7° Le fac-similé d'un billet, d'un coupon de gestion et d'un relevé de recettes ;
+
+8° Les sécurités mises en oeuvre.
+
+Les modifications du système sont portées à la connaissance de l'administration dans les conditions prévues au premier
+alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1993-03-08 art. 1 JORF 24 mars 1993
+
+	**Cite**:
+
+	  - CGI 290 quater
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### Section VI : Importations
@@ -12246,6 +12293,52 @@ cartes invendues qui sont représentées.
 	**Cite**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 127 (V)
+
+
+###### Article 131 A
+
+I. Les billets prévus à l'article 1564 du code général des impôts peuvent être établis par un système informatisé dont les
+caractéristiques et le fonctionnement doivent être conformes au cahier des charges annexé à l'arrêté du 8 mars 1993.
+
+II. Les organisateurs de réunions sportives et les exploitants d'établissements de spectacles visés à l'article 1559 du code
+précité déclarent à la direction régionale des douanes et droits indirects dont ils dépendent la mise en service d'un système
+informatisé de billetterie au plus tard lors de la première utilisation.
+
+Cette déclaration comporte les mentions suivantes nécessaires à la description du système utilisé :
+
+1° Le nom du logiciel, son numéro de version et, le cas échéant, sa date ainsi que l'identité de son concepteur ou le nom du
+progiciel ;
+
+2° La configuration informatique ;
+
+3° Le système d'exploitation ;
+
+4° Le langage de programmation ;
+
+5° Le format du logiciel source ou exécutable fourni par le concepteur ;
+
+6° La description fonctionnelle du système ;
+
+7° Le fac-similé d'un billet, d'un coupon de gestion et d'un relevé de recettes ;
+
+8° Les sécurités mises en oeuvre.
+
+Les modifications du système sont portées à la connaissance de l'administration dans les conditions prévues au premier
+alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1993-03-08 art. 2 JORF 24 mars 1993
+
+	**Cite**:
+
+	  - CGI 1564, 1559
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### 6° : Assiette et contrôle de la taxe
