@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1984-03-31
+Version Consolidée au 1984-06-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15871,6 +15871,23 @@ l'article R* 121-2 du même code.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+#### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur
+
+###### Article 198 octies
+
+La fiche de liquidation des impositions dont la délivrance du permis de construire constitue le fait générateur est transmise
+par l'autorité administrative au directeur des services fiscaux et au titulaire du permis de construire.
+
+Une fiche modificative est également transmise en cas de modification apportée au permis de construire ou à l'autorisation
+tacite de construire lorsque cette modification a une incidence sur l'assiette d'une taxe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
 
 
 ### Section V : Dispositions communes
