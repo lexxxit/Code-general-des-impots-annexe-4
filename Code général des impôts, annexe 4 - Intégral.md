@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-11-04
+Version Consolidée au 1986-12-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10664,6 +10664,50 @@ des impôts.
 	  - HISTO: EDITION 1979-07-01
 
 
+##### Section VII quinquies : Taxe parafiscale des industries textiles.
+
+###### Article 159 AL quater A
+
+Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,24 %
+[*pourcentage*] jusqu'au 31 décembre 1987 [*date limite*] et à 0,22 % pour 1988.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1986-12-18 art. 1, art. 2 JORF 21 décembre 1986
+
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
+
+	**Cite**:
+
+	  - CGIAN2 357 A
+
+
+##### Section IX : Taxe parafiscale des industries de l'habillement et de la maille.
+
+###### Article 159 AL sexies
+
+Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,12 %
+[*pourcentage*] jusqu'au 31 décembre 1987 [*date limite*] et à 0,11 % pour 1988.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1986-1-18 art. 1, art. 2 JORF 21 décembre 1986
+
+	**Codifié par**:
+
+	  - Arrêté 1987-11-23
+
+	**Cite**:
+
+	  - CGIAN2 363 N
+
+
 #### Chapitre II bis : Contributions indirectes
 
 ##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.
@@ -13714,26 +13758,6 @@ afférente à l'année suivant celle au cours de laquelle ils ont été établis
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES
 
-###### Article 159 AL quater A
-
-Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code général des impôts est fixé à 0,35 %
-[*pourcentage*] jusqu'au 31 décembre 1986 [*date limite*].
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1986-02-04 art. 1 JORF 6 février 1986
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Cite**:
-
-	  - CGIAN2 357 A
-
-
 #### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.
 
 ###### Article 157 bis
@@ -13833,28 +13857,6 @@ du montant hors taxes des ventes jusqu'au 31 décembre 1986 [*date limite*] et �
 	**Cite**:
 
 	  - CGIAN2 363 A
-
-
-### TAXE PARAFISCALE DES INDUSTRIES DE L'HABILLEMENT ET DE LA MAILLE.
-
-###### Article 159 AL sexies
-
-Le taux de la taxe parafiscale prévue à l'article 363 N de de l'annexe II au code général des impôts est fixé à 0,175 %
-[*pourcentage*] jusqu'au 31 décembre 1986 [*date limite*].
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1986-02-04 art. 1 JORF 6 février 1986
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Cite**:
-
-	  - CGIAN2 363 N à CGIAN2 363 S
 
 
 ### CONTRIBUTIONS INDIRECTES
