@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-12-30
+Version Consolidée au 1982-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13682,12 +13682,11 @@ Elle est supportée par l'acheteur et le vendeur [*redevables*] chacun pour moit
 
 ###### Article 159 AO
 
-En application de l'article 363 D-V de l'annexe II au code général des impôts  le taux de la taxe effectivement perçue sur
-les viandes et destinée au fonds national de développement agricole [*FNDA*] est fixé comme suit par kilogramme de viande
-nette :
+En application de l'article 363 D-V de l'annexe II au code général des impôts  le taux de la taxe perçue sur certaines
+viandes et destinée au fonds national de développement agricole [*FNDA*] est fixé comme suit par kilogramme net de viande :
 
 pour la viande de boeuf et la viande de veau : 0,23 % du prix d'orientation communautaire défini pour un kilogramme de poids
-vif de gros bovin     pour la viande de porc : 0,25 % du prix de base communautaire pour un kilogramme de viande de porc
+vif de gros bovins     pour la viande de porc : 0,25 % du prix de base communautaire pour un kilogramme de viande de porc
 abattu     pour la viande de mouton : 0,09 % du prix de référence communautaire fixé pour un kilogramme de viande de mouton
 (1).
 
@@ -13705,9 +13704,13 @@ par l'arrêté du 4 janvier 1982 (J.O. du 8).
 	  - Arrêté 1982-01-04
 	  - CGIAN2 363 D V
 
+	**Modifié par**:
+
+	  - Arrêté 1982-12-29 art. 1 JORF 31 décembre 1982
+
 	**Codifié par**:
 
-	  - Arrêté 1982-10-15
+	  - Arrêté 1983-10-06
 
 
 #### TAXE PARAFISCALE SUR LES VINS.
