@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-05-11
+Version Consolidée au 1982-05-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10822,14 +10822,18 @@ Dans le cas contraire  il propose au commissaire de la République l'octroi de l
 
 ###### Article 51 quinquies
 
-Après examen des propositions qui lui sont faites par le directeur des services fiscaux  le préfet prend  soit un arrêté
-accordant l'autorisation  soit une décision de rejet.
+Après examen des propositions qui lui sont faites par le directeur des services fiscaux le commissaire de la République prend
+soit un arrêté accordant l'autorisation soit une décision de rejet.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Arrêté 1983-10-06
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 art. 1 JONC 13 mai 1982
 
 
 ###### Article 51 sexies
