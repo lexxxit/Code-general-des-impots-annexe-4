@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1994-05-14
+Version Consolidée au 1994-06-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10151,33 +10151,6 @@ caution sont échangés à l'arrivée des boissons contre des congés.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-##### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine.
-
-###### Article 56 J ter
-
-La date limite à laquelle les redevables du droit de garantie doivent remettre ou envoyer à la recette des douanes et droits
-indirects de rattachement du bureau de garantie dont ils dépendent la déclaration prévue à l'article 521 du code général des
-impôts est fixée comme suit :
-
-1° Pour les entreprises individuelles, avant le 10 du mois suivant ;
-
-2° Pour les sociétés à responsabilité limitée [*SARL*] et les sociétés en nom collectif [*SNC*], avant le 15 du mois
-suivant ;
-
-3° Pour les autres sociétés, avant le 20 du mois suivant.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1993-01-04 art. 15 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-	**Cite**:
-
-	  - CGI 521
 
 
 #### Chapitre II : Monopoles
