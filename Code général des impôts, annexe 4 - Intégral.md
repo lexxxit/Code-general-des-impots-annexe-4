@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-12-03
+Version Consolidée au 1982-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5707,6 +5707,80 @@ Au-dessus de 265 000 F : 90 %.
 
 ##### I : Machines à timbrer
 
+###### Article 71
+
+Est autorisée l'utilisation des machines à timbrer qui  suivant les prévisions des articles 301, 304, 313 AA et 313 AR de
+l'annexe III du code général des impôts  sont destinées respectivement au timbrage :
+
+des actes soumis au timbre de dimension;
+
+des effets de commerce;
+
+des lettres de voiture ou titres assimilés;
+
+des cartes d'entrée dans les casinos.
+
+(1) VOIR LES CONDITIONS GENERALES D'UTILISATION PRESCRITES PAR LES ARTICLES 164 L A 164 AL.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1983-10-06
+
+	**Cite**:
+
+	  - CGIAN3 301, 304, 313 AA, 313 AR
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF JORF 30 décembre 1982
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 M (V)
+
+
+###### Article 72
+
+Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
+
+la quotité du timbre;
+
+un numéro propre à chaque empreinte suivant l'ordre de numération ainsi que  à l'exception des appareils exclusivement
+destinés au timbrage des effets de commerce :
+
+la date de l'apposition ;
+
+le nom et l'adresse de l'utilisateur ;
+
+la désignation du service des impôts auquel l'utilisateur est rattaché.
+
+Les machines à timbrer destinées au timbrage des lettres de voiture ou titres assimilés doivent apposer, pour chaque
+opération enregistrée au compteur, outre l'empreinte valant timbre sur le document original, une estampille de contrôle sur
+l'exemplaire accompagnant l'expédition.
+
+(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1983-10-06
+
+	**Cite**:
+
+	  - CGIAN4 164 L à 164 AL
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982
+
+
 ###### Article 73
 
 Les documents revêtus d'empreintes de machines à timbrer sont soumis aux mêmes règles que ceux revêtus de timbres mobiles.
@@ -8652,6 +8726,67 @@ commercial.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 170
+
+Entrent notamment dans les prévisions de l'article 1040-I, deuxième alinéa  du code général des impôts :
+
+La caisse des dépôts et consignations;
+
+La caisse nationale de prévoyance;
+
+L'établissement national des invalides de la marine;
+
+La caisse des retraites des inscrits maritimes;
+
+La caisse des retraites des agents du service général;
+
+La caisse de prévoyance des marins français;
+
+La caisse autonome des retraites des ouvriers mineurs;
+
+La caisse générale de garantie des assurances sociales;
+
+La caisse de compensation pour la décentralisation de l'industrie aéronautique;
+
+Les chambres de commerce et d'industrie et ports autonomes;
+
+Les chambres d'agriculture;
+
+Les chambres de métiers;
+
+Le comité national interprofessionnel des viandes;
+
+L'entreprise de recherches et d'activités pétrolières (E.R.A.P.);
+
+L'entreprise minière et chimique;
+
+Les sections de l'office central de répartition des produits industriels;
+
+L'office national des anciens combattants et victimes de guerre;
+
+L'office national de la navigation;
+
+L'office national interprofessionnel des céréales;
+
+Les offices publics d'habitations à loyer modéré [*HLM*];
+
+Les régies municipales  intercommunales et départementales exploitant des services à caractère industriel ou commercial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1983-10-06
+
+	**Cite**:
+
+	  - CGI 1040 I
+
+	**Modifié par**:
+
+	  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
+
+
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
 ## IMPOTS D'ETAT
@@ -8988,6 +9123,88 @@ paiement et éventuellement les relevés de coupons visés aux articles 57 ou 58
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 15
+
+1° Les relevés sont établis sous forme de fiches individuelles conformes aux modèles ci-après [*non représentés*].
+
+Toutefois  les établissements qui peuvent présenter les renseignements que comportent ces modèles au moyen de fiches
+mécanographiques ont la faculté de substituer l'usage de ces fiches à l'emploi du modèle officiel pourvu que la dimension de
+ces fiches ne dépasse pas 21 cm x 13 cm.
+
+2° Les relevés visés à l'article 14 (coupons payés aux guichets ou par correspondance) portent [*mentions obligatoires*] :
+
+a. La désignation et l'adresse de l'établissement payeur ou le cachet du comptable public;
+
+b. La date de paiement;
+
+c. Le numéro de la pièce de paiement correspondante si celle-ci est numérotée;
+
+d. Selon le cas  l'une des mentions suivantes :
+
+Les nom et prénoms ou raison sociale du bénéficiaire des revenus ainsi que l'adresse de son domicile ou de son siège social;
+
+La mention " P.C. tiers ";
+
+e. Les nom  prénoms et adresse du domicile réel du présentateur s'il est différent du bénéficiaire des revenus;
+
+f. Suivant le cas  soit la mention " C " (connu)  soit l'indication de la pièce justificative présentée ou son numéro de
+référence à la liste figurant à l'article 13.
+
+3° Les relevés visés à l'article 58 de l'annexe II au code général des impôts (coupons crédités en compte) portent :
+
+a. La désignation et l'adresse de l'établissement qui a porté les coupons au crédit du compte;
+
+b. La désignation du titulaire du compte (nom  prénoms et adresse du domicile  ou raison sociale et adresse du siège);
+
+c. Le numéro du compte;
+
+d. L'année au cours de laquelle le compte a été crédité.
+
+4° Les relevés visés aux 2° et 3° comportent en outre :
+
+a. Le montant imposable à l'impôt sur le revenu  déduction faite des seuls frais d'encaissement des coupons  d'une part des
+produits de valeurs mobilières à revenu fixe ouvrant droit à l'abattement de 5.000 F prévu à l'article 158-3 du code général
+des impôts  d'autre part des dividendes susceptibles de bénéficier de l'abattement de 3.000 F prévu au même article;
+
+b. Le montant imposable à l'impôt sur le revenu  déterminé comme ci-dessus  des revenus des valeurs autres que celles visées
+au a;
+
+c. Le montant net payé au titre des revenus visés aux a et b après déduction  le cas échéant :
+
+De la retenue à la source prévue à l'article 119 bis du code général des impôts;
+
+De l'impôt étranger  s'il s'agit de revenus de valeurs mobilières étrangères;
+
+Des frais d'encaissement des coupons;
+
+d. L'avoir fiscal ou le crédit d'impôt attaché à la perception des revenus visés aux a et b;
+
+e. Le montant net payé des revenus non imposables à l'impôt sur le revenu  les intérêts des emprunts 4,25 % 1963 et 4,25
+%-4,75 % 1963 étant  le cas échéant  mentionnés à part.
+
+Pour les produits payés en monnaie étrangère  les sommes figurant sur les relevés de coupons doivent être indiquées pour leur
+contre-valeur en francs au jour du paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1983-10-06
+
+	**Cite**:
+
+	  - CGI 119 bis
+	  - CGI 158 3
+	  - CGIAN2 58
+	  - CGIAN4 13
+	  - CGIAN4 14
+
+	**Modifié par**:
+
+	  - Loi n°77-1467 du 30 décembre 1977 - art. 67 () JORF 31 décembre 1977
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 6 (P) JORF 30 décembre 1982
 
 
 ###### Article 16 bis
@@ -12007,77 +12224,6 @@ d'établissement, à 5 F par face de fiche.
 
 #### DROITS DE TIMBRE PROPREMENT DITS.
 
-###### Article 71
-
-Est autorisée l'utilisation des machines à timbrer qui  suivant les prévisions des articles 301, 304, 305, 313 AA et 313 AR
-de l'annexe III du code général des impôts  sont destinées respectivement au timbrage :
-
-des actes soumis au timbre de dimension;
-
-des effets de commerce;
-
-des quittances;
-
-des lettres de voiture ou titres assimilés;
-
-des cartes d'entrée dans les casinos.
-
-(1) VOIR LES CONDITIONS GENERALES D'UTILISATION PRESCRITES PAR LES ARTICLES 164 L A 164 AL.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 301
-	  - CGIAN3 304
-	  - CGIAN3 305
-	  - CGIAN3 313 AA
-	  - CGIAN3 313 AR
-	  - CGIAN4 164 L A CGIAN4 164 al.
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 M (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 72
-
-Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
-
-la quotité du timbre;
-
-un numéro propre à chaque empreinte suivant l'ordre de numération    ainsi que  à l'exception des appareils exclusivement
-destinés au timbrage des quittances et effets de commerce :
-
-la date de l'apposition;
-
-le nom et l'adresse de l'utilisateur;
-
-la désignation du service des impôts auquel l'utilisateur est rattaché.
-
-Les machines à timbrer destinées au timbrage des lettres de voiture ou titres assimilés doivent apposer  pour chaque
-opération enregistrée au compteur  outre l'empreinte valant timbre sur le document original  une estampille de contrôle sur
-l'exemplaire accompagnant l'expédition.
-
-**Nota:**
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 164 L A CGIAN4 164 AL
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 93 H bis
 
 Les autorisations de payer [*paiement*] sur états le droit de timbre de dimension afférent aux bulletins de souscriptions
@@ -12199,132 +12345,7 @@ qui devront être acquittés  en tout état de cause  dans les six mois du dép�
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater (V)
 
 
-###### Article 107
-
-Les commerçants industriels et entrepreneurs de spectacles autorisés à acquitter sur états le droit de timbre des quittances
-versent le montant de l'impôt à l'expiration de chaque mois et dans les vingt premiers jours du mois suivant au comptable des
-impôts qui a accordé l'autorisation.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 DECEMBRE 1982
-
-
-###### Article 108
-
-A l'appui du versement  il est fourni par le commerçant l'industriel  le directeur du théâtre ou de l'établissement de
-spectacles un état indiquant distinctement  s'il y a lieu  pour chaque établissement  agence ou succursale et pour chaque
-représentation  le nombre des quittances  reçus  décharges ou billets aux différents tarifs.
-
-Cet état est certifié conforme aux écritures et le montant des droits de timbre est provisoirement liquidé et payé en
-conséquence. Il est fourni en double à l'appui de chaque versement mensuel. L'un de ces doubles est rendu au déposant revêtu
-de l'acquit du comptable des impôts  l'autre est conservé par le service à l'appui de la recette des droits de timbre.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 DECEMBRE 1982
-
-
-###### Article 109
-
-Tous les documents de comptabilité et autres nécessaires pour la vérification des états fournis à l'appui du versement des
-droits de timbre doivent être conservés pendant le délai prévu à l'article L. 82 du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI L82
-	  - CGIAN4 108
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales A37-1 5°
-
-
-###### Article 110
-
-Les commerçants ou industriels doivent ouvrir  sur les livres de recette  bordereaux  états ou autres pièces de comptabilité
-une colonne spéciale destinée à l'inscription du montant du droit de timbre perçu pour chaque quittance  reçu ou décharge.
-Les droits sont totalisés par bordereau ou état et ce total est lui-même relevé sur les livres de recette  de manière à
-faciliter les opérations de contrôle.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 DECEMBRE 1982
-
-
-###### Article 121 A4
-
-Les déviations mentionnées à l'article 944-I du code général des impôts sont toutes les sections de routes construites sur un
-nouveau tracé et auxquelles  en application de l'article 5 de la loi no 69-7 du 3 janvier 1969 et des décrets no 70-759 du 18
-août 1970 et no 72-943 du 10 octobre 1972, les propriétaires riverains n'ont pas d'accès direct.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 944 I
-	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
-	  - Décret n°70-759 1970-08-18
-	  - Décret n°72-943 1972-10-10
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 DECEMBRE 1982
-
-
 #### DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES.
-
-###### Article 121 K
-
-Pour l'application de la réduction de tarif édictée par l'article 968-I  deuxième alinéa  du code général des impôts  l'âge
-du véhicule se détermine à partir de la date de la première mise en circulation.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI 159 sexies B
-
-	**Cite**:
-
-	  - CGI 968 I AL. 2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Transféré par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
-
 
 ###### Article 121 KA
 
@@ -12333,32 +12354,37 @@ donnant lieu à la perception des droits de timbre dans les régies de recettes 
 
 Peuvent notamment être timbrés par ce procédé :
 
-- 1° Les cartes d'identité professionnelle des voyageurs ou représentants de commerce [*VRP*] les cartes frontalières et
-autres cartes d'identité les cartes de séjour de ressortissant d'un Etat membre de la communauté économique européenne (art.
-947 et 948 du code général des impôts);
+1° Les cartes d'identité professionnelle des voyageurs ou représentants de commerce [*VRP*] les cartes frontalières et autres
+cartes d'identité les cartes de séjour de ressortissant d'un Etat membre de la communauté économique européenne (art. 947 et
+948 du code général des impôts);
 
-- 2° Les cartes de séjour des étrangers  les cartes spéciales délivrées aux étrangers exerçant une profession commerciale
+2° Les cartes de séjour des étrangers  les cartes spéciales délivrées aux étrangers exerçant une profession commerciale
 industrielle  artisanale ou agricole (art. 949 et 950 du code général des impôts);
 
-- 3° (Abrogé);
+3° (Abrogé);
 
-- 4° Les passeports  laissez-passer  sauf-conduits pour l'étranger et les titres de voyages délivrés aux réfugiés ou
-apatrides (art. 953 et 954 du code général des impôts);
+4° Les passeports  laissez-passer  sauf-conduits pour l'étranger et les titres de voyages délivrés aux réfugiés ou apatrides
+(art. 953 et 954 du code général des impôts);
 
-- 5° Les certificats internationaux pour automobiles et les permis internationaux de conduire (art. 966 du code général des
+5° Les certificats internationaux pour automobiles et les permis internationaux de conduire (art. 966 du code général des
 impôts);
 
-- 6° Les permis de conduire les véhicules automobiles  les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
+6° Les permis de conduire les véhicules automobiles  les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
 véhicules à moteur (art. 1635 bis D-I du code général des impôts);
 
-- 7° Les certificats d'immatriculation des véhicules automobiles e et de tous autres véhicules à moteur (cartes grises) (art.
-968 du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
+7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur (cartes grises) (art.
+1635 bis G du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
 
 	**Cite**:
 
 	  - CGI 1635 bis D I
+	  - CGI 1635 bis G
 	  - CGI 947
 	  - CGI 948
 	  - CGI 949
@@ -12366,12 +12392,11 @@ véhicules à moteur (art. 1635 bis D-I du code général des impôts);
 	  - CGI 953
 	  - CGI 954
 	  - CGI 966
-	  - CGI 968
 	  - CGIAN2 339 A CGIAN2 341
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
 
 
 ###### Article 121 KM
@@ -13885,6 +13910,39 @@ Véhicules automobiles de transport de marchandises dont le P.T.A.C. est égal o
 	  - CGIAN2 341
 
 
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES
+
+### IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
+
+#### ENREGISTREMENT
+
+##### REGIONS.
+
+###### Article 159 sexies B
+
+Pour l'application de la réduction de tarif édictée par l'article 1635 bis H-I-3 du code général des impôts, l'âge du
+véhicule se détermine à partir de la date de la première mise en circulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+	  - Arrêté 1988-10-20
+
+	**Cite**:
+
+	  - CGI 1635 bis H I 3
+
+	**Nouveaux textes**:
+
+	  - CGIAN4 155 quater
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
+
+
 ## DISPOSITIONS COMMUNES *AUX IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET AUX IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS*
 
 ### FRAIS D'ASSIETTE ET DE PERCEPTION
@@ -14804,66 +14862,6 @@ rouge.
 
 
 ### DISPOSITIONS DIVERSES
-
-#### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.
-
-###### Article 170
-
-Entrent notamment dans les prévisions des articles 922-2-5o et 1040-I, deuxième alinéa  du code général des impôts :
-
-La caisse des dépôts et consignations;
-
-La caisse nationale de prévoyance;
-
-L'établissement national des invalides de la marine;
-
-La caisse des retraites des inscrits maritimes;
-
-La caisse des retraites des agents du service général;
-
-La caisse de prévoyance des marins français;
-
-La caisse autonome des retraites des ouvriers mineurs;
-
-La caisse générale de garantie des assurances sociales;
-
-La caisse de compensation pour la décentralisation de l'industrie aéronautique;
-
-Les chambres de commerce et d'industrie et ports autonomes;
-
-Les chambres d'agriculture;
-
-Les chambres de métiers;
-
-Le comité national interprofessionnel des viandes;
-
-L'entreprise de recherches et d'activités pétrolières (E.R.A.P.);
-
-L'entreprise minière et chimique;
-
-Les sections de l'office central de répartition des produits industriels;
-
-L'office national des anciens combattants et victimes de guerre;
-
-L'office national de la navigation;
-
-L'office national interprofessionnel des céréales;
-
-Les offices publics d'habitations à loyer modéré [*HLM*];
-
-Les régies municipales  intercommunales et départementales exploitant des services à caractère industriel ou commercial.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1040 I AL. 2
-	  - CGI 922 2 5°
-
-	**Modifié par**:
-
-	  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
-
 
 #### DISPOSITIONS COMMUNES.
 
