@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-02-16
+Version Consolidée au 1985-02-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11123,79 +11123,6 @@ sociétés.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 (V)
 
 
-##### OBLIGATIONS DES PERSONNES MORALES
-
-###### Article 23 A
-
-Les sociétés visées à l'article 206 du code général des impôts sont tenues de déposer  dans le mois de leur constitution
-définitive ou  le cas échéant  du jour où elles deviennent passibles de l'impôt sur les sociétés  une déclaration indiquant :
-
-1o La raison sociale  la forme juridique  l'objet principal  la durée  le siège de la société  ainsi que le lieu de son
-principal établissement;
-
-2o La date de l'acte constitutif ainsi que celle de l'enregistrement de cet acte dont un exemplaire sur papier non timbré,
-dûment certifié est joint à la déclaration;
-
-3o Les nom  prénoms et domicile des dirigeants ou gérants et  pour les sociétés dont le capital n'est pas divisé en actions
-les nom prénoms et domicile de chacun des associés;
-
-4o La nature et la valeur des biens mobiliers et immobiliers constituant les apports;
-
-5o Le nombre  la forme et le montant :
-
-a. Des titres négociables émis  en distinguant les actions des obligations et en précisant  pour les premières  la somme dont
-chaque titre est libéré et  pour les secondes  la durée de l'amortissement et le taux de l'intérêt;
-
-b. Des parts sociales (parts de capital) non représentées par des titres négociables;
-
-c. Des autres droits de toute nature attribués aux associés dans le partage des bénéfices ou de l'actif social  que ces
-droits soient ou non constatés par des titres.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 206
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 13 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 B (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 C (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 D (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 G (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 23 B
-
-En cas de modification de la raison sociale  de la forme juridique de l'objet de la durée du siège de la société ou du lieu
-de son principal établissement d'augmentation de réduction ou d'amortissement du capital de libération totale ou partielle
-des actions d'émission de remboursement ou d'amortissement d'emprunts représentés par des titres négociables de remplacement
-d'un ou plusieurs dirigeants ou gérants ou dans les sociétés dont le capital n'est pas divisé en actions d'un ou plusieurs
-associés les sociétés visées à l'article 23 A doivent en faire la déclaration dans le délai d'un mois et déposer en même
-temps un exemplaire sur papier non timbré dûment certifié de l'acte modificatif.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 23 A
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 13 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 C (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 D (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*
 
 ##### DEDUCTION FISCALE EN FAVEUR DES INVESTISSEMENTS REALISES OUTRE-MER.
@@ -13899,19 +13826,24 @@ Le taux de la taxe parafiscale prévue à l'article 357 A de l'annexe II au code
 
 Les réfactions prévues à l'article 1613-II-1o du code général des impôts sont fixées à :
 
-15 % pour les sciages rabotés repris à la position ex 44-13 du tarif des droits de douane;
+15 % pour les sciages rabotés, rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires repris à la position ex
+44-13 du tarif des droits de douane;
 
 15 % pour les sciages imprégnés  injectés ou enduits repris aux positions ex 44-05 B et C du tarif des droits de douane.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1985-02-25 art. 1 JORF 27 février 1985
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
 	**Cite**:
 
 	  - CGI 1613 II 1°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 #### BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA*
@@ -15116,34 +15048,6 @@ doses n'excédant pas 5 %.
 	**Codifié par**:
 
 	  - Arrêté 1981-09-15
-
-
-#### CENTRES DE GESTION AGREES.
-
-###### Article 164 F unvicies
-
-Les ratios et autres éléments caractérisant la situation financière et économique des entreprises qui doivent figurer dans
-les dossiers de gestion prévus à l'article 7 du décret no 75-911 du 6 octobre 1975 sont fixés pour les entreprises
-industrielles commerciales et artisanales par l'arrêté du 9 août 1977 et pour les entreprises agricoles par l'arrêté du 14
-mars 1979 (1).
-
-(1) Dispositions applicables aux exercices clos postérieurement au 31 décembre 1978.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1977-08-09
-	  - Arrêté 1979-03-14
-	  - Décret n°75-911 du 6 octobre 1975 - art. 7 (M)
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 E (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 #### ARTISANS.
