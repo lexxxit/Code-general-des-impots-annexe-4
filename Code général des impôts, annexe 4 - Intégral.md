@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1986-07-01
+Version Consolidée au 1986-07-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2558,6 +2558,38 @@ Années 1914 et antérieures : 256,4. Année 1915 : 179,4. Année 1916 : 136,9. 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 238 bis J (V)
+
+
+##### Section IV : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer
+
+###### Article 23 L ter
+
+Sont assimilées à des activités industrielles pour l'application des articles 199 undecies, 238 bis HA à 238 bis HC du code
+général des impôts :
+
+1. L'extraction des substances suivantes : chromite, phosphorite, kaolin, columbo-tantalite, minerais aurifères non
+alluvionnaires ;
+
+2. L'exploitation de gîtes géothermiques au sens de l'article 3 du code minier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1986-10-07
+
+	**Cite**:
+
+	  - CGI 199 undecies, 238 bis HA à 238 bis HC
+	  - Code minier 3
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 #### Chapitre IV : Dispositions communes à l'impôt sur le revenu et à la taxe sur les salaires.
@@ -12041,38 +12073,6 @@ DEDUCTION DE 20 % PREVUE A L'ARTICLE 159 QUINQUIES II DU MEME CODE.
 
 	  - PEREMPTION: Conséquence du décret 87-940 1987-11-23 JORF 26 novembre 1987 en vigueur le 10 août 1987 : article devenu sans objet
 	  - HISTO: EDITION 1979-07-01
-
-
-#### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*
-
-##### DEDUCTION FISCALE EN FAVEUR DES INVESTISSEMENTS REALISES OUTRE-MER.
-
-###### Article 23 L ter
-
-Sont assimilées à des activités industrielles pour l'application des articles 238 bis HA à 238 bis HC du code général des
-impôts :
-
-1. L'extraction des substances suivantes : chromite, phosphorite, kaolin, columbo-tantalite, minerais aurifères non
-alluvionnaires ;
-
-2. L'exploitation de gîtes géothermiques au sens de l'article 3 du code minier.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1981-05-08 art. 1 JORF 16 mai 1981
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI 238 bis HA
-	  - CGI 238 bis HB
-	  - CGI 238 bis HC
-	  - Code minier 3
 
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES
