@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2002-03-31
+Version Consolidée au 2002-08-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1791,7 +1791,8 @@ Au-delà de 92 Euros / Jour ou fraction de jour.
 
 ###### Article 18 bis
 
-La liste des équipements mentionnés au 1 de l'article 200 quater du code général des impôts est fixée comme suit :
+La liste des équipements, matériaux et appareils mentionnés au 1 de l'article 200 quater du code général des impôts est fixée
+comme suit :
 
 1. Acquisition de gros équipements de chauffage : acquisition, en vue de leur installation dans un immeuble comportant
 plusieurs locaux, des équipements collectifs suivants : chaudière utilisée comme mode de chauffage ou de production d'eau
@@ -1809,25 +1810,63 @@ renouvelable :
 équipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses tels que les poêles, les
 foyers fermés, les inserts des cheminées intérieures et les chaudières autres que celles mentionnées au 1.
 
+5. Acquisition de matériaux d'isolation thermique :
+
+a) Matériaux d'isolation thermique des parois :
+
+1° Isolation thermique des parois opaques : planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert ; toitures
+sur combles ; toitures-terrasses ; murs en façade ou en pignon ;
+
+2° Isolation thermique des portes extérieures ;
+
+3° Isolation thermique des parois vitrées : doubles vitrages isolants classiques ou doubles vitrages à isolation renforcée
+dénommés également vitrages à faible émissivité ; châssis de fenêtre avec joints d'étanchéité si leur installation est rendue
+nécessaire par la mise en place de vitrages isolants ; châssis à étanchéité renforcée sur une porte-fenêtre existante ;
+survitrage ; doubles fenêtres ;
+
+b) Volets isolants : volets isolants caractérisés par une résistance thermique additionnelle apportée par l'ensemble volet-
+lame d'air ventilé supérieure à 0,25 m2°K/W ;
+
+c) Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire ;
+
+6. Acquisition d'appareils de régulation de chauffage permettant le réglage manuel ou automatique et la programmation des
+équipements de chauffage ou de production d'eau chaude sanitaire :
+
+a) Appareils installés dans une maison individuelle : systèmes permettant la régulation centrale des installations de
+chauffage par thermostat d'ambiance ou par sonde extérieure, avec horloge de programmation ou programmateur mono ou
+multizone ; systèmes permettant les régulations individuelles terminales des émetteurs de chaleur ; systèmes de limitation de
+la puissance électrique du chauffage électrique en fonction de la température extérieure ;
+
+b) Appareils installés dans un immeuble collectif : outre les systèmes énumérés au a, matériels nécessaires à l'équilibrage
+des installations de chauffage permettant une répartition correcte de la chaleur délivrée à chaque logement ; matériels
+permettant la mise en cascade de chaudières, à l'exclusion de l'installation de nouvelles chaudières ; systèmes de
+télégestion de chaufferie assurant les fonctions de régulation et de programmation du chauffage ; systèmes permettant la
+régulation centrale des équipements de production d'eau chaude sanitaire dans le cas de production combinée d'eau chaude
+sanitaire et d'eau destinée au chauffage.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Arrêté du 2 décembre 2014 (V)
 	  - Arrêté du 30 mars 2009 - art. 3 (V)
 	  - Arrêté du 25 mai 2011 - art. 4 (V)
 	  - Décret n°2013-832 du 17 septembre 2013 - art. Annexe I (V)
+	  - Arrêté du 2 décembre 2014 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 30-0 D (V)
 
 	**Modifié par**:
 
-	  - Arrêté 2001-06-11 art. 1 JORF 16 juin 2001
+	  - Arrêté 2002-04-12 art. 1 JORF 20 avril 2002
 
 	**Cite**:
 
 	  - CGI 200 quater
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
 
 
 #### Chapitre II : Impôt sur les sociétés
@@ -2249,40 +2288,6 @@ Ce modèle pourra être adapté pour tenir compte des nécessités de l'exploita
 
 	  - HISTO: Edition du 31 août 2004
 	  - PEREMPTION: Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
-#### Chapitre II bis : Taxe d'apprentissage.
-
-###### Article 23 I ter
-
-Le montant minimal du concours mentionné à l'article 140 K bis de l'annexe II au code général des impôts est fixé à 380 euros
-par apprenti inscrit dans un centre de formation d'apprentis ou dans une section d'apprentissage au 31 décembre de l'année au
-titre de laquelle est due la taxe d'apprentissage. L'employeur doit se libérer de ce versement avant le 1er mars de l'année
-suivant l'année d'imposition.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 août 2002
-	  - HISTO: Edition du 31 mars 2002
-
-	**Codifié par**:
-
-	  - Arrêté 2002-09-27
-
-	**Cite**:
-
-	  - CGIAN2 140 K bis
-
-	**Abrogé par**:
-
-	  - Décret n°2002-597 du 24 avril 2002 - art. 10 () JORF 27 avril 2002
 
 
 #### Chapitre III : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
@@ -15371,46 +15376,50 @@ Au-dessus 137 204 115,51 euros : 1 335 527 euros
 
 #### Chapitre II bis : Contributions indirectes
 
-##### Section I : Comité des fruits à cidre et des productions cidricoles.
+##### Section I : Taxe parafiscale au profit du centre technique des productions cidricoles.
 
 ###### Article 159 AM
 
-Le taux de la taxe mentionnée aux articles 358 à 361 de l'annexe II au code général des impôts est fixé comme suit :
+Le taux de la taxe mentionnée aux articles 358 à 361 de l'annexe II au code général des impôts est fixé pour la période du
+1er septembre 2002 au 31 décembre 2003 ainsi qu'il suit :
 
-a. 0,12 euro par quintal de pommes et de poires et par 12,5 kilogrammes de concentré desdits produits ;
+a. 0,16 Euros par quintal de pommes et de poires et par 12,5 kg de concentré desdits produits ;
 
-b. 0,17 euro par hectolitre :
+b. 0,17 Euros par hectolitre :
 
 1° de jus de pommes à cidre et de poires à poiré et de moûts de pommes et de poires ;
 
 2° de cidre aromatisé ou non à due proportion du cidre contenu dans le produit fini ;
 
-3° de fermenté de pommes aromatisé ou non à due proportion du fermenté de pommes contenu dans le produit fini ;
+3° De fermenté de pommes à due proportion du fermenté de pommes contenu dans le produit fini ;
 
-4° de poiré ;
+4° De poiré ;
 
-5° de fermenté de poires ;
+5° De fermenté de poires ;
 
-c. 3,05 euros par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré, de pommeaux et d'apéritifs à base
+c. 3,05 Euros par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et de poiré, de pommeaux et d'apéritifs à base
 de cidre et de poiré.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1997-09-01 art. 1 JORF 20 septembre 1997
-	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
+	  - Arrêté 2002-08-28 art. 1 JORF 30 août 2002
+
+	**Codifié par**:
+
+	  - Arrêté 2002-09-27
+	  - Arrêté 2004-03-26
+
+	**Liens**:
+
+	  - PEREMPTION: Arrêté 2004-03-26 art. 1 JORF 30 mars 2004
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2002
 
 	**Cite**:
 
 	  - CGIAN2 358 à 361
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-	  - HISTO: Edition du 31 mars 2002
 
 
 ##### Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.
