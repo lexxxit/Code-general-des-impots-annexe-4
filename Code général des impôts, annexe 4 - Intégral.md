@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1982-06-29
+Version Consolidée au 1982-07-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9591,6 +9591,37 @@ perceptions forfaitaires prévues à l'article 1er  troisième alinéa  de la lo
 	  - HISTO: EDITION 1979-07-01
 
 
+##### CALCUL DE LA TAXE
+
+###### Article 31 ter
+
+La liste des véhicules non soumis au taux majoré de la taxe sur la valeur ajoutée, en vertu de l'article 281 bis F du code
+général des impôts, est fixée comme suit :
+
+Les véhicules spéciaux pour handicapés agréés par le ministère de l'industrie ;
+
+Les camionnettes, transformées et aménagées en vue du transport d'un ou plusieurs passagers handicapés en fauteuil roulant ;
+
+Les tricycles ou quadricycles à moteur définis par le décret n° 62 1179 du 12 octobre 1962 repris sous l'article R. 169 du
+code de la route.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1982-07-06 art. 1 JORF 11 juillet 1982
+
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+
+	**Cite**:
+
+	  - CGI 281 bis F
+	  - Code de la route R169
+	  - Décret n°62-1179 1962-10-12
+
+
 ##### OBLIGATIONS DES REDEVABLES.
 
 ###### Article 36
@@ -10746,6 +10777,52 @@ déposées au titre d'une année civile.
 
 	  - CGIAN2 242-0 M
 	  - CGIAN2 242-0 P
+
+
+### TAXE SUR LE CHIFFRE D'AFFAIRES
+
+#### TAXE SUR LA VALEUR AJOUTEE *TVA*
+
+##### CALCUL DE LA TAXE
+
+###### Article 31 quater
+
+La liste des aménagements, équipements et accessoires de voitures automobiles non soumis au taux majoré de la taxe sur la
+valeur ajoutée en vertu de l'article 281 bis F du code général des impôts est fixée comme suit :
+
+Siège orthopédique pivotant ;
+
+Fauteuil roulant spécial ;
+
+Rampes pour l'accès de fauteuils pour handicapés ;
+
+Cercle accélérateur ;
+
+Accélérateur à main ;
+
+Frein principal à main ;
+
+Frein de secours à main gauche ;
+
+Boule au volant ;
+
+Permutation des pédales ;
+
+Sélecteur de vitesses sur planche de bord."
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1982-07-06 art. 2 JORF 11 juillet 1982
+
+	**Codifié par**:
+
+	  - Arrêté 1982-10-15
+
+	**Cite**:
+
+	  - CGI 281 bis F
 
 
 ### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES
