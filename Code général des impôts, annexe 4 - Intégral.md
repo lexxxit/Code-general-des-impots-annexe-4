@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-04-20
+Version Consolidée au 1985-05-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2476,6 +2476,31 @@ Lécithines.
 
 
 ##### III : Taux majoré.
+
+###### Article 31 quater
+
+La liste des aménagements, équipements et accessoires de voitures automobiles non soumis au taux majoré de la taxe sur la
+valeur ajoutée en vertu de l'article 281 bis F du code général des impôts est fixée comme suit :
+
+Siège orthopédique ;    Fauteuil roulant spécial ;    Rampes ou treuils pour l'accès de fauteuils pour handicapés ;    Porte
+latérale arrière gauche coulissante ;    Modification de l'angle d'ouverture des portières ou de leur    sens ;
+Modification de la console centrale séparant les sièges avant ;    Commande d'accélérateur à main ;    Sélecteur de vitesses
+sur planche de bord ;    Modification de la position ou de la commande du frein principal    à main ou du frein de secours ;
+Modification de la position ou de la commande de commutateurs de    feux, de clignotants, d'avertisseur sonore, d'essuie-
+glace ;    Dispositifs de commande groupée ;    Olives, boules, pommeau, fourche et autre aménagement du volant ;
+Permutation ou modification de la position des pédales ;    Modification de la colonne de direction ;    Dispositif de
+maintien du tronc par sangle ou par harnais.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1985-04-22 art. 1 JORF 2 mai 1985
+
+	**Cite**:
+
+	  - CGI 281 bis F
+
 
 ###### Article 31 ter
 
@@ -12431,52 +12456,6 @@ déposées au titre d'une année civile.
 
 	  - CGIAN2 242-0 M
 	  - CGIAN2 242-0 P
-
-
-### TAXE SUR LE CHIFFRE D'AFFAIRES
-
-#### TAXE SUR LA VALEUR AJOUTEE *TVA*
-
-##### CALCUL DE LA TAXE
-
-###### Article 31 quater
-
-La liste des aménagements, équipements et accessoires de voitures automobiles non soumis au taux majoré de la taxe sur la
-valeur ajoutée en vertu de l'article 281 bis F du code général des impôts est fixée comme suit :
-
-Siège orthopédique pivotant ;
-
-Fauteuil roulant spécial ;
-
-Rampes pour l'accès de fauteuils pour handicapés ;
-
-Cercle accélérateur ;
-
-Accélérateur à main ;
-
-Frein principal à main ;
-
-Frein de secours à main gauche ;
-
-Boule au volant ;
-
-Permutation des pédales ;
-
-Sélecteur de vitesses sur planche de bord."
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1982-07-06 art. 2 JORF 11 juillet 1982
-
-	**Codifié par**:
-
-	  - Arrêté 1982-10-15
-
-	**Cite**:
-
-	  - CGI 281 bis F
 
 
 ### DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES
