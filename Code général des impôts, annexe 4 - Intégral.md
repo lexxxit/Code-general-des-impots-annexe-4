@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1980-12-07
+Version Consolidée au 1980-12-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14319,8 +14319,6 @@ L'office national de la navigation;
 
 La caisse nationale de prévoyance;
 
-La caisse nationale des marchés de l'Etat;
-
 La caisse nationale du crédit agricole;
 
 Les chambres de commerce et d'industrie et ports autonomes;
@@ -14332,8 +14330,6 @@ L'entreprise de recherches et d'activités pétrolières (E.R.A.P.);
 L'entreprise minière et chimique;
 
 Les régies municipales  intercommunales et départementales exploitant des services à caractère industriel et commercial;
-
-Le service de l'exploitation industrielle des tabacs et des allumettes.
 
 2. Sont notamment soumis au régime prévu à l'article 165-2 :
 
@@ -14377,14 +14373,19 @@ L'office national des anciens combattants et victimes de guerre.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 1981-09-15
+
 	**Cite**:
 
 	  - CGIAN4 165 1, 2
 	  - CGIAN4 166 1
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°80-495 1980-07-02 art. 1 JORF 3 juillet 1980
+	  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
 
 
 #### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.
@@ -14410,8 +14411,6 @@ La caisse autonome des retraites des ouvriers mineurs;
 La caisse générale de garantie des assurances sociales;
 
 La caisse de compensation pour la décentralisation de l'industrie aéronautique;
-
-La caisse nationale des marchés de l'Etat;
 
 Les chambres de commerce et d'industrie et ports autonomes;
 
@@ -14444,9 +14443,9 @@ Les régies municipales  intercommunales et départementales exploitant des serv
 	  - CGI 1040 I AL. 2
 	  - CGI 922 2 5°
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 décembre 1980
 
 
 #### DISPOSITIONS COMMUNES.
