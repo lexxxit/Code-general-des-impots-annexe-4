@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-09-01
+Version Consolidée au 1985-09-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14341,19 +14341,24 @@ Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général
 
 ###### Article 159 AO
 
-En application de l'article 363 D-V de l'annexe II au code général des impôts  le taux de la taxe perçue sur certaines
-viandes et destinée au fonds national de développement agricole [*FNDA*] est fixé comme suit par kilogramme net de viande :
+Le montant de la taxe prévue à l'article 363 D de l'annexe II au code général des impôts est fixé comme suit, par kilogramme
+net :
 
-pour la viande de boeuf et la viande de veau : 0,23 % du prix d'orientation communautaire défini pour un kilogramme de poids
-vif de gros bovins     pour la viande de porc : 0,25 % du prix de base communautaire pour un kilogramme de viande de porc
-abattu     pour la viande de mouton : 0,09 % du prix de référence communautaire fixé pour un kilogramme de viande de mouton
-(1).
+1° Pour l'année 1985 :
 
-Les taxes prévues au présent article sont recouvrées dans les établissements d'abattage publics et privés selon les
-dispositions de l'article 363 D précité.
+Viande de boeuf et la viande de veau : 0,030 F;
 
-(1) Les tarifs de la taxe pour l'année 1981 ont été fixés par l'arrêté du 15 janvier 1981 (J.O. du 30) ; pour l'année 1982,
-par l'arrêté du 4 janvier 1982 (J.O. du 8).
+Viande de porc : 0,034 F;
+
+Viande de mouton : 0,025 F.
+
+2° Pour l'année 1986 :
+
+Viande de boeuf et la viande de veau : 0,031 F;
+
+Viande de porc : 0,034 F;
+
+Viande de mouton : 0,025 F.
 
 **Liens relatifs à cet article**
 
@@ -14365,32 +14370,29 @@ par l'arrêté du 4 janvier 1982 (J.O. du 8).
 
 	**Modifié par**:
 
-	  - Arrêté 1982-12-29 art. 1 JORF 31 décembre 1982
+	  - Arrêté 1985-09-24 art. 1 JORF 25 septembre 1985
 
 	**Codifié par**:
 
-	  - Arrêté 1983-10-06
+	  - Arrêté 1986-10-07
 
 
 #### TAXE PARAFISCALE SUR LES VINS.
 
 ###### Article 159 AP
 
-En application de l'article 363 E de l'annexe II au code général des impôts  le montant de la taxe effectivement perçue est
-fixé comme suit :
+En application de l'article 363 E de l'annexe II au code général des impôts, le montant de la taxe parafiscale perçue sur les
+vins au profit de l'association nationale pour le developpement agricole est fixée comme suit pour l'année 1985 et pour
+l'année 1986 :
 
-vins à appellation d'origine contrôlée : 0,55 F par hectolitre    vins délimités de qualité supérieure : 0,35 F par
-hectolitre    autres vins : 0,20 F par hectolitre.
+Vins à appellation d'origine contrôlée : 0,55 F par hectolitre    Vins délimités de qualité supérieure : 0,35 F par
+hectolitre    Autres vins : 0,20 F par hectolitre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGIAN2 363 E
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ### ENREGISTREMENT
