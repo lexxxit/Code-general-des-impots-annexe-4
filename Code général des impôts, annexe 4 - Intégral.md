@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 1985-02-12
+Version Consolidée au 1985-02-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1186,6 +1186,31 @@ articles ci-après.
 
 ##### 1 : Justifications d'identité et de domicile
 
+###### Article 8
+
+Aucune pièce justificative n'est demandée lorsque l'identité ainsi que le domicile ou le siège du présentateur des coupons ou
+des titres ou du bénéficiaire des revenus sont connus du payeur. Ce dernier annote de la lettre C (connu) les pièces de
+paiement et éventuellement le relevé de coupons visé à l'article 57 de l'annexe II au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Modifié par**:
+
+	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 57 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 13 bis (V)
+
+
 ###### Article 9
 
 1. Les personnes inconnues des payeurs doivent justifier de leur identité ainsi que de leur domicile ou siège social  par la
@@ -1372,6 +1397,78 @@ par l'établissement qui en effectue le paiement.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 16 (V)
 
 
+###### Article 15
+
+1° Les relevés sont établis sous forme de fiches individuelles conformes aux modèles ci-après [*non représentés*].
+
+Toutefois  les établissements qui peuvent présenter les renseignements que comportent ces modèles au moyen de fiches
+mécanographiques ont la faculté de substituer l'usage de ces fiches à l'emploi du modèle officiel pourvu que la dimension de
+ces fiches ne dépasse pas 21 cm x 13 cm.
+
+2° Les relevés visés à l'article 14 (coupons payés aux guichets ou par correspondance) portent [*mentions obligatoires*] :
+
+a. La désignation et l'adresse de l'établissement payeur ou le cachet du comptable public;
+
+b. La date de paiement;
+
+c. Le numéro de la pièce de paiement correspondante si celle-ci est numérotée;
+
+d. Selon le cas  l'une des mentions suivantes :
+
+Les nom et prénoms ou raison sociale du bénéficiaire des revenus ainsi que l'adresse de son domicile ou de son siège social;
+
+La mention " P.C. tiers ";
+
+e. Les nom  prénoms et adresse du domicile réel du présentateur s'il est différent du bénéficiaire des revenus;
+
+f. Suivant le cas  soit la mention " C " (connu)  soit l'indication de la pièce justificative présentée ou son numéro de
+référence à la liste figurant à l'article 13.
+
+3° (Devenu sans objet).
+
+4° Les relevés visés au 2° comportent en outre :
+
+a. Le montant imposable à l'impôt sur le revenu  déduction faite des seuls frais d'encaissement des coupons  d'une part des
+produits de valeurs mobilières à revenu fixe ouvrant droit à l'abattement de 5.000 F prévu à l'article 158-3 du code général
+des impôts  d'autre part des dividendes susceptibles de bénéficier de l'abattement de 3.000 F prévu au même article;
+
+b. Le montant imposable à l'impôt sur le revenu  déterminé comme ci-dessus  des revenus des valeurs autres que celles visées
+au a;
+
+c. Le montant net payé au titre des revenus visés aux a et b après déduction  le cas échéant :
+
+De la retenue à la source prévue à l'article 119 bis du code général des impôts;
+
+De l'impôt étranger  s'il s'agit de revenus de valeurs mobilières étrangères;
+
+Des frais d'encaissement des coupons;
+
+d. L'avoir fiscal ou le crédit d'impôt attaché à la perception des revenus visés aux a et b;
+
+e. Le montant net payé des revenus non imposables à l'impôt sur le revenu  les intérêts des emprunts 4,25 % 1963 et 4,25
+%-4,75 % 1963 étant  le cas échéant  mentionnés à part.
+
+Pour les produits payés en monnaie étrangère  les sommes figurant sur les relevés de coupons doivent être indiquées pour leur
+contre-valeur en francs au jour du paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Cite**:
+
+	  - CGI 119 bis
+	  - CGI 158 3
+	  - CGIAN4 13
+	  - CGIAN4 14
+
+	**Modifié par**:
+
+	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+
+
 ###### Article 16
 
 Les relevés visés à l'article 14 et afférents aux paiements faits dans le courant de chaque mois sont envoyés à la direction
@@ -1407,6 +1504,88 @@ mentions figurant sur les relevés par eux fournis. Ils doivent conserver  jusqu
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
+
+
+###### Article 17 A
+
+1. Toute opération portant sur des coupons ou instruments représentatifs de coupons d'actions et parts sociales de sociétés
+françaises  qui fait l'objet du relevé prévu à l'article 57 de l'annexe II au code général des impôts  donne lieu à
+l'établissement d'un document comportant l'indication de l'identité et du domicile réel ou du siège social du bénéficiaire
+ainsi que de la pièce éventuellement présentée pour en justifier  la désignation des valeurs mobilières dont procèdent les
+revenus payés et le décompte des sommes mises en paiement avec l'indication  le cas échéant  de la retenue opérée au profit
+du Trésor.
+
+2. (Devenu sans objet).
+
+3. Les pièces établies sont réunies en deux liasses relatives l'une aux paiements faits à des personnes ayant en France leur
+domicile réel ou leur siège social et l'autre aux paiements faits à des personnes domiciliées ou ayant leur siège hors de
+France [*à l'étranger*].
+
+4. Ces liasses ainsi que l'état visé à l'article 188 H sont conservés à la disposition de l'administration pendant le délai
+prévu à l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN2 57
+	  - CGIAN2 58
+	  - CGIAN4 188 H
+
+	**Modifié par**:
+
+	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 B (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 H (V)
+
+
+###### Article 17 B
+
+1. Les personnes et organismes visés à l'article 41 duodecies A de l'annexe III au code général des impôts qui payent des
+intérêts arrérages et autres produits de fonds d'Etat  obligations françaises et autres valeurs assimilées doivent établir
+les documents prévus au I de l'article 17 A.
+
+L'indication sur ces documents du prélèvement visé à l'article 125 A du code général des impôts est alors substituée à celle
+de la retenue à la source de 25 % prévue au 2 de l'article 119 bis dudit code.
+
+2. Les documents visés au 1, qui constatent le paiement de revenus ayant supporté le prélèvement à des personnes domiciliées
+ou ayant leur siège social hors de France ne doivent pas mentionner simultanément des revenus ayant donné lieu à la retenue à
+la source.
+
+3. Les pièces établies en exécution de l'article 17 A et du présent article sont réunies pour constituer deux liasses
+relatives l'une aux paiements faits à des personnes ayant en France leur domicile réel ou leur siège social et l'autre aux
+paiements faits à des personnes domiciliées ou ayant leur siège hors de France.
+
+Les documents sont groupés séparément :
+
+à l'intérieur de la première liasse  selon qu'ils mentionnent ou non des revenus ayant supporté le prélèvement ;
+
+à l'intérieur de la deuxième liasse, selon que les paiements qu'ils retracent ont été assujettis à la retenue à la source ou
+au prélèvement. Lorsqu'ils mentionnent simultanément des revenus ayant donné lieu, les uns à la retenue à la source et les
+autres au prélèvement, les relevés individuels font l'objet d'un classement spécial au sein de cette liasse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1985-09-24
+
+	**Modifié par**:
+
+	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 D (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 C (V)
 
 
 ###### Article 17 C
@@ -10502,110 +10681,6 @@ rubriques 1o à 4o de l'article 4 J.
 
 ##### REVENU DES CAPITAUX MOBILIERS.
 
-###### Article 8
-
-Aucune pièce justificative n'est demandée lorsque l'identité ainsi que le domicile ou le siège du présentateur des coupons ou
-des titres ou du bénéficiaire des revenus sont connus du payeur. Ce dernier annote de la lettre C (connu) les pièces de
-paiement et éventuellement les relevés de coupons visés aux articles 57 ou 58 de l'annexe II au code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 57
-	  - CGIAN2 58
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 13 bis (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 15
-
-1° Les relevés sont établis sous forme de fiches individuelles conformes aux modèles ci-après [*non représentés*].
-
-Toutefois  les établissements qui peuvent présenter les renseignements que comportent ces modèles au moyen de fiches
-mécanographiques ont la faculté de substituer l'usage de ces fiches à l'emploi du modèle officiel pourvu que la dimension de
-ces fiches ne dépasse pas 21 cm x 13 cm.
-
-2° Les relevés visés à l'article 14 (coupons payés aux guichets ou par correspondance) portent [*mentions obligatoires*] :
-
-a. La désignation et l'adresse de l'établissement payeur ou le cachet du comptable public;
-
-b. La date de paiement;
-
-c. Le numéro de la pièce de paiement correspondante si celle-ci est numérotée;
-
-d. Selon le cas  l'une des mentions suivantes :
-
-Les nom et prénoms ou raison sociale du bénéficiaire des revenus ainsi que l'adresse de son domicile ou de son siège social;
-
-La mention " P.C. tiers ";
-
-e. Les nom  prénoms et adresse du domicile réel du présentateur s'il est différent du bénéficiaire des revenus;
-
-f. Suivant le cas  soit la mention " C " (connu)  soit l'indication de la pièce justificative présentée ou son numéro de
-référence à la liste figurant à l'article 13.
-
-3° Les relevés visés à l'article 58 de l'annexe II au code général des impôts (coupons crédités en compte) portent :
-
-a. La désignation et l'adresse de l'établissement qui a porté les coupons au crédit du compte;
-
-b. La désignation du titulaire du compte (nom  prénoms et adresse du domicile  ou raison sociale et adresse du siège);
-
-c. Le numéro du compte;
-
-d. L'année au cours de laquelle le compte a été crédité.
-
-4° Les relevés visés aux 2° et 3° comportent en outre :
-
-a. Le montant imposable à l'impôt sur le revenu  déduction faite des seuls frais d'encaissement des coupons  d'une part des
-produits de valeurs mobilières à revenu fixe ouvrant droit à l'abattement de 5.000 F prévu à l'article 158-3 du code général
-des impôts  d'autre part des dividendes susceptibles de bénéficier de l'abattement de 3.000 F prévu au même article;
-
-b. Le montant imposable à l'impôt sur le revenu  déterminé comme ci-dessus  des revenus des valeurs autres que celles visées
-au a;
-
-c. Le montant net payé au titre des revenus visés aux a et b après déduction  le cas échéant :
-
-De la retenue à la source prévue à l'article 119 bis du code général des impôts;
-
-De l'impôt étranger  s'il s'agit de revenus de valeurs mobilières étrangères;
-
-Des frais d'encaissement des coupons;
-
-d. L'avoir fiscal ou le crédit d'impôt attaché à la perception des revenus visés aux a et b;
-
-e. Le montant net payé des revenus non imposables à l'impôt sur le revenu  les intérêts des emprunts 4,25 % 1963 et 4,25
-%-4,75 % 1963 étant  le cas échéant  mentionnés à part.
-
-Pour les produits payés en monnaie étrangère  les sommes figurant sur les relevés de coupons doivent être indiquées pour leur
-contre-valeur en francs au jour du paiement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1983-10-06
-
-	**Cite**:
-
-	  - CGI 119 bis
-	  - CGI 158 3
-	  - CGIAN2 58
-	  - CGIAN4 13
-	  - CGIAN4 14
-
-	**Modifié par**:
-
-	  - Loi n°77-1467 du 30 décembre 1977 - art. 67 () JORF 31 décembre 1977
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 6 (P) JORF 30 décembre 1982
-
-
 ###### Article 16 bis
 
 1. Les certificats visés aux articles 77 et 78 de l'annexe II au code général des impôts sont établis sur une formule
@@ -10632,94 +10707,6 @@ Les impressions portées sur l'ensemble du document sont de couleur bleu foncé.
 	  - CGIAN2 77
 	  - CGIAN2 78
 	  - CGIAN4 15 4°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 17 A
-
-1. Toute opération portant sur des coupons ou instruments représentatifs de coupons d'actions et parts sociales de sociétés
-françaises  qui fait l'objet du relevé prévu à l'article 57 de l'annexe II au code général des impôts  donne lieu à
-l'établissement d'un document comportant l'indication de l'identité et du domicile réel ou du siège social du bénéficiaire
-ainsi que de la pièce éventuellement présentée pour en justifier  la désignation des valeurs mobilières dont procèdent les
-revenus payés et le décompte des sommes mises en paiement avec l'indication  le cas échéant  de la retenue opérée au profit
-du Trésor.
-
-2. Si l'opération fait l'objet du relevé prévu à l'article 58, dernier alinéa  de l'annexe II précitée  elle donne lieu à
-l'établissement de relevés individuels ou collectifs comportant outre les indications sus-énoncées  la référence au compte du
-déposant. Toutefois  cette référence pourra suppléer  sur les relevés collectifs  l'indication de l'identité et du domicile
-réel ou du siège social du bénéficiaire des coupons.
-
-3. Les pièces établies sont réunies en deux liasses relatives l'une aux paiements faits à des personnes ayant en France leur
-domicile réel ou leur siège social et l'autre aux paiements faits à des personnes domiciliées ou ayant leur siège hors de
-France [*à l'étranger*].
-
-4. Ces liasses ainsi que l'état visé à l'article 188 H sont conservés à la disposition de l'administration pendant le délai
-prévu à l'article L. 82 du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Cite**:
-
-	  - CGI L82
-	  - CGIAN2 57
-	  - CGIAN2 58
-	  - CGIAN4 188 H
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 B (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 H (V)
-
-
-###### Article 17 B
-
-1. Les personnes et organismes visés à l'article 41 duodecies A de l'annexe III au code général des impôts qui payent des
-intérêts arrérages et autres produits de fonds d'Etat  obligations françaises et autres valeurs assimilées doivent établir
-les documents prévus à l'article 17 A-1 et 2.
-
-L'indication sur ces documents du prélèvement visé à l'article 125 A du code général des impôts est alors substituée à celle
-de la retenue à la source de 25 % prévue à l'article 119 bis-2 dudit code.
-
-2. A l'exception des relevés individuels  les documents visés au 1, qui constatent le paiement de revenus ayant supporté le
-prélèvement à des personnes domiciliées ou ayant leur siège social hors de France [*à l'étranger*] ne doivent pas mentionner
-simultanément des revenus ayant donné lieu à la retenue à la source.
-
-Les relevés individuels établis pour constater le paiement  à ces mêmes personnes  de revenus donnant lieu les uns au
-prélèvement et les autres à la retenue à la source doivent faire apparaître le montant de chacun de ces deux impôts sous des
-rubriques distinctes.
-
-3. Les pièces établies en exécution de l'article 17 A et du présent article sont réunies pour constituer deux liasses
-relatives l'une aux paiements faits à des personnes ayant en France leur domicile réel ou leur siège social et l'autre aux
-paiements faits à des personnes domiciliées ou ayant leur siège hors de France.
-
-Les documents sont groupés séparément :
-
-à l'intérieur de la première liasse  selon qu'ils mentionnent ou non des revenus ayant supporté le prélèvement;
-
-à l'intérieur de la deuxième liasse  selon que les paiements qu'ils retracent ont été assujettis à la retenue à la source ou
-au prélèvement. Lorsqu'ils mentionnent simultanément des revenus ayant donné lieu  les uns à la retenue à la source et les
-autres au prélèvement  les relevés individuels font l'objet d'un classement spécial au sein de cette liasse.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 119 bis 2
-	  - CGI 125 A
-	  - CGIAN3 41 duodecies A
-	  - CGIAN4 17 A 1, 2
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 D (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 C (V)
 
 	**Liens**:
 
