@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2005-07-06
+Version Consolidée au 2005-09-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13341,6 +13341,43 @@ premier alinéa sont déposées à la recette principale des impôts de Menton.
 ### Titre premier : Impositions communales
 
 #### Chapitre premier : Impôts directs et taxes assimilées
+
+##### Section 0I : Taxes foncières
+
+###### Article 121-0 AA
+
+I. - Pour l'application du a du 4° de l'article 310-0 H de l'annexe II au code général des impôts, les énergies renouvelables
+prises en compte sont :
+
+a. L'énergie solaire, la biomasse, la géothermie, l'énergie éolienne ;
+
+b. L'énergie issue des systèmes thermodynamiques ou de production combinée de chaleur et d'énergie ;
+
+c. L'énergie issue des réseaux de distribution de chaleur bénéficiant du classement visé par l'article 5 de la loi n° 80-531
+du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
+
+II. - Pour l'application du b du 4° de l'article 310-0 H de l'annexe II au code général des impôts, les matériaux
+renouvelables pris en compte sont le bois et les matériaux d'origine végétale et animale.
+
+III. - Pour l'application du a du 5° de l'article 310-0 H de l'annexe II au code général des impôts, les matériels économes
+en eau pris en compte sont les réservoirs de w.-c. d'une contenance inférieure à six litres d'eau avec système de chasse à
+double commande ou à interruption.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-09-16 art. 1 JORF 18 septembre 2005
+
+	**Cite**:
+
+	  - CGIAN2 310-0 H
+	  - Loi n°80-531 1980-07-15 art. 5
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
 
 ##### Section II : Taxe professionnelle
 
