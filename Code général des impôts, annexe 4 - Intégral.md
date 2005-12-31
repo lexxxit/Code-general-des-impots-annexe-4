@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14,22 +14,22 @@ Version Consolidée au 2005-12-31
 ###### Article 01
 
 Le lieu d'imposition des personnes physiques qui n'ont pas leur domicile fiscal en France et celui des fonctionnaires ou
-agents de l'Etat qui exercent leurs fonctions ou sont chargés de mission dans un pays étranger est fixé au centre des impôts
-des non-résidents 9, rue d'Uzès, à Paris à l'exception des personnes physiques visées à l'article 121 Z quinquies.
+agents de l'Etat qui exercent leurs fonctions ou sont chargés de mission dans un pays étranger est fixé au service des impôts
+des non-résidents à l'exception des personnes physiques visées à l'article 121 Z quinquies.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
 	**Modifié par**:
 
-	  - Arrêté 1996-09-12 art. 1 JORF 15 septembre 1996
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 	**Cite**:
 
-	  - CGIAN4 121 Z quinquies
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 Z quinquies (V)
 
 
 ##### Section I : Bénéfices industriels et commerciaux
@@ -353,18 +353,30 @@ Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi
 
 ###### Article 2 bis
 
-Les prêts ou avances consentis à moyen ou à long terme aux caisses de crédit agricole mutuel par la caisse nationale de
-crédit agricole ne sont pas retenus par celle-ci pour le calcul de la provision prévue à l'article 2.
+Les prêts ou avances consentis à moyen ou à long terme aux caisses de crédit agricole mutuel par l'organe central du Crédit
+agricole ne sont pas retenus par celle-ci pour le calcul de la provision prévue à l'article 2.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 57 () JORF 7 mai 2004
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - CGIAN4 2
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 2
 
 
 ###### Article 3 bis
@@ -989,31 +1001,6 @@ e)Eaux-de-vie provenant d'une récolte plus ancienne : 20%.
 	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 
-##### 4° : Passage du régime transitoire d'imposition à un régime de bénéfice réel.
-
-###### Article 4 P
-
-En cas de passage d'un exploitant agricole du régime transitoire d'imposition à un régime d'imposition d'après le bénéfice
-réel, les produits de la viticulture en stock à la date de ce changement de régime sont évalués en appliquant au cours du
-jour du vin en vrac à la même date une décote calculée selon les modalités prévues à l'article 4 O.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1992-11-04 art. 2 JORF 11 novembre 1992
-
-	**Liens**:
-
-	  - PEREMPTION: Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Cite**:
-
-	  - CGIAN4 4 O
-
-
 ##### Section II : Traitements et salaires
 
 ##### Titres-restaurant
@@ -1067,38 +1054,33 @@ droit commun.
 
 ###### Article 6 quinquies
 
-Les placements visés à l'article 6 quater comprennent :
+Les placements visés à l'article 6 quater comprennent : 
 
-Les bons du Trésor sur formules.
+les bons du Trésor sur formules ; 
 
-Les bons d'épargne des PTT ou de La Poste ;
+les bons d'épargne des PTT ou de La Poste ; 
 
-Les bons de la caisse nationale de crédit agricole.
+les bons de l'organe central du Crédit agricole ; 
 
-Les bons à cinq ans de participation au développement du marché hypothécaire émis par le crédit foncier de France.
+les bons à cinq ans de participation au développement du marché hypothécaire émis par le crédit foncier de France ; 
 
-Les bons émis par les groupements régionaux d'épargne et de prévoyance.
+les bons émis par les groupements régionaux d'épargne et de prévoyance ; 
 
-Les versements en comptes sur livrets.
+les versements en comptes sur livrets.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1994-10-17
-
-	**Cite**:
-
-	  - CGIAN4 6 quater
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
+	  - Arrêté 2006-03-24
 
 	**Modifié par**:
 
-	  - Loi n°90-568 1990-07-02 art. 1, art. 41 JORF 8 juillet 1990
-	  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 57 () JORF 7 mai 2004
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 6 quater (V)
 
 
 ##### II : Contrôle des revenus mobiliers
@@ -2229,37 +2211,31 @@ deux tiers de leur montant.
 
 ###### Article 23 ter
 
-Le lieu d'imposition des personnes morales désignées au 2 de l'article 218 A du code général des impôts est fixé :
+Le lieu d'imposition des personnes morales désignées au 2 de l'article 218 A du code général des impôts est fixé : 
 
 pour les sociétés ou personnes morales dont l'activité s'exerce en France dans un ou plusieurs établissements, au lieu du
-principal établissement ;
+principal établissement ; 
 
-pour les sociétés ou personnes morales qui exercent une activité en France sans y avoir d'établissement, au centre-recette
-des impôts des entreprises étrangères ;
+pour les sociétés ou personnes morales qui exercent une activité en France sans y avoir d'établissement, au service des
+impôts des entreprises étrangères ; 
 
 pour les sociétés et personnes morales qui sans exercer en France d'activité autre qu'immobilière y disposent de propriétés
 immobilières données ou non en location, au lieu de situation de ces biens. Si l'application de cette règle conduit à une
-pluralité de lieux d'imposition, l'imposition est établie au centre-recette des impôts des entreprises étrangères.
-
-**Nota:**
-
-NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
-2 de l'article 218 A et aux articles 990 D à 990 F du code général des impôts sont tenues de souscrire à compter de cette
-date.
+pluralité de lieux d'imposition, l'imposition est établie au service des impôts des entreprises étrangères.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
 	**Modifié par**:
 
-	  - Arrêté 2004-09-08 art. 1, art. 2 JORF 9 septembre 2004
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 	**Cite**:
 
-	  - CGI 218 A 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 218 A (V)
 
 
 ##### Section III : Obligations des personnes morales
@@ -2672,18 +2648,13 @@ code général des impôts :
 
 ###### Article 23 N
 
-La limite visée au a du 1 du 8° de l'article 257 du code général des impôts est fixée à 31 euros toutes taxes comprises.
+La limite visée au a du 1 du 8° de l'article 257 du code général des impôts est fixée à 60 euros toutes taxes comprises.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
+	  - Arrêté du 12 octobre 2005 - art. 1
 
 	**Cite**:
 
@@ -2691,7 +2662,7 @@ La limite visée au a du 1 du 8° de l'article 257 du code général des impôts
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### I bis : Opérations imposables sur option
@@ -2859,6 +2830,28 @@ passagers.
 
 
 ##### Section III : Liquidation de la taxe
+
+##### 0I : Limitation du droit à déduction concernant certains biens et services
+
+###### Article 28-00 A
+
+Les biens de très faible valeur mentionnés au 1° de l'article 238 de l'annexe II au code général des impôts s'entendent de
+ceux dont la valeur unitaire n'excède pas 60 Euros toutes taxes comprises par objet et par an pour un même bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2005-10-12 art. 2 JORF 20 octobre 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - CGIAN2 238
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
 
 ##### II : Régime suspensif
 
@@ -3185,8 +3178,8 @@ utilisée comme mode de chauffage ou de production d'eau chaude, cuve à fioul, 
 
 ###### Article 30-0 B
 
-La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur ajoutée en application du I de l'article 278
-quinquies du code général des impôts est fixée comme suit :
+La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur ajoutée en application du c du I de
+l'article 278 quinquies du code général des impôts est fixée comme suit :
 
 1. Pour les handicapés moteurs :
 
@@ -3267,7 +3260,11 @@ Dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule.
 
 	**Codifié par**:
 
-	  - Arrêté 2005-04-06
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
 
 	**Cite**:
 
@@ -3275,12 +3272,7 @@ Dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Modifié par**:
-
-	  - Loi n°2004-1485 2004-12-30 art. 83 I, II Finances rectificative pour 2004 JORF 31 décembre 2004
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 30-0 C
@@ -3930,7 +3922,7 @@ mensuelle pour les opérateurs dont le montant annuel des échanges intracommuna
 
 ###### Article 41 sexies B
 
-I. - Le montant annuel en valeur du seuil d'assimilation est fixé à 100 000 euros à l'introduction comme à l'expédition.
+I. - Le montant annuel en valeur du seuil d'assimilation est fixé à 150 000 euros à l'introduction comme à l'expédition.
 
 II. - Le montant annuel en valeur du seuil de simplification est fixé à 230 000 euros à l'introduction et à 460 000 euros à
 l'expédition.
@@ -3942,11 +3934,11 @@ membres doivent comporter l'ensemble des données prévues par l'article 96 L de
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 5 VI, art. 8 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+	  - Arrêté 2005-12-08 art. 1, art. 2 JORF 16 décembre 2005
 
 	**Codifié par**:
 
-	  - Arrêté 2002-06-06
+	  - Arrêté 2006-03-24
 
 	**Cite**:
 
@@ -3954,7 +3946,7 @@ membres doivent comporter l'ensemble des données prévues par l'article 96 L de
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### D : Factures transmises par voie télématique
@@ -4327,17 +4319,24 @@ un groupement professionnel ou interprofessionnel et spécialement agréé.
 ###### Article 50 sexies
 
 Les personnes qui réalisent les affaires définies au 6° de l'article 257 du code général des impôts doivent, outre la tenue
-du livre spécial visé au 3° du I de l'article 286 dudit code, tenir deux répertoires à colonnes, non sujets au timbre,
-présentant jour par jour, sans blanc ni interligne, et par ordre de numéro, tous les mandats, promesses de ventes, actes
-translatifs de propriété et, d'une manière générale tous actes se rattachant à leur profession d'intermédiaire ou à leur
-qualité de propriétaire ; l'un des répertoires est affecté aux opérations d'intermédiaire, l'autre aux opérations effectuées
-en qualité de propriétaire.
+du livre spécial visé au 3° du I de l'article 286 dudit code, tenir deux répertoires à colonnes, présentant jour par jour,
+sans blanc ni interligne, et par ordre de numéro, tous les mandats, promesses de ventes, actes translatifs de propriété et,
+d'une manière générale tous actes se rattachant à leur profession d'intermédiaire ou à leur qualité de propriétaire ; l'un
+des répertoires est affecté aux opérations d'intermédiaire, l'autre aux opérations effectuées en qualité de propriétaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1999-05-18
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Loi n°2004-1485 2004-12-30 art. 95 I D, IV Finances rectificative pour 2004 JORF 31 décembre 2004
+
+	**Abrogé par**:
+
+	  - Arrêté du 8 avril 2011 - art. 3
 
 	**Cite**:
 
@@ -4345,32 +4344,44 @@ en qualité de propriétaire.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-
-	**Modifié par**:
-
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 50 sexies A
 
 Les personnes qui réalisent habituellement des opérations visées au 7° l'article 257 du code général des impôts autres que
-celles portant sur des droits sociaux sont tenues de déclarer mensuellement ou trimestriellement leurs affaires à la recette
+celles portant sur des droits sociaux sont tenues de déclarer mensuellement ou trimestriellement leurs affaires au service
 des impôts dont relève le lieu où elles doivent établir leur déclaration de bénéfice.
 
-La justification de la prise en charge de la taxe sur la valeur ajoutée par la recette des impôts compétente est constituée
-par la désignation de cette recette et par l'indication du numéro d'identification attribué au redevable  dans l'acte et dans
+La justification de la prise en charge de la taxe sur la valeur ajoutée par le service des impôts compétent est constituée
+par la désignation de ce service et par l'indication du numéro d'identification attribué au redevable, dans l'acte et dans
 l'extrait d'acte prévu à l'article 860 du code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Arrêté du 8 avril 2011 - art. 3
+
 	**Cite**:
 
-	  - CGI 257 7°, 860
+	  - CGI 257, 860
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 33 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### G : Exploitants de spectacles
@@ -6862,276 +6873,1216 @@ Conséquence de la péremption du 4 de l'article 295 du code général des impô
 ###### Article 50 undecies
 
 1. La liste des matériels d'équipement destinés à l'industrie hôtelière et touristique dont l'importation dans les
-départements de la Guadeloupe de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée
-est fixée ainsi qu'il suit :
+départements de la Guadeloupe, de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur
+ajoutée, est fixée ainsi qu'il suit : 
 
-NUMERO DU TARIF des droits de douane d'importation / DESIGNATION DES PRODUITS
+<table>
+  <tbody>
+    <tr>
+      <td width="151">
 
-40-06 à 40-07 : Tous produits de ces positions.
+NUMERO DU TARIF 
 
-40-10 : Courroies transporteuses ou de transmission, en caoutchouc vulcanisé.
+des droits de douane 
 
-Ex 42-05 : Articles de maroquinerie n'ayant pas le caractère de contenant (sous-mains, signets, etc.) en cuir naturel ou
-reconstitué.
+d'importation 
 
-Ex 44-16 : Futailles, cuves, baquets et autres ouvrages de tonnellerie et leurs parties en bois.
+</td>
+      <td width="529">
 
-44-19 : Articles en bois pour la table ou la cuisine.
+DESIGNATION DES PRODUITS 
 
-Ex 44-21-90 : Ustensiles de ménage en bois.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-46-01-20 : Nattes, paillassons et claies en matières végétales.
+40-06 à 40-07 
 
-46-02 : Ouvrages de vannerie obtenus directement en forme à partir de matières à tresser ou confectionnés à l'aide des
-articles du n° 46-01 ; ouvrages en luffa.
+</td>
+      <td valign="top" width="529">
 
-Ex 48-14 : Papiers peints et revêtements muraux similaires.
+Tous produits de ces positions. 
 
-49-10 : Calendriers de tous genres, imprimés, y compris les blocs de calendriers à effeuiller.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-50-07 : Tissus de soie ou de déchets de soie.
+40-10 
 
-51-11 à 51-13 : Tous produits de ces positions.
+</td>
+      <td width="529" valign="top">
 
-52-08 à 52-12 : Tous produits de ces positions.
+Courroies transporteuses ou de transmission, en caoutchouc vulcanisé. 
 
-53-09 à 53-11 : Tous produits de ces positions.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-54-07 à 54-08 : Tous produits de ces positions.
+Ex 42-05 
 
-55-12 à 55-15 : Tous produits de ces positions.
+</td>
+      <td width="529" valign="top">
 
-55-16 : Tissus de fibres artificielles discontinues.
+Articles de maroquinerie n'ayant pas le caractère de contenant (sous-mains, signets, etc.) en cuir naturel ou reconstitué. 
 
-56-04 : Fils et cordes de caoutchouc, recouverts de textiles, fils textiles, lames et formes similaires des numéros 54-04 ou
-54-05, imprégnés, enduits, recouverts ou gainés de caoutchouc ou de matières plastique.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-57-01 à 57-03 : Tous produits de ces positions.
+Ex 44-16 
 
-57-05 : Autres tapis et revêtements de sol en matières textiles, même confectionnés.
+</td>
+      <td width="529" valign="top">
 
-58-01 à 58-05 : Tous produits de ces positions.
+Futailles, cuves, baquets et autres ouvrages de tonnellerie et leurs parties en bois. 
 
-58-09 à 58-11 : Tous produits de ces positions.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-59-02 : Nappes tramées pour pneumatiques obtenues à partir de fils à haute ténacité de nylon ou d'autres polyamides de
-polyesters ou de rayonne viscose.
+44-19 
 
-59-04 à 59-07 : Tous produits de ces positions.
+</td>
+      <td valign="top" width="529">
 
-59-09 : Tuyaux pour pompes et tuyaux similaires en matières textiles, même avec armatures ou accessoires en autres matières.
+Articles en bois pour la table ou la cuisine. 
 
-Ex 59-11 : Produits et articles textiles pour usages techniques visés à la note 7 du présent chapitre à l'exclusion des gazes
-et toiles à bluter, même confectionnées.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ex 63-01 : Couvertures autres que les couvertures chauffantes électriques.
+Ex 44-21-90 
 
-63-02 à 63-04 : Tous produits de ces positions.
+</td>
+      <td valign="top" width="529">
 
-63-06 : Bâches, voiles pour embarcations, planches à voile ou chars à voile stores d'extérieur, tentes et articles de
-campement.
+Ustensiles de ménage en bois. 
 
-63-08 : Assortiments composés de pièces de tissus et de fils, même avec accessoires pour la confection de tapis, de
-tapisseries, de nappes de table ou de serviettes brodées, ou d'articles textiles similaires, en emballages pour la vente au
-détail.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-66-01 : Parapluies, ombrelles et parasols (y compris les parapluies cannes, les parasols de jardin et articles similaires).
+46-01-20 
 
-Ex 66-03 : Parties, garnitures et accessoires pour articles des n° 66-01.
+</td>
+      <td width="529" valign="top">
 
-68-06 : Laines de laitier, de scories, de roche et laines minérales similaires ; vermiculite expansée, argiles expansées,
-mousse de scories et produits minéraux similaires expansés ; mélanges et ouvrages en matières minérales à usages d'isolants
-thermiques ou sonores ou pour l'absorption du son, à l'exclusion de ceux des numéros 68-11, 68-12 ou de chapitre 69.
+Nattes, paillassons et claies en matières végétales. 
 
-69-09 : Appareils et articles pour usages chimiques ou autres usages techniques, en céramique ; auges, bacs et récipients
-similaires pour l'économie rurale, en céramique ; cruchons et récipients similaires de transport où d'emballage en céramique.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-69-11 et 69-12 : Tous produits de ces positions.
+46-02 
 
-70-07 : Verre de sécurité, consistant en verres trempés ou formés de feuilles contrecollées.
+</td>
+      <td width="529" valign="top">
 
-70-09 : Miroirs en verre, même encadrés, y compris les miroirs rétroviseurs.
+Ouvrages de vannerie obtenus directement en forme à partir de matières à tresser ou confectionnés à l'aide des articles du n°
+46-01 ; ouvrages en luffa. 
 
-70-10-90 : Bonbonnes, bouteilles, flacons, bocaux, pots, emballages tubulaires, autres récipients de transport ou
-d'emballage, en verre ; bocaux à conserves en verre ; bouchons, couvercles et autres dispositifs de fermeture, en verre.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-70-13 : Objets en verre pour le service de la table, pour la cuisine, la toilette, le bureau, l'ornementation des
-appartements ou usages similaires, autres que ceux des n°s 70-10 ou 70-18.
+Ex 48-14 
 
-Ex 71-14 : Articles d'orfèvrerie et leurs parties, plaqués ou doublés de métaux précieux.
+</td>
+      <td valign="top" width="529">
 
-73-10 : Tous les produits de cette position. 
+Papiers peints et revêtements muraux similaires. 
 
-73-21 et 73-22 : Tous produits de ces positions.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ex 73-23 : Articles de ménage ou d'économie domestique et leurs parties, en fonte, fer ou acier.
+49-10 
 
-73-26 : Autres ou ouvrages en fer ou en acier.
+</td>
+      <td valign="top" width="529">
 
-74-17 à 74-19 : : Tous produits de ces positions.
+Calendriers de tous genres, imprimés, y compris les blocs de calendriers à effeuiller. 
 
-75-08 : Autres ouvrages en nickel.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-76-12 : Réservoirs, fûts, tambours, bidons, boîtes et récipients similaires en aluminium (y compris les étuis tubulaires
-rigides ou souples) pour toutes matières (à l'exception des gaz comprimés ou liquéfiés) d'une contenance n'excédant pas 300
-litres, sans dispositifs mécaniques ou thermiques, même avec revêtement intérieur ou calorifuge.
+50-07 
 
-76-15 et 76-16 : Tous produits de ces positions.
+</td>
+      <td valign="top" width="529">
 
-78-04 : Tables, feuilles et bandes en plomb ; poudres et paillettes de plomb.
+Tissus de soie ou de déchets de soie. 
 
-80-03 : Barres, profilés et fils en étain.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ex 80-07 : Articles de ménage, d'hygiène, d'économie domestique et leurs parties en étain.
+51-11 à 51-13 
 
-82-01-50 : Sécateurs (y compris les cisailles à volaille) maniés à une main.
+</td>
+      <td width="529" valign="top">
 
-82-05 à 82-06 : Tous produits de ces positions.
+Tous produits de ces positions. 
 
-82-10 : Appareils mécaniques actionnés à la main, d'un poids de 10 kg ou moins, utilisés pour préparer, conditionner ou
-servir les aliments ou les boissons.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ex 82-11 : Couteaux (autres que ceux du n° 82-08) à lame tranchante ou dentelée.
+52-08 à 52-12 
 
-82-12 et 82-13 : Tous produits de ces positions.
+</td>
+      <td width="529" valign="top">
 
-Ex 82-14 : Autres articles de coutellerie (tondeuses, fendoirs, couperets, hachoirs de bouchers ou de cuisine et coupe-
-papier, par exemple).
+Tous produits de ces positions. 
 
-82-15 : Cuillers, fourchettes, louches, écumoires, pelles à tarte, couteaux spéciaux à poisson ou à beurre, pinces à sucre et
-articles similaires.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-83-03 et 83-04 : Tous produits de ces positions.
+53-09 à 53-11 
 
-83-06 : Cloches, sonnettes, gongs et articles similaires, non électriques, en métaux communs ; statuettes et autres objets
-d'ornement en métaux communs ; cadres pour photographies, gravures ou similaires en métaux communs ; miroirs en métaux
-communs.
+</td>
+      <td width="529" valign="top">
 
-83-10 : Plaques indicatrices, plaques-enseignes, plaques-adresses et plaques similaires, chiffres, lettres et enseignes
-diverses en métaux communs, à l'exclusion de ceux du n° 94-05.
+Tous produits de ces positions. 
 
-84-03 à 84-04 : Tous produits de ces positions.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-84-18 : Réfrigérateurs, congélateurs-conservateurs et autres matériels, machines et appareils pour la reproduction du froid,
-à équipement électrique ou autre ; pompes à chaleur autres que les machines et appareils pour le conditionnement de l'air du
-n° 84-15.
+54-07 à 54-08 
 
-Ex 84-22 : Machines à laver la vaisselle.
+</td>
+      <td width="529" valign="top">
 
-Ex 84-23 : Appareils et instruments de pesage, à l'exclusion des bascules et balances compteuses de pièces, bascules et
-balances ensacheuses ou doseuses et autres bascules ou balances à usages spéciaux, poids et parties de ces appareils.
+Tous produits de ces positions. 
 
-84-50 : Machines à laver le linge, même avec dispositif de séchage.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ex 84-51 : Machines et appareils (autres que les machines du n° 84-50) pour le lavage, le nettoyage, l'essorage, le séchage,
-le repassage, le pressage (y compris les presses à fixer) le blanchiment, la teinture, l'apprêt, le finissage.
+55-12 à 55-15 
 
-84-52 : Machines à coudre, autres que les machines à coudre les feuillets du n° 84-40, meubles, embases et couvercles
-spécialement conçus pour machines à coudre ; aiguilles pour machine à coudre.
+</td>
+      <td valign="top" width="529">
 
-84-69 à 84-70 : Tous produits de ces positions.
+Tous produits de ces positions. 
 
-84-72 : Autres machines et appareils de bureau (duplicateurs hectographiques ou à stencils, machines à imprimer les adresses,
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+55-16 
+
+</td>
+      <td width="529" valign="top">
+
+Tissus de fibres artificielles discontinues. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+56-04 
+
+</td>
+      <td width="529" valign="top">
+
+Fils et cordes de caoutchouc, recouverts de textiles, fils textiles, lames et formes similaires des numéros 54-04 ou 54-05,
+imprégnés, enduits, recouverts ou gainés de caoutchouc ou de matières plastique. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+57-01 à 57-03 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+57-05 
+
+</td>
+      <td valign="top" width="529">
+
+Autres tapis et revêtements de sol en matières textiles, même confectionnés. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+58-01 à 58-05 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+58-09 à 58-11 
+
+</td>
+      <td width="529" valign="top">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+59-02 
+
+</td>
+      <td valign="top" width="529">
+
+Nappes tramées pour pneumatiques obtenues à partir de fils à haute ténacité de nylon ou d'autres polyamides de polyesters ou
+de rayonne viscose. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+59-04 à 59-07 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+59-09 
+
+</td>
+      <td width="529" valign="top">
+
+Tuyaux pour pompes et tuyaux similaires en matières textiles, même avec armatures ou accessoires en autres matières. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Ex 59-11 
+
+</td>
+      <td width="529" valign="top">
+
+Produits et articles textiles pour usages techniques visés à la note 7 du présent chapitre à l'exclusion des gazes et toiles
+à bluter, même confectionnées. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 63-01 
+
+</td>
+      <td width="529" valign="top">
+
+Couvertures autres que les couvertures chauffantes électriques. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+63-02 à 63-04 
+
+</td>
+      <td width="529" valign="top">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+63-06 
+
+</td>
+      <td valign="top" width="529">
+
+Bâches, voiles pour embarcations, planches à voile ou chars à voile stores d'extérieur, tentes et articles de campement. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+63-08 
+
+</td>
+      <td valign="top" width="529">
+
+Assortiments composés de pièces de tissus et de fils, même avec accessoires pour la confection de tapis, de tapisseries, de
+nappes de table ou de serviettes brodées, ou d'articles textiles similaires, en emballages pour la vente au détail. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+66-01 
+
+</td>
+      <td width="529" valign="top">
+
+Parapluies, ombrelles et parasols (y compris les parapluies cannes, les parasols de jardin et articles similaires). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 66-03 
+
+</td>
+      <td width="529" valign="top">
+
+Parties, garnitures et accessoires pour articles des n° 66-01.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+68-06 
+
+</td>
+      <td valign="top" width="529">
+
+Laines de laitier, de scories, de roche et laines minérales similaires ; vermiculite expansée, argiles expansées, mousse de
+scories et produits minéraux similaires expansés ; mélanges et ouvrages en matières minérales à usages d'isolants thermiques
+ou sonores ou pour l'absorption du son, à l'exclusion de ceux des numéros 68-11,68-12 ou de chapitre 69.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+69-09 
+
+</td>
+      <td valign="top" width="529">
+
+Appareils et articles pour usages chimiques ou autres usages techniques, en céramique ; auges, bacs et récipients similaires
+pour l'économie rurale, en céramique ; cruchons et récipients similaires de transport où d'emballage en céramique. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+69-11 et 69-12 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+70-07 
+
+</td>
+      <td width="529" valign="top">
+
+Verre de sécurité, consistant en verres trempés ou formés de feuilles contrecollées. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+70-09 
+
+</td>
+      <td width="529" valign="top">
+
+Miroirs en verre, même encadrés, y compris les miroirs rétroviseurs. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+70-10-90 
+
+</td>
+      <td width="529" valign="top">
+
+Bonbonnes, bouteilles, flacons, bocaux, pots, emballages tubulaires, autres récipients de transport ou d'emballage, en
+verre ; bocaux à conserves en verre ; bouchons, couvercles et autres dispositifs de fermeture, en verre. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+70-13 
+
+</td>
+      <td width="529" valign="top">
+
+Objets en verre pour le service de la table, pour la cuisine, la toilette, le bureau, l'ornementation des appartements ou
+usages similaires, autres que ceux des n° s 70-10 ou 70-18. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 71-14 
+
+</td>
+      <td width="529" valign="top">
+
+Articles d'orfèvrerie et leurs parties, plaqués ou doublés de métaux précieux. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+73-10 
+
+</td>
+      <td valign="top" width="529">
+
+Tous les produits de cette position. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+73-21 et 73-22 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Ex 73-23 
+
+</td>
+      <td width="529" valign="top">
+
+Articles de ménage ou d'économie domestique et leurs parties, en fonte, fer ou acier. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+73-26 
+
+</td>
+      <td valign="top" width="529">
+
+Autres ouvrages en fer ou en acier. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+74-17 à 74-19 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+75-08 
+
+</td>
+      <td width="529" valign="top">
+
+Autres ouvrages en nickel. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+76-12 
+
+</td>
+      <td valign="top" width="529">
+
+Réservoirs, fûts, tambours, bidons, boîtes et récipients similaires en aluminium (y compris les étuis tubulaires rigides ou
+souples) pour toutes matières (à l'exception des gaz comprimés ou liquéfiés) d'une contenance n'excédant pas 300 litres, sans
+dispositifs mécaniques ou thermiques, même avec revêtement intérieur ou calorifuge. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+76-15 et 76-16 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+78-04 
+
+</td>
+      <td width="529" valign="top">
+
+Tables, feuilles et bandes en plomb ; poudres et paillettes de plomb. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+80-03 
+
+</td>
+      <td valign="top" width="529">
+
+Barres, profilés et fils en étain. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Ex 80-07 
+
+</td>
+      <td valign="top" width="529">
+
+Articles de ménage, d'hygiène, d'économie domestique et leurs parties en étain. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+82-01-50 
+
+</td>
+      <td valign="top" width="529">
+
+Sécateurs (y compris les cisailles à volaille) maniés à une main. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+82-05 à 82-06 
+
+</td>
+      <td width="529" valign="top">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+82-10 
+
+</td>
+      <td width="529" valign="top">
+
+Appareils mécaniques actionnés à la main, d'un poids de 10 kg ou moins, utilisés pour préparer, conditionner ou servir les
+aliments ou les boissons. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 82-11 
+
+</td>
+      <td width="529" valign="top">
+
+Couteaux (autres que ceux du n° 82-08) à lame tranchante ou dentelée. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+82-12 et 82-13 
+
+</td>
+      <td width="529" valign="top">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 82-14 
+
+</td>
+      <td valign="top" width="529">
+
+Autres articles de coutellerie (tondeuses, fendoirs, couperets, hachoirs de bouchers ou de cuisine et coupe-papier, par
+exemple). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+82-15 
+
+</td>
+      <td valign="top" width="529">
+
+Cuillers, fourchettes, louches, écumoires, pelles à tarte, couteaux spéciaux à poisson ou à beurre, pinces à sucre et
+articles similaires. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+83-03 et 83-04 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+83-06 
+
+</td>
+      <td width="529" valign="top">
+
+Cloches, sonnettes, gongs et articles similaires, non électriques, en métaux communs ; statuettes et autres objets d'ornement
+en métaux communs ; cadres pour photographies, gravures ou similaires en métaux communs ; miroirs en métaux communs. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+83-10 
+
+</td>
+      <td valign="top" width="529">
+
+Plaques indicatrices, plaques-enseignes, plaques-adresses et plaques similaires, chiffres, lettres et enseignes diverses en
+métaux communs, à l'exclusion de ceux du n° 94-05.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+84-03 à 84-04 
+
+</td>
+      <td width="529" valign="top">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+84-18 
+
+</td>
+      <td width="529" valign="top">
+
+Réfrigérateurs, congélateurs-conservateurs et autres matériels, machines et appareils pour la reproduction du froid, à
+équipement électrique ou autre ; pompes à chaleur autres que les machines et appareils pour le conditionnement de l'air du n°
+84-15. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 84-22 
+
+</td>
+      <td width="529" valign="top">
+
+Machines à laver la vaisselle. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 84-23 
+
+</td>
+      <td width="529" valign="top">
+
+Appareils et instruments de pesage, à l'exclusion des bascules et balances compteuses de pièces, bascules et balances
+ensacheuses ou doseuses et autres bascules ou balances à usages spéciaux, poids et parties de ces appareils. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+84-50 
+
+</td>
+      <td width="529" valign="top">
+
+Machines à laver le linge, même avec dispositif de séchage. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 84-51 
+
+</td>
+      <td valign="top" width="529">
+
+Machines et appareils (autres que les machines du n° 84-50) pour le lavage, le nettoyage, l'essorage, le séchage, le
+repassage, le pressage (y compris les presses à fixer) le blanchiment, la teinture, l'apprêt, le finissage. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+84-52 
+
+</td>
+      <td width="529" valign="top">
+
+Machines à coudre, autres que les machines à coudre les feuillets du n° 84-40, meubles, embases et couvercles spécialement
+conçus pour machines à coudre ; aiguilles pour machine à coudre. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+84-69 à 84-70 
+
+</td>
+      <td width="529" valign="top">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+84-72 
+
+</td>
+      <td width="529" valign="top">
+
+Autres machines et appareils de bureau (duplicateurs hectographiques ou à stencils, machines à imprimer les adresses,
 distributeurs automatiques de billets de banque, machines à trier, à compter ou à encartoucher les pièces de monnaie,
-appareils à tailler les crayons, appareils à perforer ou à agrafer, par exemple).
+appareils à tailler les crayons, appareils à perforer ou à agrafer, par exemple). 
 
-Ex 84-73 : Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant exclusivement
-ou principalement destinés aux machines ou appareils des n°s 84-69,84-70, 84-72.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-84-76 : Machines automatiques de vente de produits (timbres-poste, cigarettes, denrées alimentaires, boissons, par exemple),
-y compris les machines pour changer la monnaie.
+Ex 84-73 
 
-Ex 85-02 : Groupes électrogènes.
+</td>
+      <td width="529" valign="top">
 
-85-09 : Appareils électromécaniques à moteur électrique incorporé, à usage domestique.
+Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant exclusivement ou
+principalement destinés aux machines ou appareils des n° s 84-69,84-70,84-72.
 
-85-16 : Chauffe-eau et thermoplongeurs électriques ; appareils électriques pour le chauffage des locaux, du sol ou pour
-usages similaires ; appareils électrothermiques pour la coiffure (sèche-cheveux, appareils à friser, chauffe-fers à friser,
-par exemple) ou pour sécher les mains ; fers à repasser électriques ; autres appareils électrothermiques pour usages
-domestiques, résistances chauffantes, autres que celles du n° 85-45.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ex 85-17 : Appareils électriques pour la téléphonie ou la télégraphie par fil, à l'exception des appareils de
-télécommunication par courant porteur. 
+84-76 
 
-85-18 à 85-20 : Tous produits de ces positions.
+</td>
+      <td width="529" valign="top">
 
-85-27 : Appareils récepteurs pour la radiotéléphonie, la radiotélégraphie ou la radiodiffusion, même combinés, sous une même
-enveloppe, à un appareil d'enregistrement ou de reproduction du son ou à un appareil d'horlogerie.
+Machines automatiques de vente de produits (timbres-poste, cigarettes, denrées alimentaires, boissons, par exemple), y
+compris les machines pour changer la monnaie. 
 
-85-28 : Appareils récepteurs de télévision
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ex 85-29 : Parties reconnaissables comme étant exclusivement ou principalement destinées aux appareils du n° 85-27.
+Ex 85-02 
 
-Ex 87-03 : Voitures de tourisme et autres véhicules automobiles principalement conçus pour le transport de personnes (autres
-que ceux du n° 87-02) y compris les voitures du type "break", comportant un minimum de sept places assises.
+</td>
+      <td valign="top" width="529">
 
-87-15 : Landaus, poussettes et voitures similaires pour le transport des enfants et leurs parties.
+Groupes électrogènes. 
 
-87-16-80
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+85-09 
+
+</td>
+      <td width="529" valign="top">
+
+Appareils électromécaniques à moteur électrique incorporé, à usage domestique. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+85-16 
+
+</td>
+      <td valign="top" width="529">
+
+Chauffe-eau et thermoplongeurs électriques ; appareils électriques pour le chauffage des locaux, du sol ou pour usages
+similaires ; appareils électrothermiques pour la coiffure (sèche-cheveux, appareils à friser, chauffe-fers à friser, par
+exemple) ou pour sécher les mains ; fers à repasser électriques ; autres appareils électrothermiques pour usages domestiques,
+résistances chauffantes, autres que celles du n° 85-45. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Ex 85-17 
+
+</td>
+      <td width="529" valign="top">
+
+Appareils électriques pour la téléphonie ou la télégraphie par fil, à l'exception des appareils de télécommunication par
+courant porteur. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+85-18 à 85-20 
+
+</td>
+      <td width="529" valign="top">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+85-27 
+
+</td>
+      <td valign="top" width="529">
+
+Appareils récepteurs pour la radiotéléphonie, la radiotélégraphie ou la radiodiffusion, même combinés, sous une même
+enveloppe, à un appareil d'enregistrement ou de reproduction du son ou à un appareil d'horlogerie. 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+85-28
+
+</td>
+      <td>Appareils récepteurs de télévision</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 85-29 
+
+</td>
+      <td width="529" valign="top">
+
+Parties reconnaissables comme étant exclusivement ou principalement destinées aux appareils du n° 85-27. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ex 87-03 
+
+</td>
+      <td width="529" valign="top">
+
+Voitures de tourisme et autres véhicules automobiles principalement conçus pour le transport de personnes (autres que ceux du
+n° 87-02) y compris les voitures du type " break ", comportant un minimum de sept places assises. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+87-15 
+
+</td>
+      <td width="529" valign="top">
+
+Landaus, poussettes et voitures similaires pour le transport des enfants et leurs parties. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+87-16-80 
 
 Ex 87-16-90 
 
-Autres véhicules non automobiles et leurs parties.
+</td>
+      <td valign="top" width="529">
 
-89-01 : : 
+Autres véhicules non automobiles et leurs parties. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+89-01 
+
+</td>
+      <td valign="top" width="529">
 
 Paquebots, bateaux de croisières, transbordeurs, cargos, péniches et bateaux similaires pour le transport de personnes et de
-marchandises.
+marchandises. 
 
-89-03 : Yachts et autres bateaux et embarcations de plaisance ou de sport ; bateaux à rames et canoës.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ex 89-06 : Bateaux de sauvetage.
+89-03 
 
-91-05 à 91-06 : Tous produits de ces positions.
+</td>
+      <td valign="top" width="529">
 
-92-01 : Pianos, même automatiques ; clavecins et autres instruments à cordes à clavier.
+Yachts et autres bateaux et embarcations de plaisance ou de sport ; bateaux à rames et canoës. 
 
-92-07 : Instruments de musique dont le son est produit ou doit être amplifié par des moyens électriques (orgues, guitares,
-accordéons par exemple).
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-94-01 à 94-05 : Tous produits de ces positions.
+Ex 89-06 
 
-95-04 : Articles pour jeux de société, y compris les jeux à moteur ou à mouvement, les billards, les tables spéciales pour
-jeux de casino et les jeux de quilles automatiques (bowling par exemple).
+</td>
+      <td width="529" valign="top">
 
-95-06-40 : Articles et matériel pour le tennis de table.
+Bateaux de sauvetage. 
 
-96-17 : Bouteilles isolantes et autres récipients isothermiques montés, dont l'isolation est assurée par le vide, ainsi que
-leurs parties (à l'exclusion des ampoules en verre).
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+91-05 à 91-06 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+92-01 
+
+</td>
+      <td valign="top" width="529">
+
+Pianos, même automatiques ; clavecins et autres instruments à cordes à clavier. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+92-07 
+
+</td>
+      <td width="529" valign="top">
+
+Instruments de musique dont le son est produit ou doit être amplifié par des moyens électriques (orgues, guitares, accordéons
+par exemple). 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+94-01 à 94-05 
+
+</td>
+      <td valign="top" width="529">
+
+Tous produits de ces positions. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+95-04 
+
+</td>
+      <td width="529" valign="top">
+
+Articles pour jeux de société, y compris les jeux à moteur ou à mouvement, les billards, les tables spéciales pour jeux de
+casino et les jeux de quilles automatiques (bowling par exemple). 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+95-06-40 
+
+</td>
+      <td width="529" valign="top">
+
+Articles et matériel pour le tennis de table. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+96-17 
+
+</td>
+      <td width="529" valign="top">
+
+Bouteilles isolantes et autres récipients isothermiques montés, dont l'isolation est assurée par le vide, ainsi que leurs
+parties (à l'exclusion des ampoules en verre). 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 2. L'exonération dont sont susceptibles de bénéficier les voitures pour le transport des personnes comportant un minimum de
 sept places assises, reprises au paragraphe ci-dessus (n° Ex 87-02 Ex A) est subordonnée à l'affectation exclusive de ces
 véhicules au service de la clientèle et limitée en outre à un véhicule par hôtel de 20 à 100 chambres et à deux véhicules par
-hôtel de plus de 100 chambres.
+hôtel de plus de 100 chambres. 
 
-3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée, les importateurs doivent :
+3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée, les importateurs doivent : 
 
-1° En faire la demande sur la déclaration d'importation ;
+1° En faire la demande sur la déclaration d'importation ; 
 
 2° Déposer à l'appui de la déclaration d'importation une attestation en double exemplaire indiquant les nom, prénoms,
-profession ou raison sociale et adresse du destinataire, ainsi que la nature, la quantité et la valeur des produits importés.
+profession ou raison sociale et adresse du destinataire, ainsi que la nature, la quantité et la valeur des produits
+importés. 
 
 Cette attestation devra porter l'engagement, pour le cas où les produits ne recevraient pas l'affectation justifiant
-l'exonération de la taxe sur la valeur ajoutée, d'acquitter à la recette des impôts, la taxe devenue exigible, sans préjudice
-des pénalités prévues aux articles 1727, 1729, 1731 et 1785 B à 1786 du code général des impôts.
+l'exonération de la taxe sur la valeur ajoutée, d'acquitter au service des impôts, la taxe devenue exigible, sans préjudice
+des pénalités prévues aux articles 1727,
+1729,
+1731 et 1784 à 1786 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 2004-10-08
-
-	**Cite**:
-
-	  - CGI 1727, 1729, 1731, 1785 B à 1786
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Arrêté 2006-03-24
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 18 () JORF 8 décembre 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1727 (V)
+	  - Code général des impôts, CGI. - art. 1729 (V)
+	  - Code général des impôts, CGI. - art. 1731 (V)
+	  - Code général des impôts, CGI. - art. 1784 (V)
 
 
 ##### II : Corse
@@ -8506,23 +9457,29 @@ applicables aux entrepositaires agréés d'autres Etats membres de la Communaut�
 ###### Article 50-0 G
 
 Pour l'application des dispositions du 3° du I de l'article 111-0 E de l'annexe III au code général des impôts, la liste
-récapitulative comporte les renseignements suivants :
+récapitulative comporte les renseignements suivants : 
 
-a. Le nom ou la raison sociale, l'adresse et l'activité professionnelle des personnes définies au b du II de l'article 111-0
-E et à l'article 111-0 F de la même annexe ;
+a. Le nom ou la raison sociale, l'adresse et l'activité professionnelle des personnes définies au 2° du II de l'article 111-0
+E et à l'article 111-0 F de la même annexe ; 
 
 b. Le numéro d'identification porté sur la déclaration préalable de profession, numéro fixé par l'administration des douanes
 et droits indirects dans les conditions définies à l'article 50-0 H.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Arrêté 2005-07-04 art. 1 JORF 6 juillet 2005
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
 
 	**Cite**:
 
-	  - CGIAN3 111-0 E
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 F (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 H (V)
 
 
 ###### Article 50-0 H
@@ -8895,17 +9852,17 @@ soit un arrêté accordant l'autorisation soit une décision de rejet.
 Lorsque le titulaire d'une autorisation a commis une infraction aux dispositions des articles 303 à 520 du code général des
 impôts ou à celles des textes pris pour leur application, le préfet peut, sur proposition du directeur régional des douanes
 et droits indirects, prononcer par voie d'arrêté le retrait de ladite autorisation pour une période n'excédant pas la
-campagne au cours de laquelle l'infraction a été commise et les deux campagnes suivantes.
+campagne au cours de laquelle l'infraction a été commise et les deux campagnes suivantes. 
 
-Le retrait est obligatoire lorsque l'infraction relevée est passible de l'une des sanctions prévues aux articles 1737, 1746,
-1810 et 1815 du code susvisé. Il en est de même lorsque le titulaire de l'autorisation est convaincu d'avoir facilité la
+Le retrait est obligatoire lorsque l'infraction relevée est passible de l'une des sanctions prévues aux articles 1746,1810 et
+1815 du code général des impôts. Il en est de même lorsque le titulaire de l'autorisation est convaincu d'avoir facilité la
 fraude commise par ses clients, ou sciemment procuré les moyens de la commettre. 
 
 Dans le cas, prévu au deuxième alinéa, d'infraction punie des sanctions édictées par l'article 1810 du code général des
 impôts, le retrait doit être prononcé pour une période au moins égale à trois campagnes, y compris celle au cours de laquelle
 l'infraction a été commise, sans pouvoir excéder six campagnes. Toutefois, le retrait de l'autorisation d'exercer la
 profession de loueur d'alambic ambulant est définitif dans le cas d'infractions punies des sanctions prévues par les articles
-1737, 1746 et 1815 du code général des impôts ou lorsque, antérieurement ou postérieurement à la date de l'arrêté préfectoral
+1746 et 1815 du code général des impôts ou lorsque, antérieurement ou postérieurement à la date de l'arrêté préfectoral
 l'ayant prononcé, une nouvelle infraction passible des sanctions prévues à l'article 1810 du code précité est relevée à la
 charge du contrevenant.
 
@@ -8913,19 +9870,18 @@ charge du contrevenant.
 
 	**Codifié par**:
 
-	  - Arrêté 2002-06-06
+	  - Arrêté 2006-03-24
 
 	**Modifié par**:
 
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
 
 	**Cite**:
 
-	  - CGI 303 à 520, 1737, 1746, 1810, 1815
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 1746 (V)
+	  - Code général des impôts, CGI. - art. 1810 (V)
+	  - Code général des impôts, CGI. - art. 1815 (V)
+	  - Code général des impôts, CGI. - art. 303 (V)
 
 
 ###### Article 51 ter
@@ -9280,7 +10236,7 @@ Produits pour l'entretien de la chevelure (l'hygiène et les soins de la chevelu
 
 Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
 réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
-d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2005 conformément au tableau ci-après :
+d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2008 conformément au tableau ci-après :
 
 Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
 d'alcool pur ;
@@ -9296,19 +10252,15 @@ Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur.
 
 	**Modifié par**:
 
-	  - Arrêté 2002-12-31 art. 1 JORF 4 janvier 2003
+	  - Arrêté 2005-12-23 art. 1 JORF 29 décembre 2005
 
 	**Codifié par**:
 
-	  - Arrêté 2003-03-31
-
-	**Cite**:
-
-	  - CGI 362
+	  - Arrêté 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### 2° : Régime de l'exportation préalable
@@ -11979,27 +12931,27 @@ l'administration des douanes et droits indirects.
 
 Le contrat, le cahier des charges et la soumission mentionnés respectivement au deuxième alinéa du 1 de l'article 244 sexies
 de l'annexe III au code général des impôts et au 2 du II de l'article 244 undecies de la même annexe sont conformes aux
-modèles figurant en annexe à l'arrêté du 16 janvier 2004.
-
-**Nota:**
-
-NOTA : Le contrat mentionné à l'article 57 Q est conforme au modèle figurant en annexe à l' arrêté du 28 janvier 2005.
-L'annexe I à l'arrêté du 16 janvier 2004 est abrogée.
+modèles figurant en annexe à l'arrêté du 28 janvier 2005 et à l'arrêté du 16 janvier 2004.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 2004-01-16 annexe
+	  - Arrêté 2004-01-16
+	  - Arrêté 2005-01-28 annexe
 	  - CGIAN3 244 sexies, 244 undecies
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 2005-01-28 art. 3 JORF 2 avril 2005
+	  - Arrêté 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - arrêté 2005-01-28 art. 3 JORF 2 avril 2005
 
 
 ###### Article 57 R
@@ -12197,23 +13149,19 @@ par l'indication de l'état civil et du domicile du défunt, et par la date du d
 
 ###### Article 60 A
 
-Le centre-recette des impôts des entreprises étrangères est désigné pour recevoir les déclarations relatives à des apports de
-biens n'ayant pas d'assiette matérielle fixe effectués au profit de sociétés ou groupements d'intérêt économique et non
-constatés par un acte lorsque le siège social ou le domicile des apporteurs n'est pas situé en France.
+Le service des impôts des entreprises étrangères est désigné pour recevoir les déclarations relatives à des apports de biens
+n'ayant pas d'assiette matérielle fixe effectués au profit de sociétés ou groupements d'intérêt économique et non constatés
+par un acte lorsque le siège social ou le domicile des apporteurs n'est pas situé en France.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 2005-04-06
+	  - Arrêté 2006-03-24
 
 	**Modifié par**:
 
-	  - Arrêté 2005-04-06 art. 1 JORF 8 avril 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ##### Section II : Obligations diverses
@@ -12260,37 +13208,32 @@ Au-dessus de 40 000 euros : 90 %.
 
 ###### Article 71
 
-Est autorisée l'utilisation des machines à timbrer qui, suivant les prévisions des articles 301 et 313 AR de l'annexe III au
-code général des impôts, sont destinées respectivement au timbrage :
+Est autorisée l'utilisation des machines à timbrer qui, suivant les prévisions de l'article 301 de l'annexe III au code
+général des impôts, sont destinées respectivement au timbrage : 
 
-a) Des actes soumis au timbre de dimension ;
+a) Des actes soumis au timbre de dimension ; 
 
-b) (Sans objet) ;
+b) (Dispositions devenues sans objet) ; 
 
-c) (Sans objet) ;
+c) (Dispositions devenues sans objet) ; 
 
-d) Des cartes d'entrée dans les casinos ;
+d) (Dispositions devenues sans objet) ; 
 
-e) Des requêtes.
+e) (Dispositions devenues sans objet).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 2004-03-26
-
-	**Cite**:
-
-	  - CGIAN3 301, 313 AR
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Arrêté 2006-03-24
 
 	**Modifié par**:
 
-	  - Ordonnance 2003-1235 2003-12-22 art. 2 I, IV JORF 24 décembre 2003
-	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 301 (V)
 
 	**Cité par**:
 
@@ -12336,33 +13279,39 @@ timbre déterminé apposer plusieurs empreintes sur le même document.
 ###### Article 74
 
 Sans préjudice des dispositions de l'article 164 AD, tout usager est tenu pour chaque machine à timbrer mise à sa
-disposition :
+disposition : 
 
-de constituer d'avance à la recette des impôts dont il relève sous la forme  soit d'une provision  soit d'un engagement
-solidaire contracté par une personne physique ou morale agréée comme caution par le comptable des impôts  une garantie dont
-le montant est fixé par le directeur des services fiscaux et de maintenir constamment cette garantie  à une somme au moins
-égale à la valeur des timbres consommés pendant un délai d'un mois ;
+de constituer d'avance au service des impôts dont il relève sous la forme, soit d'une provision, soit d'un engagement
+solidaire contracté par une personne physique ou morale agréée comme caution par le comptable des impôts, une garantie dont
+le montant est fixé par le directeur des services fiscaux et de maintenir constamment cette garantie, à une somme au moins
+égale à la valeur des timbres consommés pendant un délai d'un mois ; 
 
 de relever au début et à la fin de chaque mois ainsi qu'à la fin de chaque semaine sur un carnet d'emploi conforme au modèle
 agréé par l'administration des impôts et paraphé par le service des impôts désigné à cet effet, l'index du compteur de la
-machine et de représenter ce carnet à ce service à toute réquisition ;
+machine et de représenter ce carnet à ce service à toute réquisition ; 
 
-de remettre ou d'adresser chaque mois  à une date fixée entre le 1er et le 20 par la direction des services fiscaux  à la
-recette des impôts désignée à cet effet  une fiche extraite du carnet d'emploi présentant la situation des empreintes
-consommées au cours du mois précédent et revêtue d'une empreinte à zéro ;
+de remettre ou d'adresser chaque mois, à une date fixée entre le 1er et le 20 par la direction des services fiscaux, au
+service des impôts désigné à cet effet, une fiche extraite du carnet d'emploi présentant la situation des empreintes
+consommées au cours du mois précédent et revêtue d'une empreinte à zéro ; 
 
-de verser simultanément à cette recette les droits exigibles correspondant à ce relevé.
+de verser simultanément à ce service les droits exigibles correspondant à ce relevé. 
 
 La remise de 0,50 % concédée aux usagers sur le montant des droits dont la perception est constatée au moyen de machines à
-timbrer est payée deux fois par an  lors du dépôt des fiches de liquidation des mois de juin et décembre.
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
+timbrer est payée deux fois par an, lors du dépôt des fiches de liquidation des mois de juin et décembre.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
 	**Cite**:
 
-	  - CGIAN4 164 AD, 164 L à 164 AL
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AD (V)
 
 
 ##### I bis : Timbre de dimension
@@ -12625,49 +13574,13 @@ première page de chaque feuille.
 
 
 
-##### D : Actes destinés à être reproduits par photocopie.
-
-###### Article 93 I
-
-Lorsque les écrits sont établis sur une seule face du papier l'autre face est annulée par une marque apposée au moyen d'une
-encre indélébile sans effet sur les rayons actiniques.
-
-Cette marque peut être apposée au moment de la fabrication du papier; elle consiste  dans ce cas  dans l'impression du texte
-ci-après  à intervalles réguliers  de façon à en assurer la mise en place  après découpage sur chaque feuille séparée  sans
-nuire à la lisibilité du recto du document :
-
-"Face annulée"
-
-"Article 905 CGI, arrêté du 20 mars 1958.
-
-La marque peut également être inscrite par les usagers ; dans cette hypothèse, elle comporte la mention d'annulation ci-
-dessus prévue apposée au centre de la page avec la même encre à la main ou au moyen d'un cachet et complétée par
-l'indication, suivant les mêmes procédés du nom et de l'adresse ou de la raison sociale de l'usager.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1958-03-20
-	  - CGI 905
-
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - PEREMPTION: Loi n°2004-1485 2004-12-30 art. 95 Finances rectificative pour 2004 JORF 31 décembre 2004
-
-
 ##### III : Timbre des quittances.
 
 ###### Article 99
 
 Le montant des droits de timbre afférents aux tickets du pari mutuel est retenu par les sociétés de course de chevaux ou de
-lévriers et versé par elles, à l'expiration de chaque mois et dans les vingt jours du mois suivant, à la recette des impôts
-désignée à cet effet.
+lévriers et versé par elles, à l'expiration de chaque mois et dans les vingt jours du mois suivant, au service des impôts
+désigné à cet effet.
 
 A l'appui de chaque versement, il est fourni un état en double exemplaire indiquant par journée de course pour chaque
 hippodrome ou cynodrome le montant brut des paris engagés avant tout prélèvement.
@@ -12675,9 +13588,25 @@ hippodrome ou cynodrome le montant brut des paris engagés avant tout prélèvem
 Cet état est certifié conforme aux écritures de la société et le montant des droits de timbre est liquidé et payé en
 conséquence.
 
-L'un des exemplaires de cet état est rendu à la société revêtu de l'acquit du comptable des impôts compétent,  l'autre est
+L'un des exemplaires de cet état est rendu à la société revêtu de l'acquit du comptable des impôts compétent, l'autre est
 conservé par le service à l'appui de la recette des droits de timbre.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+	  - Arrêté 2007-03-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ###### Article 100
@@ -12722,45 +13651,6 @@ fiscales.
 
 
 ##### Section II : Droits de délivrance de documents et perceptions diverses
-
-##### I : Cartes d'entrée dans les casinos
-
-###### Article 121 B
-
-Les redevables qui demandent à payer sur états le droit de timbre exigible sur les cartes d'entrée dans les casinos versent à
-l'expiration de chaque mois le montant des droits au comptable des impôts qui a accordé l'autorisation du paiement sur états
-prévue à l'article 405 H de l'annexe III. Le versement intervient dans les vingt premiers jours du mois suivant celui au
-titre duquel les droits sont dus.
-
-L'autorisation de paiement sur états prend effet le 1er du mois suivant celui de sa notification au redevable.
-
-A l'appui de chaque versement, il est fourni un état indiquant les numéros des première et dernière cartes délivrées par
-série (journée, semaine, mois et saison) au cours du mois considéré ainsi que le montant de l'impôt correspondant.
-
-Cet état, certifié conforme aux écritures, est fourni en double exemplaire dont l'un est rendu au déposant après avoir été
-revêtu de l'acquit du comptable des impôts compétent ; l'autre est conservé par le service à l'appui de la recette des droits
-de timbre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1991-01-28 art. 1 JORF 3 février 1991
-
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Cite**:
-
-	  - CGIAN3 405 H
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 24 juin 1991
-	  - PEREMPTION: Loi n°2005-1720 du 30 décembre 2005 - art. 112 (V) JORF 31 décembre 2005
-
 
 ##### IV : Régies de recettes des préfectures et sous-préfectures
 
@@ -12913,27 +13803,45 @@ interministérielle précitée.
 
 ###### Article 121 KJ
 
-Dans un délai de cinq jours à compter de la date de chaque arrêté mensuel de ses écritures comptables  chaque régisseur
-autorisé à employer une ou plusieurs machines adresse à la recette des impôts du lieu d'utilisation une fiche indiquant pour
+Dans un délai de cinq jours à compter de la date de chaque arrêté mensuel de ses écritures comptables, chaque régisseur
+autorisé à employer une ou plusieurs machines adresse au service des impôts du lieu d'utilisation une fiche indiquant pour
 chacune d'elles :
 
 1° La désignation de la régie de recettes ;
 
 2° Les éléments d'identification de la machine prévus dans l'instruction interministérielle ;
 
-3° Le montant total et éventuellement par catégorie à verser à ladite recette des droits de timbre représentés par les
+3° Le montant total et éventuellement par catégorie à verser audit service des droits de timbre représentés par les
 empreintes apposées à l'aide de la machine depuis le précédent arrêté.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ###### Article 121 KK
 
 Les régisseurs de recettes des préfectures et sous-préfectures doivent être présents lors de toute installation ou retrait de
-machines . Il ne peuvent effectuer ni accepter que soient effectuées à une machine en service des réparations ayant une
+machines. Ils ne peuvent effectuer ni accepter que soient effectuées à une machine en service des réparations ayant une
 répercussion sur le mécanisme des compteurs ou sur celui d'apposition des empreintes. Ils ne peuvent modifier d'une façon
 quelconque aucune des parties du mécanisme ou des compteurs. Ils doivent signaler toute machine dont le fonctionnement est
-défectueux au constructeur ainsi qu'à la recette des impôts à laquelle la machine se trouve rattachée en vue de son retrait.
+défectueux au constructeur ainsi qu'au service des impôts auquel la machine se trouve rattachée en vue de son retrait.
 
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ###### Article 121 KL
@@ -12949,22 +13857,30 @@ l'inspection des machines au relevé des compteurs et à la consultation des ban
 
 Les organismes qui délivrent à leurs clients des formules de chèques ne répondant pas aux caractéristiques de barrement
 d'avance et de non-transmissibilité par voie d'endossement mentionnées à l'article 85 de la loi n° 78-1239 du 29 décembre
-1978, ou  s'il y a lieu  les organismes centralisateurs auxquels ils sont rattachés doivent dans les quarante-cinq jours du
-trimestre suivant celui de cette délivrance  déposer à la recette des impôts dont ils relèvent un état en double exemplaire
+1978, ou, s'il y a lieu, les organismes centralisateurs auxquels ils sont rattachés doivent dans les quarante-cinq jours du
+trimestre suivant celui de cette délivrance, déposer au service des impôts dont ils relèvent un état en double exemplaire
 indiquant le nombre des formules de chèques soumises au droit de timbre et délivrées au cours du trimestre précédent ainsi
-que le total des droits exigibles.
+que le total des droits exigibles. 
 
-Le montant des droits est versé à la recette compétente lors du dépôt de l'état mentionné ci-dessus.
+Le montant des droits est versé au service compétent lors du dépôt de l'état mentionné ci-dessus. 
 
 L'un des exemplaires de l'état, certifié conforme aux écritures de l'organisme intéressé, est rendu au déposant après avoir
-été revêtu de l'acquit du comptable des impôts; l'autre exemplaire est conservé par le service à l'appui de la recette des
+été revêtu de l'acquit du comptable des impôts ; l'autre exemplaire est conservé par le service à l'appui de la recette des
 droits de timbre.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
 	**Cite**:
 
-	  - Loi n°78-1239 1978-12-29 ART. 85 FINANCES POUR 1979
+	  - Loi n°78-1239 du 29 décembre 1978 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 	**Cité par**:
 
@@ -13052,23 +13968,23 @@ a. Timbres mobiles de la série unique ;
 
 b. Timbres travailleurs étrangers ;
 
-c. Timbres contrat de transport ;
+c. (sans objet) ;
 
 d. Timbres-amendes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1997-08-27 art. 1 JORF 3 septembre 1997
-
 	**Codifié par**:
 
-	  - Arrêté 1998-05-22
+	  - Arrêté 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
 ##### Section III : Impôt sur les opérations de bourse
@@ -13112,36 +14028,26 @@ Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-182
 La déclaration relative à la taxe prévue à l'article 990 D du code général des impôts est déposée :
 
 1. Pour les personnes morales qui ont leur siège en France et pour les autres personnes morales qui exercent leurs activités
-en France dans un ou plusieurs établissements, à la recette des impôts du lieu du principal établissement ;
+en France dans un ou plusieurs établissements, au service des impôts du lieu du principal établissement ;
 
 2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
-plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, à la recette des impôts du
-lieu de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, la déclaration est
-déposée au centre-recette des impôts des entreprises étrangères.
-
-**Nota:**
-
-NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
-2 de l'article 218 A et aux articles 990 D à 990 F du code général des impôts sont tenues de souscrire à compter de cette
-date.
+plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, au service des impôts du lieu
+de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, la déclaration est
+déposée au service des impôts des entreprises étrangères.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 2004-02-05 art. 1 JORF 21 mars 2004
-
 	**Codifié par**:
 
-	  - Arrêté 2005-04-06
-
-	**Cite**:
-
-	  - CGI 990 D
+	  - Arrêté 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 #### Chapitre IV : Régimes spéciaux et exonérations de portée générale
@@ -13357,25 +14263,29 @@ Les avis sont émis par la commission en présence uniquement des membres ayant 
 ###### Article 121 Z quinquies
 
 Les personnes physiques qui résident habituellement dans la Principauté de Monaco, qu'elles soient ou non fiscalement
-domiciliées en France, sont tenues d'accomplir leurs obligations déclaratives en matière d'impôt sur le revenu au centre des
+domiciliées en France, sont tenues d'accomplir leurs obligations déclaratives en matière d'impôt sur le revenu au service des
 impôts de Menton.
 
 Les déclarations d'impôt de solidarité sur la fortune ainsi que les déclarations de succession des personnes visées au
-premier alinéa sont déposées à la recette principale des impôts de Menton.
+premier alinéa sont déposées au service des impôts de Menton.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Arrêté 1996-09-12 art. 2 JORF 15 septembre 1996
+	  - Arrêté 2006-03-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 01 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 
 ## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes
@@ -13504,10 +14414,10 @@ janvier 1991), réalisent les opérations suivantes :
 
 1° Reprise des moyens de production d'établissements industriels en difficulté susceptible de permettre la poursuite durable
 de l'activité et le soutien de l'emploi. L'agrément ne peut être accordé qu'à la condition qu'il y ait eu examen du plan de
-reprise et de redressement et du plan de financement correspondant par le comité départemental d'examen des problèmes de
-financement des entreprises (CODEFI) ou par le comité régional de restructuration industrielle (CORRI) ou par le comité
-interministériel de restructuration industrielle (CIRI). Si la reprise prend la forme d'une location-gérance, celle-ci doit
-être assortie d'un engagement ferme de rachat des actifs dans un délai de trois ans ; les reprises effectuées par des
+reprise et de sauvegarde ou de redressement et du plan de financement correspondant par le comité départemental d'examen des
+problèmes de financement des entreprises (CODEFI) ou par le comité régional de restructuration industrielle (CORRI) ou par le
+comité interministériel de restructuration industrielle (CIRI). Si la reprise prend la forme d'une location-gérance, celle-ci
+doit être assortie d'un engagement ferme de rachat des actifs dans un délai de trois ans ; les reprises effectuées par des
 personnes physiques ou morales qui contrôlent directement ou indirectement l'établissement en difficulté ne peuvent être
 agréées ;
 
@@ -13520,15 +14430,6 @@ décentralisations s'entendent des transferts, hors du Bassin parisien défini �
 (Journal officiel du 29 juin 1990), d'installations précédemment implantées dans la région parisienne définie à la même
 annexe.
 
-**Nota:**
-
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
-redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
-et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
-plans de sauvegarde ou de redressement judiciaire.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -13537,13 +14438,9 @@ plans de sauvegarde ou de redressement judiciaire.
 	  - Arrêté 1990-06-12 art. 4, annexe III, Arrêté 1990-08-08
 	  - CGI 1465
 
-	**Modifié par**:
-
-	  - Arrêté 1990-06-12 art. 4 JORF 29 juin 1990
-
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 2006-03-24
 
 	**Cité par**:
 
@@ -13551,7 +14448,11 @@ plans de sauvegarde ou de redressement judiciaire.
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
 
 
 ###### Article 121 quinquies DB septies
@@ -13601,55 +14502,48 @@ Trente emplois au moins dans les communes situées dans une unité urbaine d'au 
 
 Dix emplois au moins dans les autres communes.
 
-Dans toutes zones où s'applique l'exonération temporaire, les opérations de reprise doivent permettre le maintien de
-l'effectif permanent au niveau justifié par le plan de redressement de l'entreprise. Si l'effectif initial n'est pas
-maintenu, l'exonération peut être limitée à une fraction de la valeur locative des installations. En cas de reconversion,
-l'effectif doit être au moins maintenu.
+Dans toutes les zones où s'applique l'exonération temporaire, les opérations de reprise doivent permettre le maintien de
+l'effectif permanent au niveau justifié par les plans de sauvegarde ou de redressement de l'entreprise. Si l'effectif initial
+n'est pas maintenu, l'exonération peut être limitée à une fraction de la valeur locative des installations. En cas de
+reconversion, l'effectif doit être au moins maintenu.
 
 Les conditions d'emploi ci-dessus définies doivent être remplies durant toute la période d'exonération à peine de retrait de
-l'agrément dans les conditions prévues à l'article 1756 du code général des impôts ;
+l'agrément dans les conditions prévues à l'article 1649 nonies A du code général des impôts ;
 
 2° En cas de création ou de décentralisation de services de direction, d'études, d'ingénierie et d'informatique, création
-d'au moins vingt emplois ; en cas d'exonération de ces mêmes services, création d'au moins dix emplois supplémentaires,
+d'au moins vingt emplois ; en cas d'extention de ces mêmes services, création d'au moins dix emplois supplémentaires,
 l'effectif total de l'établissement devant alors atteindre au moins vingt emplois. L'extension doit en outre entraîner une
-progression d'au moins 25 p. 100 de l'effectif total de l'établissement, sauf s'il est créé au moins cinquante emplois
+progression d'au moins 25 % de l'effectif total de l'établissement, sauf s'il est créé au moins cinquante emplois
 supplémentaires.
 
 La création d'un nombre d'emplois permanents supérieur aux minima fixés ci-dessus peut être exigée en raison du montant des
 investissements envisagés.
 
-Les dispositions des articles 322 I à 322 L de l'annexe II au code général des impôts sont applicables aux créations,
+Les dispositions des articles 322 I à 322 L de l'annexe III au code général des impôts sont applicables aux créations,
 extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique.
-
-**Nota:**
-
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
-redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
-et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
-plans de sauvegarde ou de redressement judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Arrêté 1990-06-12 annexe II
-	  - CGI 1465, 1756
+	  - CGI 1465, 1649 nonies A
 	  - CGIAN2 322 I à 322 L
 	  - CGIAN3 322 H
 
-	**Modifié par**:
-
-	  - Arrêté 1990-06-12 art. 4 JORF 29 juin 1990
-
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 16 () JORF 8 décembre 2005
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005
 
 
 ###### Article 121 quinquies DB ter
@@ -14116,7 +15010,7 @@ Un exemplaire de ce document est conservé par l'exploitant et le dépositaire s
 102 B du livre des procédures fiscales pour être représenté à toute réquisition des agents des douanes et droits indirects.
 Le troisième exemplaire est adressé par l'exploitant, dans les vingt-quatre heures qui suivent l'installation de l'appareil,
 au bureau ou à la recette locale des douanes et droits indirects qui reçoit la déclaration visée à l'article 124 A. Ce
-bureau, ou cette recette, transmet le troisième exemplaire au centre des impôts du lieu de souscription des déclarations de
+bureau, ou cette recette, transmet le troisième exemplaire au service des impôts du lieu de souscription des déclarations de
 bénéfices de l'exploitant.
 
 Chaque déclaration comporte les indications ci-dessous :
@@ -14133,7 +15027,7 @@ e. Le pourcentage de répartition des recettes entre l'exploitant et le déposit
 
 f. La nature, la marque, le type et le numéro de l'appareil ;
 
-g. L'adresse du centre des impôts du lieu de souscription des déclarations de bénéfices de l'exploitant.
+g. L'adresse du service des impôts du lieu de souscription des déclarations de bénéfices de l'exploitant.
 
 **Liens relatifs à cet article**
 
@@ -14145,15 +15039,18 @@ g. L'adresse du centre des impôts du lieu de souscription des déclarations de 
 
 	**Codifié par**:
 
-	  - Arrêté 2002-06-06
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
+	  - Arrêté 2006-03-24
+	  - Arrêté 2007-03-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 25 (V) JORF 27 décembre 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ###### Article 124 bis
@@ -17014,7 +17911,7 @@ l'âge du véhicule se détermine à partir de la date de la première mise en c
 
 ###### Article 159 ter A
 
-1. La taxe prévue par l'article 1609 vicies du code général des impôts est perçue en fonction du poids net des huiles
+1. La taxe instituée par l'article 1609 vicies du code général des impôts est perçue en fonction du poids net des huiles
 végétales et des huiles d'animaux marins incorporées.
 
 Les taux de la taxe sont fixés comme suit :
@@ -17023,43 +17920,43 @@ EN EUROS
 
 Huile d'olive
 
-Par centaine de kg : 16,114
+Par centaine de kg : 16,404
 
-Par centaine de litre : 14,508 
+Par centaine de litre : 14,769 
 
 Huile d'arachide et de maïs
 
-Par centaine de kg : 14,508
+Par centaine de kg : 14,769
 
-Par centaine de litre : 13,209 
+Par centaine de litre : 13,447 
 
 Huiles de colza et de pépins de raisins
 
-Par centaine de kg : 7,433
+Par centaine de kg : 7,567
 
-Par centaine de litre : 6,767 
+Par centaine de litre : 6,889 
 
 Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles
 internationales ou nationales relatives aux espèces protégées
 
-Par centaine de kg : 12,658
+Par centaine de kg : 12,886
 
-Par centaine de litre : 11,035 
+Par centaine de litre : 11,234 
 
 Huiles de coprah et de palmiste
 
-Par centaine de kg : 9,656
+Par centaine de kg : 9,830
 
 Huile de palme
 
-Par centaine de kg : 8,844
+Par centaine de kg : 9,003
 
 Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux
 espèces protégées
 
-Par centaine de kg : 16,114
+Par centaine de kg : 16,404
 
-(Ces taux sont applicables à compter du 1er janvier 2005).
+(Ces taux sont applicables à compter du 1er janvier 2006).
 
 Le tarif forfaitaire dont le redevable peut demander l'application est fixé par arrêté (1).
 
@@ -17067,26 +17964,27 @@ Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
 
 **Nota:**
 
-(1) Arrêté du 14 février 2003 - JO du 15 mars 2003.
+(1) Arrêté du 17 février 2005 - JO du 13 mars 2005.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Arrêté 2005-02-17
+	  - CGI 1609 vicies
+
 	**Modifié par**:
 
-	  - Arrêté 2004-12-15 art. 1 JORF 19 décembre 2004
-	  - Décret n°2004-1428 du 23 décembre 2004 - art. 14 (Ab) JORF 29 décembre 2004 en vigueur le 1er janvier 2005
+	  - Arrêté 2005-02-17 art. 1, art. 2, art. 3 JORF 13 mars 2005
+	  - Arrêté 2005-12-19 art. 1 JORF 24 décembre 2005
 
 	**Codifié par**:
 
-	  - Arrêté 2005-04-06
-
-	**Cite**:
-
-	  - CGI 1609 vicies
+	  - Arrêté 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section III : Taxe d'abattage
@@ -17118,17 +18016,17 @@ ruminants d'élevage : 47 euros/t.
 
 5,00 euros/t.
 
-2. Le taux b est fixé à 197 euros par tonne de déchets.
+2. Le taux b est fixé à 0 euro par tonne de déchets.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2004-04-23 art. 2, art. 3 JORF 24 avril 2004
+	  - Arrêté 2005-09-28 art. 1, art. 2 JORF 29 septembre 2005
 
 	**Codifié par**:
 
-	  - Arrêté 2004-10-08
+	  - Arrêté 2006-03-24
 
 	**Cite**:
 
@@ -17138,7 +18036,7 @@ ruminants d'élevage : 47 euros/t.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section IV : Fonds national du livre
@@ -17473,28 +18371,28 @@ Pour les personnes morales, leur dénomination ou raison sociale, forme juridiqu
 ###### Article 164 FE
 
 Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés, s'exerce auprès du centre des impôts du domicile fiscal du titulaire.
+libertés, s'exerce auprès du service des impôts du domicile fiscal du titulaire.
 
 En outre, le droit d'opposition, prévu par l'article 26 de cette même loi, ne s'applique pas au traitement mis en oeuvre.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1992-08-26 art. 2 JORF 2 septembre 1992
-
 	**Codifié par**:
 
-	  - Arrêté 1998-05-22
+	  - Arrêté 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Cite**:
 
 	  - Loi n°78-17 1978-01-06 art. 34, art. 26
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ###### Article 164 FF
@@ -19183,63 +20081,67 @@ manufactures de l'Etat et des arsenaux.
 
 ###### Article 167
 
-1. Sont notamment soumis au régime prévu à l'article 165 1 :
+1. Sont notamment soumis au régime prévu au 1 de l'article 165 :
 
-Les voies navigables de France ;
+voies navigables de France ;
 
-La caisse nationale du crédit agricole ;
+la caisse nationale du crédit agricole ;
 
-Les chambres de commerce et d'industrie et ports autonomes ;
+les chambres de commerce et d'industrie et ports autonomes ;
 
-Le comité national interprofessionnel des viandes ;
+le comité national interprofessionnel des viandes ;
 
-L'entreprise de recherches et d'activités pétrolières (E.R.A.P.) ;
+l'entreprise de recherches et d'activités pétrolières (ERAP) ;
 
-L'entreprise minière et chimique ;
+l'entreprise minière et chimique ;
 
-Les régies municipales  intercommunales et départementales exploitant des services à caractère industriel et commercial ;
+les régies municipales, intercommunales et départementales exploitant des services à caractère industriel et commercial ;
 
-Le service des alcools.
+le service des alcools.
 
-2. Sont notamment soumis au régime prévu à l'article 165 2 :
+2. Sont notamment soumis au régime prévu au 2 de l'article 165 :
 
-Les manufactures nationales ;
+les manufactures nationales ;
 
-L'administration des monnaies et médailles ;
+l'administration des monnaies et médailles ;
 
-Les arsenaux, poudreries et usines mécaniques de l'Etat.
+les arsenaux, poudreries et usines mécaniques de l'Etat.
 
-3. Sont notamment soumis au régime prévu à l'article 166 1 :
+3. Sont notamment soumis au régime prévu au 1 de l'article 166 :
 
-L'établissement national des invalides de la marine ;
+l'établissement national des invalides de la marine ;
 
-La caisse des retraites des inscrits maritimes ;
+la caisse des retraites des inscrits maritimes ;
 
-La caisse des retraites des agents du service général ;
+la caisse des retraites des agents du service général ;
 
-La caisse de prévoyance des marins français ;
+la caisse de prévoyance des marins français ;
 
-La caisse générale de garantie des assurances sociales ;
+la caisse générale de garantie des assurances sociales ;
 
-La caisse de retraite des ouvriers mineurs ;
+la caisse de retraite des ouvriers mineurs ;
 
-La caisse de compensation pour la décentralisation de l'industrie aéronautique ;
+la caisse de compensation pour la décentralisation de l'industrie aéronautique ;
 
-Les chambres d'agriculture ;
+les chambres d'agriculture ;
 
-Les chambres de métiers ;
+les chambres de métiers et de l'artisanat ;
 
-Les sections de l'office de répartition des produits industriels ;
+les sections de l'office de répartition des produits industriels ;
 
-L'office national interprofessionnel des céréales ;
+l'office national interprofessionnel des céréales ;
 
-L'office national des anciens combattants et victimes de guerre.
+l'office national des anciens combattants et victimes de guerre.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
 	**Modifié par**:
 
-	  - Arrêté 1998-06-02 art. 1 JORF 10 juin 1998
+	  - Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
 
 	**Cite**:
 
@@ -19247,7 +20149,7 @@ L'office national des anciens combattants et victimes de guerre.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2006
 
 
 #### Section III : Enregistrement, publicité foncière et timbre
@@ -19278,63 +20180,63 @@ ou commercial.
 
 Entrent notamment dans les prévisions du deuxième alinéa du I de l'article 1040 du code général des impôts :
 
-La caisse des dépôts et consignations ;
+la caisse des dépôts et consignations ;
 
-L'établissement national des invalides de la marine ;
+l'établissement national des invalides de la marine ;
 
-La caisse des retraites des inscrits maritimes ;
+la caisse des retraites des inscrits maritimes ;
 
-La caisse des retraites des agents du service général ;
+la caisse des retraites des agents du service général ;
 
-La caisse de prévoyance des marins français ;
+la caisse de prévoyance des marins français ;
 
-La caisse autonome des retraites des ouvriers mineurs ;
+la caisse autonome des retraites des ouvriers mineurs ;
 
-La caisse générale de garantie des assurances sociales ;
+la caisse générale de garantie des assurances sociales ;
 
-La caisse de compensation pour la décentralisation de l'industrie aéronautique ;
+la caisse de compensation pour la décentralisation de l'industrie aéronautique ;
 
-Les chambres de commerce et d'industrie et ports autonomes ;
+les chambres de commerce et d'industrie et ports autonomes ;
 
-Les chambres d'agriculture ;
+les chambres d'agriculture ;
 
-Les chambres de métiers ;
+les chambres de métiers et de l'artisanat ;
 
-Le comité national interprofessionnel des viandes ;
+le comité national interprofessionnel des viandes ;
 
-L'entreprise de recherches et d'activités pétrolières (E.R.A.P.) ;
+l'entreprise de recherches et d'activités pétrolières (ERAP) ;
 
-L'entreprise minière et chimique ;
+l'entreprise minière et chimique ;
 
-Les sections de l'office central de répartition des produits industriels ;
+les sections de l'office central de répartition des produits industriels ;
 
-L'office national des anciens combattants et victimes de guerre ;
+l'office national des anciens combattants et victimes de guerre ;
 
-Les voies navigables de France ;
+voies navigables de France ;
 
-L'office national interprofessionnel des céréales ;
+l'office national interprofessionnel des céréales ;
 
-Les offices publics d'habitations à loyer modéré ;
+les offices publics d'habitations à loyer modéré ;
 
-Les régies municipales, intercommunales et départementales exploitant des services à caractère industriel ou commercial.
+les régies municipales, intercommunales et départementales exploitant des services à caractère industriel ou commercial.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Arrêté 1996-06-21
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
 
 	**Cite**:
 
 	  - CGI 1040 I
 
-	**Modifié par**:
-
-	  - Décret n°91-696 1991-07-18 art. 29 4° JORF 20 juillet 1991
-
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 1er janvier 2006
 
 
 #### Section IV : Dispositions communes
@@ -19601,21 +20503,26 @@ En application du III de l'article 347 de l'annexe III au code général des imp
 départementale des impôts directs et des taxes sur le chiffre d'affaires instituée aux articles 1651 et suivants du code
 général des impôts le juge utile, le nombre de suppléants peut être augmenté :
 
-1. Pour la ville de Paris :
+1. pour la ville de Paris :
 
-a) Jusqu'à 150, en ce qui concerne les représentants des contribuables désignés par la chambre de commerce et d'industrie ;
+a) jusqu'à cent cinquante, en ce qui concerne les représentants des contribuables désignés par la chambre de commerce et
+d'industrie ;
 
-b) Jusqu'à 50, en ce qui concerne les représentants des contribuables désignés par la chambre des métiers et par les
-organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux ;
+b) jusqu'à cinquante, en ce qui concerne les représentants des contribuables désignés par la chambre des métiers et de
+l'artisanat et par les organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux ;
 
-2. Pour les départements de plus de 600 000 habitants dans les mêmes conditions qu'au 1, le nombre de suppléants peut être
-porté respectivement à 60 et à 30.
+2. pour les départements de plus de 600 000 habitants dans les mêmes conditions qu'au 1, le nombre de suppléants peut être
+porté respectivement à soixante et à trente.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Arrêté 1997-11-28 art. 1 JORF 29 novembre 1997
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
 
 	**Cite**:
 
@@ -19624,7 +20531,7 @@ porté respectivement à 60 et à 30.
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2006
 
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
@@ -19691,66 +20598,79 @@ fonds est tenu de transmettre sans retard par la poste.
 ###### Article 188 bis
 
 1. Le paiement des impôts directs peut s'effectuer, sur option du contribuable, par prélèvement opéré à l'initiative du
-Trésor public sur un compte visé à l'article 1681 D du code général des impôts.
+Trésor public sur un compte visé à l'article 1681 D du code général des impôts. 
 
 2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II au code général des impôts. Elle peut
-être exercée jusqu'à la date limite de paiement ou dans le délai spécifique fixé par arrêté pour chaque échéance d'impôt
-(NOTA). Elle est valable sans limitation de durée.
+être exercée jusqu'à la date limite de paiement ou dans le délai spécifique fixé par arrêté pour chaque échéance d'impôt (1).
+Elle est valable sans limitation de durée. 
 
 3. Le contribuable peut renoncer à son option en adressant, au comptable chargé du recouvrement, une dénonciation dix jours
-ouvrés au moins avant la date limite de paiement de l'impôt concerné.
+ouvrés au moins avant la date limite de paiement de l'impôt concerné. 
 
-4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées aux articles 1761, 1762 et 1762
-quater du code général des impôts.
+4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 du code général des
+impôts.
 
 **Nota:**
 
-NOTA : Les dispositions de cette phrase s'appliquent à compter du 1er janvier 2004.
+(1) : Dispositions applicables à compter du 1er janvier 2004.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Arrêté 2006-03-24
+
 	**Modifié par**:
 
-	  - Arrêté 2004-12-23 art. 1 JORF 29 décembre 2004
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
 
 	**Cite**:
 
-	  - CGI 1681 D, 1761, 1762, 1762 quater
-	  - CGIAN2 376 ter
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 376 ter
+	  - Code général des impôts, CGI. - art. 1681 D
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 199 novodecies (P)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 
 ###### Article 188 ter
 
-Pour l'application du 5 de l'article 1730, le télérèglement des impôts directs s'effectue sur option du contribuable, qui
-ordonne l'opération sur l'un des comptes mentionnés à l'article 1681 D du code général des impôts.
+Pour l'application du 5 de l'article 1730 du code général des impôts, le télérèglement des impôts directs s'effectue sur
+option du contribuable, qui ordonne l'opération sur l'un des comptes mentionnés à l'article 1681 D du même code. 
 
 Cette option peut être exercée, sans majoration, jusqu'au cinquième jour, à minuit, qui suit la date limite de paiement pour
 les acomptes et le solde de l'impôt sur le revenu, la taxe foncière, la taxe d'habitation, les contributions sociales et la
-taxe sur les logements vacants.
+taxe sur les logements vacants. 
 
 Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 du code général des
-impôts.
+impôts. 
 
 L'option est exercée expressément à chaque échéance d'impôt.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Arrêté 2005-12-28 art. 1 JORF 31 décembre 2005
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
 
 	**Cite**:
 
-	  - CGI 1681 D
-	  - CGIAN4 1730
+	  - Code général des impôts, CGI. - art. 1681 D
+	  - Code général des impôts, CGI. - art. 1730
 
 
 ### Section I bis : Intérêts des bons de caisse
@@ -19921,27 +20841,23 @@ La déclaration préalable qui doit être adressée à la direction des résiden
 
 ###### Article 188 J
 
-La recette des impôts compétente pour recouvrer l'impôt mentionné à l'article 381 K de l'annexe III au code général des
-impôts est la recette de la direction des résidents à l'étranger et des services généraux, quel que soit le lieu de situation
-de la collectivité émettrice.
+Le service des impôts compétent pour recouvrer l'impôt mentionné à l'article 381 K de l'annexe III au code général des impôts
+est la recette de la direction des résidents à l'étranger et des services généraux, quel que soit le lieu de situation de la
+collectivité émettrice.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
-
 	**Codifié par**:
 
-	  - Arrêté 2005-04-06
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 	**Cite**:
 
-	  - CGIAN3 381 K
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 K (V)
 
 
 ###### Article 188-0 I
@@ -20189,26 +21105,22 @@ décembre, la date d'application de la majoration de 10 % pour paiement tardif e
 
 ###### Article 207 quater A bis
 
-L'amende prévue à l'article 1788 quater du code général des impôts est recouvrée par les comptables de la direction générale
-des impôts.
+L'amende prévue au 4 du I de l'article 1737 du code général des impôts est recouvrée par les comptables de la direction
+générale des impôts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1982-10-01 art. 1 JORF 6 octobre 1982
-
 	**Codifié par**:
 
-	  - Arrêté 1983-07-10
+	  - Arrêté 2006-03-24
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 18 () JORF 8 décembre 2005
 
 	**Cite**:
 
-	  - CGI 1788 quater
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 juillet 1983
+	  - Code général des impôts, CGI. - art. 1737 (V)
 
 
 ## Chapitre I bis A : Sûretés et privilèges

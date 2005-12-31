@@ -8,10 +8,10 @@ janvier 1991), réalisent les opérations suivantes :
 
 1° Reprise des moyens de production d'établissements industriels en difficulté susceptible de permettre la poursuite durable
 de l'activité et le soutien de l'emploi. L'agrément ne peut être accordé qu'à la condition qu'il y ait eu examen du plan de
-reprise et de redressement et du plan de financement correspondant par le comité départemental d'examen des problèmes de
-financement des entreprises (CODEFI) ou par le comité régional de restructuration industrielle (CORRI) ou par le comité
-interministériel de restructuration industrielle (CIRI). Si la reprise prend la forme d'une location-gérance, celle-ci doit
-être assortie d'un engagement ferme de rachat des actifs dans un délai de trois ans ; les reprises effectuées par des
+reprise et de sauvegarde ou de redressement et du plan de financement correspondant par le comité départemental d'examen des
+problèmes de financement des entreprises (CODEFI) ou par le comité régional de restructuration industrielle (CORRI) ou par le
+comité interministériel de restructuration industrielle (CIRI). Si la reprise prend la forme d'une location-gérance, celle-ci
+doit être assortie d'un engagement ferme de rachat des actifs dans un délai de trois ans ; les reprises effectuées par des
 personnes physiques ou morales qui contrôlent directement ou indirectement l'établissement en difficulté ne peuvent être
 agréées ;
 
@@ -24,15 +24,6 @@ décentralisations s'entendent des transferts, hors du Bassin parisien défini �
 (Journal officiel du 29 juin 1990), d'installations précédemment implantées dans la région parisienne définie à la même
 annexe.
 
-**Nota:**
-
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
-redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
-et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
-plans de sauvegarde ou de redressement judiciaire.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -41,13 +32,9 @@ plans de sauvegarde ou de redressement judiciaire.
 	  - Arrêté 1990-06-12 art. 4, annexe III, Arrêté 1990-08-08
 	  - CGI 1465
 
-	**Modifié par**:
-
-	  - Arrêté 1990-06-12 art. 4 JORF 29 juin 1990
-
 	**Codifié par**:
 
-	  - Arrêté 1991-09-09
+	  - Arrêté 2006-03-24
 
 	**Cité par**:
 
@@ -55,4 +42,8 @@ plans de sauvegarde ou de redressement judiciaire.
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005

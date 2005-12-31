@@ -6,20 +6,20 @@ a. Timbres mobiles de la série unique ;
 
 b. Timbres travailleurs étrangers ;
 
-c. Timbres contrat de transport ;
+c. (sans objet) ;
 
 d. Timbres-amendes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1997-08-27 art. 1 JORF 3 septembre 1997
-
 	**Codifié par**:
 
-	  - Arrêté 1998-05-22
+	  - Arrêté 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
