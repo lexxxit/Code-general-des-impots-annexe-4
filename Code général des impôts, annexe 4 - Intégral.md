@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2006-02-15
+Version Consolidée au 2006-04-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -20828,32 +20828,28 @@ direction des résidents à l'étranger et des services généraux.
 ###### Article 188 I
 
 Le prélèvement opéré par les agences et succursales des établissements de crédit par les caisses publiques et par les caisses
-d'épargne peut faire l'objet de versements globaux dans les conditions prévues à l'article 188 H.
+d'épargne peut faire l'objet de versements globaux dans les conditions prévues à l'article 188 H. 
 
 La déclaration préalable qui doit être adressée à la direction des résidents à l'étranger et des services généraux peut viser
-à la fois le versement de la retenue à la source prévue audit article et celui du prélèvement.
+à la fois le versement de la retenue à la source prévue audit article et celui du prélèvement. 
+
+Ces dispositions ne sont pas applicables au prélèvement dû à raison des revenus, produits et gains mentionnés à l'article 125
+D du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
-
-	**Codifié par**:
-
-	  - Arrêté 2005-04-06
-
-	**Cite**:
-
-	  - CGIAN4 188 H
+	  - Arrêté 2006-04-14 art. 1 JORF 16 avril 2006
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 D (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 H (V)
+	  - Code général des impôts, CGI. - art. 125 D (V)
 
 
 ###### Article 188 J
@@ -20879,26 +20875,28 @@ collectivité émettrice.
 
 ###### Article 188-0 I
 
-Le prélèvement sur les produits de placements à revenu fixe prévu à l'article 125 A du code général des impôts est versé à la
-recette des impôts de la direction des résidents à l'étranger et des services généraux.
+I. Le prélèvement sur les produits de placements à revenu fixe prévu à l'article 125 A du code général des impôts est versé à
+la recette des impôts de la direction des résidents à l'étranger et des services généraux, lorsqu'il est dû à raison de
+revenus, produits et gains mentionnées aux articles 125-0 A et 125 A du code précité.
+
+II. - Le prélèvement mentionné au I dû à raison des revenus, produits et gains visés aux I et II de l'article 125 D du code
+général des impôts est versé :
+
+1° A la recette des impôts des non-résidents de la direction des résidents à l'étranger et des services généraux, lorsqu'il
+est acquitté par la personne qui assure le paiement desdits revenus, produits et gains et qu'elle est mandatée à cet effet
+par le contribuable ;
+
+2° Au service des impôts du domicile du contribuable, lorsque ce dernier effectue lui-même le paiement dudit prélèvement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2000-07-24 art. 10 JORF 25 juillet 2000
-
-	**Codifié par**:
-
-	  - Arrêté 2005-04-06
+	  - Arrêté 2006-04-14 art. 1 JORF 16 avril 2006
 
 	**Cite**:
 
-	  - CGI 125 A
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - CGI 125 A, 125-0 A, 125 D
 
 
 ### Section II : Taxes sur le chiffre d'affaires et taxes assimilées
