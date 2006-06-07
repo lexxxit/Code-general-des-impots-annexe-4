@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2006-04-16
+Version Consolidée au 2006-06-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13926,15 +13926,21 @@ de l'article L. 102 B du livre des procédures fiscales.
 	  - Livre des procédures fiscales - art. L102 B (VT)
 
 
-##### V : Débite des timbres mobiles.
+##### V : Débite des timbres mobiles et encaissement d'amendes forfaitaires par timbres dématérialisés
 
 ###### Article 121 KM
 
 Les débitants de tabac perçoivent sur le prix de vente des timbres mobiles de toute nature dont ils assurent la débite une
-remise uniforme de 5 p. 100.
+remise uniforme de 5 %.
 
 La remise est liquidée et payée au fur et à mesure des versements opérés par les débitants de tabac auprès des receveurs des
-impôts à la condition qu'elle atteigne au moins 15 euros.
+impôts à la condition qu'elle atteigne au moins 15 €.
+
+Les débitants de tabac participant à l'encaissement des amendes forfaitaires par timbres dématérialisés perçoivent une remise
+uniforme de 6 % sur le prix de vente de ceux-ci.
+
+La remise est liquidée et payée dans les conditions prévues par un protocole d'agrément conclu entre les débitants de tabac
+et le Trésor public.
 
 Les dispositions du présent article s'appliquent dans les départements de la Corse.
 
@@ -13946,12 +13952,7 @@ Les dispositions du présent article s'appliquent dans les départements de la C
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 mars 2002
+	  - Arrêté 2006-05-29 art. 1, art. 2 JORF 8 juin 2006
 
 
 ###### Article 121 KM bis
@@ -13960,21 +13961,9 @@ Les comptables directs du Trésor sont habilités à vendre les timbres mobiles 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1982-07-15 art. 1 JORF 29 juillet 1982, en vigueur le 1er janvier 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1998-05-22
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-
 	**Modifié par**:
 
-	  - Loi n°86-1318 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
+	  - Arrêté 2006-05-29 art. 1 JORF 8 juin 2006
 
 
 ###### Article 121 KM ter
@@ -13991,17 +13980,9 @@ d. Timbres-amendes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - Arrêté 2006-05-29 art. 1 JORF 8 juin 2006
 
 
 ##### Section III : Impôt sur les opérations de bourse
