@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-07-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11966,8 +11966,9 @@ rend immédiatement exigibles les sommes dues par le gérant.
 1. La déclaration des quantités de tabacs manufacturés livrées au débitant au cours du mois précédent mentionnées au deuxième
 alinéa de l'article 568 du code général des impôts et au dixième alinéa de l'article 2 du décret n° 63-1104 du 30 octobre
 1963 modifié est conforme au modèle figurant en annexe I au présent arrêté. Cette déclaration est établie en un exemplaire
-sur papier à en-tête du fournisseur. Elle est datée et signée. Elle est transmise au receveur régional des douanes et droits
-indirects de Paris - Ile-de-France accompagnée du moyen de paiement correspondant.
+sur papier à en-tête du fournisseur. Elle est datée et signée. Elle est transmise au chef de service comptable à la direction
+générale des douanes et droits indirects de 1re et de 2e catégorie de Paris - Ile-de-France accompagnée du moyen de paiement
+correspondant.
 
 2. La déclaration mensuelle des livraisons mentionnée au deuxième alinéa de l'article 568 du code général des impôts comporte
 les informations suivantes :
@@ -11988,24 +11989,20 @@ Cette déclaration est datée et transmise par voie informatique au centre infor
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 568
+	  - Décret n°63-1104 du 30 octobre 1963 - art. 2 (M)
+
 	**Modifié par**:
 
-	  - Arrêté 2006-02-13 art. 2 JORF 15 février 2006
+	  - Décret n°2006-814 du 7 juillet 2006 - art. 18 (V) JORF 9 juillet 2006
 
 	**Cité par**:
 
 	  - Arrêté du 24 mars 2010 - art. 1 (V)
 	  - Décret n°2016-1987 du 30 décembre 2016 - art. 2 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AJ (V)
-
-	**Cite**:
-
-	  - CGI 568
-	  - Décret n°63-1104 du 30 octobre 1963 - art. 2 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 56 AK
