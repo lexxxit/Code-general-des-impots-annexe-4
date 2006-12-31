@@ -3,8 +3,8 @@
 Le cahier des charges prévu à l'article 275 ter B de l'annexe II au code général des impôts comprend la description des
 moyens et des méthodes de contrôles et essais mis en oeuvre par les organismes de contrôle agréés.
 
-La direction générale des douanes et droits indirects et la direction générale de l'industrie, des technologies de
-l'information et des postes approuvent le cahier des charges préalablement à l'agrément de l'organisme de contrôle.
+La direction générale des douanes et droits indirects et la direction générale des entreprises approuvent le cahier des
+charges préalablement à l'agrément de l'organisme de contrôle.
 
 Le cahier des charges est composé notamment de :
 
@@ -35,20 +35,23 @@ du nombre et poids des ouvrages reconnus aux titres non légaux.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 2004-07-28 art. 1 JORF 12 août 2004
+	  - Arrêté 2007-03-30
 
 	**Cite**:
 
 	  - CGIAN2 275 ter B
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22 (Parlement et Conseil)
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
 
 	**Cité par**:
 
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007

@@ -8,7 +8,7 @@ Le représentant du secrétaire d'Etat auprès du ministre de l'intérieur (DOM-
 
 Le représentant du ministre dont relève l'activité à encourager ;
 
-Le commissaire général du plan d'équipement et de la productivité ;
+Le directeur général du Centre d'analyse stratégique ;
 
 L'inspecteur général des finances chargé de la division des départements d'outre-mer ;
 
@@ -22,7 +22,7 @@ Le directeur de la comptabilité publique ;
 
 Le directeur général des douanes et des droits indirects ;
 
-Le directeur général de la concurrence et de la consommation ;
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
 Le directeur général de la SOCREDOM, ou leurs représentants.
 
@@ -42,9 +42,13 @@ Les avis sont émis par la commission en présence uniquement des membres ayant 
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: <RL Edition du 1er janvier 2007
+
 	**Codifié par**:
 
-	  - Arrêté 2005-04-06
+	  - Arrêté 2007-03-30
 
 	**Cite**:
 
@@ -52,8 +56,6 @@ Les avis sont émis par la commission en présence uniquement des membres ayant 
 
 	**Modifié par**:
 
-	  - Décret n°2004-1203 du 15 novembre 2004 - art. 3 () JORF 16 novembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Décret n°85-1152 1985-11-05 art. 2 JORF 6 novembre 1985
+	  - Décret n°2006-260 du 6 mars 2006 - art. 6 (Ab) JORF 7 mars 2006
+	  - Décret n°2006-260 du 6 mars 2006 - art. 8 (Ab) JORF 7 mars 2006

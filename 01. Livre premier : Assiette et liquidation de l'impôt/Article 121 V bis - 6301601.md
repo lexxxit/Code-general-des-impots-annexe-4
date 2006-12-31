@@ -13,7 +13,7 @@ Le secrétaire général des affaires économiques ou le fonctionnaire en tenant
 
 Le directeur des services fiscaux ;
 
-Le directeur de la concurrence et de la consommation ;
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
 Le chef du service dont relève l'activité à encourager ;
 
@@ -31,8 +31,8 @@ proposition du directeur des services fiscaux.
 
 La commission se réunit sur la convocation du préfet du département ou du préfet représentant l'Etat dans la collectivité
 territoriale de Saint-Pierre-et-Miquelon . Sauf en cas d'urgence dûment motivé, ses membres sont convoqués dix jours au moins
-[*delai minimum*] avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins six membres
-présents. En cas de partage égal des voix, la voix du président est prépondérante.
+avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins six membres présents. En cas
+de partage égal des voix, la voix du président est prépondérante.
 
 La commission entend, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
 
@@ -46,8 +46,7 @@ l'INSEE.
 
 	**Codifié par**:
 
-	  - Arrêté 1988-10-20
-	  - Arrêté 1994-10-17
+	  - Arrêté 2007-03-30
 
 	**Cite**:
 
@@ -55,8 +54,4 @@ l'INSEE.
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
+	  - Décret n°85-1152 1985-11-05 art. 2 JORF 6 novembre 1985
