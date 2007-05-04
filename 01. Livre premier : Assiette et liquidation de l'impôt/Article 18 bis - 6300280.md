@@ -87,6 +87,44 @@ ou égal à 3 pour une température extérieure de + 7 °C selon la norme d'essa
 
 - l'installation finale a été contrôlée par un organisme d'inspection accrédité selon la norme NF EN 45004.
 
+c) D'équipements de récupération des eaux de pluie collectées à l'aval de toitures inaccessibles pour des utilisations à
+l'extérieur des habitations, ou pour des utilisations, définies par un arrêté conjoint des ministères en charge de la santé
+et de l'écologie, à l'intérieur des habitations, constitués :
+
+- d'une crapaudine, installée en haut de chaque descente de gouttière acheminant l'eau vers le stockage ;
+
+- soit d'un système de dérivation des eaux de pluie vers le stockage installé sur une descente de gouttières (en cas de
+descente unique), soit d'un regard rassemblant l'intégralité des eaux récupérées ;
+
+- d'un dispositif de filtration par dégrillage, démontable pour nettoyage, de maille inférieure à 5 mm, placé en amont du
+stockage ;
+
+- d'un dispositif de stockage, à l'exclusion des systèmes réhabilités comprenant une ou plusieurs cuves reliées entre elles,
+répondant aux exigences minimales suivantes :
+
+- étanche ;
+
+- résistant à des variations de remplissage ;
+
+- non translucide ;
+
+- fermé, recouvert d'un couvercle solide et sécurisé ;
+
+- comportant un dispositif d'aération muni d'une grille anti-moustiques ; et
+
+- équipé d'une arrivée d'eau noyée, d'un système de trop-plein muni d'un clapet antiretour (sauf dans le cas où le trop-plein
+s'effectue par l'arrivée d'eau) ;
+
+- vidangeable, nettoyable intégralement et permettant d'avoir un accès manuel à tout point de la paroi ;
+
+- des conduites de liaisons entre le système de dérivation et le stockage et entre le trop-plein et le pied de la gouttière
+dérivée ;
+
+- d'un robinet de soutirage verrouillable ;
+
+- d'une plaque apparente et scellée à demeure, au-dessus du robinet de soutirage, portant d'une manière visible la mention
+"eau non potable" et un pictogramme caractéristique.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -101,8 +139,12 @@ ou égal à 3 pour une température extérieure de + 7 °C selon la norme d'essa
 
 	**Modifié par**:
 
-	  - Arreté 2005-12-12 art. 1 JORF 17 décembre 2005
+	  - Arrêté 2007-05-04 art. 1 JORF 5 mai 2007
 
 	**Cite**:
 
 	  - CGI 200 quater
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
