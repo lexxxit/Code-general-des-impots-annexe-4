@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2007-08-09
+Version Consolidée au 2007-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -466,99 +466,6 @@ Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 bis (P)
-
-
-##### II ter : Provisions pour risques afférents aux opérations de crédit à moyen et à long terme réalisées par les établissements de crédit pour le financement des ventes ou travaux à l'étranger.
-
-###### Article 4 quater
-
-Les établissements de crédit consentant des crédits à moyen et à long terme pour le règlement des ventes ou des travaux
-effectués à l'etranger sont admis à constituer en franchise d'impôt sur le revenu ou d'impôt sur les sociétés, dans les
-conditions prévues aux articles 4 quinquies à 4 septies, une provision destinée à faire face aux risques particuliers
-afférents à ces crédits.
-
-Sont considérées comme effectuées a l'etranger les opérations faites à destination de pays autres que les territoires de la
-Republique francaise (France métropolitaine, départements d'outre-mer et territoires d'outre-mer).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Cite**:
-
-	  - CGIAN4 4 quinquies
-	  - CGIAN4 4 septies
-	  - CGIAN4 4 sexies
-
-	**Modifié par**:
-
-	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
-
-
-###### Article 4 quinquies
-
-Le bénéfice de la provision prévue à l'article 4 quater est limité aux opérations qui font l'objet d'une ouverture de credit
-au cours des années 1966 à 1980.
-
-Son montant ne peut excéder 20 % du montant du risque propre aux crédits définis ci-dessus qui n'est pas couvert
-effectivement par la compagnie francaise pour le commerce extérieur (Coface) ou par tout établissement de crédit, ni 1 % du
-montant de ces mêmes crédits qui figure au bilan de clôture de l'exercice.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1986-10-07
-
-	**Cite**:
-
-	  - CGIAN4 4 quater
-
-	**Modifié par**:
-
-	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
-
-
-###### Article 4 septies
-
-Les dispositions des articles 4 quater à 4 sexies sont applicables pour la détermination des résultats des exercices clos à
-partir du 1er janvier 1966.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 4 quater
-	  - CGIAN4 4 quinquies
-	  - CGIAN4 4 sexies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 4 sexies
-
-Les crédits retenus pour la détermination de la provision visée aux articles 4 quater et 4 quinquies sont exclus
-corrélativement, le cas échéant, de la base de calcul de la provision pour risques afférents aux opérations de crédit à moyen
-et à long terme prévue aux articles 2 à 4.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 2
-	  - CGIAN4 3
-	  - CGIAN4 3 bis
-	  - CGIAN4 4
-	  - CGIAN4 4 quater
-	  - CGIAN4 4 quinquies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### II quater : Provisions des entreprises de presse
@@ -18769,31 +18676,6 @@ porté respectivement à soixante et à trente.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
-
-
-# ASSIETTE ET LIQUIDATION DE L'IMPOT
-
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
-
-### IMPOSITIONS COMMUNALES ET DEPARTEMENTALES
-
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES
-
-##### AUTRES IMPOSITIONS.
-
-###### Article 121 quinquies E
-
-(Se reporter au renvoi figurant sous l'article 311 de l'annexe II au code général des impôts).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 311
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 # Livre II : Recouvrement de l'impôt
