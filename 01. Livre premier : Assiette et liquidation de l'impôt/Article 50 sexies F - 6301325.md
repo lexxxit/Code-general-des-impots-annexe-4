@@ -1,14 +1,21 @@
 # Article 50 sexies F
 
-Les fabricants, importateurs ou marchands doivent déclarer leurs livraisons de billets ou cartes d'entrée aux exploitants de
-spectacles, en précisant :
+I. - Les fabricants, importateurs ou marchands doivent déclarer leurs livraisons de billets ou cartes d'entrée aux
+exploitants de spectacles, en précisant :
 
-1° Les noms et adresses des établissements destinataires ;
+1° Les noms et adresses des exploitants destinataires ;
+
+2° Le nombre et les numéros des fonds de billets livrés.
+
+II. - Les détenteurs ou les propriétaires de logiciels de billetterie doivent déclarer leurs livraisons de billets ou de
+cartes d'entrée aux exploitants de spectacles utilisant leur logiciel, en précisant :
+
+1° Les noms et adresses des exploitants de spectacles destinataires ;
 
 2° Le nombre des billets ou cartes d'entrée livrés, par catégorie de places, ainsi que les numéros des billets.
 
-Ils doivent adresser ces déclarations au service des impôts dont ils dépendent dans les huit jours qui suivent les
-livraisons.
+Les personnes soumises aux déclarations prévues au présent article doivent les adresser au service des impôts dont elles
+dépendent dans les huit jours qui suivent les livraisons.
 
 Les exploitants de spectacles qui achètent leurs billets directement à l'étranger sont considérés comme importateurs et
 astreints aux déclarations prévues au présent article.
@@ -17,8 +24,4 @@ astreints aux déclarations prévues au présent article.
 
 	**Modifié par**:
 
-	  - Arrêté 2004-01-02 art. 3 JORF 15 janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Arrêté 2007-10-05 art. 1 JORF 7 octobre 2007

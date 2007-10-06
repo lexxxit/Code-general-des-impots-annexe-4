@@ -1,12 +1,10 @@
 # Article 50 sexies I
 
-I. - Les billets prévus au I de l'article 290 quater du code général des impôts peuvent être établis par un système
-informatisé dont les caractéristiques et le fonctionnement doivent être conformes au cahier des charges annexé à l'arrêté du
-8 mars 1993.
+I. - Tout utilisateur d'un système de billetterie informatisée doit se conformer au cahier des charges annexé à l'arrêté du 8
+mars 1993 modifié.
 
-II. Les exploitants d'établissements de spectacles visés au I de l'article 290 quater susmentionné déclarent à la direction
-des services fiscaux dont ils dépendent la mise en service d'un système informatisé de billetterie au plus tard lors de la
-première utilisation.
+II. Les utilisateurs susmentionnés déclarent à la direction des services fiscaux dont ils dépendent la mise en service d'un
+système informatisé de billetterie ou de caisse enregistreuse au plus tard lors de la première utilisation.
 
 Cette déclaration comporte les mentions suivantes nécessaires à la description du système utilisé :
 
@@ -32,14 +30,6 @@ alinéa.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1993-03-08 art. 1 JORF 24 mars 1993
-
-	**Cite**:
-
-	  - CGI 290 quater
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Arrêté 2007-10-05 art. 7 JORF 7 octobre 2007
