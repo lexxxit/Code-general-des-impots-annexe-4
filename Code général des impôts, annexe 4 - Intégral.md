@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2007-12-30
+Version Consolidée au 2007-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1690,60 +1690,206 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2006, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
-pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
+Pour l'année 2008, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme
+suit : 
 
-Taux applicable : 0 p. 100
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-Limite des tranches selon la période à laquelle se rapportent les paiements :
+TAUX APPLICABLES 
 
-Moins de 13 170 euros / Année
+</th>
+      <th>
 
-Moins de 3 293 euros / Trimestre
+LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS 
 
-Moins de 1 098 euros / Mois
+</th>
+    </tr>
+    <tr>
+      <th>
+      </th><th>
 
-Moins de 253 euros / Semaine
+Année 
 
-Moins de 42 euros / Jour ou fraction de jour
+(en euros) 
 
-Taux applicable : 12 p. 100
+</th>
+      <th>
 
-Limite des tranches selon la période à laquelle se rapportent les paiements :
+Trimestre 
 
-De 13 170 à 38 214 euros / Année
+(en euros) 
 
-De 3 293 à 9 554 euros / Trimestre
+</th>
+      <th>
 
-De 1 098 à 3 185 euros / Mois
+Mois 
 
-De 253 à 735 euros / Semaine
+(en euros) 
 
-De 42 à 122 euros / Jour ou fraction de jour
+</th>
+      <th>
 
-Taux applicable : 20 p. 100
+Semaine 
 
-Limite des tranches selon la période à laquelle se rapportent les paiements :
+(en euros) 
 
-Au-delà de 38 214 euros / Année
+</th>
+      <th>
 
-Au-delà de 9 554 euros / Trimestre
+Jour ou fraction 
 
-Au-delà de 3 185 euros / Mois
+de jour 
 
-Au-delà de 735 euros / Semaine
+(en euros) 
 
-Au-delà de 122 euros / Jour ou fraction de jour.
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+0 %
+
+- moins de 
+
+</td>
+      <td align="center">
+
+13 583 
+
+</td>
+      <td align="center">
+
+3 396 
+
+</td>
+      <td align="center">
+
+1 132 
+
+</td>
+      <td align="center">
+
+261 
+
+</td>
+      <td align="center">
+
+44 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+12 %
+
+- de 
+
+</td>
+      <td align="center">
+
+13 583 
+
+</td>
+      <td align="center">
+
+3 396 
+
+</td>
+      <td align="center">
+
+1 132 
+
+</td>
+      <td align="center">
+
+261 
+
+</td>
+      <td align="center">
+
+44
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- à 
+
+</td>
+      <td align="center">
+
+39 409 
+
+</td>
+      <td align="center">
+
+9 852 
+
+</td>
+      <td align="center">
+
+3 284 
+
+</td>
+      <td align="center">
+
+758 
+
+</td>
+      <td align="center">
+
+126 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+20 %
+
+- au-delà de 
+
+</td>
+      <td align="center">
+
+39 409 
+
+</td>
+      <td align="center">
+
+9 852 
+
+</td>
+      <td align="center">
+
+3 284 
+
+</td>
+      <td align="center">
+
+758 
+
+</td>
+      <td align="center">
+
+126 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2005-12-30 art. 1 JORF 31 décembre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Arrêté du 28 décembre 2007 - art. 1
 
 
 ##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -3633,55 +3779,44 @@ pas en mesure d'établir ses déclarations dans le délai prévu à l'article 39
 ###### Article 40
 
 1. Les assujettis à la taxe sur la valeur ajoutée doivent mentionner sur la déclaration prévue au 1 de l'article 287 du code
-général des impôts le rapport mentionné à l'article 214 de l'annexe II au code général des impôts qu'ils appliquent durant
-l'année en cours.
+général des impôts le coefficient de taxation calculé dans les conditions prévues au 3 du III de l'article 206 de l'annexe II
+au code général des impôts qu'ils appliquent durant l'année en cours. 
 
-2. Les entreprises visées à l'article 213 de l'annexe II au code général des impôts qui adoptent un rapport distinct par
-secteur d'activité doivent dans les quinze jours en faire la déclaration au service des impôts.
+2. Les entreprises soumises aux dispositions du 2° du 3 du III de l'article 206 de l'annexe II au code général des impôts
+doivent dans les quinze jours en faire la déclaration au service des impôts. 
 
 Les entreprises assujetties à la taxe sur la valeur ajoutée doivent, dans les mêmes conditions, déclarer les modifications
 aboutissant à la création d'un secteur exonéré.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté du 27 septembre 2007 - art. 1
 
 	**Cite**:
 
-	  - CGI 287 1
-	  - CGIAN2 213, 214
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 9 (V) JORF 31 décembre 1979
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 206
+	  - Code général des impôts, CGI. - art. 287
 
 
 ###### Article 41
 
 A l'appui de la déclaration mentionnée au 1 de l'article 287 du code général des impôts qu'elles déposent avant le 25 du mois
-qui suit celui de leur création ou de leur prise de position d'assujetties les entreprises doivent déclarer le rapport
-provisoire prévu par l'article 214 de l'annexe II au code général des impôts.
-
-Les entreprises nouvellement assujetties doivent, pour les biens soumis à amortissement qu'elles détiennent, mentionner
-également sur cette déclaration la taxe sur la valeur ajoutée déterminée dans les conditions fixées à l'article 226 de
-l'annexe susvisée  ainsi que la valeur correspondante, taxe comprise, des mêmes biens.
+qui suit celui de leur création ou de leur prise de position d'assujetties les entreprises doivent déclarer le coefficient de
+taxation retenu à titre provisoire pour les biens et services mentionnés au 3 du III de l'article 206 de l'annexe II au code
+général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1981-09-15
+	  - Arrêté du 27 septembre 2007 - art. 1
 
 	**Cite**:
 
-	  - CGI 287 1
-	  - CGIAN2 214, 226
-
-	**Modifié par**:
-
-	  - Décret n°79-1163 du 29 décembre 1979 - art. 9 (V) JORF 31 décembre 1979
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 206
+	  - Code général des impôts, CGI. - art. 287
 
 
 ##### B : Tenue des registres
