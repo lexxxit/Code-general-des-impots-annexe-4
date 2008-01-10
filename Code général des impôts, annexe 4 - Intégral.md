@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-01-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2958,22 +2958,19 @@ passagers.
 
 ###### Article 28-00 A
 
-Les biens de très faible valeur mentionnés au 1° de l'article 238 de l'annexe II au code général des impôts s'entendent de
-ceux dont la valeur unitaire n'excède pas 60 Euros toutes taxes comprises par objet et par an pour un même bénéficiaire.
+Les biens de très faible valeur mentionnés au 3° du 2 du IV de l'article 206 de l'annexe II au code général des impôts
+s'entendent de ceux dont la valeur unitaire n'excède pas 60 Euros toutes taxes comprises par objet et par an pour un même
+bénéficiaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2005-10-12 art. 2 JORF 20 octobre 2005 en vigueur le 1er janvier 2006
+	  - Arrêté du 28 décembre 2007 - art. 1
 
 	**Cite**:
 
-	  - CGIAN2 238
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 206
 
 
 ##### II : Régime suspensif
