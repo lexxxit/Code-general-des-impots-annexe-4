@@ -1,38 +1,38 @@
 # Article 159 octies
 
-Les montants de la taxe fiscale instituée par l'article 1635 bis M du code général des impôts sont fixés ainsi qu'il suit :
+Les montants de la taxe fiscale instituée par l'article 1635 bis M du code général des impôts sont fixés ainsi qu'il suit : 
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3,5 tonnes
+DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3,5 tonnes 
 
-A compter du 1er janvier 2004 (en euros) : 30 
+A compter du 1er février 2007 (en euros) : 32 
 
 DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est supérieur à 3,5 tonnes et inférieur à 6
-tonnes
+tonnes 
 
-A compter du 1er janvier 2004 (en euros) : 120 
+A compter du 1er février 2007 (en euros) : 124 
 
 DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 6 tonnes et
-inférieur à 11 tonnes
+inférieur à 11 tonnes 
 
-A compter du 1er janvier 2004 (en euros) : 180 
+A compter du 1er février 2007 (en euros) : 186 
 
 DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 11 tonnes,
-tracteurs routiers et véhicules de transport en commun de personnes
+tracteurs routiers et véhicules de transport en commun de personnes 
 
-A compter du 1er janvier 2004 (en euros) : 270 
+A compter du 1er février 2007 (en euros) : 279 
 
 (1) PTAC : poids total autorisé en charge.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 1er de l'arrêté du 24 janvier 2007.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2003-11-17 art. 1 JORF 2 décembre 2003
+	  - Arrêté du 1er avril 2008 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Arrêté 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 1635 bis M

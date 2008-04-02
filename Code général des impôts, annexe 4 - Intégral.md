@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2008-03-01
+Version Consolidée au 2008-04-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -41,180 +41,188 @@ des non-résidents à l'exception des personnes physiques visées à l'article 1
 I. Pour bénéficier de l'amortissement dégressif accéléré mentionné au 2° de l'article 39 AA du code général des impôts ou de
 l'amortissement exceptionnel mentionné à l'article 39 AB du même code, les matériels destinés à économiser l'énergie et les
 équipements de production d'énergies renouvelables mentionnés sur la liste donnée au 2 doivent pouvoir être séparés des
-appareils auxquels ils ont été adjoints sans être rendus définitivement inutilisables.
+appareils auxquels ils ont été adjoints sans être rendus définitivement inutilisables. 
 
-II. - La liste des matériels est fixée ainsi qu'il suit :
+II.-La liste des matériels est fixée ainsi qu'il suit : 
 
 1. Matériels de récupération de force ou de chaleur produite par l'emploi d'hydrocarbures liquides ou gazeux, de combustibles
-minéraux solides ou d'électricité :
+minéraux solides ou d'électricité : 
 
 1° a. matériel permettant directement la récupération d'énergie et le transport de l'énergie récupérée :
 
 - chaudière à vapeur, à eau chaude, à fluide thermique, à haut rendement (soit supérieur à 90 % PCS) ;
 
-- chaudière de récupération sur effluents thermiques ou gaz pauvre de procédé ;
+- chaudière de récupération sur effluents thermiques ou gaz pauvre de procédé ; 
 
 b. échangeurs thermiques récupérateurs sur fluides liquides, gazeux ou de refroidissement : échangeurs tubulaires, échangeurs
 à plaques, à caloducs, par fluide caloporteur, rotatifs, lorsque ces matériels sont destinés à la production d'eau chaude ou
 de vapeur, de fluide thermique, d'air, l'énergie échangée étant utilisée pour le préchauffage d'air de combustion, de
 produits, de combustibles ou de fluides utilisés dans des cycles binaires, la récupération de frigories sur des fluides
-détendus ;
+détendus ; 
 
-c. installation de préchauffage de produits par échange direct avec des rejets thermiques ;
+c. installation de préchauffage de produits par échange direct avec des rejets thermiques ; 
 
 d. incinérateurs de sous-produits de fabrication ou de déchets, avec récupération d'énergie et installations annexes de
-stockage, de manutention et de préparation ;
+stockage, de manutention et de préparation ; 
 
 e. hottes et dispositifs de captation de la chaleur de refroidissement de solides après une opération nécessitant une
-élévation de température ;
+élévation de température ; 
 
 f. matériel permettant la récupération, le transport, le stockage, la préparation et la valorisation énergétique de gaz
-fatals, issus comme sous-produits de procédés industriels ;
+fatals, issus comme sous-produits de procédés industriels ; 
 
 g. dispositifs mécaniques ou électromécaniques permettant la récupération de l'énergie mécanique potentielle de fluides sous
 pression : turbines, turboalternateurs mus par la détente de gaz ou de fluides sous pression destinés à (ou provenant d') un
-procédé de fabrication ;
+procédé de fabrication ; 
 
 h. pompes à chaleur à recompression mécanique de vapeur dont le coefficient de performance est supérieur ou égal à 4 et
-matériels permettant la thermocompression directe de fluides avec recyclage de l'énergie ainsi récupérée ;
+matériels permettant la thermocompression directe de fluides avec recyclage de l'énergie ainsi récupérée ; 
 
 i. turbine à condensation pour la production d'électricité dans le cas où la vapeur est produite pour l'essentiel lors de
-l'incinération de déchets industriels ou ménagers ou par récupération sur un procédé de fabrication excédentaire en énergie ;
+l'incinération de déchets industriels ou ménagers ou par récupération sur un procédé de fabrication excédentaire en
+énergie ; 
 
 2° Matériel de cogénération permettant la production simultanée, dans un seul processus, d'énergie thermique et électrique
-et/ou mécanique :
+et / ou mécanique : 
 
-a. turbine de détente de vapeur en contre-pression ;
+a. turbine de détente de vapeur en contre-pression ; 
 
 b. turbine de détente de fluides utilisés dans des cycles binaires de production d'électricité à partir de rejets thermiques
-à bas niveau ;
+à bas niveau ; 
 
-c. turbine de détente de haute pression utilisée en place de vanne de laminage ou de détente ;
+c. turbine de détente de haute pression utilisée en place de vanne de laminage ou de détente ; 
 
-d. turbine à gaz et moteur thermique avec équipements de récupération de l'énergie sur les gaz d'échappement et/ou les
-fluides de refroidissement ;
+d. turbine à gaz et moteur thermique avec équipements de récupération de l'énergie sur les gaz d'échappement et / ou les
+fluides de refroidissement ; 
 
 3° Matériel permettant la transformation en énergie électrique ou en énergie mécanique de l'énergie cinétique des turbines
-mentionnées ci-dessus ;
+mentionnées ci-dessus ; 
 
-4° Générateur électrochimique à usage stationnaire.
+4° Générateur électrochimique à usage stationnaire. 
 
-2. Matériels destinés à l'amélioration du rendement énergétique d'appareils ou d'installations consommant de l'énergie :
+2. Matériels destinés à l'amélioration du rendement énergétique d'appareils ou d'installations consommant de l'énergie : 
 
 a. matériel de combustion performant acquis en remplacement d'un matériel de combustion classique : brûleurs
-autorécupérateurs, brûleurs régénératifs ;
+autorécupérateurs, brûleurs régénératifs ; 
 
 b. matériel de régulation améliorant les performances énergétiques des matériels suivants : fours, chaudières, séchoirs,
-moteurs ou machines-outils ;
+moteurs ou machines-outils ; 
 
 c. matériel permettant une chauffe en surface ou dans la masse en remplacement d'un chauffage global classique : chauffage
-infrarouge (gaz ou électricité), à haute fréquence, par rayonnement ultraviolet, micro-ondes ;
+infrarouge (gaz ou électricité), à haute fréquence, par rayonnement ultraviolet, micro-ondes ; 
 
 d. matériel de mesure ou enregistreurs permettant un meilleur contrôle du rendement énergétique des installations, à
-l'exception des appareils de contrôle prévus par les articles 7 et 8 du décret n° 98-817 du 11 septembre 1998 relatif aux
-rendements minimaux et à l'équipement des chaudières de puissance comprise entre 400 kW et 50 MW ;
+l'exception des appareils de contrôle prévus par les articles R. 224-26 et R. 224-27 du code de l'environnement ; 
 
 e. matériel de séparation performant en substitution d'un système de séparation par voies thermiques : membranes polymères,
-membranes minérales, membranes cryogéniques ;
+membranes minérales, membranes cryogéniques ; 
 
 f. matériel permettant de réaliser des économies d'énergie par l'optimisation et la commande centralisée de la gestion d'un
 ensemble de dispositifs consommateurs d'énergie et affecté exclusivement à cet usage : système informatique centralisé de
-mesure et de commande ou système réparti par microprocesseurs ;
+mesure et de commande ou système réparti par microprocesseurs ; 
 
 g. matériel permettant la réduction des pertes sur les réseaux de fluides énergétiques (réseau de condensats, réseau de
-vapeur, réseau d'air comprimé, réseau de vide, réseau de fluide frigorigène) tels que les purgeurs de vapeur ;
+vapeur, réseau d'air comprimé, réseau de vide, réseau de fluide frigorigène) tels que les purgeurs de vapeur ; 
 
 h. matériel d'isolation utilisé dans le secteur tertiaire et industriel permettant de limiter les déperditions thermiques des
-matériels utilisant ou transportant de l'énergie ;
+matériels utilisant ou transportant de l'énergie ; 
 
 i. matériel permettant de diminuer la consommation d'énergie réactive d'installations électriques : batteries de
-condensateurs ;
+condensateurs ; 
 
 j. matériel variateur de vitesse permettant d'adapter la consommation énergétique d'un moteur ou d'une machine à sa charge
-instantanée ;
+instantanée ; 
 
 k. moteur électrique à rendement amélioré (classe de rendement EFF1 dont la valeur d'efficacité est définie suivant la norme
-EN 60034-2) ;
+EN 60034-2) ; 
 
-l. presse hydraulique électrique ;
+l. presse hydraulique électrique ; 
 
 3. Matériels de captage et d'utilisation de sources d'énergie autres que les hydrocarbures liquides ou gazeux, les
-combustibles minéraux solides et l'électricité :
+combustibles minéraux solides et l'électricité : 
 
 a. matériel permettant la récupération d'énergie solaire pour le préchauffage de fluide, la préparation d'eau de chaudière,
 d'eau de procédé, d'eau chaude sanitaire et son stockage, pour la production d'électricité, son stockage et son raccordement
-au réseau ;
+au réseau ; 
 
 b. matériel permettant l'utilisation d'énergie hydraulique, éolienne ou géothermique, son stockage et son raccordement au
-réseau électrique ou de chaleur ;
+réseau électrique ou de chaleur ; 
 
 c. matériel d'exploitation de la biomasse : chaudières avec ses auxiliaires et ses équipements de stockage et d'alimentation
 en combustible, équipements sylvicoles utilisés exclusivement pour la production et le conditionnement de bois à des fins
-énergétiques, digesteurs et équipements de production thermiques ou électriques associés à une utilisation du biogaz ;
+énergétiques, digesteurs et équipements de production thermiques ou électriques associés à une utilisation du biogaz ; 
 
-d. réseaux de récupération et collecte de biogaz en vue de son utilisation énergétique ;
+d. réseaux de récupération et collecte de biogaz en vue de son utilisation énergétique ; 
 
-e. matériel permettant l'utilisation de l'énergie marémotrice, houlomotrice et thermique des mers et son stockage ;
+e. matériel permettant l'utilisation de l'énergie marémotrice, houlomotrice et thermique des mers et son stockage ; 
 
 f. matériel de raccordement à un réseau de chaleur classé au sens de la loi n° 80-531 du 15 juillet 1980 modifiée relative
-aux économies d'énergie et à l'utilisation de la chaleur ;
+aux économies d'énergie et à l'utilisation de la chaleur ; 
 
-g. matériel de raccordement à un réseau de chaleur utilisant majoritairement de l'énergie géothermale ;
+g. matériel de raccordement à un réseau de chaleur utilisant majoritairement de l'énergie géothermale ; 
 
-h. autres matériels de transformation thermochimique de la biomasse ;
+h. autres matériels de transformation thermochimique de la biomasse ; 
 
-i. autres types d'équipements de valorisation thermique et électrique des biocombustibles ;
+i. autres types d'équipements de valorisation thermique et électrique des biocombustibles ; 
 
 4. a. matériels permettant le stockage d'énergie quand la réutilisation ultérieure de cette énergie permet des économies
-globales d'énergie primaire ;
+globales d'énergie primaire ; 
 
 b. matériel permettant le stockage d'énergie sous forme d'énergie mécanique potentielle (matériels permettant par pompage sur
 les ouvrages hydroélectriques la remontée d'eau de l'aval vers la retenue) ou cinématique (volants d'inertie de grande
-puissance) ;
+puissance) ; 
 
 c. batterie d'accumulateurs permettant le stockage d'électricité quand ce stockage permet l'arrêt permanent de matériels
-générateurs d'électricité exclusivement affectés à la fourniture instantanée d'énergie électrique en secours ;
+générateurs d'électricité exclusivement affectés à la fourniture instantanée d'énergie électrique en secours ; 
 
 d. matériel permettant le stockage de froid pour le lissage de la demande d'électricité afin de réduire les tensions sur les
-réseaux électriques ;
+réseaux électriques ; 
 
-5. matériels utilisant un procédé à haut rendement énergétique pour le chauffage et le conditionnement des bâtiments :
+5. matériels utilisant un procédé à haut rendement énergétique pour le chauffage et le conditionnement des bâtiments : 
 
-a. systèmes de climatisation réversible dont le coefficient de performance, à + 7 °C, est supérieur ou égal à 3 ;
+a. systèmes de climatisation réversible dont le coefficient de performance, à + 7° C, est supérieur ou égal à 3 ; 
 
-b. chaudière à condensation ;
+b. chaudière à condensation ; 
 
 c. matériel de régulation améliorant les performances énergétiques des appareils de chauffage, de climatisation ou de
-ventilation ;
+ventilation ; 
 
 d. matériel de chauffage permettant de favoriser les concentrations énergétiques dans des espaces limités en remplacement
-d'un chauffage classique : générateurs d'air chaud, aérothermes directs, générateurs de ventilation tempérée ;
+d'un chauffage classique : générateurs d'air chaud, aérothermes directs, générateurs de ventilation tempérée ; 
 
-e. système de pompes à chaleur géothermale ou air/eau dont le coefficient de performance machine en mode chauffage est
-supérieur ou égal à 3 ;
+e. système de pompes à chaleur géothermale ou air / eau dont le coefficient de performance machine en mode chauffage est
+supérieur ou égal à 3 ; 
 
-f. système d'optimisation énergétique en fonction des programmes de production et/ou des données climatiques ;
+f. système d'optimisation énergétique en fonction des programmes de production et / ou des données climatiques ; 
 
 g. matériaux d'isolation thermique des parois opaques :
 
 - plancher bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, toiture-terrasse, mur en façade ou en pignon,
-possédant une résistance supérieure ou égale à 2,4 mètres carrés kelvin par watt (m2 K/W) ;
+possédant une résistance supérieure ou égale à 2,4 mètres carrés kelvin par watt (m2 K / W) ;
 
-- toiture sur comble possédant une résistance thermique supérieure ou égale à 4,5 m2 K/W ;
+- toiture sur comble possédant une résistance thermique supérieure ou égale à 4,5 m2 K / W ; 
 
 h. système de ventilation mécanique contrôlée dont l'efficacité de la récupération d'énergie de l'échangeur est supérieure à
-65 % sur l'air humide et dont la puissance par ventilateur est inférieure à 0,30 W/m3/h, soit 0,70 W/m3/h pour la centrale
-double flux.
+65 % sur l'air humide et dont la puissance par ventilateur est inférieure à 0,30 W / m3 / h, soit 0,70 W / m3 / h pour la
+centrale double flux.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 2 et 4-45 du décret n° 2007-397 du 27 mars 2007.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°80-531 du 15 juillet 1980 (V)
+	  - Code général des impôts, CGI. - art. 39 AA
+	  - Code général des impôts, CGI. - art. 39 AB
+	  - Code de l'environnement - art. R224-26
+	  - Code de l'environnement - art. R224-27 (V)
+
 	**Modifié par**:
 
-	  - Arrêté 2005-12-27 art. 1 JORF 31 décembre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Arrêté du 1er avril 2008 - art. 1
 
 
 ##### 0III : Amortissement exceptionnel des matériels destinés à réduire le niveau acoustique d'installations
@@ -3548,40 +3556,35 @@ Lécithines.
 
 a. Sous réserve des dispositions propres aux entreprises étrangères qui n'ont pas d'établissement en France et des
 dérogations prévues à l'article 33, les déclarations prescrites par l'article 286 et le 1 de l'article 287 du code général
-des impôts doivent être souscrites par les redevables de la taxe sur la valeur ajoutée  pour l'ensemble des opérations qu'ils
-réalisent autres que les importations  auprès du service des impôts auquel doit parvenir leur déclaration de bénéfice ou de
-revenu.
+des impôts doivent être souscrites par les redevables de la taxe sur la valeur ajoutée pour l'ensemble des opérations qu'ils
+réalisent autres que les importations auprès du service des impôts auquel doit parvenir leur déclaration de bénéfice ou de
+revenu. 
 
-b. Toutefois  les déclarations souscrites par des personnes qui réalisent des opérations soumises à la taxe sur la valeur
+b. Toutefois les déclarations souscrites par des personnes qui réalisent des opérations soumises à la taxe sur la valeur
 ajoutée à titre occasionnel doivent être déposées auprès du service dans le ressort duquel se trouve le lieu où sont
-accomplies les opérations.
+accomplies les opérations. 
 
-c. Lorsqu'elles sont redevables de la taxe sur la valeur ajoutée en raison des achats qu'elles effectuent  les personnes non
-habituellement assujetties par ailleurs à ladite taxe doivent souscrire ces déclarations auprès du service du lieu de
-destination des produits achetés.
+c. Alinéas périmés.
 
-Toutefois, pour les achats de boissons soumis au droit de circulation ou de consommation  la taxe sur la valeur ajoutée est
-acquittée au lieu et au moment où est levé le titre de mouvement comportant paiement du droit.
+**Nota:**
+
+Modification effectuée en conséquence de l' article 15-I de l'ordonnance n° 2004-281 du 25 mars 2004.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
 	**Modifié par**:
 
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 29 () JORF 30 décembre 1978
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 49 (P) JORF 30 décembre 1978
+	  - Arrêté du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 33 (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 36 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 287 (V)
+	  - Code général des impôts, CGI. - art. 286
 
 
 ###### Article 33
@@ -8319,23 +8322,22 @@ des matériels aux besoins de l'exploitation agricole.
 
 ###### Article 50 terdecies-0
 
-Le montant de la partie forfaitaire de la taxe sur le chiffre d'affaires des exploitants agricoles perçue au profit de
-l'Agence de développement agricole et rural, mentionné au III de l'article 302 bis MB du code général des impôts, est fixé à
-90 euros.
+Le montant de la partie forfaitaire de la taxe sur le chiffre d'affaires des exploitants agricoles mentionné au III de
+l'article 302 bis MB du code général des impôts, est fixé à 90 €.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 52 de la loi n° 2005-1719 du 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2002-12-31 art. 1 JORF 1er janvier 2003
+	  - Arrêté du 1er avril 2008 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Arrêté 2003-03-31
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
+	  - Code général des impôts, CGI. - art. 302 bis MB
 
 
 #### Chapitre II : Redevance sanitaire d'abattage
@@ -12039,7 +12041,7 @@ rend immédiatement exigibles les sommes dues par le gérant.
 
 1. La déclaration des quantités de tabacs manufacturés livrées au débitant au cours du mois précédent mentionnées au deuxième
 alinéa de l'article 568 du code général des impôts et au dixième alinéa de l'article 2 du décret n° 63-1104 du 30 octobre
-1963 modifié est conforme aux modèles figurant aux annexes I et I bis au présent arrêté (JO du 15). Cette déclaration est
+1963 modifié est conforme aux modèles figurant aux annexes I et I bis à l'arrêté du 26 décembre 2007. Cette déclaration est
 établie en un exemplaire sur papier à en-tête du fournisseur. Elle est datée et signée. Elle est transmise au chef de service
 comptable à la direction générale des douanes et droits indirects de 1re et de 2e catégorie de Paris-Ile-de-France
 accompagnée du moyen de paiement correspondant. 
@@ -12069,11 +12071,13 @@ Cette déclaration est datée et transmise par voie informatique au centre infor
 
 	**Cite**:
 
-	  - Décret n°63-1104 du 30 octobre 1963 - art. 2 (V)
+	  - Décret n°63-1104 du 30 octobre 1963 - art. 2
+	  - Arrêté du 26 décembre 2007
+	  - Code général des impôts, CGI. - art. 568
 
 	**Modifié par**:
 
-	  - Arrêté du 26 décembre 2007 - art. 1
+	  - Arrêté du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
@@ -12308,42 +12312,6 @@ par un acte lorsque le siège social ou le domicile des apporteurs n'est pas sit
 	**Modifié par**:
 
 	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-
-##### Section II : Obligations diverses
-
-##### II : Obligations des agents de l'administration
-
-##### Salaires des conservateurs des hypothèques
-
-###### Article 67
-
-Le taux du prélèvement prévu à l'article 884 du code général des impôts est fixé ainsi qu'il suit :
-
-De 0 à 2 300 euros : néant
-
-De 2 301 à  5 300 euros : 65 %
-
-De 5 301 à  7 600 euros : 70 %
-
-De 7 601 à  9 900 euros : 75 %
-
-De 9 901 à  14 500 euros : 80 %
-
-De 14 501 à 40 000 euros : 85 %
-
-Au-dessus de 40 000 euros : 90 %.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 mars 2002
 
 
 #### Chapitre II : Droits de timbre
@@ -12834,12 +12802,25 @@ indiquant que les compteurs ont été ramenés à zéro.
 Toute installation de machine dans une régie de recettes de préfecture ou de sous-préfecture fait l'objet après avis du
 ministère de l'intérieur d'une décision du préfet dont celui-ci donne notification préalablement à l'installation de la
 machine au directeur des services fiscaux du lieu d'utilisation en indiquant les éléments d'identification définis dans
-l'instruction interministérielle prévue à l'article 121 KC.
+l'instruction interministérielle prévue à l'article 121 KC. 
 
 Cette installation ne peut avoir lieu qu'en présence du représentant de ce directeur qui doit sceller le capot et s'assurer
 de la mise à zéro des compteurs de la machine. Le représentant du trésorier-payeur général arrête simultanément la
 comptabilité du régisseur.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 1er du décret n° 88-199 du 29 février 1988.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 1er avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 KC
 
 
 ###### Article 121 KG
@@ -13036,38 +13017,6 @@ d. Timbres-amendes.
 	**Modifié par**:
 
 	  - Arrêté 2006-05-29 art. 1 JORF 8 juin 2006
-
-
-##### Section III : Impôt sur les opérations de bourse
-
-###### Article 121 KN
-
-La déclaration visée au premier alinéa de l'article 983 du code général des impôts et dont le modèle est joint en annexe à
-l'arrêté du 24 février 2005 est produite dans les conditions prévues à l'article 305 C de l'annexe II au même code à la
-recette des impôts dont dépendent les personnes visées au premier alinéa de l'article 982 de ce code. Elle est produite dans
-les mêmes conditions à la recette principale Vivienne du 2e arrondissement de Paris lorsque ces personnes sont établies dans
-la région Ile-de-France, à l'exclusion de celles relevant de la compétence de la direction des grandes entreprises.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2005-02-24 art. 1 JORF 26 février 2005
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 1er avril 2008 - art. 1
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 305 C
-	  - Code général des impôts, CGI. - art. 982
-	  - Code général des impôts, CGI. - art. 983
 
 
 #### Chapitre III : Autres droits et taxes
@@ -13675,131 +13624,6 @@ Péremption en conséquence de l'article 2-6.1.34 de la loi n° 2009-1673 du 30 
 	**Cite**:
 
 	  - CGI 1469
-
-
-##### 3° : Exonération temporaire de la valeur locative de certains outillages, équipements et installations spécifiques de manutention portuaire
-
-###### Article 121 quinquies DB decies
-
-Sont réputés répondre aux caractéristiques mentionnées au deuxième alinéa de l'article 1464 G du code général des impôts les
-outillages, équipements et installations spécifiques de manutention portuaire relevant des catégories suivantes : 
-
-a) Matériels de levage et de transfert des marchandises à destination ou en provenance des navires : portiques, grues, roues-
-pelles, descenseurs à sacs, aspirateurs à céréales ou à pulvérulents, transpalettes, palettiseurs, ponts roulants, bandes
-transporteuses, gerbeurs, trémies, pelles à grappin, palonniers, cols de cygne, bennes preneuses, ponts-bascules ; 
-
-b) Matériels et équipements roulants de manipulation portuaire : 
-
-chariots élévateurs, chariots cavaliers, grues de parc à conteneurs, portiques de parc (à conteneurs, à bois, à unités de
-charge), tracteurs de parc non immatriculés et remorques de parc non immatriculées, tracteurs pousseurs de wagons, chargeurs
-sur chenilles pour manutention de minéraux en vrac, chouleurs ; 
-
-c) Installations et équipements spécifiques nécessaires à la manutention portuaire des marchandises et produits, en vrac
-liquides ou solides, ou manutentionnés sous froid : équipements et installations de manutention portuaire, sous hangar ou
-non, spécialisés pour le transit des marchandises et produits en vrac liquides ou solides, rampes hydrauliques pour
-chargement, équipements pour le transfert et le transit des marchandises réfrigérées ou congelées.
-
-**Nota:**
-
-Conséquence de la péremption de l'article 1464 G du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2001-01-26 art. 1 JORF 30 janvier 2001
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 1er avril 2008 - art. 1
-	  - HISTO: Edition du 31 mars 2001
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1464 G
-
-
-###### Article 121 quinquies DB nonies
-
-La liste des places portuaires maritimes concernées par l'exonération temporaire de taxe professionnelle prévue à l'article
-1464 G du code général des impôts est fixée comme suit : 
-
-1. Zone littorale Nord-Pas-de-Calais : 
-
-a) Port de Calais ; 
-
-b) Port de Boulogne-sur-Mer ; 
-
-c) Port autonome de Dunkerque. 
-
-2. Zone littorale de Normandie : 
-
-a) Port autonome du Havre ; 
-
-b) Port de Dieppe ; 
-
-c) Port autonome de Rouen ; 
-
-d) Port de Honfleur ; 
-
-e) Port de Fécamp ; 
-
-f) Port de Caen. 
-
-3. Zone littorale de la Manche : 
-
-a) Port de Cherbourg ; 
-
-b) Port de Granville. 
-
-4. Zone littorale de Bretagne : 
-
-a) Port de Saint-Malo ; 
-
-b) Port de Brest ; 
-
-c) Port de Lorient. 
-
-5. Zone littorale Atlantique : 
-
-a) Port autonome de Nantes-Saint-Nazaire ; 
-
-b) Port de La Rochelle ; 
-
-c) Port autonome de Bordeaux ; 
-
-d) Port de Bayonne. 
-
-6. Zone littorale de la Méditerranée : 
-
-a) Port de Port-Vendres ; 
-
-b) Port de Port-la-Nouvelle ; 
-
-c) Port de Sète ; 
-
-d) Port autonome de Marseille ; 
-
-e) Port de Toulon.
-
-**Nota:**
-
-Conséquence de la péremption de l'article 1464 G du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2001-01-26 art. 1 JORF 30 janvier 2001
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 1er avril 2008 - art. 1
-	  - HISTO: Edition du 31 mars 2001
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1464 G
 
 
 ##### Section III : Commission consultative départementale des évaluations foncières
@@ -14669,10 +14493,28 @@ ministérielles des 13 février 1965 et 1er juillet 1966.
 
 ###### Article 155 B
 
-Dans chaque département  les zones dans lesquelles les constructions sont exclues du champ d'application de la taxe locale
+Dans chaque département les zones dans lesquelles les constructions sont exclues du champ d'application de la taxe locale
 d'équipement par application de l'article 155 A sont inscrites sur la liste arrêtée par le préfet conformément au III de
 l'article 328 D quater de l'annexe III au présent code.
 
+**Nota:**
+
+Modification effectuée en conséquence des art. 28, III A [1°] et 28, III H-2 de la loi n° 2010-1658 du 29 décembre 2010.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 1er avril 2008 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 3 juin 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 D quater
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 155 A
 
 
 ### Titre I bis : Impositions départementales
@@ -16590,42 +16432,42 @@ Contribution forfaitaire des assurés au titre du 3° de l'article R. 421-38 : 0
 
 ###### Article 159 octies
 
-Les montants de la taxe fiscale instituée par l'article 1635 bis M du code général des impôts sont fixés ainsi qu'il suit :
+Les montants de la taxe fiscale instituée par l'article 1635 bis M du code général des impôts sont fixés ainsi qu'il suit : 
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3,5 tonnes
+DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3,5 tonnes 
 
-A compter du 1er janvier 2004 (en euros) : 30 
+A compter du 1er février 2007 (en euros) : 32 
 
 DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est supérieur à 3,5 tonnes et inférieur à 6
-tonnes
+tonnes 
 
-A compter du 1er janvier 2004 (en euros) : 120 
+A compter du 1er février 2007 (en euros) : 124 
 
 DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 6 tonnes et
-inférieur à 11 tonnes
+inférieur à 11 tonnes 
 
-A compter du 1er janvier 2004 (en euros) : 180 
+A compter du 1er février 2007 (en euros) : 186 
 
 DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 11 tonnes,
-tracteurs routiers et véhicules de transport en commun de personnes
+tracteurs routiers et véhicules de transport en commun de personnes 
 
-A compter du 1er janvier 2004 (en euros) : 270 
+A compter du 1er février 2007 (en euros) : 279 
 
 (1) PTAC : poids total autorisé en charge.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 1er de l'arrêté du 24 janvier 2007.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2003-11-17 art. 1 JORF 2 décembre 2003
+	  - Arrêté du 1er avril 2008 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Arrêté 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 1635 bis M
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
@@ -18529,61 +18371,61 @@ ou commercial.
 
 ###### Article 170
 
-Entrent notamment dans les prévisions du deuxième alinéa du I de l'article 1040 du code général des impôts :
+Entrent notamment dans les prévisions du deuxième alinéa du I de l'article 1040 du code général des impôts : 
 
-la caisse des dépôts et consignations ;
+la caisse des dépôts et consignations ; 
 
-l'établissement national des invalides de la marine ;
+l'établissement national des invalides de la marine ; 
 
-la caisse des retraites des inscrits maritimes ;
+la caisse des retraites des inscrits maritimes ; 
 
-la caisse des retraites des agents du service général ;
+la caisse des retraites des agents du service général ; 
 
-la caisse de prévoyance des marins français ;
+la caisse de prévoyance des marins français ; 
 
-la caisse autonome des retraites des ouvriers mineurs ;
+la caisse autonome des retraites des ouvriers mineurs ; 
 
-la caisse générale de garantie des assurances sociales ;
+la caisse générale de garantie des assurances sociales ; 
 
-la caisse de compensation pour la décentralisation de l'industrie aéronautique ;
+la caisse de compensation pour la décentralisation de l'industrie aéronautique ; 
 
-les chambres de commerce et d'industrie et ports autonomes ;
+les chambres de commerce et d'industrie et ports autonomes ; 
 
-les chambres d'agriculture ;
+les chambres d'agriculture ; 
 
-les chambres de métiers et de l'artisanat ;
+les chambres de métiers et de l'artisanat ; 
 
-le comité national interprofessionnel des viandes ;
+le comité national interprofessionnel des viandes ; 
 
-l'entreprise de recherches et d'activités pétrolières (ERAP) ;
+l'entreprise de recherches et d'activités pétrolières (ERAP) ; 
 
-l'entreprise minière et chimique ;
+l'entreprise minière et chimique ; 
 
-les sections de l'office central de répartition des produits industriels ;
+les sections de l'office central de répartition des produits industriels ; 
 
-l'office national des anciens combattants et victimes de guerre ;
+l'office national des anciens combattants et victimes de guerre ; 
 
-voies navigables de France ;
+voies navigables de France ; 
 
-l'Office national interprofessionnel des grandes cultures ;
+l'Office national interprofessionnel des grandes cultures ; 
 
-les offices publics d'habitations à loyer modéré ;
+les offices publics de l'habitat ; 
 
 les régies municipales, intercommunales et départementales exploitant des services à caractère industriel ou commercial.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 6 de l'ordonnance n° 2007-137 du 1er février 2007.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 	**Modifié par**:
 
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 95 (V) JORF 6 janvier 2006
+	  - Arrêté du 1er avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1040
 
 
 #### Section IV : Dispositions communes
