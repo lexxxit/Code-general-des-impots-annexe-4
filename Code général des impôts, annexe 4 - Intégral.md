@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2008-04-03
+Version Consolidée au 2008-04-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13025,29 +13025,25 @@ d. Timbres-amendes.
 
 ###### Article 121 K ter
 
-La déclaration relative à la taxe prévue à l'article 990 D du code général des impôts est déposée :
+La déclaration relative à la taxe prévue à l'article 990 D du code général des impôts est déposée : 
 
-1. Pour les personnes morales qui ont leur siège en France et pour les autres personnes morales qui exercent leurs activités
-en France dans un ou plusieurs établissements, au service des impôts du lieu du principal établissement ;
+1. Pour les entités juridiques qui ont leur siège en France et pour les autres entités juridiques qui exercent leurs
+activités en France dans un ou plusieurs établissements, au service des impôts du lieu du principal établissement ; 
 
-2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
-plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, au service des impôts du lieu
-de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, la déclaration est
+2. Pour les entités juridiques, autres que celles visées au 1, qui, directement ou par entité juridique interposée, possèdent
+un ou plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, au service des impôts du
+lieu de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, la déclaration est
 déposée au service des impôts des entreprises étrangères.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Arrêté du 15 avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 990 D
 
 
 #### Chapitre IV : Régimes spéciaux et exonérations de portée générale
