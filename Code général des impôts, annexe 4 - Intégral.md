@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2008-04-18
+Version Consolidée au 2008-06-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10377,31 +10377,41 @@ Produits pour l'entretien de la chevelure (l'hygiène et les soins de la chevelu
 
 Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
 réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
-d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2008 conformément au tableau ci-après :
+d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2008 conformément au tableau ci-après : 
 
 Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
-d'alcool pur ;
+d'alcool pur ; 
 
 Guadeloupe : rhum traditionnel agricole, 5 350 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 25 650 hectolitres
-d'alcool pur ;
+d'alcool pur ; 
 
-Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ;
+Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ; 
 
-Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur.
+Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur. 
+
+Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
+traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et, d'autre part, entre les départements
+d'outre-mer jusqu'au 31 décembre 2010, conformément au tableau ci-après : 
+
+Martinique : rhum traditionnel agricole, 6 197 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 990 hectolitres
+d'alcool pur ; 
+
+Guadeloupe : rhum traditionnel agricole, 4 604 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 2 294 hectolitres
+d'alcool pur ; 
+
+Réunion : rhum traditionnel de sucrerie, 3 615 hectolitres d'alcool pur ; 
+
+Guyane : rhum traditionnel agricole, 300 hectolitres d'alcool pur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2005-12-23 art. 1 JORF 29 décembre 2005
+	  - Arrêté du 10 juin 2008 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Arrêté 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 362
 
 
 ##### 2° : Régime de l'exportation préalable
