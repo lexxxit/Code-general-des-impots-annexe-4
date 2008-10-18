@@ -1,170 +1,216 @@
 # Article 18 bis
 
 La liste des équipements, matériaux et appareils mentionnés au 1 de l'article 200 quater du code général des impôts est fixée
-comme suit :
+comme suit : 
 
-1. Acquisition de chaudières à basse température utilisées comme mode de chauffage ou de production d'eau chaude ;
+1. Acquisition de chaudières à basse température utilisées comme mode de chauffage ou de production d'eau chaude ; 
 
-2. Acquisition des équipements et matériaux suivants :
+2. Acquisition des équipements et matériaux suivants : 
 
-a) Chaudières à condensation utilisées comme mode de chauffage ou de production d'eau chaude ;
+a) Chaudières à condensation utilisées comme mode de chauffage ou de production d'eau chaude ; 
 
-b) Acquisition de matériaux d'isolation thermique :
+b) Acquisition de matériaux d'isolation thermique : 
 
-1° Matériaux d'isolation thermique des parois opaques :
+1° Matériaux d'isolation thermique des parois opaques : 
 
 Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, murs en façade ou en pignon, possédant une résistance
-supérieure ou égale à 2,8 mètres carrés Kelvin par watt (m2.K/W) ;
+supérieure ou égale à 2, 8 mètres carrés Kelvin par watt (m2.K / W) ; 
 
-Toitures-terrasses possédant une résistance supérieure ou égale à 3 m2.K/W ;
+Toitures-terrasses possédant une résistance supérieure ou égale à 3 m2.K / W ; 
 
-Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 5 m2.K/W ;
+Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 5 m2.K / W ; 
 
-Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 5 m2.K/W ;
+Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 5 m2.K / W ; 
 
-2° Matériaux d'isolation thermique des parois vitrées :
+2° Matériaux d'isolation thermique des parois vitrées : 
 
 Fenêtres ou portes-fenêtres composées en tout ou partie de polychlorure de vinyle (PVC), avec un coefficient de transmission
-thermique (Uw) inférieur ou égal à 1,6 watt par mètre carré Kelvin (W/m2.K) ; cette valeur est ramenée à 1,4 W/m2.K à partir
-du 1er janvier 2009 ;
+thermique (Uw) inférieur ou égal à 1, 6 watt par mètre carré Kelvin (W / m2.K) ; cette valeur est ramenée à 1, 4 W / m2.K à
+partir du 1er janvier 2009 ; 
 
 Fenêtres ou portes-fenêtres composées en tout ou partie de bois, autres que celles mentionnées ci-dessus, avec un coefficient
-de transmission thermique (Uw) inférieur ou égal à 1,8 W/m2.K ; cette valeur est ramenée à 1,6 W/m2.K à partir du 1er janvier
-2009 ;
+de transmission thermique (Uw) inférieur ou égal à 1, 8 W / m2.K ; cette valeur est ramenée à 1, 6 W / m2.K à partir du 1er
+janvier 2009 ; 
 
-Fenêtres ou portes-fenêtres métalliques avec un coefficient de transmission thermique (Uw) inférieur ou égal à 2 W/m2.K ;
-cette valeur est ramenée à 1,8 W/m2.K à partir du 1er janvier 2009 ;
+Fenêtres ou portes-fenêtres métalliques avec un coefficient de transmission thermique (Uw) inférieur ou égal à 2 W / m2.K ;
+cette valeur est ramenée à 1, 8 W / m2.K à partir du 1er janvier 2009 ; 
 
 Vitrages de remplacement à isolation renforcée dénommés également vitrages à faible émissivité, installés sur une menuiserie
-existante et dont le coefficient de transmission thermique du vitrage (Ug) est inférieur ou égal à 1,5 W/m2.K ;
+existante et dont le coefficient de transmission thermique du vitrage (Ug) est inférieur ou égal à 1, 5 W / m2.K ; 
 
 Doubles fenêtres, consistant en la pose sur la baie existante d'une seconde fenêtre à double vitrage renforcé, dont le
-coefficient de transmission thermique (Uw) est inférieur ou égal à 2 W/m2.K ;
+coefficient de transmission thermique (Uw) est inférieur ou égal à 2 W / m2.K ; 
 
 3° Volets isolants : volets isolants caractérisés par une résistance thermique additionnelle apportée par l'ensemble volet-
-lame d'air ventilé supérieure à 0,20 m2.K/W ;
+lame d'air ventilé supérieure à 0, 20 m2.K / W ; 
 
 4° Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire
-avec une résistance thermique supérieure ou égale à 1 m2.K/W ;
+avec une résistance thermique supérieure ou égale à 1 m2.K / W ; 
 
 c) Acquisition d'appareils de régulation de chauffage permettant le réglage manuel ou automatique et la programmation des
-équipements de chauffage ou de production d'eau chaude sanitaire :
+équipements de chauffage ou de production d'eau chaude sanitaire : 
 
 1° Appareils installés dans une maison individuelle : systèmes permettant la régulation centrale des installations de
 chauffage par thermostat d'ambiance ou par sonde extérieure, avec horloge de programmation ou programmateur mono ou
 multizone, systèmes permettant les régulations individuelles terminales des émetteurs de chaleur, systèmes de limitation de
 la puissance électrique du chauffage électrique en fonction de la température extérieure ; systèmes gestionnaires d'énergie
-ou de délestage de puissance du chauffage électrique ;
+ou de délestage de puissance du chauffage électrique ; 
 
 2° Appareils installés dans un immeuble collectif : outre les systèmes énumérés au 1°, matériels nécessaires à l'équilibrage
 des installations de chauffage permettant une répartition correcte de la chaleur délivrée à chaque logement, matériels
 permettant la mise en cascade de chaudières, à l'exclusion de l'installation de nouvelles chaudières, systèmes de télégestion
 de chaufferie assurant les fonctions de régulation et de programmation du chauffage, systèmes permettant la régulation
 centrale des équipements de production d'eau chaude sanitaire dans le cas de production combinée d'eau chaude sanitaire et
-d'eau destinée au chauffage, compteurs individuels d'énergie thermique et répartiteurs de frais de chauffage ;
+d'eau destinée au chauffage, compteurs individuels d'énergie thermique et répartiteurs de frais de chauffage ; 
 
-3. Intégration à un logement neuf ou acquisition :
+3. Intégration à un logement neuf ou acquisition : 
 
-a) Equipements de production d'énergie utilisant une source d'énergie renouvelable :
+a) Equipements de production d'énergie utilisant une source d'énergie renouvelable : 
 
 1° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire et dotés de capteurs
-solaires, disposant d'une certification CSTBat ou Solar Keymark ou équivalente ;
+solaires, disposant d'une certification CSTBat ou Solar Keymark ou équivalente ; 
 
-2° Systèmes de fourniture d'électricité à partir de l'énergie solaire respectant les normes EN 61215 ou NF EN 61646 ;
+2° Systèmes de fourniture d'électricité à partir de l'énergie solaire respectant les normes EN 61215 ou NF EN 61646 ; 
 
-3° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie hydraulique ;
+3° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie hydraulique ; 
 
-4° Systèmes de fourniture d'électricité à partir de l'énergie éolienne, hydraulique ou de biomasse ;
+4° Systèmes de fourniture d'électricité à partir de l'énergie éolienne, hydraulique ou de biomasse ; 
 
 5° Equipements de chauffage ou de production d'eau chaude indépendants fonctionnant au bois ou autres biomasses, pour
-lesquels la concentration moyenne de monoxyde de carbone doit être inférieure ou égale à 0,6 %, et dont le rendement
+lesquels la concentration moyenne de monoxyde de carbone doit être inférieure ou égale à 0, 6 %, et dont le rendement
 énergétique est supérieur ou égal à 70 % selon les référentiels des normes en vigueur, tels que :
 
 - les poêles (norme NF EN 13240 ou NF D 35376 ou NF EN 14785 ou EN 15250) ;
 
 - les foyers fermés et les inserts de cheminées intérieures (norme NF EN 13 229 ou NF D 35376) ;
 
-- les cuisinières utilisées comme mode de chauffage (norme NF EN 12815 ou NF D 32301).
+- les cuisinières utilisées comme mode de chauffage (norme NF EN 12815 ou NF D 32301). 
 
 6° Chaudières autres que celles mentionnées au 1 et au a du 2, fonctionnant au bois ou autres biomasses, de rendement
 énergétique, selon les référentiels des normes en vigueur, supérieur ou égal à 70 % pour les équipements à chargement manuel
-(norme NF EN 303.5 ou EN 12809), supérieur ou égal à 75 % pour les équipements à chargement automatique (norme NF EN 303.5 ou
-EN 12809), dont la puissance est inférieure à 300 kW ;
+(norme NF EN 303. 5 ou EN 12809), supérieur ou égal à 75 % pour les équipements à chargement automatique (norme NF EN 303. 5
+ou EN 12809), dont la puissance est inférieure à 300 kW ; 
 
-b) De pompes à chaleur spécifiques telles que :
+b) De pompes à chaleur spécifiques telles que : 
 
 1° Les pompes à chaleur géothermiques à capteur fluide frigorigène de type sol-sol ou sol-eau ayant un coefficient de
-performance supérieur ou égal à 3,3 pour une température d'évaporation de - 5 °C et une température de condensation de 35
-°C ;
+performance supérieur ou égal à 3, 3 pour une température d'évaporation de-5° C et une température de condensation de 35°
+C ; 
 
-2° Les pompes à chaleur géothermiques de type eau glycolée/eau ayant un coefficient de performance supérieur ou égal à 3,3
-pour des températures d'entrée et de sortie d'eau glycolée de 0° C et - 3 °C à l'évaporateur, et des températures d'entrée et
-de sortie d'eau de 30 °C et 35 °C au condenseur, selon le référentiel de la norme d'essai 14511-2 ;
+2° Les pompes à chaleur géothermiques de type eau glycolée / eau ayant un coefficient de performance supérieur ou égal à 3, 3
+pour des températures d'entrée et de sortie d'eau glycolée de 0° C et-3° C à l'évaporateur, et des températures d'entrée et
+de sortie d'eau de 30° C et 35° C au condenseur, selon le référentiel de la norme d'essai 14511-2 ; 
 
-3° Les pompes à chaleur géothermiques de type eau/eau ayant un coefficient de performance supérieur ou égal à 3,3 pour des
-températures d'entrée et de sortie de 10 °C et 7 °C d'eau à l'évaporateur, et de 30 °C et 35 °C au condenseur, selon le
-référentiel de la norme d'essai 14511-2 ;
+3° Les pompes à chaleur géothermiques de type eau / eau ayant un coefficient de performance supérieur ou égal à 3, 3 pour des
+températures d'entrée et de sortie de 10° C et 7° C d'eau à l'évaporateur, et de 30° C et 35° C au condenseur, selon le
+référentiel de la norme d'essai 14511-2 ; 
 
-4° Les pompes à chaleur air/eau ayant un coefficient de performance supérieur ou égal à 3,3 pour une température d'entrée
-d'air de 7 °C à l'évaporateur, et des températures d'entrée et de sortie d'eau de 30 °C et 35 °C au condenseur, selon le
-référentiel de la norme d'essai 14511-2 ;
+4° Les pompes à chaleur air / eau ayant un coefficient de performance supérieur ou égal à 3, 3 pour une température d'entrée
+d'air de 7° C à l'évaporateur, et des températures d'entrée et de sortie d'eau de 30° C et 35° C au condenseur, selon le
+référentiel de la norme d'essai 14511-2 ; 
 
-5° Les pompes à chaleur air/air de type multisplit (y compris DRV) ou gainable, ayant un coefficient de performance supérieur
-ou égal à 3,3 pour une température d'entrée d'air de 7 °C à l'évaporateur et de 20 °C au condenseur, selon le référentiel de
-la norme d'essai 14511-2, et remplissant les critères suivants :
+5° Les pompes à chaleur air / air de type multisplit (y compris DRV) ou gainable, ayant un coefficient de performance
+supérieur ou égal à 3, 3 pour une température d'entrée d'air de 7° C à l'évaporateur et de 20° C au condenseur, selon le
+référentiel de la norme d'essai 14511-2, et remplissant les critères suivants : 
 
 L'appareil, centralisé sur une ou plusieurs unités extérieures, assure le chauffage des pièces composant le logement telles
 que mentionnées à l'article R. 111-10 du code de la construction et de l'habitation, dès lors que leur superficie est au
 moins égale à 8 m2. Les pièces de service, telles que celles affectées à l'usage exclusif de cuisines, de toilettes ou de
-salles de bains, ne sont pas prises en compte ;
+salles de bains, ne sont pas prises en compte ; 
 
 Chaque pièce équipée doit disposer de son propre organe de régulation automatique, quel que soit le principe de diffusion
-retenu ;
+retenu ; 
 
-Le fonctionnement normal de l'équipement est garanti par le fabricant à une température extérieure de - 15 °C ;
+Le fonctionnement normal de l'équipement est garanti par le fabricant à une température extérieure de-15° C ; 
 
 La puissance calorifique thermodynamique restituée de l'unité extérieure est supérieure ou égale à 5 kW à une température
-extérieure de 7 °C. En cas d'installation simultanée de plusieurs unités extérieures, cette condition doit être remplie par
-au moins l'une d'entre elles ;
+extérieure de 7° C. En cas d'installation simultanée de plusieurs unités extérieures, cette condition doit être remplie par
+au moins l'une d'entre elles ; 
 
-L'installation finale a été contrôlée par un organisme d'inspection accrédité selon la norme NF EN ISO/CEI 17020, pour l'un
-des domaines suivants : électricité/inspections d'installations électriques pour tous les types d'établissements ; énergie,
-fluides et pureté de l'air/ventilation, conditionnement d'air, thermique, désenfumage - inspection préalable avant mise en
-service ; énergie, fluides et pureté de l'air/ventilation, conditionnement d'air, thermique, désenfumage ;
+L'installation finale a été contrôlée par un organisme d'inspection accrédité selon la norme NF EN ISO / CEI 17020, pour l'un
+des domaines suivants : électricité / inspections d'installations électriques pour tous les types d'établissements ; énergie,
+fluides et pureté de l'air / ventilation, conditionnement d'air, thermique, désenfumage-inspection préalable avant mise en
+service ; énergie, fluides et pureté de l'air / ventilation, conditionnement d'air, thermique, désenfumage ; 
 
 c) Equipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une
-installation de cogénération, qui s'entendent des éléments suivants :
+installation de cogénération, qui s'entendent des éléments suivants : 
 
 Branchement privatif composé de tuyaux et de vannes qui permet de raccorder le réseau de chaleur au poste de livraison de
-l'immeuble ;
+l'immeuble ; 
 
-Poste de livraison ou sous-station qui constitue l'échangeur entre le réseau de chaleur et l'immeuble ;
+Poste de livraison ou sous-station qui constitue l'échangeur entre le réseau de chaleur et l'immeuble ; 
 
 Matériels nécessaires à l'équilibrage et à la mesure de la chaleur qui visent à opérer une répartition correcte de celle-ci.
 Ces matériels peuvent être installés, selon le cas, avec le poste de livraison, dans les parties communes de l'immeuble
-collectif ou dans le logement.
+collectif ou dans le logement. 
+
+d) D'équipements de récupération des eaux de pluie collectées à l'aval de toitures inaccessibles constitués : 
+
+1° De l'ensemble des éléments suivants :
+
+- d'une crapaudine, installée en haut de chaque descente de gouttière acheminant l'eau vers le stockage ;
+
+- soit d'un système de dérivation des eaux de pluie vers le stockage installé sur une descente de gouttières (en cas de
+descente unique), soit d'un regard rassemblant l'intégralité des eaux récupérées ;
+
+- d'un dispositif de filtration par dégrillage, démontable pour nettoyage, de maille inférieure à 5 mm, placé en amont du
+stockage ;
+
+- d'un dispositif de stockage, à l'exclusion des systèmes réhabilités comprenant une ou plusieurs cuves reliées entre elles,
+répondant aux exigences minimales suivantes :
+
+- étanche ;
+
+- résistant à des variations de remplissage ;
+
+- non translucide ;
+
+- fermé, recouvert d'un couvercle solide et sécurisé ;
+
+- comportant un dispositif d'aération muni d'une grille anti-moustiques, et
+
+- équipé d'une arrivée d'eau noyée, d'un système de trop-plein muni d'un clapet anti-retour (sauf dans le cas où le trop-
+plein s'effectue par l'arrivée d'eau) ;
+
+- vidangeable, nettoyable intégralement et permettant d'avoir un accès manuel à tout point de la paroi ;
+
+- des conduites de liaison entre le système de dérivation et le stockage et entre le trop plein et le pied de la gouttière
+dérivée ;
+
+- d'un robinet de soutirage verrouillable ;
+
+- d'une plaque apparente et scellée à demeure, au-dessus du robinet de soutirage, portant d'une manière visible la mention :
+eau non potable et un pictogramme caractéristique. 
+
+2° En cas d'usage des eaux de pluie ainsi collectées à l'intérieur des habitations, dans les conditions et limites définies
+par un arrêté conjoint des ministres en charge de l'écologie et de la santé, de l'ensemble des éléments complémentaires
+suivants :
+
+- d'une pompe, immergée ou de surface, ou d'un surpresseur, d'une puissance inférieure à 1 kilowatt ;
+
+- d'un réservoir d'appoint doté d'une disconnexion de type AA ou AB au sens de la norme NF EN 1717 ;
+
+- d'un ensemble d'étiquetage / marquage des canalisations de distribution à l'exclusion des canalisations elles-mêmes ;
+
+- de compteurs.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté du 3 octobre 2008 - art. 1
+
 	**Cité par**:
 
-	  - Arrêté du 2 décembre 2014 (V)
 	  - Arrêté du 30 mars 2009 - art. 3 (V)
 	  - Arrêté du 25 mai 2011 - art. 4 (V)
 	  - Décret n°2013-832 du 17 septembre 2013 - art. Annexe I (V)
+	  - Arrêté du 2 décembre 2014 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZN (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 30-0 D (V)
 
-	**Modifié par**:
-
-	  - Arrêté 2007-11-13 art. 1 JORF 20 novembre 2007 en vigueur le 1er janvier 2008
-
 	**Cite**:
 
-	  - CGI 200 quater
-	  - Code de la construction et de l'habitation R111-10
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 200 quater
+	  - Code de la construction et de l'habitation. - art. R*111-10
