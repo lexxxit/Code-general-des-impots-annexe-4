@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2008-12-29
+Version Consolidée au 2008-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10458,15 +10458,15 @@ Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur.
 
 Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
 traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et, d'autre part, entre les départements
-d'outre-mer, conformément au tableau ci-après pour la campagne 2008 : 
+d'outre-mer jusqu'au 31 décembre 2010, conformément au tableau ci-après : 
 
-Martinique : rhum traditionnel agricole, 6 444, 50 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 742, 50
-hectolitres d'alcool pur ; 
+Martinique : rhum traditionnel agricole, 6 197 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 990 hectolitres
+d'alcool pur ; 
 
-Guadeloupe : rhum traditionnel agricole, 5 177, 50 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 1 720, 50
-hectolitres d'alcool pur ; 
+Guadeloupe : rhum traditionnel agricole, 4 604 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 2 294 hectolitres
+d'alcool pur ; 
 
-La Réunion : rhum traditionnel de sucrerie, 3 615 hectolitres d'alcool pur ; 
+Réunion : rhum traditionnel de sucrerie, 3 615 hectolitres d'alcool pur ; 
 
 Guyane : rhum traditionnel agricole, 300 hectolitres d'alcool pur.
 
@@ -10474,7 +10474,7 @@ Guyane : rhum traditionnel agricole, 300 hectolitres d'alcool pur.
 
 	**Modifié par**:
 
-	  - Arrêté du 15 novembre 2008 - art. 1
+	  - Arrêté du 10 juin 2008 - art. 1
 
 
 ##### 2° : Régime de l'exportation préalable
