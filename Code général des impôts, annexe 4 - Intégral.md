@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-04-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3685,12 +3685,12 @@ Modification effectuée en conséquence de l' article 15-I de l'ordonnance n° 2
 
 ###### Article 33
 
-Les dispositions de l'article 32 ne sont pas applicables aux personnes désignées ci-après :
+Les dispositions de l'article 32 ne sont pas applicables aux personnes désignées ci-après : 
 
-Personnes qui réalisent les opérations définies au 6° de l'article 257 du code général des impôts ;
+Personnes qui réalisent les opérations définies au 6° de l'article 257 du code général des impôts ; 
 
-Personnes se livrant aux activités visées au 7° de l'article 257 du même code ou à des activités assimilées  à l'exclusion
-des personnes visées à l'article 50 sexies A de la présente annexe.
+Personnes se livrant aux activités visées au 7° de l'article 257 du même code ou à des activités assimilées à l'exclusion des
+personnes visées à l'article 50 sexies A.
 
 Personnes physiques propriétaires d'immeubles loués ou de monuments historiques ouverts au public dont les loyers ou les
 recettes sont imposés à l'impôt sur le revenu dans la catégorie des revenus fonciers : les déclarations prévues par les
@@ -3702,20 +3702,17 @@ du bien dont le chiffre d'affaires est le plus élevé.
 
 	**Modifié par**:
 
-	  - Arrêté 1992-07-28 art. 1 JORF 6 août 1992
-
-	**Cite**:
-
-	  - CGI 32, 257, 286, 287
-	  - CGIAN4 32, 50 sexies A
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 32 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies A
+	  - Code général des impôts, CGI. - art. 257
+	  - Code général des impôts, CGI. - art. 286
 
 
 ###### Article 35
@@ -9224,7 +9221,7 @@ des chais ou locaux du site d'exploitation ;
 
 2° La date des déclarations de mise en production d'alcool, de fabrication de mistelles, vermouths, vins de liqueur ou
 apéritifs à base de vin, de cidre ou de poiré, de fabrication de vins mousseux, et de fabrication de vins doux naturels,
-prévues aux articles 312, 343, 413 et 416 dudit code ; 
+prévues aux articles 312, 343 et 416 dudit code ; 
 
 3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407, 408 et 410 bis dudit code ; 
 
@@ -9254,16 +9251,30 @@ de garantie.
 l'article 403 au code général des impôts, sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
 subdivisée, selon le cas, par appellation d'origine ou par dénomination économique ou géographique.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 63 1° de la loi n° 2008-443 du 30 décembre 2008.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302, 312, 343, 413, 416, 407, 408, 410 bis, 338, 403
-	  - CGIAN2 286 J
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 9
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 408
+	  - Code général des impôts, CGI. - art. 302 G
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 312
+	  - Code général des impôts, CGI. - art. 338
+	  - Code général des impôts, CGI. - art. 343
+	  - Code général des impôts, CGI. - art. 403
+	  - Code général des impôts, CGI. - art. 407
+	  - Code général des impôts, CGI. - art. 410 bis
+	  - Code général des impôts, CGI. - art. 416
+	  - Code rural - art. L621-1
 
 	**Cité par**:
 
@@ -9476,10 +9487,9 @@ droits qui s'y rattache.
 4° Lorsque la compensation n'a pas été possible au terme des trois mois qui suivent le dépôt de la demande, le crédit d'impôt
 subsistant est alors remboursé au bénéficiaire, sur sa demande. 
 
-III.-Pour l'application des articles 111 H quater et 111 H sexies de l'annexe III au code général des impôts, aux termes du
-délai d'information prévu par l'article 302 P du code général des impôts, l'entrepositaire agréé établit un relevé des
-documents d'accompagnement non apurés mentionnés au I de l'article 302 M dudit code ou des opérations réalisées en suspension
-des droits d'accises conformément à l'article 443 du même code, dénommé ci-après " relevé de non-apurement ". 
+III.-Pour l'application de l'article 111 H quater de l'annexe III au code général des impôts, aux termes du délai
+d'information prévu par l'article 302 P du code général des impôts, l'entrepositaire agréé établit un relevé des documents
+d'accompagnement non apurés mentionnés au I de l'article 302 M dudit code, dénommé ci-après " relevé de non-apurement ". 
 
 Le relevé de non-apurement est conforme au modèle annexé à l'arrêté du 25 août 2000 (JO du 31 août 2000). 
 
@@ -9489,13 +9499,11 @@ de l'entrepositaire agréé.
 Ce relevé est transmis par l'entrepositaire agréé au service des douanes et droits indirects dont il dépend selon les mêmes
 modalités et dans les conditions prévues pour la déclaration récapitulative mensuelle. 
 
-Un exemplaire de chaque document d'accompagnement non apuré ou une copie du document mentionné au c du II de l'article 111 H
-sexies précité est annexé au relevé de non-apurement. 
+Un exemplaire de chaque document d'accompagnement non apuré est annexé au relevé de non-apurement. 
 
 Outre les renseignements prévus au 1° du I, le relevé de non-apurement comporte les renseignements suivants : 
 
-a) Le numéro du document d'accompagnement ou les références du document mentionné au c du II de l'article 111 H sexies
-précité ; 
+a) Le numéro du document d'accompagnement ; 
 
 b) La date de départ du document ; 
 
@@ -9506,23 +9514,33 @@ d) Le numéro d'identification du destinataire.
 Si toutes les opérations réalisées par l'entrepositaire agréé ont fait l'objet d'un apurement, ce dernier annote la
 déclaration récapitulative mensuelle de la mention " Pas de défaut d'apurement ".
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 78 II et V de la loi n° 2007-1824 du 25 décembre 2007.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 2000-08-25 Annexe
-	  - CGI 438, 302 D, 1698 C, 302 P, 302 M, 443
-	  - CGIAN2 286 J, 286 I, 286 M
-	  - CGIAN3 111 H quater, 111 H sexies
-	  - Code rural L632-1 à L632-7
+	  - Arrêté du 25 août 2000
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 M
+	  - Code général des impôts, CGI. - art. 1698 C
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 302 P
+	  - Code général des impôts, CGI. - art. 438
+	  - Code rural - art. L621-1
+	  - Code rural - art. L632-1
+	  - 
+
+	**Modifié par**:
+
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 A (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 9
 
 
 ###### Article 50-00 H
@@ -10451,8 +10469,8 @@ Produits pour l'entretien de la chevelure (l'hygiène et les soins de la chevelu
 
 ###### Article 52 ter
 
-Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
-réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
+I.-Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts
+est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
 d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2011 conformément au tableau ci-après : 
 
 Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
@@ -10465,7 +10483,7 @@ Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ;
 
 Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur. 
 
-Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
+II. Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
 traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et, d'autre part, entre les départements
 d'outre-mer jusqu'au 31 décembre 2010, conformément au tableau ci-après : 
 
@@ -10479,11 +10497,19 @@ Réunion : rhum traditionnel de sucrerie, 3 615 hectolitres d'alcool pur ;
 
 Guyane : rhum traditionnel agricole, 300 hectolitres d'alcool pur.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er et 2 de l'arrêté du 14 novembre 2008.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 14 novembre 2008 - art. 1
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 362
 
 
 ##### 2° : Régime de l'exportation préalable
@@ -14595,42 +14621,6 @@ Modification effectuée en conséquence des art. 28, III A [1°] et 28, III H-2 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 155 A
 
 
-### Titre I bis : Impositions départementales
-
-#### Chapitre II : Droits d'enregistrement et taxe de publicité foncière
-
-##### Réduction accordée dans le cadre de l'aménagement du territoire
-
-###### Article 155 N
-
-La réduction du droit de mutation prévu à l'article 721 du code général des impôts peut être accordée sur agrément dans les
-conditions définies aux articles 121 quinquies DB bis à 121 quinquies DB septies, 170 quinquies et 170 octies.
-
-**Nota:**
-
-Article devenu sans objet en conséquence de l'article 64-V de la loi n° 2008-776 du 4 août 2008.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1999-05-18
-
-	**Cite**:
-
-	  - CGI 721
-	  - CGIAN4 121 quinquies DB bis à DB septies, 170 quinquies, 170 octies
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - PERIME: Arrêté du 7 avril 2009 - art. 1 (V)
-
-	**Modifié par**:
-
-	  - Loi n°98-1266 1998-12-30 art. 39 I 4 Finances pour 1999 JORF 31 décembre 1998
-
-
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
 #### Chapitre premier : Droits d'enregistrement
@@ -16516,37 +16506,89 @@ Contribution forfaitaire des assurés au titre du 3° de l'article R. 421-38 : 0
 ###### Article 159 octies
 
 Les montants de la taxe fiscale instituée par l'article 1635 bis M du code général des impôts sont fixés ainsi qu'il suit : 
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="307">
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3,5 tonnes 
+DESIGNATION 
 
-A compter du 1er février 2007 (en euros) : 32 
+</td>
+      <td valign="top" width="307">
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est supérieur à 3,5 tonnes et inférieur à 6
+A compter du 1er février 2008 (en euros) 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3, 5 tonnes 
+
+</td>
+      <td valign="top" width="307">
+
+34 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+Véhicules automobiles de transport de marchandises dont le PTAC (1) est supérieur à 3, 5 tonnes et inférieur à 6 tonnes 
+
+</td>
+      <td width="307" valign="top">
+
+127 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 6 tonnes et inférieur à 11
 tonnes 
 
-A compter du 1er février 2007 (en euros) : 124 
+</td>
+      <td valign="top" width="307">
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 6 tonnes et
-inférieur à 11 tonnes 
+189 
 
-A compter du 1er février 2007 (en euros) : 186 
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 11 tonnes,
-tracteurs routiers et véhicules de transport en commun de personnes 
+Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 11 tonnes, tracteurs routiers et
+véhicules de transport en commun de personnes 
 
-A compter du 1er février 2007 (en euros) : 279 
+</td>
+      <td width="307" valign="top">
+
+285 
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top" colspan="2">
 
 (1) PTAC : poids total autorisé en charge.
 
+</td>
+    </tr>
+  </tbody>
+</table>
+
 **Nota:**
 
-Modification effectuée en conséquence de l'article 1er de l'arrêté du 24 janvier 2007.
+Modification effectuée en conséquence de l'article 1er de l'arrêté du 30 janvier 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 1er avril 2008 - art. 1
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 	**Cite**:
 
@@ -16589,37 +16631,32 @@ personnes physiques ou morales, qui gèrent ces comptes.
 
 ###### Article 164 FC
 
-Les déclarations d'ouverture, de clôture ou de modification de comptes visées à l'article 164 FB sont souscrites dans le mois
-suivant les ouvertures, modifications et clôtures des comptes auprès de la direction des services fiscaux du siège de
-l'établissement qui gère ces comptes ou, après accord de celle-ci, auprès d'une autre direction des services fiscaux.
+Les déclarations d'ouverture, de modification et de clôture de comptes visées à l'article 164 FB sont souscrites dans le mois
+suivant les ouvertures, modifications et clôtures de comptes auprès du centre de services informatiques compétent. 
 
 Ces déclarations font l'objet d'un traitement informatisé dénommé Gestion du fichier des comptes bancaires et assimilés qui
 recense, sur support magnétique, l'existence des comptes et porte à la connaissance des services autorisés à consulter ce
-fichier (1) la liste de ceux qui sont détenus par une ou plusieurs personnes physiques ou morales.
+fichier (1) la liste de ceux qui sont détenus par une ou plusieurs personnes physiques ou morales. 
 
 Les informations ne peuvent être communiquées qu'aux personnes ou organismes bénéficiant d'une habilitation législative et
-dans la limite fixée par la loi.
+dans la limite fixée par la loi. 
 
-(1) Arrêté du 14 juin 1982, art. 4, (J.O. des 21 et 22)
+(1) Arrêté du 14 juin 1982, art. 4, (J. O. des 21 et 22)
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 1er de l'arrêté du 29 décembre 2003.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1982-06-14
-	  - CGIAN4 164 FB
+	  - Arrêté du 14 juin 1982 - art. 4
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 FB (V)
 
 	**Modifié par**:
 
-	  - Arrêté 1995-10-23 art. 1 JORF 31 octobre 1995
-
-	**Codifié par**:
-
-	  - Arrêté 1998-05-22
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 
 ###### Article 164 FD
@@ -16660,51 +16697,56 @@ Pour les personnes morales, leur dénomination ou raison sociale, forme juridiqu
 
 ###### Article 164 FE
 
-Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés, s'exerce auprès du service des impôts du domicile fiscal du titulaire.
+Le droit d'accès aux informations figurant dans l'application FICOBA2 concernant le titulaire des comptes spécifiés s'exerce
+auprès de la Commission nationale de l'informatique et des libertés dans les conditions de l'article 42 de la loi n° 78-17 du
+6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, sauf en ce qui concerne les données
+d'identification pour lesquelles le droit d'accès s'exerce auprès du service des impôts du domicile du requérant. 
 
-En outre, le droit d'opposition, prévu par l'article 26 de cette même loi, ne s'applique pas au traitement mis en oeuvre.
+Le droit de rectification prévu par la loi du 6 janvier 1978 précitée s'exerce, en application de son article 40, par le
+titulaire ou ses héritiers auprès du service des impôts du domicile du requérant. 
+
+Lorsque des rectifications sont à apporter, la demande doit ensuite en être faite par le titulaire ou ses héritiers
+directement auprès de l'établissement bancaire de domiciliation du ou des comptes concernés. 
+
+En outre, le droit d'opposition prévu par l'article 38 de la loi du 6 janvier 1978 précitée ne s'applique pas au traitement
+mis en œuvre.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 3 de l'arrêté du 13 décembre 2007.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Cite**:
 
-	  - Loi n°78-17 1978-01-06 art. 34, art. 26
-	  - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
+	  - Loi n°78-17 du 6 janvier 1978 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 
 ###### Article 164 FF
 
-Il est satisfait aux obligations résultant des articles 164 FB à 164 FE par la communication d'un support magnétique ou par
-l'envoi d'imprimés normalisés. Cette dernière formule est réservée aux établissements n'assurant pas la tenue de leurs
-comptes à l'aide de moyens automatiques de traitement de l'information de nature à permettre la communication des
-renseignements à l'aide de supports magnétiques.
+Il est satisfait aux obligations résultant des articles 164 FB à 164 FE par la communication des informations sur un support
+informatique ou par réseau ou par l'envoi des imprimés normalisés. 
+
+Les établissements n'assurant pas la gestion des comptes à l'aide d'un moyen informatique de traitement de l'information sont
+tenus d'en informer le centre de services informatiques avant tout envoi de déclaration à ce service.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4 de l'arrêté du 29 décembre 2003.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1982-06-14 art. 6 JONC 22 juin 1982
-
-	**Codifié par**:
-
-	  - Arrêté 1982-10-15
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 	**Cite**:
 
-	  - CGI 164 FB à 164 FE
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 FB
 
 
 #### Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs
@@ -16846,70 +16888,6 @@ Dispositions devenues sans objet en conséquence de l'article 5-I [87°] et 7 du
 #### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales
 
 ##### Section I : Centres de gestion agréés
-
-###### Article 164 F unvicies
-
-Les ratios et autres éléments caractérisant la situation financière et économique des entreprises qui doivent figurer dans
-les dossiers de gestion prévus à l'article 371 E de l'annexe II au code général des impôts sont fixés pour les entreprises
-industrielles commerciales et artisanales par l'arrêté du 4 février 1985 et pour les entreprises agricoles par l'arrêté du 14
-mars 1979 (1).
-
-(1) Dispositions applicables aux exercices clos postérieurement au 31 décembre 1978.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1979-03-14
-	  - CGIAN2 371 E
-
-	**Modifié par**:
-
-	  - Arrêté 1985-02-04 art. 1, art. 3 JORF 16 février 1985
-
-	**Codifié par**:
-
-	  - Arrêté 1985-09-24
-
-	**Liens**:
-
-	  - DISJOINT: Arrêté du 7 avril 2009 - art. 1 (V)
-	  - HISTO: Edition du 15 juillet 1985
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 E (VD)
-
-
-###### Article 164 F vicies
-
-Conformément aux dispositions de l'article 1649 quater E du code général des impôts et de l'article 371 C de l'annexe II
-audit code les centres de gestion agréés qui apportent une assistance en matière de gestion aux industriels, commerçants,
-artisans et agriculteurs sont liés à l'administration par une convention type qui figure en annexe à l'arrêté du 3 novembre
-1975 (1).
-
-Les parties signataires de la convention peuvent inclure dans celle-ci toute disposition complémentaire rendue nécessaire
-pour adapter la convention type aux conditions particulières de fonctionnement du centre sans pouvoir déroger aux
-dispositions de cette convention.
-
-(1) J.O. du 15 novembre 1975.
-
-**Nota:**
-
-Article devenu sans objet en conséquence de l'article 3 de l'arrêté du 2 avril 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1975-11-03
-	  - CGI 1649 quater E
-	  - CGIAN2 371 C
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 7 avril 2009 - art. 1 (V)
-
 
 ##### Tenue des documents comptables de certains adhérents
 
@@ -17086,37 +17064,6 @@ l'importance des prestations fournies, à une rémunération excessive ou insuff
 
 ##### Section II : Associations agréées des professions libérales
 
-###### Article 164 F duovicies
-
-Conformément aux dispositions de l'article 1649 quater H du code général des impôts et de l'article 371 O de l'annexe II
-audit code les associations agréées ayant pour objet de développer l'usage de la comptabilité et de faciliter
-l'accomplissement de leurs obligations administratives et fiscales par les membres des professions libérales et les
-titulaires des charges et offices sont liées à l'administration fiscale par une convention type figurant en annexe à l'arrêté
-du 31 décembre 1977 (1).
-
-Les parties signataires de la convention peuvent inclure dans celle-ci toute disposition complémentaire rendue nécessaire
-pour adapter la convention type aux conditions particulières de fonctionnement de l'association  sans pouvoir déroger aux
-dispositions de cette convention.
-
-(1) J.O. du 11 janvier 1978.
-
-**Nota:**
-
-Article devenu sans objet en conséquence de l'article 3 de l'arrêté du 2 avril 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1977-12-31
-	  - CGI 1649 quater H
-	  - CGIAN2 371 O
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 7 avril 2009 - art. 1 (V)
-
-
 ###### Article 164 F octovicies
 
 En cas de manquements graves et répétés aux dispositions des articles 164 F quinvicies et 164 F septvicies, les adhérents
@@ -17208,24 +17155,6 @@ des honoraires par chèque est accepté. "
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quatervicies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quinvicies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F septvicies (V)
-
-
-###### Article 164 F tervicies
-
-En application de l'article 1649 quater G du code général des impôts sont agréées les dispositions d'une nomenclature
-comptable pour les professions libérales et les titulaires de charges et offices figurant en annexe à l'arrêté du 30 janvier
-1978.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1978-01-30
-	  - CGI 1649 quater G
-
-	**Liens**:
-
-	  - DISJOINT: Arrêté du 7 avril 2009 - art. 1 (V)
 
 
 #### Chapitre III : Réglementation des machines à timbrer
@@ -18597,15 +18526,15 @@ les départements d'outre-mer par le directeur des services fiscaux territoriale
 
 ###### Article 170 quinquies
 
-Il est statué sur les demandes d'agrément présentées pour l'application des articles 721 et 1465 du code général des impôts :
+Il est statué sur les demandes d'agrément présentées pour l'application de l'article  1465 du code général des impôts :
 
 1° Par le ministre chargé du budget, après avis du comité interministériel des aides à la localisation des activités institué
 par l'article 1er de l'arrêté du 10 juillet 1982 :
 
 a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 7,6 millions d'euros
-d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à cent cinquante
-millions d'euros ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse
-cent cinquante millions d'euros ;
+d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 150 millions d'euros
+ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse 150 millions
+d'euros ;
 
 b. Pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
 
@@ -18616,22 +18545,15 @@ d. (Abrogé) ;
 2° Dans les autres cas, par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction
 de contrôle fiscal dans le ressort de laquelle est situé l'établissement.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 64 V de la loi n° 2008-776 du 4 août 2008.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1982-07-10 art. 1
-	  - CGI 721, 1465
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 	**Cité par**:
 

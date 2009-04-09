@@ -1,7 +1,7 @@
 # Article 52 ter
 
-Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
-réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
+I.-Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts
+est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
 d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2011 conformément au tableau ci-après : 
 
 Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
@@ -14,7 +14,7 @@ Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ;
 
 Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur. 
 
-Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
+II. Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
 traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et, d'autre part, entre les départements
 d'outre-mer jusqu'au 31 décembre 2010, conformément au tableau ci-après : 
 
@@ -28,8 +28,16 @@ Réunion : rhum traditionnel de sucrerie, 3 615 hectolitres d'alcool pur ;
 
 Guyane : rhum traditionnel agricole, 300 hectolitres d'alcool pur.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er et 2 de l'arrêté du 14 novembre 2008.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 14 novembre 2008 - art. 1
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 362

@@ -1,14 +1,14 @@
 # Article 170 quinquies
 
-Il est statué sur les demandes d'agrément présentées pour l'application des articles 721 et 1465 du code général des impôts :
+Il est statué sur les demandes d'agrément présentées pour l'application de l'article  1465 du code général des impôts :
 
 1° Par le ministre chargé du budget, après avis du comité interministériel des aides à la localisation des activités institué
 par l'article 1er de l'arrêté du 10 juillet 1982 :
 
 a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 7,6 millions d'euros
-d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à cent cinquante
-millions d'euros ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse
-cent cinquante millions d'euros ;
+d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 150 millions d'euros
+ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse 150 millions
+d'euros ;
 
 b. Pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
 
@@ -19,22 +19,15 @@ d. (Abrogé) ;
 2° Dans les autres cas, par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction
 de contrôle fiscal dans le ressort de laquelle est situé l'établissement.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 64 V de la loi n° 2008-776 du 4 août 2008.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1982-07-10 art. 1
-	  - CGI 721, 1465
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
+	  - Arrêté du 7 avril 2009 - art. 1 (V)
 
 	**Cité par**:
 
