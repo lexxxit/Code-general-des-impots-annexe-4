@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2009-04-15
+Version Consolidée au 2009-05-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2217,31 +2217,32 @@ foyers fermés, les inserts des cheminées intérieures et les chaudières.
 
 ###### Article 18-0 ter
 
-I.-Pour l'application de l'article 199 septvicies du code général des impôts
+I.-Pour l'application de l'article 199 septvicies et du dernier alinéa du h du 1° du I de l'article 31 du code général des
+impôts
+
 , les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements s'entendent de celles classées
-dans les zones 1, 2 et 3, correspondant respectivement aux zones A, B1 et B2 délimitées conformément à l'annexe à l'arrêté du
-10 août 2006
+dans les zones A, B1 et B2 délimitées conformément à l'annexe à l'arrêté du 10 août 2006 
 pris pour l'application des articles 2 terdecies B et 2 terdecies C de l'annexe III au code général des impôts et relatif au
 classement des communes par zones. 
 
-II.-Pour l'application du III de l'article 199 septvicies du code général des impôts, les plafonds de loyer applicables aux
-zones 1, 2 et 3 s'entendent respectivement de ceux prévus pour les zones A, B1 et B2, tels que mentionnés à l'article 2
-terdecies B de l'annexe III au même code. 
+II.-Pour l'application du III de l'article 199 septvicies du code général des impôts, les plafonds de loyer applicables sont
+ceux mentionnés à l'article 2 terdecies B de l'annexe III au même code. 
 
 III.-Pour l'application du V de l'article 199 septvicies du code général des impôts, les plafonds de loyer et les plafonds de
-ressources des locataires applicables aux zones 1, 2 et 3 s'entendent respectivement de ceux prévus pour les zones A, B1 et
-B2, tels que mentionnés à l'article 2 terdecies C de l'annexe III au même code.
+ressources des locataires applicables sont ceux mentionnés à l'article 2 terdecies C de l'annexe III au même code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Arrêté du 10 août 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
 	  - Code général des impôts, CGI. - art. 199 septvicies
+	  - Code général des impôts, CGI. - art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 30 décembre 2008 - art. 1
+	  - Arrêté du 29 avril 2009 - art. 2
 
 
 ##### Crédit d'impôt pour dépenses d'équipement de l'habitation principale
