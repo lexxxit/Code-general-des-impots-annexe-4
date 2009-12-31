@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2009-11-29
+Version Consolidée au 2010-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1760,209 +1760,274 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2009, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2010, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme
 suit : 
 
 <table>
-  <tbody>
-    <tr>
-      <th>
+    <tbody>
+      <tr>
+        <th>
 
 TAUX APPLICABLES 
 
 </th>
-      <th colspan="5">
+        <th colspan="5">
 
 LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS 
 
 </th>
-    </tr>
-    <tr>
-      <th>
-      </th><th>
+      </tr>
+      <tr>
+        <th>
+        </th><th>
 
 Année 
 
 (en euros) 
 
 </th>
-      <th>
+        <th>
 
 Trimestre 
 
 (en euros) 
 
 </th>
-      <th>
+        <th>
 
 Mois 
 
 (en euros) 
 
 </th>
-      <th>
+        <th>
 
 Semaine 
 
 (en euros) 
 
 </th>
-      <th>
+        <th>
 
-Jour ou fractions 
+Jour ou fraction 
 
 de jour 
 
 (en euros) 
 
 </th>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 0 % 
 
-Moins de 
+- moins de... 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-13   977 
-
-</td>
-      <td align="center">
-
-3   494 
+14   034 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-1   165 
-
-</td>
-      <td align="center">
-
-269 
+3   509 
 
 </td>
-      <td align="center">
+        <td align="center">
+
+1   170 
+
+</td>
+        <td align="center">
+
+270 
+
+</td>
+        <td align="center">
 
 45 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 12 % 
 
-De 
+- de... 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-13   977 
-
-</td>
-      <td align="center">
-
-3   494 
+14   034 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-1   165 
-
-</td>
-      <td align="center">
-
-269 
+3   509 
 
 </td>
-      <td align="center">
+        <td align="center">
+
+1   170 
+
+</td>
+        <td align="center">
+
+270 
+
+</td>
+        <td align="center">
 
 45 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
-à 
-
-</td>
-      <td align="center">
-
-40   553 
+- à... 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-10   138 
-
-</td>
-      <td align="center">
-
-3   379 
+40   716 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-780 
-
-</td>
-      <td align="center">
-
-130 
+10   179 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+3   393 
+
+</td>
+        <td align="center">
+
+783 
+
+</td>
+        <td align="center">
+
+131 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 20 % 
 
-Au-delà de 
+- au-delà de... 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-40   553 
-
-</td>
-      <td align="center">
-
-10   138 
+40   716 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-3   379 
-
-</td>
-      <td align="center">
-
-780 
+10   179 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-130 
+3   393 
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center">
+
+783 
+
+</td>
+        <td align="center">
+
+131
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 24 décembre 2008 - art. 1
+	  - Arrêté du 30 décembre 2009 - art. 1
 
 
 ##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
+
+###### Article 18-0 bis
+
+La liste des équipements mentionnés au septième alinéa du 6 de l'article 199 undecies A du code général des impôts est fixée
+comme suit :
+
+1. Equipements de chauffage et de fourniture d'eau chaude fonctionnant à l'énergie solaire ;
+
+2. Systèmes de fourniture d'électricité à partir d'énergie solaire, éolienne, hydraulique ou de biomasse ;
+
+3. Pompes à chaleur ;
+
+4. Equipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses tels que les poêles, les
+foyers fermés, les inserts des cheminées intérieures et les chaudières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 2004-10-08
+
+	**Modifié par**:
+
+	  - Arrêté 2004-10-08 art. 1 JORF 10 octobre 2004
+
+	**Cite**:
+
+	  - CGI 199 undecies A
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 18-0 ter
+
+I.-Pour l'application de l'article 199 septvicies et du dernier alinéa du h du 1° du I de l'article 31 du code général des
+impôts
+
+, les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements s'entendent de celles classées
+dans les zones A, B1 et B2 délimitées conformément à l'annexe à l'arrêté du 10 août 2006 
+pris pour l'application des articles 2 terdecies B et 2 terdecies C de l'annexe III au code général des impôts et relatif au
+classement des communes par zones. 
+
+II.-Pour l'application du III de l'article 199 septvicies du code général des impôts, les plafonds de loyer applicables sont
+ceux mentionnés à l'article 2 terdecies B de l'annexe III au même code. 
+
+III.-Pour l'application du V de l'article 199 septvicies du code général des impôts, les plafonds de loyer et les plafonds de
+ressources des locataires applicables sont ceux mentionnés à l'article 2 terdecies C de l'annexe III au même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté du 10 août 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
+	  - Code général des impôts, CGI. - art. 199 septvicies
+	  - Code général des impôts, CGI. - art. 31
+
+	**Modifié par**:
+
+	  - Arrêté du 29 avril 2009 - art. 2
+
+
+##### Crédit d'impôt pour dépenses d'équipement de l'habitation principale
 
 ###### Article 18 bis
 
@@ -2013,6 +2078,8 @@ lame d'air ventilé supérieure à 0, 20 m2.K / W ;
 4° Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire
 avec une résistance thermique supérieure ou égale à 1 m2.K / W ; 
 
+5° Portes d'entrée donnant sur l'extérieur présentant un coefficient Ud inférieur ou égal à 1,8 W/m².K ;
+
 c) Acquisition d'appareils de régulation de chauffage permettant le réglage manuel ou automatique et la programmation des
 équipements de chauffage ou de production d'eau chaude sanitaire : 
 
@@ -2043,7 +2110,7 @@ solaires, disposant d'une certification CSTBat ou Solar Keymark ou équivalente 
 4° Systèmes de fourniture d'électricité à partir de l'énergie éolienne, hydraulique ou de biomasse ; 
 
 5° Equipements de chauffage ou de production d'eau chaude indépendants fonctionnant au bois ou autres biomasses, pour
-lesquels la concentration moyenne de monoxyde de carbone doit être inférieure ou égale à 0, 6 %, et dont le rendement
+lesquels la concentration moyenne de monoxyde de carbone doit être inférieure ou égale à 0,3 %, et dont le rendement
 énergétique est supérieur ou égal à 70 % selon les référentiels des normes en vigueur, tels que :
 
 - les poêles (norme NF EN 13240 ou NF D 35376 ou NF EN 14785 ou EN 15250) ;
@@ -2053,29 +2120,33 @@ lesquels la concentration moyenne de monoxyde de carbone doit être inférieure 
 - les cuisinières utilisées comme mode de chauffage (norme NF EN 12815 ou NF D 32301). 
 
 6° Chaudières autres que celles mentionnées au 1 et au a du 2, fonctionnant au bois ou autres biomasses, de rendement
-énergétique, selon les référentiels des normes en vigueur, supérieur ou égal à 70 % pour les équipements à chargement manuel
-(norme NF EN 303. 5 ou EN 12809), supérieur ou égal à 75 % pour les équipements à chargement automatique (norme NF EN 303. 5
+énergétique, selon les référentiels des normes en vigueur, supérieur ou égal à 80 % pour les équipements à chargement manuel
+(norme NF EN 303. 5 ou EN 12809), supérieur ou égal à 85 % pour les équipements à chargement automatique (norme NF EN 303. 5
 ou EN 12809), dont la puissance est inférieure à 300 kW ; 
 
-b) De pompes à chaleur spécifiques telles que : 
+b) De pompes à chaleur spécifiques, sous réserve qu'elles respectent une intensité maximale au démarrage de 45 A en monophasé
+ou de 60 A en triphasé, telles que : 
 
 1° Les pompes à chaleur géothermiques à capteur fluide frigorigène de type sol-sol ou sol-eau ayant un coefficient de
-performance supérieur ou égal à 3, 3 pour une température d'évaporation de-5° C et une température de condensation de 35°
+performance supérieur ou égal à 3,4 pour une température d'évaporation de -5° C et une température de condensation de 35°
 C ; 
 
-2° Les pompes à chaleur géothermiques de type eau glycolée / eau ayant un coefficient de performance supérieur ou égal à 3, 3
-pour des températures d'entrée et de sortie d'eau glycolée de 0° C et-3° C à l'évaporateur, et des températures d'entrée et
+2° Les pompes à chaleur géothermiques de type eau glycolée / eau ayant un coefficient de performance supérieur ou égal à 3,4
+pour des températures d'entrée et de sortie d'eau glycolée de 0° C et -3° C à l'évaporateur, et des températures d'entrée et
 de sortie d'eau de 30° C et 35° C au condenseur, selon le référentiel de la norme d'essai 14511-2 ; 
 
-3° Les pompes à chaleur géothermiques de type eau / eau ayant un coefficient de performance supérieur ou égal à 3, 3 pour des
+3° Les pompes à chaleur géothermiques de type eau / eau ayant un coefficient de performance supérieur ou égal à 3,4 pour des
 températures d'entrée et de sortie de 10° C et 7° C d'eau à l'évaporateur, et de 30° C et 35° C au condenseur, selon le
 référentiel de la norme d'essai 14511-2 ; 
 
-4° Les pompes à chaleur air / eau ayant un coefficient de performance supérieur ou égal à 3, 3 pour une température d'entrée
+4° Les pompes à chaleur air / eau ayant un coefficient de performance supérieur ou égal à 3,4 pour une température d'entrée
 d'air de 7° C à l'évaporateur, et des températures d'entrée et de sortie d'eau de 30° C et 35° C au condenseur, selon le
 référentiel de la norme d'essai 14511-2 ; 
 
-5° (Paragraphe abrogé)
+5° (Paragraphe abrogé) ;
+
+6° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire ayant un coefficient de performance supérieur à 2,2
+selon le référentiel de la norme d'essai EN 255-3 ; 
 
 c) Equipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une
 installation de cogénération, qui s'entendent des éléments suivants : 
@@ -2153,77 +2224,12 @@ suivants :
 
 	**Modifié par**:
 
-	  - Arrêté du 18 juin 2009 - art. 1
+	  - Arrêté du 30 décembre 2009 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 200 quater
 
-
-###### Article 18-0 bis
-
-La liste des équipements mentionnés au septième alinéa du 6 de l'article 199 undecies A du code général des impôts est fixée
-comme suit :
-
-1. Equipements de chauffage et de fourniture d'eau chaude fonctionnant à l'énergie solaire ;
-
-2. Systèmes de fourniture d'électricité à partir d'énergie solaire, éolienne, hydraulique ou de biomasse ;
-
-3. Pompes à chaleur ;
-
-4. Equipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses tels que les poêles, les
-foyers fermés, les inserts des cheminées intérieures et les chaudières.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2004-10-08
-
-	**Modifié par**:
-
-	  - Arrêté 2004-10-08 art. 1 JORF 10 octobre 2004
-
-	**Cite**:
-
-	  - CGI 199 undecies A
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 18-0 ter
-
-I.-Pour l'application de l'article 199 septvicies et du dernier alinéa du h du 1° du I de l'article 31 du code général des
-impôts
-
-, les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements s'entendent de celles classées
-dans les zones A, B1 et B2 délimitées conformément à l'annexe à l'arrêté du 10 août 2006 
-pris pour l'application des articles 2 terdecies B et 2 terdecies C de l'annexe III au code général des impôts et relatif au
-classement des communes par zones. 
-
-II.-Pour l'application du III de l'article 199 septvicies du code général des impôts, les plafonds de loyer applicables sont
-ceux mentionnés à l'article 2 terdecies B de l'annexe III au même code. 
-
-III.-Pour l'application du V de l'article 199 septvicies du code général des impôts, les plafonds de loyer et les plafonds de
-ressources des locataires applicables sont ceux mentionnés à l'article 2 terdecies C de l'annexe III au même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté du 10 août 2006
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
-	  - Code général des impôts, CGI. - art. 199 septvicies
-	  - Code général des impôts, CGI. - art. 31
-
-	**Modifié par**:
-
-	  - Arrêté du 29 avril 2009 - art. 2
-
-
-##### Crédit d'impôt pour dépenses d'équipement de l'habitation principale
 
 ###### Article 18 ter
 
@@ -3388,28 +3394,26 @@ Si l'administration le demande, les registres tenus sur support informatique son
 
 ###### Article 30-00 A
 
-La liste des gros équipements mentionnés au 1 de l'article 279-0 bis du code général des impôts est fixée comme suit :
+La liste des gros équipements mentionnés au 1 de l'article 279-0 bis du code général des impôts est fixée comme suit : 
 
 1. Système de chauffage : équipements collectifs suivants situés dans un immeuble comportant plusieurs locaux : chaudière
-utilisée comme mode de chauffage ou de production d'eau chaude, cuve à fioul, citerne à gaz et pompe à chaleur ;
+utilisée comme mode de chauffage ou de production d'eau chaude, cuve à fioul, citerne à gaz et pompe à chaleur ; 
 
-2. Ascenseur ;
+2. Ascenseur ; 
 
-3. Installations sanitaires : cabine hammam ou sauna prête à poser.
+3. Installations sanitaires : cabine hammam ou sauna prête à poser ; 
+
+4. Système de climatisation : tous les systèmes de climatisation, ainsi que les pompes à chaleur de type air/ air.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2004-12-30 art. 1 JORF 31 décembre 2004
+	  - Arrêté du 30 décembre 2009 - art. 1
 
 	**Cite**:
 
-	  - CGI 279-0 bis
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 279-0 bis (VT)
 
 
 ##### I : Taux réduit
@@ -3839,9 +3843,12 @@ Sociétés anonymes : au plus tard le 24 du mois suivant ;
 
 Autres redevables : au plus tard le 24 du mois suivant. 
 
-d) Pour les redevables placés sous le régime simplifié d'imposition et tenus de verser des acomptes en avril, juillet,
+d. Pour les redevables placés sous le régime simplifié d'imposition et tenus de verser des acomptes en avril, juillet,
 octobre et décembre, en application du 3 de l'article 287 du code général des impôts, les jours limites de paiement au cours
-de ces mois sont ceux prévus aux b et c. 
+de ces mois sont ceux prévus aux b, c et e.
+
+e. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les redevables visés au premier alinéa du I de
+l'article 95 de l'annexe III et placés sous le régime de la déclaration : au plus tard le 19 du mois suivant.  
 
 2° (périmé). 
 
@@ -18776,9 +18783,9 @@ Modification effectuée en conséquence de l'article 6 de l'ordonnance n° 2007-
 
 ###### Article 170 decies
 
-I. L'agrément prévu au III de l'article 217 undecies du code général des impôts est délivré par le directeur des services
-fiscaux du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas 1.500.000
-euros.
+I. L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur
+départemental ou le directeur régional des finances publiques du département dans lequel le programme d'investissement est
+réalisé lorsque son montant total n'excède pas 1,5 million d'euros, à l'exception du secteur du logement.
 
 La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 1.500.000
 euros ou qu'il est réalisé dans plus d'un département d'outre-mer, en Polynésie française, aux îles Wallis et Futuna, dans
@@ -18791,12 +18798,22 @@ undecies du code général des impôts, les souscriptions au capital des sociét
 alinéa du II du même article et les souscriptions au capital des sociétés en difficulté visées au II bis de l'article
 précité.
 
-II. Dans les cas visés au premier alinéa du I, les demandes d'agrément, établies conformément aux annexes à l'arrêté du 15
-mars 1996 (J.O. du 16), sont adressées au directeur des services fiscaux du département où sera réalisé le programme
-d'investissement.
+I bis. - Dans le secteur du logement, l'agrément prévu au 4 de l'article 199 undecies A, au VII de l'article 199 undecies C
+et aux II quater et III de l'article 217 undecies du code général des impôts, est délivré par le directeur départemental ou
+le directeur régional des finances publiques du département dans lequel les logements sont réalisés, lorsque le montant total
+du programme immobilier est inférieur ou égal à 10 millions €.
 
-Dans les cas visés aux deuxième et troisième alinéas du I, les demandes établies conformément aux annexes à l'arrêté du 15
-mars 1996 (J.O. du 16), sont transmises à la direction générale des impôts.
+L'agrément est délivré par le ministre du budget lorsque ce montant est supérieur à 10 millions € ou lorsque le programme
+immobilier est évoqué par le ministre.
+
+I ter. - Les montants mentionnés au I et au I bis s'apprécient toutes taxes, frais et commissions compris, par programme et,
+le cas échéant, par exercice, lorsque le programme d'investissement est réalisé sur plusieurs exercices. 
+
+II. - Les demandes d'agrément mentionnées au premier alinéa des I et I bis, sont adressées au directeur départemental ou au
+directeur régional des finances publiques du département où sera réalisé le programme d'investissement.
+
+Les demandes d'agrément mentionnées aux deuxième et troisième alinéas du I et au second alinéa du I bis sont adressées à la
+direction générale des finances publiques.
 
 III. Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
 groupements visés aux articles 8 ou 239 quater du code général des impôts, la demande d'agrément est faite par un
@@ -18805,6 +18822,11 @@ investisseurs, copropriétaires ou associés.
 
 IV. (Dispositions devenues sans objet).
 
+**Nota:**
+
+Arrêté du 24 décembre 2009 art. 3 : Les dispositions du présent arrêté s'appliquent aux demandes d'agrément reçues par
+l'administration fiscale à compter du 1er janvier 2010.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -18812,24 +18834,14 @@ IV. (Dispositions devenues sans objet).
 	  - Arrêté 1996-03-15
 	  - CGI 217 undecies, 8, 239 quater
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2004-10-08
+	  - Arrêté du 24 décembre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. A333-2 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quaterdecies V (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
-	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
-	  - Loi n°2003-660 2003-07-21 art. 61 II JORF 22 juillet 2003
 
 
 ###### Article 170 octies

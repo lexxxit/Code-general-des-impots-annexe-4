@@ -1,8 +1,8 @@
 # Article 170 decies
 
-I. L'agrément prévu au III de l'article 217 undecies du code général des impôts est délivré par le directeur des services
-fiscaux du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas 1.500.000
-euros.
+I. L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur
+départemental ou le directeur régional des finances publiques du département dans lequel le programme d'investissement est
+réalisé lorsque son montant total n'excède pas 1,5 million d'euros, à l'exception du secteur du logement.
 
 La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 1.500.000
 euros ou qu'il est réalisé dans plus d'un département d'outre-mer, en Polynésie française, aux îles Wallis et Futuna, dans
@@ -15,12 +15,22 @@ undecies du code général des impôts, les souscriptions au capital des sociét
 alinéa du II du même article et les souscriptions au capital des sociétés en difficulté visées au II bis de l'article
 précité.
 
-II. Dans les cas visés au premier alinéa du I, les demandes d'agrément, établies conformément aux annexes à l'arrêté du 15
-mars 1996 (J.O. du 16), sont adressées au directeur des services fiscaux du département où sera réalisé le programme
-d'investissement.
+I bis. - Dans le secteur du logement, l'agrément prévu au 4 de l'article 199 undecies A, au VII de l'article 199 undecies C
+et aux II quater et III de l'article 217 undecies du code général des impôts, est délivré par le directeur départemental ou
+le directeur régional des finances publiques du département dans lequel les logements sont réalisés, lorsque le montant total
+du programme immobilier est inférieur ou égal à 10 millions €.
 
-Dans les cas visés aux deuxième et troisième alinéas du I, les demandes établies conformément aux annexes à l'arrêté du 15
-mars 1996 (J.O. du 16), sont transmises à la direction générale des impôts.
+L'agrément est délivré par le ministre du budget lorsque ce montant est supérieur à 10 millions € ou lorsque le programme
+immobilier est évoqué par le ministre.
+
+I ter. - Les montants mentionnés au I et au I bis s'apprécient toutes taxes, frais et commissions compris, par programme et,
+le cas échéant, par exercice, lorsque le programme d'investissement est réalisé sur plusieurs exercices. 
+
+II. - Les demandes d'agrément mentionnées au premier alinéa des I et I bis, sont adressées au directeur départemental ou au
+directeur régional des finances publiques du département où sera réalisé le programme d'investissement.
+
+Les demandes d'agrément mentionnées aux deuxième et troisième alinéas du I et au second alinéa du I bis sont adressées à la
+direction générale des finances publiques.
 
 III. Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
 groupements visés aux articles 8 ou 239 quater du code général des impôts, la demande d'agrément est faite par un
@@ -29,6 +39,11 @@ investisseurs, copropriétaires ou associés.
 
 IV. (Dispositions devenues sans objet).
 
+**Nota:**
+
+Arrêté du 24 décembre 2009 art. 3 : Les dispositions du présent arrêté s'appliquent aux demandes d'agrément reçues par
+l'administration fiscale à compter du 1er janvier 2010.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -36,21 +51,11 @@ IV. (Dispositions devenues sans objet).
 	  - Arrêté 1996-03-15
 	  - CGI 217 undecies, 8, 239 quater
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2004-10-08
+	  - Arrêté du 24 décembre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. A333-2 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quaterdecies V (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
-	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
-	  - Loi n°2003-660 2003-07-21 art. 61 II JORF 22 juillet 2003
