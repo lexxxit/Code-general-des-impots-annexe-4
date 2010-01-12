@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-01-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12113,57 +12113,68 @@ contrôle agréé, la copie de cette dénonciation et le quitus de cet organisme
 Les officiers ministériels qui effectuent des ventes publiques sont dispensés de la tenue du registre prévu à l'article 537
 du code général des impôts sous réserve que les opérations soient inscrites sur le registre des salles de vente ou sur le
 registre des commissaires-priseurs judiciaires, conformément aux dispositions du 2 de l'article 56 J sexdecies relatives aux
-ouvrages d'occasion.
+ouvrages d'occasion. 
 
 Les caisses de crédit municipal n'inscrivent sur leur registre que les ouvrages mis en vente, à l'exclusion des ouvrages
-détenus en gage.
+détenus en gage. 
 
 Les chirurgiens-dentistes et les prothésistes dentaires sont dispensés de registre pour les matières qu'ils détiennent au
-titre de leur profession.
+titre de leur profession. 
 
 Les représentants de commerce ne réalisant que des commandes sur présentation d'échantillons qui leur sont confiés et
-n'effectuant aucune livraison d'ouvrage sont également dispensés de registre.
+n'effectuant aucune livraison d'ouvrage sont également dispensés de registre. 
+
+Les personnes physiques ou morales désignées à l'article 537 du code général des impôts sont dispensées de la tenue du
+registre pour les ouvrages plaqués ou doublés d'or, d'argent et de platine sur du métal commun, les ouvrages de bijouterie,
+de joaillerie qui ne sont pas en métal précieux, à l'exception de leurs fermoirs en or et en platine d'un poids inférieur à
+trois grammes et en argent d'un poids inférieur à trente grammes, et les ouvrages avec des décorations de métal précieux ou
+avec incrustation de métal précieux accessoire non poinçonnés. La dispense ne concerne que les ouvrages neufs. 
+
+Les personnes qui vendent au détail des ouvrages en argent d'un poids inférieur ou égal à cinq grammes sont dispensées
+d'inscrire ces ouvrages sur le registre prévu à l'article 56 J quaterdecies.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 29 de la loi n° 2000-642 du 10 juillet 2000.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-
 	**Modifié par**:
 
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
-	  - Décret n°2001-650 du 19 juillet 2001 - art. 76 (Ab) JORF 21 juillet 2001 en vigueur le 1er octobre 2001
+	  - Arrêté du 16 décembre 2009 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
-	  - CGI 537
-	  - CGIAN4 56 J sexdecies
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J sexdecies (V)
+	  - Code général des impôts, CGI. - art. 537
 
 
 ###### Article 56 J quaterdecies
 
 Les personnes physiques ou morales désignées à l'article 537 du code général des impôts doivent tenir un registre de leurs
 achats, ventes, réceptions et livraisons (même si ces réceptions et ces livraisons ne sont pas consécutives à des achats ou à
-des ventes) de matières d'or, d'argent ou de platine ou d'ouvrages contenant ces matières.
+des ventes) de matières d'or, d'argent ou de platine ou d'ouvrages contenant ces matières. 
+
+Le registre doit se trouver sur le lieu où sont détenus les ouvrages. Toutefois, un établissement principal peut tenir ce
+registre pour l'ensemble de ses magasins. Dans ce cas, ce registre doit distinguer les ouvrages qu'il détient directement et
+ceux détenus par chacun des établissements secondaires n'ayant aucune personnalité juridique propre. Les ouvrages neufs
+livrés par l'établissement principal aux différents magasins doivent être munis d'étiquettes d'identification et accompagnés
+d'une fiche de livraison ou de tout document en tenant lieu avec la dénomination commerciale de l'établissement principal
+permettant de les identifier. Ces documents doivent en particulier préciser la référence, la désignation de l'ouvrage, la
+marque, le poids, la quantité, le prix hors taxes. Les ventes réalisées par les magasins doivent être inscrites sur des états
+de vente établis quotidiennement, reprenant au moins la référence des ouvrages et retournés en fin de journée à
+l'établissement principal. Les magasins doivent être en mesure de communiquer leur situation de stock à tout moment, par le
+biais de l'établissement principal, à la demande du service. 
+
+Les dispositions des premier et deuxième alinéas de l'article L. 102 B du livre des procédures fiscales sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1995-07-05 art. 1 JORF 19 juillet 1995
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
-
-	**Cite**:
-
-	  - CGI 537
+	  - Arrêté du 16 décembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -12172,139 +12183,143 @@ des ventes) de matières d'or, d'argent ou de platine ou d'ouvrages contenant ce
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J septdecies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J sexdecies (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - Code général des impôts, CGI. - art. 537
+	  - Livre des procédures fiscales - art. L102 B
 
 
 ###### Article 56 J quindecies
 
 A l'exception des cas prévus par la loi, et sans préjudice des articles 56 J sexdecies à 56 J octodecies, le registre prévu à
 l'article 56 J quaterdecies indique, sur justification de leur identité, les noms, prénoms et adresses des personnes ayant
-vendu ou ayant confié les matières ou les ouvrages repris à l'article 56 J quaterdecies.
+vendu ou ayant confié les matières ou les ouvrages repris à l'article 56 J quaterdecies. 
 
-Il comporte également la nature, le nombre, le poids, le titre et l'origine de ces matières ou de ces ouvrages afin de
-permettre leur identification individuelle.
+Il comporte également la nature, le nombre, le poids, le titre, la date d'entrée et de sortie et l'origine de ces matières ou
+de ces ouvrages afin de permettre leur identification individuelle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1995-07-05 art. 2 JORF 19 juillet 1995
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
+	  - Arrêté du 16 décembre 2009 - art. 1
 
 	**Cite**:
 
-	  - CGIAN4 56 J sexdecies à 56 J octodecies, 56 J quaterdecies
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J septdecies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J sexdecies (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
 
 ###### Article 56 J septdecies
 
-Les ouvrages confiés pour réparation peuvent faire l'objet, en fin de journée, d'une inscription globale des entrées et des
-sorties sur le registre prévu à l'article 56 J quaterdecies à condition que leur situation puisse être justifiée à tout
-moment par tout document probant (tel qu'étiquettes, sachets individualisés, carnets à souche) indiquant le nom du client, la
-nature de l'objet et la date du dépôt.
+Les ouvrages neufs et d'occasion confiés à quelque titre que ce soit et notamment pour réparation peuvent faire l'objet, en
+fin de journée, d'une inscription globale des entrées et des sorties sur le registre prévu à l'article 56 J quaterdecies à
+condition que leur situation puisse être justifiée à tout moment par tout document probant tel qu'étiquettes, sachets
+individualisés, carnets à souche, indiquant le nom du client, la nature de l'objet et la date du dépôt. 
 
-De même, la présentation des documents comptables tenant lieu de registre est autorisée pour de tels ouvrages lorsque les
-conditions prévues à l'article 56 J sexdecies, pour les ouvrages neufs, sont respectées.
+De même, la présentation des documents comptables tels que les livres comptables, livre d'inventaire permanent, fiches de
+stocks et d'inventaire intégrées dans la comptabilité, comptabilité matières assortie de factures, bons de livraisons ou bons
+ou bordereaux ou fiches de confiés, tenant lieu de registre, est autorisée pour de tels ouvrages. Dans ce cas, les
+indications reprises à l'article 56 J quindecies devront y figurer. 
+
+Le registre prévu à l'article 56 J quaterdecies, pour les ouvrages confiés pour réparation peut être remplacé par un contrat
+de dépôt, les fiches " réparation-facture-horlogerie ". Ce contrat et ces fiches doivent indiquer le nom et l'adresse du
+déposant et du dépositaire, la date et le numéro de contrat ou de la fiche dans une série continue, la désignation complète
+et détaillée des objets confiés et, en particulier, la nature, le poids, le métal et le titre des ouvrages. Ce registre peut
+être établi au moyen d'un logiciel reprenant la désignation complète et détaillée des ouvrages et des matières confiées telle
+qu'énoncée à l'article 56 J quindecies.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1995-07-05 art. 4 JORF 19 juillet 1995
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
+	  - Arrêté du 16 décembre 2009 - art. 1
 
 	**Cite**:
 
-	  - CGIAN4 56 J quaterdecies, 56 J sexdecies
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies (V)
 
 
 ###### Article 56 J sexdecies
 
-Le registre prévu à l'article 56 J quaterdecies peut prendre, au choix de l'opérateur, les formes suivantes :
+Le registre prévu à l'article 56 J quaterdecies peut prendre, au choix de l'opérateur, les formes suivantes : 
 
-1. Pour les ouvrages neufs :
+1. Pour les ouvrages neufs : 
 
-a. Un registre coté et paraphé par l'administration municipale territorialement compétente qui peut :
+a. Un registre coté et paraphé par l'administration municipale territorialement compétente qui peut : 
 
-1° Soit ne comporter que des renvois aux documents comptables relatifs aux matières ou ouvrages repris à l'article 56 J
-quaterdecies. Dans ce cas, les indications reprises à l'article 56 J quindecies devront y figurer. Toutefois, l'indication du
-poids et du titre des ouvrages n'est pas exigée si leur identification est possible par un catalogue ou tout document de
-nature comptable ;
+1° Soit ne comporter que des renvois aux documents comptables, notamment les factures et bordereaux d'expédition, relatifs
+aux matières ou ouvrages repris à l'article 56 J quaterdecies. Dans ce cas, les indications reprises à l'article 56 J
+quindecies devront y figurer. Toutefois, l'indication du poids et du titre des ouvrages n'est pas exigée si leur
+identification est possible soit par le numéro de série individuel ou la référence commerciale de l'ouvrage mentionnée dans
+un catalogue ou tout document de nature comptable ; 
 
 2° Soit renvoyer à des fiches de stock et d'inventaire numérotées en continu, appuyées de tout document probant reprenant la
-désignation complète et détaillée des ouvrages et des matières confiées telle qu'énoncée à l'article 56 J quindecies ;
+désignation complète et détaillée des ouvrages et des matières confiées telle qu'énoncée à l'article 56 J quindecies ; 
+
+3° Soit comporter une inscription globale pour les ouvrages strictement identiques, notamment quant à leur référence et à
+leur poids, à condition que la référence renvoie à une facture. La facture peut ne pas indiquer le titre et le poids des
+objets si l'identification reste possible par le numéro de série individuel ou la référence commerciale de l'ouvrage
+mentionnée dans un catalogue ou tout document de nature comptable ; 
 
 b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-17 du code de commerce ou
 aux spécifications du 3° du I de l'article 286 du code général des impôts si les documents prévus à cet article sont
-accompagnés de fiches de stock ou d'un inventaire permanent ;
+accompagnés de fiches de stock ou d'un inventaire permanent ; 
 
 c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente des stocks, par référence de produits,
-permettant l'identification des ouvrages et offrant toutes garanties en matière de preuve.
+permettant l'identification des ouvrages et offrant toutes garanties en matière de preuve. Tout logiciel doit comporter les
+indications reprises à l'article 56 J quindecies. Toutefois, l'indication du poids et du titre des ouvrages n'est pas exigée
+si leur identification est possible soit par le numéro de série individuel, soit par la référence commerciale de l'ouvrage
+mentionnée dans un catalogue ou tout document de nature comptable.
 
-2. Pour les ouvrages d'occasion :
+L'opérateur doit être en mesure d'apporter la preuve de la fiabilité du système informatique utilisé et de la chronologie des
+écritures présentées sous forme de listes. Les feuillets informatiques doivent être identifiés, numérotés et datés sans
+possibilité de modifications afin d'assurer la chronologie des opérations enregistrées. Les modifications éventuelles doivent
+être justifiées par création d'un nouvel enregistrement informatique avec indication de son motif.
 
-a. Un registre coté et paraphé par l'administration municipale territorialement compétente ;
+L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
+Les enregistrements informatiques ou listages doivent pouvoir être présentés à toute réquisition du service dans les
+conditions précisées à l'article 56 J quaterdecies. 
+
+2. Pour les ouvrages d'occasion : 
+
+a. Un registre coté et paraphé par l'administration municipale territorialement compétente ; 
 
 b. Ou le registre prévu à l'article 321-7 du code pénal sur lequel les ouvrages contenant des métaux précieux doivent être
 portés individuellement, quelle que soit leur valeur, avec une encre de couleur différente de celle utilisée pour les autres
-objets ;
+objets ; 
 
 c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des stocks prévu au c du 1 du présent article,
 sous réserve que les enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par
 création d'un nouvel enregistrement avec indication de son motif et que le répertoire contenant ces informations soit
-spécifique et comprenne un système d'identification des pages par chiffre de contrôle, contenant un algorithme fondé entre
-autres sur la date, reporté en fin et en tête des pages imprimées quotidiennement.
+spécifique et comprenne un système d'identification des pages par chiffre de contrôle, contenant un algorithme ou un système
+fondé notamment sur la date de l'opération, reporté en fin et en tête des pages imprimées quotidiennement.
 
-Outre les mentions énoncées à l'article 56 J quindecies, le registre doit comporter, pour chacun des ouvrages d'occasion en
-métal précieux acheté, confié pour la vente ou mis en dépôt, l'indication de sa provenance ainsi que de sa date d'entrée et
-de sortie.
+L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 2001-05-21
+	  - Arrêté du 16 décembre 2009 - art. 1
 
 	**Cite**:
 
-	  - CGI 286
-	  - CGIAN4 56 J quaterdecies, 56 J quindecies
-	  - Code de commerce L123-12 à L123-17
-	  - Code pénal - art. 321-7 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18 art. 4 I 1° JORF 21 septembre 2000
+	  - Code de commerce - art. L123-12
+	  - Code de commerce - art. L123-17
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
+	  - Code général des impôts, CGI. - art. 286
+	  - Code pénal - art. 321-7
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J octodecies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 56 J vicies
