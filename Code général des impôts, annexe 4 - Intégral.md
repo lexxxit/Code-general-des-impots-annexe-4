@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-01-23
+Version Consolidée au 2010-01-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16629,7 +16629,7 @@ Les taux de la taxe sont fixés par arrêté.
 
 ###### Article 159 A
 
-I.-Les tarifs d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés
+I.-Les taux d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés
 outre-mer sont fixés par tonne de viande avec os comme suit : 
 
 1° Animaux de plus de 24 mois de l'espèce bovine, animaux des espèces chevaline, asine et de leurs croisements, gibiers
@@ -16643,7 +16643,7 @@ ruminants d'élevage : 58 euros / t ;
 
 5° Volailles, lapins, gibiers d'élevage non ruminants et ratites : 6, 25 euros / t. 
 
-II.-Les tarifs d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés en
+II.-Les taux d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés en
 métropole sont fixés par tonne de viande avec os comme suit : 
 
 1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage : 67 euros / t ; 
@@ -16657,7 +16657,7 @@ métropole sont fixés par tonne de viande avec os comme suit :
 5° Volailles de chair (hors poules pondeuses), palmipèdes à foie gras, lapins, gibiers d'élevage non ruminants et ratites : 0
 euro / t ; 
 
-6° Poules pondeuses : 30, 5 euros / t ; 
+6° Poules pondeuses : 0 euro / t ; 
 
 7° Animaux de l'espèce équine : 0 euro / t. 
 
@@ -16668,12 +16668,12 @@ l'annexe III.
 
 	**Modifié par**:
 
-	  - Arrêté du 13 juillet 2009 - art. 1
+	  - Arrêté du 18 janvier 2010 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA
-	  - Code général des impôts, CGI. - art. 1609 septvicies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA (V)
+	  - Code général des impôts, CGI. - art. 1609 septvicies (V)
 
 
 ##### Section IV : Fonds national du livre
