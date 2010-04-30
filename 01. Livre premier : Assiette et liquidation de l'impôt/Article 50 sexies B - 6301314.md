@@ -41,23 +41,11 @@ IV. - Les obligations concernant les mentions à porter sur les billets d'entré
 cinématographiques, la fourniture et l'utilisation de ces billets sont fixées par la réglementation de l'industrie
 cinématographique.
 
-Dans le cadre de cette réglementation, l'utilisation de caisses automatisées ou de systèmes informatisés est autorisée pour
-l'impression et l'édition des billets d'entrée ou l'enregistrement et la conservation des données relatives à l'entrée dans
-les établissements de spectacles cinématographiques.
+(2e à 6e alinéas supprimés)
 
-Les caractéristiques et le fonctionnement de ces caisses et de ces systèmes sont conformes aux cahiers des charges approuvés
-conjointement par le directeur général des impôts et le directeur général du Centre national de la cinématographie. Le
-programme de ces caisses et de ces systèmes est homologué par le directeur général du Centre national de la cinématographie.
+**Nota:**
 
-Le Centre national de la cinématographie s'assure de la conformité des logiciels proposés par les constructeurs ou les
-fournisseurs aux cahiers des charges.
-
-Les caisses automatisées et les systèmes informatisés sont pourvus de dispositifs qui permettent aux agents des impôts et du
-Centre national de la cinématographie, chargés du contrôle, de vérifier à tout moment que l'utilisation des matériels est
-conforme aux cahiers des charges et de s'assurer du respect de la réglementation en vigueur.
-
-Les caisses automatisées et les systèmes informatisés peuvent être équipés d'un dispositif permettant la vente, par avance,
-de billets d'entrée à une séance déterminée.
+Modifications effectuées en conséquence des articles 3 et 13 du décret n° 2009-1254.
 
 **Liens relatifs à cet article**
 
@@ -68,11 +56,7 @@ de billets d'entrée à une séance déterminée.
 
 	**Modifié par**:
 
-	  - Arrêté 2007-10-05 art. 1 JORF 7 octobre 2007
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
+	  - Arrêté du 27 avril 2010 - art. 1
 
 	**Cité par**:
 

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-03-26
+Version Consolidée au 2010-05-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1966,65 +1966,31 @@ de jour
 
 ###### Article 18-0 bis
 
-La liste des équipements mentionnés au septième alinéa du 6 de l'article 199 undecies A du code général des impôts est fixée
-comme suit :
+La liste des équipements mentionnés au huitième alinéa du 6 de l'article 199 undecies A du code général des impôts est fixée
+comme suit : 
 
-1. Equipements de chauffage et de fourniture d'eau chaude fonctionnant à l'énergie solaire ;
+1. Equipements de chauffage et de fourniture d'eau chaude fonctionnant à l'énergie solaire ; 
 
-2. Systèmes de fourniture d'électricité à partir d'énergie solaire, éolienne, hydraulique ou de biomasse ;
+2. Systèmes de fourniture d'électricité à partir d'énergie solaire, éolienne, hydraulique ou de biomasse ; 
 
-3. Pompes à chaleur ;
+3. Pompes à chaleur ; 
 
 4. Equipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses tels que les poêles, les
 foyers fermés, les inserts des cheminées intérieures et les chaudières.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Codifié par**:
-
-	  - Arrêté 2004-10-08
-
-	**Modifié par**:
-
-	  - Arrêté 2004-10-08 art. 1 JORF 10 octobre 2004
-
-	**Cite**:
-
-	  - CGI 199 undecies A
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 18-0 ter
-
-I.-Pour l'application de l'article 199 septvicies et du dernier alinéa du h du 1° du I de l'article 31 du code général des
-impôts
-
-, les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements s'entendent de celles classées
-dans les zones A, B1 et B2 délimitées conformément à l'annexe à l'arrêté du 10 août 2006 
-pris pour l'application des articles 2 terdecies B et 2 terdecies C de l'annexe III au code général des impôts et relatif au
-classement des communes par zones. 
-
-II.-Pour l'application du III de l'article 199 septvicies du code général des impôts, les plafonds de loyer applicables sont
-ceux mentionnés à l'article 2 terdecies B de l'annexe III au même code. 
-
-III.-Pour l'application du V de l'article 199 septvicies du code général des impôts, les plafonds de loyer et les plafonds de
-ressources des locataires applicables sont ceux mentionnés à l'article 2 terdecies C de l'annexe III au même code.
+Modifications effectuées en conséquence de l'article 38-I [6°] de la loi n° 2009-594 du 27 mai 2009.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Arrêté du 10 août 2006
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
-	  - Code général des impôts, CGI. - art. 199 septvicies
-	  - Code général des impôts, CGI. - art. 31
-
 	**Modifié par**:
 
-	  - Arrêté du 29 avril 2009 - art. 2
+	  - Arrêté du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 undecies A (V)
 
 
 ##### Réduction d'impôt pour l'acquisition de certains véhicules de tourisme outre-mer
@@ -2048,6 +2014,44 @@ leurs remorques, sans lesquels l'entreprise ne pourrait poursuivre son activité
 	**Créé par**:
 
 	  - Arrêté du 5 février 2010 - art. 1
+
+
+##### Réduction d'impôt accordée au titre d'une opération d'investissement locatif 
+
+###### Article 18-0 ter
+
+I.-Pour l'application de l'article 199 septvicies et du dernier alinéa du h du 1° du I de l'article 31 du code général des
+impôts, les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements s'entendent de celles
+classées dans les zones A, B1 et B2 délimitées conformément à l'annexe à l'arrêté du 29 avril 2009 relatif au classement des
+communes par zone applicable à certaines aides au logement. 
+
+II.-Pour l'application du III de l'article 199 septvicies du code général des impôts, les plafonds de loyer applicables sont
+ceux mentionnés à l'article 2 terdecies B de l'annexe III au même code. 
+
+III.-Pour l'application du V de l'article 199 septvicies du code général des impôts, les plafonds de loyer et les plafonds de
+ressources des locataires applicables sont ceux mentionnés à l'article 2 terdecies C de l'annexe III au même code.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er et 3 de l'arrêté du 29 avril 2009.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 27 avril 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 29 décembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis B (V)
 
 
 ##### Crédit d'impôt pour dépenses d'équipement de l'habitation principale
@@ -3023,13 +3027,14 @@ livraisons exonérées en vertu du I de l'article 262 ter dudit code ;
 
 En application du d du 2° du I de l'article 262 du code général des impôts, est exonérée la livraison qui porte sur des biens
 acquis dans un magasin ou acquis le même jour dans plusieurs magasins disséminés dans une même ville et identifiés sous le
-même numéro TVA intracommunautaire, et dont la valeur globale, taxe sur la valeur ajoutée comprise, excède 175 €.
+même numéro de taxe sur la valeur ajoutée intracommunautaire, et dont la valeur globale, taxe sur la valeur ajoutée comprise,
+excède 175 €.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 juillet 2009 - art. 5
+	  - Arrêté du 27 avril 2010 - art. 1
 
 	**Cite**:
 
@@ -4668,23 +4673,11 @@ IV. - Les obligations concernant les mentions à porter sur les billets d'entré
 cinématographiques, la fourniture et l'utilisation de ces billets sont fixées par la réglementation de l'industrie
 cinématographique.
 
-Dans le cadre de cette réglementation, l'utilisation de caisses automatisées ou de systèmes informatisés est autorisée pour
-l'impression et l'édition des billets d'entrée ou l'enregistrement et la conservation des données relatives à l'entrée dans
-les établissements de spectacles cinématographiques.
+(2e à 6e alinéas supprimés)
 
-Les caractéristiques et le fonctionnement de ces caisses et de ces systèmes sont conformes aux cahiers des charges approuvés
-conjointement par le directeur général des impôts et le directeur général du Centre national de la cinématographie. Le
-programme de ces caisses et de ces systèmes est homologué par le directeur général du Centre national de la cinématographie.
+**Nota:**
 
-Le Centre national de la cinématographie s'assure de la conformité des logiciels proposés par les constructeurs ou les
-fournisseurs aux cahiers des charges.
-
-Les caisses automatisées et les systèmes informatisés sont pourvus de dispositifs qui permettent aux agents des impôts et du
-Centre national de la cinématographie, chargés du contrôle, de vérifier à tout moment que l'utilisation des matériels est
-conforme aux cahiers des charges et de s'assurer du respect de la réglementation en vigueur.
-
-Les caisses automatisées et les systèmes informatisés peuvent être équipés d'un dispositif permettant la vente, par avance,
-de billets d'entrée à une séance déterminée.
+Modifications effectuées en conséquence des articles 3 et 13 du décret n° 2009-1254.
 
 **Liens relatifs à cet article**
 
@@ -4695,11 +4688,7 @@ de billets d'entrée à une séance déterminée.
 
 	**Modifié par**:
 
-	  - Arrêté 2007-10-05 art. 1 JORF 7 octobre 2007
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
+	  - Arrêté du 27 avril 2010 - art. 1
 
 	**Cité par**:
 
@@ -5310,40 +5299,28 @@ douane d'importation lorsqu'ils sont destinés :
 
 1° A la Réunion des musées nationaux ;
 
-2° Aux musées de l'Etat  des départements et des communes ;
+2° Aux musées de l'Etat des départements et des communes ;
 
-3° Aux fondations  associations et autres établissements justifiant de leur agrément par le ministre d'Etat chargé des
-affaires culturelles.
+3° Aux fondations associations et autres établissements justifiant de leur agrément par le ministre chargé des affaires
+culturelles.
 
 2. L'exonération est subordonnée à la production à l'appui de la déclaration d'importation d'une attestation signée par le
 directeur de l'établissement certifiant que les objets importés sont destinés audit établissement et comportant
 l'engagement :
 
-1° De ne pas céder, à titre onéreux ou gratuit  lesdits objets sans avoir au préalable acquitté auprès du service des douanes
+1° De ne pas céder, à titre onéreux ou gratuit lesdits objets sans avoir au préalable acquitté auprès du service des douanes
 la taxe sur la valeur ajoutée ;
 
-2° De présenter au bureau des douanes d'importation  dans un délai de trente jours  un certificat de prise en charge desdits
+2° De présenter au bureau des douanes d'importation dans un délai de trente jours un certificat de prise en charge desdits
 objets dans l'inventaire de l'établissement destinataire.
 
 3. La taxe sur la valeur ajoutée n'est pas due si la cession est faite au bénéfice de l'un des établissements visés au 1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 1992-08-27
-
-	**Cite**:
-
-	  - CGIAN4 50 nonies 1
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
-
 	**Modifié par**:
 
-	  - Loi n°91-716 1991-07-26 art. 5 IV, VII JORF 27 juillet 1991
+	  - Arrêté du 27 avril 2010 - art. 1
 
 
 ##### Section VII : Régimes spéciaux
@@ -7465,39 +7442,6 @@ II. La liste des produits cités au I est complétée par le pain (ex 19-05) et 
 	**Modifié par**:
 
 	  - Arrêté 2003-03-04 art. 1, art. 2, art. 3 JORF 11 mars 2003
-
-
-###### Article 50 duodecies 1
-
-Le bénéfice de l'exonération de la taxe sur la valeur ajoutée prévue à l'article 295-4 du code général des impôts est
-applicable :
-
-a. Pour une durée de dix ans à compter de la mise en service de leurs installations, aux établissements hôteliers d'une
-classe au moins égale à la catégorie "deux étoiles" créés avant le 1er janvier 1978 et comportant au moins 10 chambres, ainsi
-qu'aux villages de vacances créés avant la même date et répondant aux normes définies par le ministre de l'équipement et du
-logement lorsqu'ils comportent au moins 100 lits ;
-
-b. Pour une durée de dix ans à compter de la mise en service de leurs installations nouvelles  aux entreprises hôtelières
-existantes d'une classe au moins égale à la catégorie "deux étoiles" qui procèdent avant le 1er janvier 1978 à une extension
-d'au moins 10 chambres ainsi qu'aux villages de vacances répondant aux normes définies par le ministre de l'équipement et du
-logement lorsqu'ils étendent leur capacité d'hébergement d'au moins 100 lits avant cette même date ;
-
-c. Pour une durée de six ans  aux restaurants d'une classe au moins égale à la catégorie "deux étoiles" créés avant le 1er
-janvier 1978.
-
-**Nota:**
-
-Conséquence de la péremption du 4 de l'article 295 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 27 avril 2010 - art. 1
-
-	**Cite**:
-
-	  - CGI 295 4
 
 
 ###### Article 50 undecies
@@ -10834,43 +10778,47 @@ Produits pour l'entretien de la chevelure (l'hygiène et les soins de la chevelu
 
 ###### Article 52 ter
 
-I. - Le contingent additionnel annuel d'exportation de 90 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
+I.-Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts
+est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
+d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2011 conformément au tableau ci-après : 
+
+Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
+d'alcool pur ; 
+
+Guadeloupe : rhum traditionnel agricole, 5 350 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 25 650 hectolitres
+d'alcool pur ; 
+
+Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ; 
+
+Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur. 
+
+II.-Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
 traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et, d'autre part, entre les départements
-d'outre-mer, conformément au tableau ci-après, pour la campagne 2009 :
+d'outre-mer jusqu'au 31 décembre 2010, conformément au tableau ci-après : 
 
-Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 271,57
-hectolitres d'alcool pur ;
+Martinique : rhum traditionnel agricole, 6 197 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 990 hectolitres
+d'alcool pur ; 
 
-Guadeloupe : rhum traditionnel agricole, 5 350 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 25 701,45
-hectolitres d'alcool pur ;
+Guadeloupe : rhum traditionnel agricole, 4 604 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 2 294 hectolitres
+d'alcool pur ; 
 
-Réunion : rhum traditionnel de sucrerie, 17 027,98 hectolitres d'alcool pur ;
+Réunion : rhum traditionnel de sucrerie, 3 615 hectolitres d'alcool pur ; 
 
-Guyane : rhum traditionnel agricole, 4 hectolitres d'alcool pur. 
-
-II. - Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
-traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et, d'autre part, entre les départements
-d'outre-mer, conformément au tableau ci-après pour la campagne 2009 : 
-
-Martinique : rhum traditionnel agricole, 6 197 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 1 126, 79
-hectolitres d'alcool pur ; 
-
-Guadeloupe : rhum traditionnel agricole, 4 604 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 2 399, 71
-hectolitres d'alcool pur ; 
-
-Réunion : rhum traditionnel de sucrerie, 3 672, 50 hectolitres d'alcool pur ; 
-
-Guyane : aucun contingent attribué.
+Guyane : rhum traditionnel agricole, 300 hectolitres d'alcool pur.
 
 **Nota:**
 
-
+Modification effectuée en conséquence des arrêtés des 31 décembre 1999, 10 juin et 14 novembre 2008.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 13 novembre 2009 - art. 1
+	  - Arrêté du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 362
 
 
 ##### 2° : Régime de l'exportation préalable
@@ -12523,14 +12471,15 @@ rend immédiatement exigibles les sommes dues par le gérant.
 
 ###### Article 56 AJ
 
-1. La déclaration des quantités de tabacs manufacturés livrées au débitant au cours du mois précédent mentionnées au deuxième
+1. La déclaration des quantités de tabacs manufacturés livrées au débitant au cours du mois précédent mentionnées au huitième
 alinéa de l'article 568 du code général des impôts et au dixième alinéa de l'article 2 du décret n° 63-1104 du 30 octobre
-1963 modifié est conforme aux modèles figurant aux annexes I et I bis à l'arrêté du 26 décembre 2007. Cette déclaration est
-établie en un exemplaire sur papier à en-tête du fournisseur. Elle est datée et signée. Elle est transmise au chef de service
-comptable à la direction générale des douanes et droits indirects de 1re et de 2e catégorie de Paris-Ile-de-France
-accompagnée du moyen de paiement correspondant. 
+1963 modifié est conforme aux modèles figurant aux annexes I et I bis à l'arrêté du 26 décembre 2007 modifiant l'article 56
+AJ de l'annexe IV au code général des impôts et fixant le contenu des déclarations de livraisons de tabac des fournisseurs
+aux débits de tabac, modifié. Cette déclaration est établie en un exemplaire sur papier à en-tête du fournisseur. Elle est
+datée et signée. Elle est transmise au chef de service comptable à la direction générale des douanes et droits indirects de
+1re et de 2e catégorie de Paris-Ile-de-France accompagnée du moyen de paiement correspondant. 
 
-2. La déclaration mensuelle des livraisons mentionnée au deuxième alinéa de l'article 568 du code général des impôts comporte
+2. La déclaration mensuelle des livraisons mentionnée au huitième alinéa de l'article 568 du code général des impôts comporte
 les informations suivantes : 
 
 a. nom ou raison sociale et adresse du fournisseur ; 
@@ -12551,6 +12500,12 @@ produits du tabac.
 
 Cette déclaration est datée et transmise par voie informatique au centre informatique douanier.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 77 (2°) de la loi n° 2009-526 du 12 mai 2009 et des articles 1er et 2 de
+l'arrêté du 6 février 2009 modifiant l'arrêté du 26 décembre 2007 modifiant l'article 56 AJ de l'annexe IV au code général
+des impôts et fixant le contenu des déclarations de livraisons de tabac des fournisseurs aux débits de tabac.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -12561,7 +12516,7 @@ Cette déclaration est datée et transmise par voie informatique au centre infor
 
 	**Modifié par**:
 
-	  - Arrêté du 1er avril 2008 - art. 1
+	  - Arrêté du 27 avril 2010 - art. 1
 
 	**Cité par**:
 
@@ -13196,19 +13151,25 @@ Peuvent notamment être timbrés par ce procédé :
 6° Les permis de conduire les véhicules automobiles, les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres
 véhicules à moteur (art. 1599 terdecies du code général des impôts) ; 
 
-7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur (certificats
-d'immatriculation) (art. 1599 quindecies du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
+7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur  (art. 1599 quindecies du
+code général des impôts).
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 63 de la loi n° 2001-692 du 1er août 2001 et des articles 12 et 13-I du
+décret n° 2009-136 du 9 février 2009.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 953, 954, 1599 terdecies, 1599 quindecies
-	  - CGIAN2 339 à 341
-
 	**Modifié par**:
 
-	  - Décret n°2009-136 du 9 février 2009 - art. 12 (V)
+	  - Arrêté du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 quindecies
+	  - Code général des impôts, CGI. - art. 1599 terdecies
+	  - Code général des impôts, CGI. - art. 953
 
 
 ###### Article 121 KB
@@ -14042,54 +14003,6 @@ Modification effectuée en conséquence de l'art. 1er  [8°].) du décret n° 20
 	**Cite**:
 
 	  - CGIAN3 322 G
-
-
-##### 2° : Réduction de la valeur locative de matériels agricoles
-
-###### Article 121 quinquies DB octies
-
-La liste des travaux et des matériels agricoles prévue au 3° ter de l'article 1469 du code général des impôts est fixée comme
-suit :
-
-1. Labours, préparation et entretien des sols de culture :
-
-charrues, matériels de préparation et d'entretien des sols de culture, à dents, à lames ou à disques ;
-
-2. Fertilisation : matériel d'épandage ;
-
-3. Semis et plantations : semoirs et planteuses ;
-
-4. Entretien et traitement des cultures : matériels de taille et de traitement des cultures ;
-
-5. Récoltes : matériels de fenaison, de moisson, de vendange ; matériels spécifiques de récolte des racines, des tubercules,
-des fruits et légumes ; matériels de transport et de manutention spécialement agencés pour la récolte ;
-
-6. Ensemble des travaux mentionnés ci-dessus : tracteurs agricoles définis au vingt-huitième alinéa de l'article R. 311-1 du
-code de la route.
-
-**Nota:**
-
-Péremption en conséquence de l'article 2-6.1.34 de la loi n° 2009-1673 du 30 décembre 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2005-04-06
-
-	**Modifié par**:
-
-	  - Loi - art. 59 (V) JORF 31 décembre 2003
-	  - Décret n°2004-209 du 4 mars 2004 - art. 1 () JORF 11 mars 2004
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 27 avril 2010 - art. 1
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Cite**:
-
-	  - CGI 1469
 
 
 ##### Section III : Commission consultative départementale des évaluations foncières
@@ -16754,36 +16667,31 @@ Imprimantes, machines à copier et machines à télécopier, même combinées en
 
 Sont considérés comme véhicules utilitaires affectés aux exploitations agricoles, et à ce titre assujettis à la contribution
 additionnelle prévue au 1° de l'article L. 361-5 du code rural cité à l'article 1635 bis A du code général des impôts, les
-véhicules suivants assurés par des exploitants agricoles :
+véhicules suivants assurés par des exploitants agricoles : 
 
-a) Les camions, camionnettes et fourgonnettes ;
+a) Les camions, camionnettes et fourgonnettes ; 
 
 b) Tous les engins automoteurs agricoles par destination, tels que tracteurs, moissonneuses-batteuses, récolteuses et leurs
-remorques, y compris les engins visés aux vingt-septième à trente-deuxième alinéas de l'article R. 311-1 du code de la
-route ;
+remorques, y compris les engins visés aux 5 à 5. 4 de l'article R. 311-1 du code de la route ; 
 
 c) Tout autre véhicule automoteur, à l'exception des voitures particulières, utilisé pour les besoins, même partiels, des
 exploitations agricoles.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 2 du décret n° 2009-497 du 30 avril 2009.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2007-03-30
-
-	**Cite**:
-
-	  - CGI 1635 bis A
-	  - Code rural L361-5
-	  - Code de la route. - art. R311-1 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2005-173 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Arrêté du 27 avril 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 1635 bis A
+	  - Code rural - art. L361-5
+	  - Code de la route. - art. R311-1
 
 
 ##### Section II : Fonds de garantie des assurances obligatoires de dommages
@@ -18685,7 +18593,7 @@ les régies municipales, intercommunales et départementales exploitant des serv
 
 les manufactures nationales ; 
 
-l'établissement public La Monnaie de Paris ; 
+La Monnaie de Paris ; 
 
 les arsenaux, poudreries et usines mécaniques de l'Etat. 
 
@@ -18711,19 +18619,26 @@ les chambres de métiers et de l'artisanat ;
 
 les sections de l'office de répartition des produits industriels ; 
 
-l'     établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ; 
+l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ; 
 
 l'office national des anciens combattants et victimes de guerre.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 36-II B de la loi n° 2006-1666 du 21 décembre 2006 et des articles 10-I
+et 11 du décret n° 2009-340 du 27 mars 2009.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 165, 166
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 12
+	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 12 (V)
+	  - Arrêté du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 165
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 166
 
 
 #### Section III : Enregistrement, publicité foncière et timbre
@@ -18796,13 +18711,13 @@ les régies municipales, intercommunales et départementales exploitant des serv
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 6 de l'ordonnance n° 2007-137 du 1er février 2007.
+Modification effectuée en conséquence des articles 10-I et 11 du décret n° 2009-340 du 27 mars 2009.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 12
+	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 12 (V)
 
 	**Cite**:
 
@@ -18973,29 +18888,28 @@ le capital est détenu à plus de 50% par une entreprise dont le chiffre d'affai
 ###### Article 170 septies G
 
 Il est statué par le directeur des services fiscaux de la Corse-du-Sud sur les demandes d'agrément présentées en application
-du a du I de l'article 44 decies et du b du 2° du I de l'article 1466 B du code général des impôts.
+du a du I de l'article 44 decies du code général des impôts. 
 
 Toutefois, la décision est prise par le ministre chargé du budget pour les opérations présentant des difficultés
 particulières ou évoquées par le ministre.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 2-6.1.34 de la loi n° 2009-1673 du 30 décembre 2009.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
 
 	**Modifié par**:
 
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
-
-	**Cite**:
-
-	  - CGI 44 decies, 1466 B
+	  - Arrêté du 27 avril 2010 - art. 1
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2000-10-02 13D-2-00
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 decies
 
 
 ###### Article 170 septies H
