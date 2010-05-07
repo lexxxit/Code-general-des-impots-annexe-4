@@ -1,8 +1,8 @@
 # Article 159 quater
 
 Sont considérés comme véhicules utilitaires affectés aux exploitations agricoles, et à ce titre assujettis à la contribution
-additionnelle prévue au 1° de l'article L. 361-5 du code rural cité à l'article 1635 bis A du code général des impôts, les
-véhicules suivants assurés par des exploitants agricoles : 
+additionnelle prévue au 1° de l'article L. 361-5 du code rural et de la pêche maritime cité à l'article 1635 bis A du code
+général des impôts, les véhicules suivants assurés par des exploitants agricoles : 
 
 a) Les camions, camionnettes et fourgonnettes ; 
 
@@ -20,7 +20,7 @@ Modifications effectuées en conséquence de l'article 2 du décret n° 2009-497
 
 	**Modifié par**:
 
-	  - Arrêté du 27 avril 2010 - art. 1
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 

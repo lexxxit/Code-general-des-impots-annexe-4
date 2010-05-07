@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9545,8 +9545,8 @@ prévues aux articles 312, 343 et 416 dudit code ;
 
 a) Les mentions relatives aux comptes d'âge ou de vieillissement ; 
 
-b) Les références aux contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural pour
-les transactions soumises à cette procédure ; 
+b) Les références aux contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural et de
+la pêche maritime pour les transactions soumises à cette procédure ; 
 
 c) Les références aux certificats d'agrément ou de labellisation ; 
 
@@ -9562,13 +9562,15 @@ subdivisée, selon le cas, par appellation d'origine ou par dénomination écono
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 63 1° de la loi n° 2008-443 du 30 décembre 2008.
+Modifications effectuées en conséquence de l'article 63 1° de la loi n° 2008-443 du 30 décembre 2008 et des articles 1er et 7
+de l'ordonnance n° 2010-462 du 6 mai 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 7 avril 2009 - art. 1 (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
@@ -9739,8 +9741,8 @@ h) La raison sociale de la caution ou, le cas échéant, la mention " Dispense "
 
 a) Les mentions relatives aux comptes d'âge ou de vieillissement ; 
 
-b) Les références aux contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural pour
-les transactions soumises à cette procédure ; 
+b) Les références aux contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural et de
+la pêche maritime pour les transactions soumises à cette procédure ; 
 
 c) Les références aux certificats d'agrément ou de labellisation ; 
 
@@ -9757,7 +9759,8 @@ a) Pour les entrepositaires agréés produisant des alcools, des produits interm
 du code général des impôts, par appellation d'origine ou dénomination de produits ; 
 
 b) Pour les autres entrepositaires agréés par nature de produit et / ou par tarif d'imposition, sous réserve des règlements
-ou accords interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural. 
+ou accords interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural et de la pêche
+maritime. 
 
 II.-1° Conformément au III de l'article 302 D du code général des impôts, l'entrepositaire agréé liquide l'impôt sur la
 déclaration récapitulative mensuelle prévue au I. 
@@ -9825,7 +9828,8 @@ déclaration récapitulative mensuelle de la mention " Pas de défaut d'apuremen
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 78 II et V de la loi n° 2007-1824 du 25 décembre 2007.
+Modifications effectuées en conséquence de l'article 78 II et V de la loi n° 2007-1824 du 25 décembre 2007 et des articles
+1er et 7 de l'ordonnance n° 2010-462 du 6 mai 2010.
 
 **Liens relatifs à cet article**
 
@@ -9845,7 +9849,8 @@ Modifications effectuées en conséquence de l'article 78 II et V de la loi n° 
 
 	**Modifié par**:
 
-	  - Arrêté du 7 avril 2009 - art. 1 (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -16666,8 +16671,8 @@ Imprimantes, machines à copier et machines à télécopier, même combinées en
 ###### Article 159 quater
 
 Sont considérés comme véhicules utilitaires affectés aux exploitations agricoles, et à ce titre assujettis à la contribution
-additionnelle prévue au 1° de l'article L. 361-5 du code rural cité à l'article 1635 bis A du code général des impôts, les
-véhicules suivants assurés par des exploitants agricoles : 
+additionnelle prévue au 1° de l'article L. 361-5 du code rural et de la pêche maritime cité à l'article 1635 bis A du code
+général des impôts, les véhicules suivants assurés par des exploitants agricoles : 
 
 a) Les camions, camionnettes et fourgonnettes ; 
 
@@ -16685,7 +16690,7 @@ Modifications effectuées en conséquence de l'article 2 du décret n° 2009-497
 
 	**Modifié par**:
 
-	  - Arrêté du 27 avril 2010 - art. 1
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
