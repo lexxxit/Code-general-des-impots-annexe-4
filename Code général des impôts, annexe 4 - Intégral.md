@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-05-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -596,24 +596,20 @@ peuvent disposer en dehors des locaux professionnels et, d'autre part, des dépe
 immeubles qui ne sont pas affectés à l'exploitation ;
 
 4° 3 000 euros pour les cadeaux de toute nature, à l'exception des objets spécialement conçus pour la publicité et dont la
-valeur unitaire ne dépasse pas 30 euros par bénéficiaire ;
+valeur unitaire ne dépasse pas 60 euros, toutes taxes comprises, par bénéficiaire (1) ;
 
 5° 6 100 euros pour les frais de réception, y compris les frais de restaurant et de spectacles.
+
+**Nota:**
+
+(1) Les dispositions prévues à l'article 1er de l'arrêté du 10 mai 2010 s'appliquent aux exercices clos à compter du 31
+décembre 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 mars 2002
-
-	**Cite**:
-
-	  - CGI 54 quater
+	  - Arrêté du 10 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -623,42 +619,41 @@ valeur unitaire ne dépasse pas 30 euros par bénéficiaire ;
 
 ###### Article 4 K
 
-Pour l'application de l'article 4 J, les diverses catégories de frais généraux s'entendent :
+Pour l'application de l'article 4 J, les diverses catégories de frais généraux s'entendent : 
 
 a. En ce qui concerne les rémunérations visées au 1°, du montant total des rémunérations de toute nature, fixes ou
 proportionnelles, qui sont admises en déduction des bénéfices imposables de l'employeur, des indemnités et allocations
 diverses, des remboursements de frais autres que ceux qui se rattachent directement à un acte de gestion de l'entreprise et
 des avantages en nature alloués aux personnes les mieux rémunérées, à l'exclusion de celles qui relèvent de l'impôt sur le
-revenu dans la catégorie des bénéfices industriels et commerciaux en raison de leur activité dans l'entreprise ;
+revenu dans la catégorie des bénéfices industriels et commerciaux en raison de leur activité dans l'entreprise ; 
 
 b. Pour les frais visés au 2°, des frais de voyage et de déplacement qui sont engagés par les personnes les mieux rémunérées
-dans le cadre de la gestion de l'entreprise et dont la charge incombe normalement à cette dernière ;
+dans le cadre de la gestion de l'entreprise et dont la charge incombe normalement à cette dernière ; 
 
 c. Pour les dépenses et charges énumérées au 3°, de celles qui sont afférentes aux véhicules et autres biens, y compris les
 immeubles non affectés à l'exploitation, que l'entreprise met à la disposition des personnes les mieux rémunérées. Toutefois,
 le montant de ces dépenses et charges dont il s'agit est diminué, le cas échéant, des dépenses qui, incombant à ces mêmes
-personnes, ont été prises en charge par l'entreprise, sous forme de rémunérations indirectes ;
+personnes, ont été prises en charge par l'entreprise, sous forme de rémunérations indirectes ; 
 
-d. Pour les dépenses visées au 4°, des cadeaux de toute nature, à l'exception de ceux qui sont spécialement conçus pour la
-publicité et dont la valeur unitaire n'excède pas 30 euros, toutes taxes comprises, par bénéficiaire ;
+d. (alinéa abrogé) (1). 
 
 e. Pour les frais visés au 5°, des frais de réception, y compris les frais de restaurant et de spectacles, qui se rattachent
 à la gestion de l'entreprise et dont la charge lui incombe normalement.
+
+**Nota:**
+
+(1) Les dispositions prévues à l'article 1er de l'arrêté du 10 mai 2010 s'appliquent aux exercices clos à compter du 31
+décembre 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 1 C JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2001-09-03 art. 8
-	  - HISTO: Edition du 31 mars 2002
+	  - Arrêté du 10 mai 2010 - art. 1
 
 	**Cite**:
 
-	  - CGIAN4 4 J
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 J (V)
 
 
 ###### Article 4 L
