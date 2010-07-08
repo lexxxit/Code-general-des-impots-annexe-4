@@ -2,36 +2,34 @@
 
 Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
 application des articles 322 et 322 A de l'annexe II au code général des impôts sont fixés conformément aux dispositions de
-l'article A. 421-3 du code des assurances ci-après reproduit :
+l'article A. 421-3 du code des assurances ci-après reproduit : 
 
-Art. A. 421-3 - Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de
-dommages en application des articles R. 421-27 et R. 421-28 du code des assurances sont fixés comme suit :
+Art.A. 421-3-Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de
+dommages en application des articles R. 421-27 et R. 421-28 du code des assurances sont fixés comme suit : 
 
 Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-27 : 1 % de la totalité des charges de la section
-relative aux opérations résultant de la défaillance d'entreprises d'assurance dommages.
+relative aux opérations résultant de la défaillance d'entreprises d'assurance dommages. 
 
 Contribution des entreprises d'assurance au titre du 3° de l'article R. 421-27 : 1 % de la totalité des charges de la section
-automobile.
+automobile. 
 
 Contribution des responsables d'accidents non assurés au titre du 4° de l'article R. 421-27 :
 
 - taux normal : 10 % des indemnités restant à leur charge ;
 
-- taux réduit : 5 % ;
+- taux réduit : 5 % ; 
 
-Contribution des assurés au titre du 5° de l'article R. 421-27 :
+Contribution des assurés au titre du 5° de l'article R. 421-27 : 1, 2 % des primes (1).
 
-0,1 % des primes.
+**Nota:**
+
+(1) Arrêté du 9 juin 2010 art. 2 : Ce taux est applicable aux primes émises à compter du 1er août 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2004-07-16 art. 1, art. 3 JORF 5 août 2004
-
-	**Codifié par**:
-
-	  - Arrêté 2004-10-08
+	  - Arrêté du 9 juin 2010 - art. 1
 
 	**Cite**:
 
@@ -42,4 +40,3 @@ Contribution des assurés au titre du 5° de l'article R. 421-27 :
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code des assurances - art. A421-3 (M)
-	  - HISTO: Edition du 31 août 2004
