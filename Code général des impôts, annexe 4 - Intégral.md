@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-07-15
+Version Consolidée au 2010-09-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15463,6 +15463,84 @@ Modification effectuée en conséquence des art. 28, III A [1°] et 28, III H-2 
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 D quater
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 155 A
+
+
+### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
+
+#### Chapitre unique : Impôts directs et taxes assimilées
+
+##### Section II : Autres impositions
+
+###### Article 155 bis A
+
+Les tarifs de la taxe minière sur l'or en Guyane applicables en 2010 sont fixés comme suit : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CATÉGORIES D'ENTREPRISES 
+
+</th>
+      <th>
+
+PAR KILOGRAMME 
+
+(extrait) 
+
+(en euros) 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Petites et moyennes entreprises 
+
+</td>
+      <td align="center">
+
+224, 18 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Autres entreprises 
+
+</td>
+      <td align="center">
+
+448, 36 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Tarif applicable au titre de l'année 2010 
+
+</td>
+      <td align="center">
+    </td></tr>
+  </tbody>
+</table>
+
+Ces tarifs ne comprennent pas les frais d'assiette et de recouvrement, de dégrèvement et de non-valeurs perçus au profit de
+l'Etat en application des articles 1641 et 1644 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 29 juillet 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1641
+	  - Code général des impôts, CGI. - art. 1644
 
 
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
