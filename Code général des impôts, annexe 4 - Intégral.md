@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-11-12
+Version Consolidée au 2010-11-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19410,7 +19410,7 @@ la caisse de compensation pour la décentralisation de l'industrie aéronautique
 
 les chambres d'agriculture ; 
 
-les chambres de métiers et de l'artisanat ; 
+les       chambres de métiers et de l'artisanat de région ; 
 
 les sections de l'office de répartition des produits industriels ; 
 
@@ -19427,8 +19427,7 @@ et 11 du décret n° 2009-340 du 27 mars 2009.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 12 (V)
-	  - Arrêté du 27 avril 2010 - art. 1
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 	**Cite**:
 
@@ -19484,7 +19483,7 @@ les chambres de commerce et d'industrie et ports autonomes ;
 
 les chambres d'agriculture ; 
 
-les chambres de métiers et de l'artisanat ; 
+les       chambres de métiers et de l'artisanat de région ; 
 
 le comité national interprofessionnel des viandes ; 
 
@@ -19498,7 +19497,7 @@ l'office national des anciens combattants et victimes de guerre ;
 
 voies navigables de France ; 
 
-l'     établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ; 
+l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ; 
 
 les offices publics de l'habitat ; 
 
@@ -19512,7 +19511,7 @@ Modification effectuée en conséquence des articles 10-I et 11 du décret n° 2
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 12 (V)
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 	**Cite**:
 
