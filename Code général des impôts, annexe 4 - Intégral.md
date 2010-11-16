@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2010-11-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3210,176 +3210,486 @@ bénéficiaire.
 La liste des biens négociés sur un marché à terme international pouvant être stockés dans un entrepôt fiscal mentionné au d
 du 2° du I de l'article 277 A du code général des impôts est fixée ainsi qu'il suit :
 
-CODE N.C. : DESCRIPTION DES BIENS.
+<table>
+  <tbody>
+    <tr>
+      <td width="227">
 
-8001 : Etain.
+CODE N.C.
 
-7402 : Cuivre. 
+</td>
+      <td width="454">
 
-7403 : -
+DESCRIPTION DES BIENS
 
-7405 : -
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
-7408 : -
+8001
 
-7901 : Zinc. 
+</td>
+      <td valign="top" width="454">
 
-7502 : Nickel. 
+Etain.
 
-7601 : Aluminium. 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
-7801 : Plomb. 
+7402
 
-Ex 8112.91 : Indium. 
+</td>
+      <td valign="top" width="454">
 
-Ex 8112.99 : -
+Cuivre.
 
-1001 à 1005 : Céréales. 
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+7403
+
+</td>
+      <td valign="top" width="454">
+    </td></tr>
+    <tr>
+      <td valign="top" width="227">
+
+7405
+
+</td>
+      <td width="454" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="227">
+
+7408
+
+</td>
+      <td valign="top" width="454">
+    </td></tr>
+    <tr>
+      <td width="227" valign="top">
+
+7901
+
+</td>
+      <td valign="top" width="454">
+
+Zinc.
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+7502
+
+</td>
+      <td valign="top" width="454">
+
+Nickel.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+7601
+
+</td>
+      <td valign="top" width="454">
+
+Aluminium.
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+7801
+
+</td>
+      <td width="454" valign="top">
+
+Plomb.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Ex 8112.92
+
+</td>
+      <td width="454" valign="top">
+
+Indium.
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+Ex 8112.99
+
+</td>
+      <td width="454" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="227">
+
+1001 à 1005
+
+</td>
+      <td width="454" valign="top">
+
+Céréales.
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
 1006 : uniquement le riz brut
 
+</td>
+      <td width="454" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="227">
+
 1007 à 1008
 
-1201 à 1207 : Graines et fruits oléagineux. 
+</td>
+      <td valign="top" width="454">
+    </td></tr>
+    <tr>
+      <td width="227" valign="top">
 
-0801 : Noix de coco, noix du Brésil et noix de cajou. 
+1201 à 1207
 
-0802 : Autres fruits à coques. 
+</td>
+      <td valign="top" width="454">
 
-0711.20 : Olives. 
+Graines et fruits oléagineux.
 
-1201 à 1207 : Graines et semences (y compris les graines de soya). <r> 0901.11.00 : Café non torréfié. 
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
-0901.12.00 : -
+0801
 
-0902 : Thé. 
+</td>
+      <td width="454" valign="top">
 
-1801 : Cacao, en fèves et brisures de fèves, brut ou torréfié. 
+Noix de coco, noix du Brésil et noix de cajou.
 
-1701.11 : Sucre brut. 
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
-1701.12 : -
+0802
 
-4001 : Caoutchouc, sous formes primaires ou en plaques, feuilles ou bandes.
+</td>
+      <td width="454" valign="top">
 
-4002 : -
+Autres fruits à coques.
 
-5101 : Laine. 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
-Chapitres 28 et 29 : Produits chimiques en vrac. 
+0711.20
 
-7106 : Argent. 
+</td>
+      <td width="454" valign="top">
 
-7110.11.00 : Platine (palladium, rhodium). 
+Olives.
 
-7110.21.00 : -
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
-7110.31.00 : -
+1201 à 1207
 
-0701 : Pommes de terre. 
+</td>
+      <td valign="top" width="454">
 
-1507 à 1515 : Graisses et huiles végétales et leurs fractions, brutes, raffinées, mais non chimiquement modifiées.
+Graines et semences (y compris les graines de soya).
 
-</r>
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
-**Liens relatifs à cet article**
+0901.11.00
 
-	**Créé par**:
+</td>
+      <td valign="top" width="454">
 
-	  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
+Café non torréfié.
 
-	**Cite**:
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
-	  - CGI 277 A
+0901.12.00
 
-	**Liens**:
+</td>
+      <td width="454" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="227">
 
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-	  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
+0902
 
+</td>
+      <td width="454" valign="top">
 
-###### Article 29 B
+Thé.
 
-Il est statué sur les demandes d'autorisation d'ouverture d'entrepôt fiscal présentées en application du 2° du I de l'article
-277 A du code général des impôts :
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
-1° Pour les entrepôts destinés à la fabrication de biens réalisée en commun par des entreprises, dont l'une au moins n'a pas
-d'établissement en France, en exécution d'un contrat international fondé sur le partage de cette fabrication et la propriété
-indivise des biens produits entre les entreprises contractantes, par le ministre chargé du budget ;
+1801
 
-2° Pour les entrepôts de stockage de biens négociés sur un marché à terme international, par le directeur général des
-impôts ;
+</td>
+      <td width="454" valign="top">
 
-3° Pour les entrepôts nationaux d'importation et d'exportation et pour le perfectionnement actif national :
+Cacao, en fèves et brisures de fèves, brut ou torréfié. 
 
-a) Par le receveur du bureau de douane dans le ressort duquel se trouvent les lieux de stockage ou de mise en oeuvre de l'un
-de ces régimes ;
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
-b) Par le directeur régional des douanes compétent, lorsque les lieux de stockage ou de mise en oeuvre de l'un de ces régimes
-relèvent du ressort territorial de plusieurs bureaux de douane, au sein d'une même circonscription douanière ;
+1701.11
 
-c) Par le directeur général des douanes et droits indirects dans les autres cas ou dans les cas visés aux a et b lorsque
-l'affaire est évoquée.
+</td>
+      <td valign="top" width="454">
 
-**Liens relatifs à cet article**
+Sucre brut. 
 
-	**Créé par**:
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
-	  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
+1701.12
 
-	**Cite**:
+</td>
+      <td valign="top" width="454">
+    </td></tr>
+    <tr>
+      <td width="227" valign="top">
 
-	  - CGI 277 A
+4001
 
-	**Liens**:
+</td>
+      <td width="454" valign="top">
 
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-	  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
+Caoutchouc, sous formes primaires ou en plaques, feuilles ou bandes. 
 
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
-###### Article 29 C
+4002
 
-Le registre des stocks et des mouvements de biens prévu au 1° du III de l'article 277 A du code général des impôts comporte
-les mentions suivantes :
+</td>
+      <td valign="top" width="454">
+    </td></tr>
+    <tr>
+      <td width="227" valign="top">
 
-a) Désignation du bien ;
+5101
 
-b) Quantité exprimée en masse nette, volume ou unité ;
+</td>
+      <td width="454" valign="top">
 
-c) Eléments nécessaires à l'identification et au suivi du bien pendant la durée du placement ;
+Laine.
 
-d) Date d'entrée du bien sous le régime ;
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
-e) Adresse complète du lieu de provenance du bien ;
+Chapitres 28 et 29
 
-f) Date de sortie du bien du régime ;
+</td>
+      <td valign="top" width="454">
 
-g) Adresse complète du lieu de destination du bien à la sortie du régime.
+Produits chimiques en vrac. 
 
-A l'issue de ces opérations, ce registre indique, pour chaque bien, les stocks détenus dans l'entrepôt.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
-Pour les entrepôts mentionnés aux c et e du 2° du I de l'article 277 A du code général des impôts, le registre doit contenir
-également les indications nécessaires au suivi et à l'identification des biens qui font l'objet de prestations de services.
+7106
+
+</td>
+      <td width="454" valign="top">
+
+Argent.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+7110.11.00
+
+</td>
+      <td width="454" valign="top">
+
+Platine (palladium, rhodium). 
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+7110.21.00
+
+</td>
+      <td width="454" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="227">
+
+7110.31.00
+
+</td>
+      <td valign="top" width="454">
+    </td></tr>
+    <tr>
+      <td width="227" valign="top">
+
+0701
+
+</td>
+      <td valign="top" width="454">
+
+Pommes de terre. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+1507 à 1515
+
+</td>
+      <td valign="top" width="454">
+
+Graisses et huiles végétales et leurs fractions, brutes, raffinées, mais non chimiquement modifiées.
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1996-05-28 art. 1 JORF 1er juin 1997
+	  - Arrêté du 12 novembre 2010 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
+	  - Code général des impôts, CGI. - art. 277 A
+
+
+###### Article 29 B
+
+Il est statué sur les demandes d'autorisation d'ouverture de régime suspensif présentées en application du 2° du I de
+l'article 277 A du code général des impôts : 
+
+1° Pour les entrepôts destinés à la fabrication de biens réalisée en commun par des entreprises, dont l'une au moins n'a pas
+d'établissement en France, en exécution d'un contrat international fondé sur le partage de cette fabrication et la propriété
+indivise des biens produits entre les entreprises contractantes, par le ministre chargé du budget ; 
+
+2° Pour les entrepôts de stockage de biens négociés sur un marché à terme international, par le directeur général des
+finances publiques ; 
+
+3° Pour le régime fiscal suspensif visé au a du 2° du I de l'article 277 A du code général des impôts : 
+
+a) Par le directeur régional des douanes compétent, lorsque les lieux de stockage ou de mise en œuvre de ce régime relèvent
+du ressort territorial de sa seule circonscription ; 
+
+b) Par le directeur régional des douanes compétent pour le lieu de tenue de la comptabilité-matières ou des registres,
+lorsque les lieux de stockage ou de mise en œuvre de ce régime relèvent de plusieurs circonscriptions douanières.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 novembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 277 A
+
+
+###### Article 29 C
+
+Le registre des stocks et des mouvements de biens prévu au 1° du III de l'article 277 A du code général des impôts comporte
+les mentions suivantes : 
+
+a) Désignation du bien ; 
+
+b) Quantité exprimée en masse nette, volume ou unité ; 
+
+c) Eléments nécessaires à l'identification et au suivi du bien pendant la durée du placement ; 
+
+d) Date d'entrée du bien sous le régime ; 
+
+e) Adresse complète du lieu de provenance du bien ; 
+
+f) Date de sortie du bien du régime ; 
+
+g) Adresse complète du lieu de destination du bien à la sortie du régime ; 
+
+h) La fonction utilisée, lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2° du I
+de l'article 277 A du code général des impôts a sollicité l'application de plusieurs des fonctions visées aux a à e de
+l'article 85 E de l'annexe III. 
+
+A l'issue de ces opérations, ce registre indique, pour chaque bien, les stocks détenus sous le régime suspensif, le cas
+échéant par fonction mentionnée sur la déclaration d'ouverture d'un régime mentionné au a du 2° du I de l'article 277 A du
+code général des impôts. 
+
+Pour les régimes suspensifs mentionnés aux a et e du 2° du I de l'article 277 A du code général des impôts, le registre doit
+contenir également les indications nécessaires au suivi et à l'identification des biens qui font l'objet de prestations de
+services.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Arrêté 1997-05-28
 
+	**Modifié par**:
+
+	  - Arrêté du 12 novembre 2010 - art. 1
+
 	**Cite**:
 
-	  - CGI 277 A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 85 E (V)
+	  - Code général des impôts, CGI. - art. 277 A
 
 	**Cité par**:
 
@@ -3387,109 +3697,113 @@ Pour les entrepôts mentionnés aux c et e du 2° du I de l'article 277 A du cod
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 29 E (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 29 F (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-	  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
-
 
 ###### Article 29 D
 
-Le registre relatif aux opérations réalisées sous l'un des régimes d'entrepôt fiscal prévu au 1° du III de l'article 277 A du
-code général des impôts indique, pour chaque bien, par livraison, importation ou acquisition intracommunautaire :
+Le registre relatif aux opérations réalisées sous l'un des régimes suspensifs prévu au 1° du III de l'article 277 A du code
+général des impôts indique, pour chaque bien, par livraison, importation ou acquisition intracommunautaire : 
 
-a) La date de l'opération ;
+a) La date de l'opération ; 
 
-b) Le montant de l'opération avec sa contre-valeur en euros, lorsque ce montant est exprimé en devises ;
+b) Le montant de l'opération avec sa contre-valeur en euros, lorsque ce montant est exprimé en devises ; 
 
-c) Les nom et adresse complète et, s'il y a lieu, le numéro d'identification à la T.V.A. du fournisseur ;
+c) Les nom et adresse complète et, s'il y a lieu, le numéro d'identification à la T.V.A. du fournisseur ; 
 
-d) Les nom et adresse complète et, s'il y a lieu, le numéro d'identification à la T.V.A. du client ;
+d) Les nom et adresse complète et, s'il y a lieu, le numéro d'identification à la T.V.A. du client ; 
 
-e) La désignation du bien et la référence dans le registre visé à l'article 29 C.
+e) La désignation du bien et la référence dans le registre visé à l'article 29 C ; 
 
-Pour les prestations de services, le registre contient, outre les mentions prévues aux a, b, c et d, la nature de l'opération
-et, s'il y a lieu, la désignation du bien auquel est afférente la prestation ainsi que la référence dans le registre visé à
-l'article 29 C.
+f) La fonction utilisée, lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2° du I
+de l'article 277 A du code général des impôts a sollicité l'application de plusieurs des fonctions visées aux a à e de
+l'article 85 E de l'annexe III. 
+
+Pour les prestations de services, le registre contient, outre les mentions prévues aux a, b, c, d et f, la nature de
+l'opération et, s'il y a lieu, la désignation du bien auquel est afférente la prestation ainsi que la référence dans le
+registre visé à l'article 29 C.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-09-03 art. 2 II JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
 	  - Arrêté 2002-06-06
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002)
+	  - Arrêté du 12 novembre 2010 - art. 1
 
 	**Cite**:
 
-	  - CGI 277 A
-	  - CGIAN4 29 C
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 85 E
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 29 C
+	  - Code général des impôts, CGI. - art. 277 A
 
 
 ###### Article 29 E
 
 Les registres visés aux articles 29 C et 29 D sont tenus sur support papier ou informatique. Ils doivent être identifiés. Ils
-retracent les mentions exigées dans l'ordre chronologique des opérations.
+retracent les mentions exigées dans l'ordre chronologique des opérations. 
 
-Ces informations sont conservées dans leur contenu originel.
+Ces informations sont conservées dans leur contenu originel. 
 
-Les registres sont conservés dans l'entrepôt fiscal.
+Les registres sont conservés au lieu de situation ou d'utilisation des biens ou des installations mentionné sur la demande
+d'autorisation d'ouverture du régime suspensif. 
 
 Leur conservation est assurée selon les modalités et dans les délais prévus à l'article L. 102 B du livre des procédures
 fiscales.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
+	  - Arrêté du 12 novembre 2010 - art. 1
 
 	**Cite**:
 
-	  - CGIAN4 29 C, 29 D
-	  - Livre des procédures fiscales - art. L102 B (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-	  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 29 C (V)
+	  - Livre des procédures fiscales - art. L102 B
 
 
 ###### Article 29 F
 
 Les registres visés aux articles 29 C et 29 D doivent être présentés à toute demande d'un agent de l'administration qui peut
-s'en faire délivrer copie.
+s'en faire délivrer copie. Les registres doivent être présentés de manière à pouvoir identifier et isoler chaque fonction
+utilisée lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2° du I de l'article 277
+A du code général des impôts a sollicité l'application de plusieurs des fonctions visées aux a à e de l'article 85 E de
+l'annexe III. 
 
 Si l'administration le demande, les registres tenus sur support informatique sont restitués sur support papier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1996-07-25 art. 1 JORF 28 juillet 1996
+	  - Arrêté du 12 novembre 2010 - art. 1
 
 	**Cite**:
 
-	  - CGIAN4 29 C, 29 D
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 85 E
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 29 C
+	  - Code général des impôts, CGI. - art. 277 A
 
-	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 1998-07-01 3D-4-98
-	  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
+###### Article 29 G
+
+Lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2° du I de l'article 277 A du
+code général des impôts a sollicité l'application de plusieurs des fonctions visées aux a à e de l'article 85 E de l'annexe
+III au code général des impôts, la comptabilité-matières qu'il a été autorisé à tenir conformément aux dispositions du 1° du
+III de l'article 277 A du code général des impôts retrace distinctement les informations concernant les biens pour chaque
+fonction utilisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 12 novembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 85 E
+	  - Code général des impôts, CGI. - art. 277 A
 
 
 ##### Section IV : Calcul de la taxe
