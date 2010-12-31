@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2010-11-17
+Version Consolidée au 2011-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2064,41 +2064,43 @@ a) Chaudières à condensation utilisées comme mode de chauffage ou de producti
 
 b) Acquisition de matériaux d'isolation thermique : 
 
-1° Matériaux d'isolation thermique des parois opaques : 
+1° Matériaux d'isolation thermique des parois opaques, dans la limite d'un plafond de dépenses fixé respectivement à 150 € et
+100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par
+l'intérieur : 
 
 Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, murs en façade ou en pignon, possédant une résistance
-supérieure ou égale à 2, 8 mètres carrés Kelvin par watt (m2.K / W) ; 
+supérieure ou égale à 2, 8 mètres carrés Kelvin par watt (m2.K/W) ; 
 
-Toitures-terrasses possédant une résistance supérieure ou égale à 3 m2.K / W ; 
+Toitures-terrasses possédant une résistance supérieure ou égale à 3 m2.K/W ; 
 
-Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 5 m2.K / W ; 
+Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 5 m2.K/W ; 
 
-Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 5 m2.K / W ; 
+Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 5 m2.K/W ; 
 
 2° Matériaux d'isolation thermique des parois vitrées : 
 
 Fenêtres ou portes-fenêtres composées en tout ou partie de polychlorure de vinyle (PVC), avec un coefficient de transmission
-thermique (Uw) inférieur ou égal à 1, 6 watt par mètre carré Kelvin (W / m2.K) ; cette valeur est ramenée à 1, 4 W / m2.K à
-partir du 1er janvier 2009 ; 
+thermique (Uw) inférieur ou égal à 1,6 watt par mètre carré Kelvin (W/m2.K) ; cette valeur est ramenée à 1,4 W/m2.K à partir
+du 1er janvier 2009 ; 
 
 Fenêtres ou portes-fenêtres composées en tout ou partie de bois, autres que celles mentionnées ci-dessus, avec un coefficient
-de transmission thermique (Uw) inférieur ou égal à 1, 8 W / m2.K ; cette valeur est ramenée à 1, 6 W / m2.K à partir du 1er
-janvier 2009 ; 
+de transmission thermique (Uw) inférieur ou égal à 1,8 W/m2.K ; cette valeur est ramenée à 1,6 W/m2.K à partir du 1er janvier
+2009 ; 
 
-Fenêtres ou portes-fenêtres métalliques avec un coefficient de transmission thermique (Uw) inférieur ou égal à 2 W / m2.K ;
-cette valeur est ramenée à 1, 8 W / m2.K à partir du 1er janvier 2009 ; 
+Fenêtres ou portes-fenêtres métalliques avec un coefficient de transmission thermique (Uw) inférieur ou égal à 2 W/m2.K ;
+cette valeur est ramenée à 1,8 W/m2.K à partir du 1er janvier 2009 ; 
 
 Vitrages de remplacement à isolation renforcée dénommés également vitrages à faible émissivité, installés sur une menuiserie
-existante et dont le coefficient de transmission thermique du vitrage (Ug) est inférieur ou égal à 1, 5 W / m2.K ; 
+existante et dont le coefficient de transmission thermique du vitrage (Ug) est inférieur ou égal à 1,5 W/m2.K ; 
 
 Doubles fenêtres, consistant en la pose sur la baie existante d'une seconde fenêtre à double vitrage renforcé, dont le
-coefficient de transmission thermique (Uw) est inférieur ou égal à 2 W / m2.K ; 
+coefficient de transmission thermique (Uw) est inférieur ou égal à 2 W/m2.K ; 
 
 3° Volets isolants : volets isolants caractérisés par une résistance thermique additionnelle apportée par l'ensemble volet-
-lame d'air ventilé supérieure à 0, 20 m2.K / W ; 
+lame d'air ventilé supérieure à 0,20 m2.K /W ; 
 
 4° Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire
-avec une résistance thermique supérieure ou égale à 1 m2.K / W ; 
+avec une résistance thermique supérieure ou égale à 1 m2.K/W ; 
 
 5° Portes d'entrée donnant sur l'extérieur présentant un coefficient Ud inférieur ou égal à 1,8 W/m².K ;
 
@@ -2167,8 +2169,129 @@ référentiel de la norme d'essai 14511-2 ;
 
 5° (Paragraphe abrogé) ;
 
-6° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire ayant un coefficient de performance supérieur à 2,2
-selon le référentiel de la norme d'essai EN 255-3 ; 
+6° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire répondant, selon le référentiel de la norme d'essai EN
+255-3, aux critères suivants en fonction de la technologie utilisée : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+TECHNOLOGIE UTILISÉE
+
+(source) 
+
+</th>
+        <th>
+
+COP SUPÉRIEUR À 
+
+</th>
+        <th>
+
+TEMPÉRATURE D'ESSAI
+
+(source) 
+
+</th>
+        <th>
+
+TEMPÉRATURE
+
+de consigne de l'eau 
+
+</th>
+      </tr>
+      <tr>
+        <td align="center">
+
+Air ambiant 
+
+</td>
+        <td align="center">
+
+2,5 
+
+</td>
+        <td align="center">
+
++ 7° C 
+
+</td>
+        <td align="center">
+
++ 50° 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Air extérieur 
+
+</td>
+        <td align="center">
+
+2,5 
+
+</td>
+        <td align="center">
+
++ 7° C 
+
+</td>
+        <td align="center">
+
++ 50° 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Air extrait 
+
+</td>
+        <td align="center">
+
+2,9 
+
+</td>
+        <td align="center">
+
++ 20° C 
+
+</td>
+        <td align="center">
+
++ 50° 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Géothermie 
+
+</td>
+        <td align="center">
+
+2,5 
+
+</td>
+        <td align="center">
+
+- 
+
+</td>
+        <td align="center">
+
++ 50°
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 c) Equipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une
 installation de cogénération, qui s'entendent des éléments suivants : 
@@ -2246,7 +2369,7 @@ suivants :
 
 	**Modifié par**:
 
-	  - Arrêté du 30 décembre 2009 - art. 1
+	  - Arrêté du 30 décembre 2010 - art. 1
 
 	**Cite**:
 
@@ -4486,102 +4609,57 @@ d'ouvrage.
 
 ##### C : Déclaration des échanges de biens entre Etats membres de la Communauté européenne
 
-###### Article 41 sexies
-
-I. Les modalités de dérogation prévues au cinquième alinéa du I de l'article 96 K de l'annexe III au code général des impôts
-sont les suivantes :
-
-Ne sont pas tenues d'utiliser les formulaires CERFA mentionnés audit article 96 K pour satisfaire à leurs obligations en
-matière de déclaration d'échanges de biens les entreprises qui, au cours de l'année civile précédente, ont déclaré, pour
-chaque flux, moins de 100 lignes par mois en moyenne.
-
-II. Les entreprises mentionnées au I doivent présenter la déclaration d'échanges de biens sous forme d'un document qui
-respecte l'ordre et l'intitulé des rubriques ; l'en-tête reprenant les données communes à tous les articles de la déclaration
-doit être correctement rempli ; la numérotation des lignes de la déclaration doit être continue et commencer à 1.
-
-Ces entreprises doivent se rapprocher du service douanier de saisie des données dont elles dépendent pour vérifier la
-conformité du document.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
-
-	**Abrogé par**:
-
-	  - Arrêté du 16 décembre 2010 - art. 1
-
-	**Cite**:
-
-	  - CGIAN3 96 K
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-
 ###### Article 41 sexies A
 
-I. - La position spécifique de la nomenclature combinée visée au a et au d du 3 de l'article 96 L de l'annexe III au code
-général des impôts est identifiée par le code 99500000.
+I.-La position spécifique de la nomenclature combinée mentionnée au b du 3 de l'article 96 L de l'annexe III au code général
+des impôts est identifiée par le code 99500000. 
 
-II. - Le montant en valeur du seuil de transaction visé au d du 3 de l'article 96 L de l'annexe III au code général des
-impôts est fixé à 100 euros.
+II.-Le montant en valeur du seuil de transaction mentionné au b du 3 de l'article 96 L précité est fixé à 200 €. 
 
-III. - Le montant total figurant sous la nomenclature spécifique prévue au I ne peut dépasser 1500 euros par déclaration
-mensuelle pour les opérateurs dont le montant annuel des échanges intracommunautaires dépasse le seuil de simplification.
+III.-Le montant total figurant sous la nomenclature spécifique prévue au I ne peut dépasser 2 000 € par déclaration
+mensuelle.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2001-09-03 art. 5 VII, art. 8 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
 	  - Arrêté 2002-06-06
 
+	**Modifié par**:
+
+	  - Arrêté du 16 décembre 2010 - art. 2
+
 	**Cite**:
 
-	  - CGIAN3 96 L
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 L
 
 
 ###### Article 41 sexies B
 
-I. - Le montant annuel en valeur du seuil d'assimilation est fixé à 150 000 euros à l'introduction comme à l'expédition.
+I.-Le montant annuel en valeur du seuil statistique mentionné à l'article 96 L de l'annexe III au code général des impôts est
+fixé à 460 000 € hors taxes à l'introduction comme à l'expédition. 
 
-II. - Le montant annuel en valeur du seuil de simplification est fixé à 230 000 euros à l'introduction et à 460 000 euros à
-l'expédition.
+II.-Le seuil statistique est atteint pour l'année en cours et pour le flux considéré lorsque l'assujetti se trouve dans l'une
+des deux situations suivantes : 
 
-III. - Un seuil annuel de 2 300 000 euros est institué au-delà duquel les déclarations d'échanges de biens entre Etats
-membres doivent comporter l'ensemble des données prévues par l'article 96 L de l'annexe III au code général des impôts.
+a. l'assujetti a réalisé au cours de l'année civile précédente des expéditions ou des introductions d'un montant hors taxes
+supérieur à 460 000 € ; 
+
+b. l'assujetti dépasse le seuil de 460 000 € en cours d'année.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2005-12-08 art. 1, art. 2 JORF 16 décembre 2005
 
 	**Codifié par**:
 
 	  - Arrêté 2006-03-24
 
+	**Modifié par**:
+
+	  - Arrêté du 16 décembre 2010 - art. 3
+
 	**Cite**:
 
-	  - CGIAN3 96 L
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 L
 
 
 ##### D : Factures transmises par voie télématique
@@ -11743,43 +11821,25 @@ Produits pour l'entretien de la chevelure (l'hygiène et les soins de la chevelu
 
 ###### Article 52 ter
 
-I.-Le contingent annuel d'exportation de 90 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts
-est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et,
-d'autre part, entre les départements d'outre-mer jusqu'au 31 décembre 2011 conformément au tableau ci-après : 
+Le contingent annuel d'exportation de 108 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
+réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie et, d'autre part, entre les
+départements d'outre-mer jusqu'au 31 décembre 2012 conformément au tableau ci-après : 
 
-Martinique : rhum traditionnel agricole, 32 645 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 9 205 hectolitres
+Martinique : rhum traditionnel agricole, 38 842 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 10 195 hectolitres
 d'alcool pur ; 
 
-Guadeloupe : rhum traditionnel agricole, 5 350 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 25 650 hectolitres
+Guadeloupe : rhum traditionnel agricole, 9 954 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 27 944 hectolitres
 d'alcool pur ; 
 
-Réunion : rhum traditionnel de sucrerie, 17 000 hectolitres d'alcool pur ; 
+Réunion : rhum traditionnel de sucrerie, 20 615 hectolitres d'alcool pur ; 
 
-Guyane : rhum traditionnel agricole, 150 hectolitres d'alcool pur. 
-
-II.-Le contingent additionnel annuel d'exportation de 18 000 hectolitres d'alcool pur est réparti, d'une part, entre rhum
-traditionnel agricole et rhum traditionnel de sucrerie produit à partir de mélasse et, d'autre part, entre les départements
-d'outre-mer jusqu'au 31 décembre 2010, conformément au tableau ci-après : 
-
-Martinique : rhum traditionnel agricole, 6 197 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 990 hectolitres
-d'alcool pur ; 
-
-Guadeloupe : rhum traditionnel agricole, 4 604 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 2 294 hectolitres
-d'alcool pur ; 
-
-Réunion : rhum traditionnel de sucrerie, 3 615 hectolitres d'alcool pur ; 
-
-Guyane : rhum traditionnel agricole, 300 hectolitres d'alcool pur.
-
-**Nota:**
-
-Modification effectuée en conséquence des arrêtés des 31 décembre 1999, 10 juin et 14 novembre 2008.
+Guyane : rhum traditionnel agricole, 450 hectolitres d'alcool pur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 27 avril 2010 - art. 1
+	  - Arrêté du 3 février 2011 - art. 1
 
 	**Cite**:
 
@@ -19688,7 +19748,7 @@ voies navigables de France ;
 
 la caisse nationale du crédit agricole ; 
 
-les chambres de commerce et d'industrie et ports autonomes ; 
+les      chambres de commerce et d'industrie territoriales et ports autonomes ; 
 
 le comité national interprofessionnel des viandes ; 
 
@@ -19724,7 +19784,7 @@ la caisse de compensation pour la décentralisation de l'industrie aéronautique
 
 les chambres d'agriculture ; 
 
-les       chambres de métiers et de l'artisanat de région ; 
+les chambres de métiers et de l'artisanat de région ; 
 
 les sections de l'office de répartition des produits industriels ; 
 
@@ -19734,14 +19794,15 @@ l'office national des anciens combattants et victimes de guerre.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 36-II B de la loi n° 2006-1666 du 21 décembre 2006 et des articles 10-I
-et 11 du décret n° 2009-340 du 27 mars 2009.
+Modifications effectuées en conséquence de l'article 36-II B de la loi n° 2006-1666 du 21 décembre 2006, des articles 10-I et
+11 du décret n° 2009-340 du 27 mars 2009 et de l'article 87-1° du décret n° 2010-1463 du 1er décembre 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
@@ -19793,11 +19854,11 @@ la caisse générale de garantie des assurances sociales ;
 
 la caisse de compensation pour la décentralisation de l'industrie aéronautique ; 
 
-les chambres de commerce et d'industrie et ports autonomes ; 
+les      chambres de commerce et d'industrie territoriales et ports autonomes ; 
 
 les chambres d'agriculture ; 
 
-les       chambres de métiers et de l'artisanat de région ; 
+les chambres de métiers et de l'artisanat de région ; 
 
 le comité national interprofessionnel des viandes ; 
 
@@ -19825,7 +19886,8 @@ Modification effectuée en conséquence des articles 10-I et 11 du décret n° 2
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
