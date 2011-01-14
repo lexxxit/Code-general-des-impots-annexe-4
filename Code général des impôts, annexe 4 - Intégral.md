@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2011-01-02
+Version Consolidée au 2011-01-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6333,7 +6333,7 @@ L'ensemble des produits définis aux articles 275 A à 275 G de l'annexe II au c
 originales, timbres, objets de collection ou d'antiquité repris aux numéros 97-04, 97-05 et 97-06 du tarif des droits de
 douane d'importation lorsqu'ils sont destinés :
 
-1° A la Réunion des musées nationaux ;
+1° A l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées ;
 
 2° Aux musées de l'Etat des départements et des communes ;
 
@@ -6356,7 +6356,7 @@ objets dans l'inventaire de l'établissement destinataire.
 
 	**Modifié par**:
 
-	  - Arrêté du 27 avril 2010 - art. 1
+	  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (V)
 
 
 ##### Section VII : Régimes spéciaux
