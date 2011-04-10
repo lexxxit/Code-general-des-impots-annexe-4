@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2011-03-03
+Version Consolidée au 2011-04-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4171,12 +4171,10 @@ Lécithines.
 a. Sous réserve des dispositions propres aux entreprises étrangères qui n'ont pas d'établissement en France et des
 dérogations prévues à l'article 33, les déclarations prescrites par l'article 286 et le 1 de l'article 287 du code général
 des impôts doivent être souscrites par les redevables de la taxe sur la valeur ajoutée pour l'ensemble des opérations qu'ils
-réalisent autres que les importations auprès du service des impôts auquel doit parvenir leur déclaration de bénéfice ou de
-revenu. 
+réalisent autres que les importations et les opérations visées au 2° du 3 du I de l'article 257 du code général des impôts
+auprès du service des impôts auquel doit parvenir leur déclaration de bénéfice ou de revenu. 
 
-b. Toutefois les déclarations souscrites par des personnes qui réalisent des opérations soumises à la taxe sur la valeur
-ajoutée à titre occasionnel doivent être déposées auprès du service dans le ressort duquel se trouve le lieu où sont
-accomplies les opérations. 
+b. (Abrogé). 
 
 c. Alinéas périmés.
 
@@ -4188,7 +4186,7 @@ Modification effectuée en conséquence de l' article 15-I de l'ordonnance n° 2
 
 	**Modifié par**:
 
-	  - Arrêté du 1er avril 2008 - art. 1
+	  - Arrêté du 8 avril 2011 - art. 1
 
 	**Cité par**:
 
@@ -4197,30 +4195,25 @@ Modification effectuée en conséquence de l' article 15-I de l'ordonnance n° 2
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 287 (V)
+	  - Code général des impôts, CGI. - art. 257 (V)
 	  - Code général des impôts, CGI. - art. 286
+	  - Code général des impôts, CGI. - art. 287
 
 
 ###### Article 33
 
-Les dispositions de l'article 32 ne sont pas applicables aux personnes désignées ci-après : 
-
-Personnes qui réalisent les opérations définies au 6° de l'article 257 du code général des impôts ; 
-
-Personnes se livrant aux activités visées au 7° de l'article 257 du même code ou à des activités assimilées à l'exclusion des
-personnes visées à l'article 50 sexies A.
-
-Personnes physiques propriétaires d'immeubles loués ou de monuments historiques ouverts au public dont les loyers ou les
-recettes sont imposés à l'impôt sur le revenu dans la catégorie des revenus fonciers : les déclarations prévues par les
-articles 286 et 287 du code général des impôts sont déposées auprès du service des impôts du lieu de situation de l'immeuble.
-En cas de pluralité d'immeubles, les obligations déclaratives sont remplies auprès du service des impôts du lieu de situation
-du bien dont le chiffre d'affaires est le plus élevé.
+Les dispositions de l'article 32 ne sont pas applicables aux personnes physiques propriétaires d'immeubles loués ou de
+monuments historiques ouverts au public dont les loyers ou les recettes sont imposés à l'impôt sur le revenu dans la
+catégorie des revenus fonciers : les déclarations prévues par les articles 286 et 287 du code général des impôts sont
+déposées auprès du service des impôts du lieu de situation de l'immeuble. En cas de pluralité d'immeubles, les obligations
+déclaratives sont remplies auprès du service des impôts du lieu de situation du bien générateur du chiffre d'affaires le plus
+élevé.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 7 avril 2009 - art. 1 (V)
+	  - Arrêté du 8 avril 2011 - art. 2
 
 	**Cité par**:
 
@@ -4228,8 +4221,6 @@ du bien dont le chiffre d'affaires est le plus élevé.
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies A
-	  - Code général des impôts, CGI. - art. 257
 	  - Code général des impôts, CGI. - art. 286
 
 
@@ -5592,76 +5583,6 @@ un groupement professionnel ou interprofessionnel et spécialement agréé.
 	**Cite**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 49 (V)
-
-
-##### F : Opérations immobilières
-
-###### Article 50 sexies
-
-Les personnes qui réalisent les affaires définies au 6° de l'article 257 du code général des impôts doivent, outre la tenue
-du livre spécial visé au 3° du I de l'article 286 dudit code, tenir deux répertoires à colonnes, présentant jour par jour,
-sans blanc ni interligne, et par ordre de numéro, tous les mandats, promesses de ventes, actes translatifs de propriété et,
-d'une manière générale tous actes se rattachant à leur profession d'intermédiaire ou à leur qualité de propriétaire ; l'un
-des répertoires est affecté aux opérations d'intermédiaire, l'autre aux opérations effectuées en qualité de propriétaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Modifié par**:
-
-	  - Loi n°2004-1485 2004-12-30 art. 95 I D, IV Finances rectificative pour 2004 JORF 31 décembre 2004
-
-	**Abrogé par**:
-
-	  - Arrêté du 8 avril 2011 - art. 3
-
-	**Cite**:
-
-	  - CGI 257, 286
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-
-###### Article 50 sexies A
-
-Les personnes qui réalisent habituellement des opérations visées au 7° l'article 257 du code général des impôts autres que
-celles portant sur des droits sociaux sont tenues de déclarer mensuellement ou trimestriellement leurs affaires au service
-des impôts dont relève le lieu où elles doivent établir leur déclaration de bénéfice.
-
-La justification de la prise en charge de la taxe sur la valeur ajoutée par le service des impôts compétent est constituée
-par la désignation de ce service et par l'indication du numéro d'identification attribué au redevable, dans l'acte et dans
-l'extrait d'acte prévu à l'article 860 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Abrogé par**:
-
-	  - Arrêté du 8 avril 2011 - art. 3
-
-	**Cite**:
-
-	  - CGI 257, 860
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 33 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### G : Exploitants de spectacles
