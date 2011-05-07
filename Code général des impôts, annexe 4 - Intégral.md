@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2011-04-11
+Version Consolidée au 2011-05-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10311,6 +10311,24 @@ d'œufs en coquille
 	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
 	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
 	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
+
+
+#### Chapitre V : Contribution de solidarité territoriale
+
+###### Article 50 quaterdecies B
+
+Le taux de la contribution de solidarité territoriale prévu à l'article 302 bis ZC du code général des impôts est fixé à
+2,279 %.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 13 avril 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 bis ZC
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
