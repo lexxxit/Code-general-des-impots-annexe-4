@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2011-05-08
+Version Consolidée au 2011-06-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1753,6 +1753,8 @@ l'arrêté du 28 décembre 1967.
 
 ##### Retenue à la source de l'impôt sur le revenu
 
+##### 1° Retenue à la source de l'impôt sur le revenu
+
 ###### Article 18
 
 Pour l'année 2011, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
@@ -1957,6 +1959,8 @@ Jour ou fraction de jour
 
 ##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
 
+##### 2° Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
+
 ###### Article 18-0 bis
 
 La liste des équipements mentionnés au huitième alinéa du 6 de l'article 199 undecies A du code général des impôts est fixée
@@ -1988,6 +1992,8 @@ Modifications effectuées en conséquence de l'article 38-I [6°] de la loi n° 
 
 ##### Réduction d'impôt pour l'acquisition de certains véhicules de tourisme outre-mer
 
+##### 3° Réduction d'impôt pour l'acquisition de certains véhicules de tourisme outre-mer
+
 ###### Article 18-0 bis A
 
 Les véhicules de tourisme strictement indispensables à l'activité de l'exploitant, mentionnés à la deuxième phrase du
@@ -2010,6 +2016,8 @@ leurs remorques, sans lesquels l'entreprise ne pourrait poursuivre son activité
 
 
 ##### Réduction d'impôt accordée au titre d'une opération d'investissement locatif 
+
+##### 4° Réduction d'impôt accordée au titre d'une opération d'investissement locatif 
 
 ###### Article 18-0 ter
 
@@ -2048,6 +2056,8 @@ Modifications effectuées en conséquence des articles 1er et 3 de l'arrêté du
 
 
 ##### Crédit d'impôt pour dépenses d'équipement de l'habitation principale
+
+##### 5° Crédit d'impôt pour dépenses d'équipement de l'habitation principale
 
 ###### Article 18 bis
 
@@ -17617,6 +17627,10 @@ Les taux de la taxe sont fixés par arrêté.
 
 	  - Code général des impôts, CGI. - art. 1609 vicies (V)
 
+
+##### Section II : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles
+
+##### III : Huiles
 
 ##### Section III : Taxe d'abattage
 
