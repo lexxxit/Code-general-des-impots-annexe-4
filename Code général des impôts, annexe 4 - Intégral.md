@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2011-06-01
+Version Consolidée au 2011-06-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1751,8 +1751,6 @@ l'arrêté du 28 décembre 1967.
 
 ##### Section IV : Calcul de l'impôt
 
-##### Retenue à la source de l'impôt sur le revenu
-
 ##### 1° Retenue à la source de l'impôt sur le revenu
 
 ###### Article 18
@@ -1957,8 +1955,6 @@ Jour ou fraction de jour
 	  - Arrêté du 31 décembre 2010 - art. 1
 
 
-##### Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
-
 ##### 2° Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
 
 ###### Article 18-0 bis
@@ -1990,8 +1986,6 @@ Modifications effectuées en conséquence de l'article 38-I [6°] de la loi n° 
 	  - Code général des impôts, CGI. - art. 199 undecies A (V)
 
 
-##### Réduction d'impôt pour l'acquisition de certains véhicules de tourisme outre-mer
-
 ##### 3° Réduction d'impôt pour l'acquisition de certains véhicules de tourisme outre-mer
 
 ###### Article 18-0 bis A
@@ -2014,8 +2008,6 @@ leurs remorques, sans lesquels l'entreprise ne pourrait poursuivre son activité
 
 	  - Arrêté du 5 février 2010 - art. 1
 
-
-##### Réduction d'impôt accordée au titre d'une opération d'investissement locatif 
 
 ##### 4° Réduction d'impôt accordée au titre d'une opération d'investissement locatif 
 
@@ -2054,8 +2046,6 @@ Modifications effectuées en conséquence des articles 1er et 3 de l'arrêté du
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis B (V)
 
-
-##### Crédit d'impôt pour dépenses d'équipement de l'habitation principale
 
 ##### 5° Crédit d'impôt pour dépenses d'équipement de l'habitation principale
 
@@ -4840,6 +4830,8 @@ organique et l'exploitation du logiciel de télétransmission.
 
 
 ##### E : Services fournis par voie électronique
+
+##### E : Remboursement de la taxe aux assujettis établis dans l'Union européenne
 
 ###### Article 41 decies
 
@@ -12439,6 +12431,14 @@ code général des impôts, pris en charge par le destinataire.
 	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
+##### A : Capsules représentatives des droits sur les alcools et boissons alcooliques
+
+##### 1 : Caractéristiques des capsules
+
+##### 2 : Fabrication des capsules
+
+##### 3 : Utilisation des capsules
+
 ##### D : Emploi des capsules représentatives des droits par les récoltants
 
 ###### Article 54-0 BV
@@ -12549,6 +12549,8 @@ obligatoirement ses nom et adresse.
 
 
 ##### II : Factures-congés
+
+##### II : Documents d'accompagnement
 
 ###### Article 54 A
 
@@ -13283,6 +13285,18 @@ copie de la fiche d'apport, annotée par le service, doit accompagner la déclar
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 209-0 A (V)
 
+
+#### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine
+
+##### 1° : Organisation des bureaux de garantie
+
+##### 3° : Les commissionnaires en garantie
+
+##### 4° : Convention d'habilitation
+
+##### 4° bis : Organismes de contrôle agréés
+
+##### 5° : Obligations des redevables
 
 #### Chapitre II : Tabacs
 
@@ -17597,7 +17611,7 @@ l'âge du véhicule se détermine à partir de la date de la première mise en c
 
 #### Chapitre II : Taxes sur le chiffre d'affaires et taxes diverses assimilées
 
-##### Section II : Etablissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles
+##### Section II : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles
 
 ##### III : Huiles
 
@@ -17627,10 +17641,6 @@ Les taux de la taxe sont fixés par arrêté.
 
 	  - Code général des impôts, CGI. - art. 1609 vicies (V)
 
-
-##### Section II : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles
-
-##### III : Huiles
 
 ##### Section III : Taxe d'abattage
 
@@ -17738,6 +17748,8 @@ Imprimantes, machines à copier et machines à télécopier, même combinées en
 #### Chapitre III : Enregistrement
 
 ##### Section I : Fonds national de garantie des calamités agricoles.
+
+##### Section I : Fonds national de gestion des risques en agriculture
 
 ###### Article 159 quater
 
