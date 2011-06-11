@@ -47,11 +47,11 @@ b. Ou le registre prévu à l'article 321-7 du code pénal sur lequel les ouvrag
 portés individuellement, quelle que soit leur valeur, avec une encre de couleur différente de celle utilisée pour les autres
 objets ; 
 
-c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des stocks prévu au c du 1 du présent article,
-sous réserve que les enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par
-création d'un nouvel enregistrement avec indication de son motif et que le répertoire contenant ces informations soit
-spécifique et comprenne un système d'identification des pages par chiffre de contrôle, contenant un algorithme ou un système
-fondé notamment sur la date de l'opération, reporté en fin et en tête des pages imprimées quotidiennement.
+c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des stocks prévu au c du 1, sous réserve que les
+enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par création d'un nouvel
+enregistrement avec indication de son motif et que le répertoire contenant ces informations soit spécifique et comprenne un
+système d'identification des pages par chiffre de contrôle, contenant un algorithme ou un système fondé notamment sur la date
+de l'opération, reporté en fin et en tête des pages imprimées quotidiennement.
 
 L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
 
@@ -59,13 +59,13 @@ L'opérateur doit être en mesure d'éditer quotidiennement les informations rel
 
 	**Modifié par**:
 
-	  - Arrêté du 16 décembre 2009 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
 	  - Code de commerce - art. L123-12
 	  - Code de commerce - art. L123-17
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies
 	  - Code général des impôts, CGI. - art. 286
 	  - Code pénal - art. 321-7
 

@@ -11,19 +11,19 @@ ou bordereaux ou fiches de confiés, tenant lieu de registre, est autorisée pou
 indications reprises à l'article 56 J quindecies devront y figurer. 
 
 Le registre prévu à l'article 56 J quaterdecies, pour les ouvrages confiés pour réparation peut être remplacé par un contrat
-de dépôt, les fiches " réparation-facture-horlogerie ". Ce contrat et ces fiches doivent indiquer le nom et l'adresse du
-déposant et du dépositaire, la date et le numéro de contrat ou de la fiche dans une série continue, la désignation complète
-et détaillée des objets confiés et, en particulier, la nature, le poids, le métal et le titre des ouvrages. Ce registre peut
-être établi au moyen d'un logiciel reprenant la désignation complète et détaillée des ouvrages et des matières confiées telle
-qu'énoncée à l'article 56 J quindecies.
+de dépôt ou par des fiches " réparation-facture-horlogerie ". Ce contrat et ces fiches doivent indiquer le nom et l'adresse
+du déposant et du dépositaire, la date et le numéro de contrat ou de la fiche dans une série continue, la désignation
+complète et détaillée des objets confiés et, en particulier, la nature, le poids, le métal et le titre des ouvrages. Ce
+registre peut être établi au moyen d'un logiciel reprenant la désignation complète et détaillée des ouvrages et des matières
+confiées telle qu'énoncée à l'article 56 J quindecies.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 16 décembre 2009 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies

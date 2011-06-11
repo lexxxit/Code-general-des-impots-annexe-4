@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2011-06-07
+Version Consolidée au 2011-06-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -583,38 +583,42 @@ membre de la Communauté européenne.
 Les entreprises exerçant une activité industrielle ou commerciale et soumises à l'impôt sur le revenu d'après leur bénéfice
 réel ainsi que les entreprises passibles de l'impôt sur les sociétés sont tenues de fournir, à l'appui de la déclaration des
 résultats de chaque exercice, le relevé détaillé des catégories de frais généraux prévu à l'article 54 quater du code général
-des impôts lorsque ces frais excèdent, pour une ou plusieurs desdites catégories, l'un des chiffres suivants :
+des impôts lorsque ces frais excèdent, pour une ou plusieurs desdites catégories, l'un des chiffres suivants : 
 
-1° 300 000 euros ou 150 000 euros pour l'ensemble des rémunérations directes ou indirectes versées aux 10 ou 5 personnes les
-mieux rémunérées, suivant que l'effectif du personnel dépasse ou non 200 salariés, ou 50 000 euros pour l'une d'entre elles
-prise individuellement ;
+1° 300 000 € ou 150 000 € pour l'ensemble des rémunérations directes ou indirectes versées aux 10 ou 5 personnes les mieux
+rémunérées, suivant que l'effectif du personnel dépasse ou non 200 salariés, ou 50 000 € pour l'une d'entre elles prise
+individuellement ; 
 
-2° 15 000 euros pour les frais de voyage et de déplacement exposés par ces personnes ;
+2° 15 000 € pour les frais de voyage et de déplacement exposés par ces personnes ; 
 
-3° 30 000 euros pour le total, d'une part, des dépenses et charges afférentes aux véhicules et autres biens dont elles
-peuvent disposer en dehors des locaux professionnels et, d'autre part, des dépenses et charges de toute nature afférentes aux
-immeubles qui ne sont pas affectés à l'exploitation ;
+3° 30 000 € pour le total, d'une part, des dépenses et charges afférentes aux véhicules et autres biens dont elles peuvent
+disposer en dehors des locaux professionnels et, d'autre part, des dépenses et charges de toute nature afférentes aux
+immeubles qui ne sont pas affectés à l'exploitation ; 
 
-4° 3 000 euros pour les cadeaux de toute nature, à l'exception des objets spécialement conçus pour la publicité et dont la
-valeur unitaire ne dépasse pas 60 euros, toutes taxes comprises, par bénéficiaire (1) ;
+4° 3 000 € pour les cadeaux de toute nature, à l'exception des objets spécialement conçus pour la publicité et dont la valeur
+unitaire ne dépasse pas 65 €, toutes taxes comprises, par bénéficiaire ; 
 
-5° 6 100 euros pour les frais de réception, y compris les frais de restaurant et de spectacles.
+5° 6 100 € pour les frais de réception, y compris les frais de restaurant et de spectacles.
 
 **Nota:**
 
-(1) Les dispositions prévues à l'article 1er de l'arrêté du 10 mai 2010 s'appliquent aux exercices clos à compter du 31
-décembre 2010.
+Modification effectuée en conséquence de l'article 3 de l'arrêté du 12 octobre 2005 et de l'article 2 de l'arrêté du 10 mai
+2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 10 mai 2010 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 K (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 L (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 54 quater (V)
 
 
 ###### Article 4 K
@@ -3125,21 +3129,22 @@ des impôts :
 
 ###### Article 23 N
 
-La limite visée au a du 1 du 8° de l'article 257 du code général des impôts est fixée à 60 euros toutes taxes comprises.
+La limite visée au 1° du 1 du II de l'article 257 du code général des impôts est fixée à 65 € toutes taxes comprises.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 94-II de la loi n° 2010-1657 du 29 décembre 2010 et de l'article 3 de
+l'arrêté du 12 octobre 2005.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 12 octobre 2005 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
-	  - CGI 257
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 257 (V)
 
 
 ##### I bis : Opérations imposables sur option
@@ -3310,14 +3315,18 @@ passagers.
 ###### Article 28-00 A
 
 Les biens de très faible valeur mentionnés au 3° du 2 du IV de l'article 206 de l'annexe II au code général des impôts
-s'entendent de ceux dont la valeur unitaire n'excède pas 60 Euros toutes taxes comprises par objet et par an pour un même
+s'entendent de ceux dont la valeur unitaire n'excède pas 65 € toutes taxes comprises par objet et par an pour un même
 bénéficiaire.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 3 de l'arrêté du 12 octobre 2005.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 28 décembre 2007 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
@@ -4680,38 +4689,6 @@ pour le jour de publication suivant.
 	  - HISTO: Edition du 31 août 2003
 
 
-###### Article 41 octies
-
-Les entreprises visées au I de l'article 41 septies qui souhaitent utiliser un système de télétransmission de factures en
-informent l'administration en joignant à leur déclaration de résultats ou de bénéfices un état mentionnant les éléments
-suivants :
-
-a. Les coordonnées du service responsable de la télétransmission ;
-
-b. Le nom du logiciel et sa version ;
-
-c. Les normes et les versions des messages factures.
-
-**Nota:**
-
-Article périmé en conséquence de la péremption du II de l'article 289 bis du CGI.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2003-07-18 art. 2 JORF 20 juillet 2003
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 9 juin 2011 - art. 1
-	  - HISTO: Edition du 31 août 2003
-
-	**Cite**:
-
-	  - CGI 41 septies
-
-
 ###### Article 41 septies
 
 Les systèmes de télétransmission des factures utilisés par les entreprises dans les conditions prévues par l'article 289 bis
@@ -4828,8 +4805,6 @@ organique et l'exploitation du logiciel de télétransmission.
 
 	  - HISTO: Edition du 31 août 2003
 
-
-##### E : Services fournis par voie électronique
 
 ##### E : Remboursement de la taxe aux assujettis établis dans l'Union européenne
 
@@ -11853,7 +11828,7 @@ L'apposition de ces capsules se substitue au document mentionné au II de l'arti
 	  - Code général des impôts, CGI. - art. 444 (V)
 
 
-##### A : Capsules représentatives des droits sur les vins et les cidres
+##### A : Capsules représentatives des droits sur les alcools et boissons alcooliques
 
 ##### 1 : Caractéristiques des capsules
 
@@ -12431,14 +12406,6 @@ code général des impôts, pris en charge par le destinataire.
 	  - Code général des impôts, CGI. - art. 302 M (V)
 
 
-##### A : Capsules représentatives des droits sur les alcools et boissons alcooliques
-
-##### 1 : Caractéristiques des capsules
-
-##### 2 : Fabrication des capsules
-
-##### 3 : Utilisation des capsules
-
 ##### D : Emploi des capsules représentatives des droits par les récoltants
 
 ###### Article 54-0 BV
@@ -12547,8 +12514,6 @@ obligatoirement ses nom et adresse.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 B (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
 
-
-##### II : Factures-congés
 
 ##### II : Documents d'accompagnement
 
@@ -12707,7 +12672,7 @@ agrément par l'Institut national de l'origine et de la qualité et précisant, 
 	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 6 (V) JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 
-#### Chapitre I ter A : Garantie des matières d'or ou contenant de l'or, d'argent et de platine
+#### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine
 
 ##### 1° : Organisation des bureaux de garantie
 
@@ -13171,22 +13136,22 @@ ou bordereaux ou fiches de confiés, tenant lieu de registre, est autorisée pou
 indications reprises à l'article 56 J quindecies devront y figurer. 
 
 Le registre prévu à l'article 56 J quaterdecies, pour les ouvrages confiés pour réparation peut être remplacé par un contrat
-de dépôt, les fiches " réparation-facture-horlogerie ". Ce contrat et ces fiches doivent indiquer le nom et l'adresse du
-déposant et du dépositaire, la date et le numéro de contrat ou de la fiche dans une série continue, la désignation complète
-et détaillée des objets confiés et, en particulier, la nature, le poids, le métal et le titre des ouvrages. Ce registre peut
-être établi au moyen d'un logiciel reprenant la désignation complète et détaillée des ouvrages et des matières confiées telle
-qu'énoncée à l'article 56 J quindecies.
+de dépôt ou par des fiches " réparation-facture-horlogerie ". Ce contrat et ces fiches doivent indiquer le nom et l'adresse
+du déposant et du dépositaire, la date et le numéro de contrat ou de la fiche dans une série continue, la désignation
+complète et détaillée des objets confiés et, en particulier, la nature, le poids, le métal et le titre des ouvrages. Ce
+registre peut être établi au moyen d'un logiciel reprenant la désignation complète et détaillée des ouvrages et des matières
+confiées telle qu'énoncée à l'article 56 J quindecies.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 16 décembre 2009 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quindecies
 
 
 ###### Article 56 J sexdecies
@@ -13238,11 +13203,11 @@ b. Ou le registre prévu à l'article 321-7 du code pénal sur lequel les ouvrag
 portés individuellement, quelle que soit leur valeur, avec une encre de couleur différente de celle utilisée pour les autres
 objets ; 
 
-c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des stocks prévu au c du 1 du présent article,
-sous réserve que les enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par
-création d'un nouvel enregistrement avec indication de son motif et que le répertoire contenant ces informations soit
-spécifique et comprenne un système d'identification des pages par chiffre de contrôle, contenant un algorithme ou un système
-fondé notamment sur la date de l'opération, reporté en fin et en tête des pages imprimées quotidiennement.
+c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des stocks prévu au c du 1, sous réserve que les
+enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par création d'un nouvel
+enregistrement avec indication de son motif et que le répertoire contenant ces informations soit spécifique et comprenne un
+système d'identification des pages par chiffre de contrôle, contenant un algorithme ou un système fondé notamment sur la date
+de l'opération, reporté en fin et en tête des pages imprimées quotidiennement.
 
 L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
 
@@ -13250,13 +13215,13 @@ L'opérateur doit être en mesure d'éditer quotidiennement les informations rel
 
 	**Modifié par**:
 
-	  - Arrêté du 16 décembre 2009 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
 	  - Code de commerce - art. L123-12
 	  - Code de commerce - art. L123-17
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies
 	  - Code général des impôts, CGI. - art. 286
 	  - Code pénal - art. 321-7
 
@@ -13285,18 +13250,6 @@ copie de la fiche d'apport, annotée par le service, doit accompagner la déclar
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 209-0 A (V)
 
-
-#### Chapitre I ter A : Garantie des matières d'or, d'argent et de platine
-
-##### 1° : Organisation des bureaux de garantie
-
-##### 3° : Les commissionnaires en garantie
-
-##### 4° : Convention d'habilitation
-
-##### 4° bis : Organismes de contrôle agréés
-
-##### 5° : Obligations des redevables
 
 #### Chapitre II : Tabacs
 
@@ -15908,6 +15861,81 @@ Modification effectuée en conséquence des art. 28, III A [1°] et 28, III H-2 
 
 #### Chapitre unique : Impôts directs et taxes assimilées
 
+##### Section I : Imposition forfaitaire sur les entreprises de réseaux
+
+###### Article 155-0 bis
+
+I. - Pour l'application des dispositions de l'article 1599 quater A du code général des impôts, sont considérés comme des
+engins à moteur thermique les matériels roulants qui circulent par combustion d'un carburant, à l'exclusion des engins
+mentionnés au III.
+
+Les matériels roulants relevant de cette catégorie comprennent :
+
+1° Les automoteurs qui sont les caisses motrices d'une rame indéformable à moteur thermique et qui peuvent accueillir des
+voyageurs ;
+
+2° Les locomotives Diesel qui sont des matériels roulants à moteur thermique et qui ne peuvent pas accueillir de voyageurs ;
+
+3° Les remorques pour le transport de voyageurs qui sont des matériels roulants non motorisés et qui peuvent accueillir des
+voyageurs ;
+
+4° Pour le décompte des matériels roulants d'une rame indéformable à moteur thermique composée de trois caisses motrices ou
+plus, la rame est réputée composée de deux automoteurs et d'autant de remorques que de caisses, motorisées ou non motorisées,
+composant la rame et pouvant accueillir des voyageurs, à l'exclusion des deux caisses réputées automoteurs.
+
+II. - Pour l'application des 
+dispositions de l'article 1599 quater A du code général des impôts
+, sont considérés comme des engins à moteur électrique les matériels roulants qui peuvent circuler par captation de courant
+électrique.
+
+Les matériels roulants relevant de cette catégorie comprennent :
+
+1° S'agissant des matériels à grande vitesse, les matériels pouvant circuler à une vitesse supérieure à 250 kilomètres par
+heure. Ces matériels sont composés des motrices et des remorques suivantes :
+
+a. les motrices de matériel à grande vitesse qui sont des matériels roulants à moteur électrique, utilisés sur les lignes à
+grande vitesse et qui ne peuvent pas accueillir de voyageurs ;
+
+b. les remorques pour le transport de voyageurs à grande vitesse qui sont des matériels roulants non motorisés, utilisés sur
+les lignes à grande vitesse et qui peuvent accueillir des voyageurs ;
+
+c. pour le décompte des matériels roulants d'une rame indéformable à grande vitesse composée de trois caisses motrices ou
+plus, la rame est réputée composée de deux motrices et d'autant de remorques que de caisses, motorisées ou non motorisées,
+composant la rame et pouvant accueillir des voyageurs, à l'exclusion des deux caisses réputées motrices ;
+
+2° S'agissant des autres matériels :
+
+a. les automotrices qui sont les caisses motrices d'une rame indéformable à moteur électrique et qui peuvent accueillir des
+voyageurs ;
+
+b. les locomotives électriques qui sont des matériels roulants à moteur électrique et qui ne peuvent pas accueillir de
+voyageurs ;
+
+c. les remorques pour le transport de voyageurs qui sont des matériels roulants non motorisés et qui peuvent accueillir des
+voyageurs ;
+
+d. pour le décompte des matériels roulants d'une rame indéformable à moteur électrique composée de trois caisses motrices ou
+plus, la rame est réputée composée de deux automotrices et d'autant de remorques que de caisses, motorisées ou non
+motorisées, composant la rame et pouvant accueillir des voyageurs, à l'exclusion des deux caisses réputées automotrices.
+
+III. - Un engin à moteur pouvant circuler à la fois par combustion d'un carburant et par captation de courant électrique est
+considéré comme un engin à moteur électrique au sens du II.
+
+**Nota:**
+
+Création effectuée en conséquence des articles 1er à 3 de l'arrêté du 28 juin 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 quater A
+
+
 ##### Section II : Autres impositions
 
 ###### Article 155 bis A
@@ -15956,14 +15984,6 @@ Autres entreprises
 
 </td>
     </tr>
-    <tr>
-      <td align="center">
-
-Tarif applicable au titre de l'année 2010 
-
-</td>
-      <td align="center">
-    </td></tr>
   </tbody>
 </table>
 
@@ -15972,9 +15992,9 @@ l'Etat en application des articles 1641 et 1644 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 29 juillet 2010 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
@@ -15983,6 +16003,59 @@ l'Etat en application des articles 1641 et 1644 du code général des impôts.
 
 
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
+
+#### Chapitre 0I : Impôts directs et taxes assimilées
+
+##### Section unique : Imposition forfaitaire sur les entreprises de réseaux
+
+###### Article 155-00 ter
+
+Pour l'application des dispositions de l'article 1599 quater A bis du code général des impôts, sont considérés comme des
+matériels roulants relevant de la catégorie " Métro " les matériels roulants de transport public guidé de voyageurs qui
+circulent sur les lignes mentionnées aux premier et deuxième alinéas de l'article 2 de l'ordonnance n° 59-151 du 7 janvier
+1959 relative à l'organisation des transports de voyageurs en Ile-de-France et dont la captation d'énergie s'effectue par un
+système d'alimentation électrique par troisième rail. 
+
+Les matériels roulants relevant de cette catégorie comprennent : 
+
+1° Les motrices qui sont les caisses motrices d'une rame et qui accueillent des voyageurs ; 
+
+2° Les remorques qui sont des caisses non motorisées et qui accueillent des voyageurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 juin 2011 - art. 1
+
+	**Anciens textes**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 nonies (T)
+
+
+###### Article 155-0 ter
+
+Pour l'application des dispositions de l'article 1599 quater A bis du code général des impôts, sont considérés comme des
+matériels roulants relevant de la catégorie " Autre matériel " les matériels roulants de transport public ferroviaire de
+voyageurs qui circulent sur les lignes du réseau express régional mentionnées au troisième alinéa de l'article 2 de
+l'ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile-de-France. 
+
+Les matériels roulants relevant de cette catégorie comprennent : 
+
+1° Les automotrices et motrices qui sont les caisses motrices d'une rame et qui accueillent des voyageurs ; 
+
+2° Les remorques qui sont des caisses non motorisées et qui accueillent des voyageurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 juin 2011 - art. 1
+
+	**Anciens textes**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 decies (T)
+
 
 #### Chapitre premier : Droits d'enregistrement
 
@@ -17747,38 +17820,37 @@ Imprimantes, machines à copier et machines à télécopier, même combinées en
 
 #### Chapitre III : Enregistrement
 
-##### Section I : Fonds national de garantie des calamités agricoles.
-
 ##### Section I : Fonds national de gestion des risques en agriculture
 
 ###### Article 159 quater
 
 Sont considérés comme véhicules utilitaires affectés aux exploitations agricoles, et à ce titre assujettis à la contribution
-additionnelle prévue au 1° de l'article L. 361-5 du code rural et de la pêche maritime cité à l'article 1635 bis A du code
+additionnelle prévue au 1° de l'article L. 361-2 du code rural et de la pêche maritime cité à l'article 1635 bis A du code
 général des impôts, les véhicules suivants assurés par des exploitants agricoles : 
 
 a) Les camions, camionnettes et fourgonnettes ; 
 
 b) Tous les engins automoteurs agricoles par destination, tels que tracteurs, moissonneuses-batteuses, récolteuses et leurs
-remorques, y compris les engins visés aux 5 à 5. 4 de l'article R. 311-1 du code de la route ; 
+remorques, y compris les engins visés aux 5 à 5.4 de l'article R. 311-1 du code de la route ; 
 
 c) Tout autre véhicule automoteur, à l'exception des voitures particulières, utilisé pour les besoins, même partiels, des
 exploitations agricoles.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2 du décret n° 2009-497 du 30 avril 2009.
+Modifications effectuées en conséquence des articles 1er et 7 de l'ordonnance n° 2010-462 du 6 mai 2010 et de l'article 26-I
+de la loi n° 2010-874 du 27 juillet 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1635 bis A
-	  - Code rural - art. L361-5
+	  - Code rural - art. L361-2
 	  - Code de la route. - art. R311-1
 
 
@@ -17789,45 +17861,27 @@ Modifications effectuées en conséquence de l'article 2 du décret n° 2009-497
 ###### Article 159 quinquies-0 A
 
 Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
-application des articles 322 et 322 A de l'annexe II au code général des impôts sont fixés conformément aux dispositions de
-l'article A. 421-3 du code des assurances ci-après reproduit : 
-
-Art.A. 421-3-Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de
-dommages en application des articles R. 421-27 et R. 421-28 du code des assurances sont fixés comme suit : 
-
-Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-27 : 1 % de la totalité des charges de la section
-relative aux opérations résultant de la défaillance d'entreprises d'assurance dommages. 
-
-Contribution des entreprises d'assurance au titre du 3° de l'article R. 421-27 : 1 % de la totalité des charges de la section
-automobile. 
-
-Contribution des responsables d'accidents non assurés au titre du 4° de l'article R. 421-27 :
-
-- taux normal : 10 % des indemnités restant à leur charge ;
-
-- taux réduit : 5 % ; 
-
-Contribution des assurés au titre du 5° de l'article R. 421-27 : 1, 2 % des primes (1).
+application des articles 322 et 322 A de l'annexe 2 au code général des impôts sont fixés conformément aux dispositions de
+l'article A. 421-3 du code des assurances.
 
 **Nota:**
 
-(1) Arrêté du 9 juin 2010 art. 2 : Ce taux est applicable aux primes émises à compter du 1er août 2010.
+Dispositions devenues sans objet en conséquence de l'article 62-II de la loi n° 2013-1279 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 9 juin 2010 - art. 1
-
-	**Cite**:
-
-	  - CGIAN2 322, 322 A
-	  - Code des assurances - art. R421-27 (M)
-	  - Code des assurances - art. R421-28 (M)
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code des assurances - art. A421-3 (M)
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 322
+	  - Code des assurances - art. A421-3
 
 
 ##### B : Accidents de chasse
@@ -17835,37 +17889,31 @@ Contribution des assurés au titre du 5° de l'article R. 421-27 : 1, 2 % des pr
 ###### Article 159 quinquies-0 B
 
 Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
-application des articles 323 et 323 A de l'annexe II au code général des impôts sont fixés conformément aux dispositions de
-l'article A. 421-4 du code des assurances ci-après reproduit :
+application des articles 323 et 323 A de l'annexe 2 au code général des impôts sont fixés conformément aux dispositions de
+l'article A. 421-4 du code des assurances.
 
-Art. A. 421-4 - Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de
-dommages en application des articles R. 421-38 et R. 421-39 sont fixés comme suit :
+**Nota:**
 
-Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-38 : 1 % de la totalité des charges des
-opérations du fonds de garantie afférentes à la chasse et à la destruction des animaux nuisibles ;
-
-Contribution des responsables d'accidents corporels non assurés au titre du 2° de l'article R. 421-38 :
-
-- taux normal : 10 % des indemnités restant à leur charge ;
-
-- taux réduit, lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des
-articles 393 à 395 du code rural : 5 % ;
-
-Contribution forfaitaire des assurés au titre du 3° de l'article R. 421-38 : 0,02 euro par personne garantie.
+Dispositions devenues sans objet en conséquence de l'article 62-II de la loi n° 2013-1279 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2004-07-16 art. 2, art. 3 JORF 5 août 2004
 
 	**Codifié par**:
 
 	  - Arrêté 2004-10-08
 
+	**Modifié par**:
+
+	  - Arrêté du 9 juin 2011 - art. 1
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 323
+	  - Code des assurances - art. A421-4
 
 
 ##### Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers
@@ -17960,75 +18008,6 @@ Modification effectuée en conséquence de l'article 1er de l'arrêté du 30 jan
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1635 bis M
-
-
-#### Chapitre IV : Imposition forfaitaire sur les entreprises de réseaux
-
-###### Article 159 decies
-
-Pour l'application des dispositions de l'article 1599 quater A bis du code général des impôts, sont considérés comme des
-matériels roulants relevant de la catégorie " Autre matériel " les matériels roulants de transport public ferroviaire de
-voyageurs qui circulent sur les lignes du réseau express régional mentionnées au troisième alinéa de l'article 2 de
-l'ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile-de-France. 
-
-Les matériels roulants relevant de cette catégorie comprennent : 
-
-1° Les automotrices et motrices qui sont les caisses motrices d'une rame et qui accueillent des voyageurs ; 
-
-2° Les remorques qui sont des caisses non motorisées et qui accueillent des voyageurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°59-151 du 7 janvier 1959 - art. 2
-	  - Code général des impôts, CGI. - art. 1599 quater A bis
-
-	**Créé par**:
-
-	  - Arrêté du 8 octobre 2010 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Arrêté du 9 juin 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 155-0 ter (V)
-
-
-###### Article 159 nonies
-
-Pour l'application des dispositions de l'article 1599 quater A bis du code général des impôts, sont considérés comme des
-matériels roulants relevant de la catégorie " Métro " les matériels roulants de transport public guidé de voyageurs qui
-circulent sur les lignes mentionnées aux premier et deuxième alinéas de l'article 2 de l'ordonnance n° 59-151 du 7 janvier
-1959 relative à l'organisation des transports de voyageurs en Ile-de-France et dont la captation d'énergie s'effectue par un
-système d'alimentation électrique par troisième rail. 
-
-Les matériels roulants relevant de cette catégorie comprennent : 
-
-1° Les motrices qui sont les caisses motrices d'une rame et qui accueillent des voyageurs ; 
-
-2° Les remorques qui sont des caisses non motorisées et qui accueillent des voyageurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°59-151 du 7 janvier 1959 - art. 2
-	  - Code général des impôts, CGI. - art. 1599 quater A bis
-
-	**Créé par**:
-
-	  - Arrêté du 8 octobre 2010 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Arrêté du 9 juin 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 155-00 ter (V)
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
@@ -20141,18 +20120,22 @@ de contrôle fiscal dans le ressort de laquelle l'entreprise a son siège.
 
 En application du III de l'article 347 de l'annexe III au code général des impôts, si le président de la commission
 départementale des impôts directs et des taxes sur le chiffre d'affaires instituée aux articles 1651 et suivants du code
-général des impôts le juge utile, le nombre de suppléants peut être augmenté :
+général des impôts le juge utile, le nombre de suppléants peut être augmenté : 
 
-1. pour la ville de Paris :
+1. pour la ville de Paris : 
 
 a) jusqu'à cent cinquante, en ce qui concerne les représentants des contribuables désignés par la chambre de commerce et
-d'industrie ;
+d'industrie territoriale ; 
 
 b) jusqu'à cinquante, en ce qui concerne les représentants des contribuables désignés par la chambre des métiers et de
-l'artisanat et par les organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux ;
+l'artisanat et par les organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux ; 
 
 2. pour les départements de plus de 600 000 habitants dans les mêmes conditions qu'au 1, le nombre de suppléants peut être
 porté respectivement à soixante et à trente.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 87-1° du décret n° 2010-1463 du 1er décembre 2010.
 
 **Liens relatifs à cet article**
 
@@ -20162,16 +20145,12 @@ porté respectivement à soixante et à trente.
 
 	**Modifié par**:
 
-	  - Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
-	  - CGI 1651
-	  - CGIAN3 347
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 347 (V)
+	  - Code général des impôts, CGI. - art. 1651 (V)
 
 
 # Livre II : Recouvrement de l'impôt
