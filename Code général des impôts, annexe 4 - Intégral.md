@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2011-07-21
+Version Consolidée au 2011-08-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3117,6 +3117,26 @@ des impôts :
 	  - Code général des impôts, CGI. - art. 217 duodecies
 	  - Code général des impôts, CGI. - art. 217 undecies
 	  - Code minier - art. 3
+
+
+#### Chapitre V : Taxes diverses
+
+##### Section unique : Taxe sur le résultat des entreprises ferroviaires
+
+###### Article 23 M bis
+
+Conformément aux dispositions du III de l'article 235 ter ZF du code général des impôts, le taux de la taxe sur le résultat
+des entreprises ferroviaires est fixé à 13 %.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 29 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter ZF
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -10472,13 +10492,13 @@ locaux au site d'exploitation lorsqu'ils sont situés en dehors des limites fix�
 
 ###### Article 50-00 C
 
-Au titre des renseignements particuliers prévus à l'article 286 J de l'annexe II au code général des impôts, et en fonction
-de l'activité des entrepositaires agréés concernés, chacun des comptes de la comptabilité matières doit reprendre notamment
-les informations suivantes : 
+En application des articles 286 I et 286 J de l'annexe II du code général des impôts, et en fonction de l'activité des
+entrepositaires agréés concernés, chacun des comptes de la comptabilité matières doit reprendre notamment les informations
+suivantes : 
 
-1° La nature, le numéro et la date de départ ou de réception du document d'accompagnement mentionné à l'article 302 M dudit
-code ou des pièces justificatives des productions, des transformations, des détentions, des entrées et sorties de produits
-des chais ou locaux du site d'exploitation ; 
+1° La nature, le numéro et la date de départ ou de réception du document d'accompagnement mentionné aux articles 302 M et 302
+M ter dudit code ou des pièces justificatives des productions, des transformations, des détentions, des entrées et sorties de
+produits des chais ou locaux du site d'exploitation ; 
 
 2° La date des déclarations de mise en production d'alcool, de fabrication de mistelles, vermouths, vins de liqueur ou
 apéritifs à base de vin, de cidre ou de poiré, de fabrication de vins mousseux, et de fabrication de vins doux naturels,
@@ -10500,7 +10520,8 @@ a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
 b) Les références aux contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural et de
 la pêche maritime pour les transactions soumises à cette procédure ; 
 
-c) Les références aux certificats d'agrément ou de labellisation ; 
+c) Les références aux déclarations de revendication des produits bénéficiant d'un signe d'origine telles que prévues par la
+réglementation en vigueur ; 
 
 d) Les numéros d'enregistrement des contrats d'achat et les numéros des déclarations de transactions soumis préalablement aux
 interprofessions tels que prévus dans les accords interprofessionnels étendus ; 
@@ -10512,24 +10533,17 @@ de garantie.
 l'article 403 au code général des impôts, sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
 subdivisée, selon le cas, par appellation d'origine ou par dénomination économique ou géographique.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 63 1° de la loi n° 2008-443 du 30 décembre 2008 et des articles 1er et 7
-de l'ordonnance n° 2010-462 du 6 mai 2010.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Arrêté du 28 juillet 2011 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 408
 	  - Code général des impôts, CGI. - art. 302 G
-	  - Code général des impôts, CGI. - art. 302 M
 	  - Code général des impôts, CGI. - art. 312
 	  - Code général des impôts, CGI. - art. 338
 	  - Code général des impôts, CGI. - art. 343
@@ -10664,7 +10678,7 @@ que, pour chaque type d'opérations, elles puissent être enregistrées sur un s
 
 I.-Pour l'application du III de l'article 286 I et du IV de l'article 286 J de l'annexe II au code général des impôts,
 l'entrepositaire agréé établit une déclaration récapitulative mensuelle distincte pour chacun de ses entrepôts fiscaux
-suspensifs des droits d'accises.
+suspensifs des droits d'accises. 
 
 A défaut d'opération de production, de transformation, d'entrée et de sortie de produits de l'entrepôt fiscal suspensif des
 droits d'accises, l'entrepositaire agréé adresse au service des douanes et droits indirects la déclaration mensuelle en y
@@ -10673,7 +10687,7 @@ indiquant le stock théorique en début de période, le stock théorique en fin 
 1° La déclaration récapitulative mensuelle comporte, pour chaque compte de la comptabilité matières, les renseignements
 suivants : 
 
-a) Les noms ou raison sociale et adresse du siège social ; 
+a) Les noms, dénomination ou raison sociale et adresse du siège social ou du principal établissement ; 
 
 b) Le numéro d'identification de l'entrepôt fiscal suspensif des droits d'accises ; 
 
@@ -10696,7 +10710,7 @@ a) Les mentions relatives aux comptes d'âge ou de vieillissement ;
 b) Les références aux contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural et de
 la pêche maritime pour les transactions soumises à cette procédure ; 
 
-c) Les références aux certificats d'agrément ou de labellisation ; 
+c) (Abrogé) 
 
 d) Les numéros d'enregistrement des contrats d'achat et les numéros des déclarations de transactions soumis préalablement aux
 interprofessions tels que prévus dans les accords interprofessionnels étendus ; 
@@ -10710,8 +10724,8 @@ et sorties de produits du mois précédent et le solde :
 a) Pour les entrepositaires agréés produisant des alcools, des produits intermédiaires et des produits visés à l'article 438
 du code général des impôts, par appellation d'origine ou dénomination de produits ; 
 
-b) Pour les autres entrepositaires agréés par nature de produit et / ou par tarif d'imposition, sous réserve des règlements
-ou accords interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural et de la pêche
+b) Pour les autres entrepositaires agréés par nature de produit et/ ou par tarif d'imposition, sous réserve des règlements ou
+accords interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural et de la pêche
 maritime. 
 
 II.-1° Conformément au III de l'article 302 D du code général des impôts, l'entrepositaire agréé liquide l'impôt sur la
@@ -10736,7 +10750,11 @@ de ces droits ;
 
 f) Le moyen de paiement utilisé (numéraire, chèque, virement ou obligation cautionnée) ; 
 
-g) Pour les utilisateurs de matériels de validation, les numéros d'empreintes de début et de fin de période. 
+g) Pour les utilisateurs de matériels de validation mentionnés au 3° du I de l'article 111 H ter de l'annexe III au code
+général des impôts, les numéros d'empreintes de début et de fin de période ; 
+
+h) Pour les utilisateurs de documents prévalidés mentionnés au 2° du I de l'article 111 H ter précité, les numéros de
+documents de début et de fin de période. 
 
 2° Deux cases et une colonne réservées à l'administration font référence aux codes taxes, à la réception de la déclaration de
 liquidation (date et numéro) et à sa prise en recette (montant, date et numéro de caisse, visa du service des douanes et
@@ -10751,11 +10769,12 @@ droits qui s'y rattache.
 4° Lorsque la compensation n'a pas été possible au terme des trois mois qui suivent le dépôt de la demande, le crédit d'impôt
 subsistant est alors remboursé au bénéficiaire, sur sa demande. 
 
-III.-Pour l'application de l'article 111 H quater de l'annexe III au code général des impôts, aux termes du délai
+III.-Pour l'application du III de l'article 111 H quater de l'annexe III au code général des impôts, aux termes du délai
 d'information prévu par l'article 302 P du code général des impôts, l'entrepositaire agréé établit un relevé des documents
-d'accompagnement non apurés mentionnés au I de l'article 302 M dudit code, dénommé ci-après " relevé de non-apurement ". 
+d'accompagnement non apurés mentionnés au I de l'article 302 M et à l'article 302 M ter dudit code, dénommé ci-après " relevé
+de non-apurement ". 
 
-Le relevé de non-apurement est conforme au modèle annexé à l'arrêté du 25 août 2000 (JO du 31 août 2000). 
+Le relevé de non-apurement est conforme au modèle repris à l'annexe I de l'arrêté du 28 juillet 2011 (JO du 6 août 2011). 
 
 Le relevé de non-apurement est établi de manière distincte pour chacun des entrepôts fiscaux suspensifs des droits d'accises
 de l'entrepositaire agréé. 
@@ -10763,7 +10782,8 @@ de l'entrepositaire agréé.
 Ce relevé est transmis par l'entrepositaire agréé au service des douanes et droits indirects dont il dépend selon les mêmes
 modalités et dans les conditions prévues pour la déclaration récapitulative mensuelle. 
 
-Un exemplaire de chaque document d'accompagnement non apuré est annexé au relevé de non-apurement. 
+Un exemplaire de chaque document d'accompagnement non apuré est annexé au relevé de non-apurement, lorsque ce document est
+établi sous format papier. 
 
 Outre les renseignements prévus au 1° du I, le relevé de non-apurement comporte les renseignements suivants : 
 
@@ -10778,31 +10798,25 @@ d) Le numéro d'identification du destinataire.
 Si toutes les opérations réalisées par l'entrepositaire agréé ont fait l'objet d'un apurement, ce dernier annote la
 déclaration récapitulative mensuelle de la mention " Pas de défaut d'apurement ".
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 78 II et V de la loi n° 2007-1824 du 25 décembre 2007 et des articles
-1er et 7 de l'ordonnance n° 2010-462 du 6 mai 2010.
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 28 juillet 2011 - art. 1
 
 	**Cite**:
 
-	  - Arrêté du 25 août 2000
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 M
+	  - 
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H ter (V)
 	  - Code général des impôts, CGI. - art. 1698 C
 	  - Code général des impôts, CGI. - art. 302 D
 	  - Code général des impôts, CGI. - art. 302 P
 	  - Code général des impôts, CGI. - art. 438
 	  - Code rural - art. L621-1
 	  - Code rural - art. L632-1
-	  - 
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -12501,55 +12515,54 @@ obligatoirement ses nom et adresse.
 
 ###### Article 54 A
 
-I. - Pour tenir lieu de document d'accompagnement, les documents mentionnés à l'article 302 M du code général des impôts ou
-les documents commerciaux utilisés en lieu et place de ces documents doivent être validés préalablement au début du mouvement
-des produits conformément aux dispositions de l'article 111 H ter de l'annexe III au code général des impôts ou, le cas
-échéant, revêtus d'une vignette ou d'une marque fiscale comportant :
+I.-Sans préjudice des dispositions prévues à l'article 302 M ter du code général des impôts, pour tenir lieu de document
+d'accompagnement, les documents mentionnés aux I et II de l'article 302 M du code précité ou les documents commerciaux
+utilisés en lieu et place de ces documents doivent être validés préalablement au début du mouvement des produits conformément
+aux dispositions des 1° à 3° de l'article 111 H ter de l'annexe III au code précité ou, le cas échéant, revêtus d'une
+vignette ou d'une marque fiscale comportant : 
 
-a) L'effigie de la République française ;
+a) L'effigie de la République française ; 
 
-b) La mention "Direction générale des douanes et droits indirects" ou "DGDDI" et "République française" ou "RF" entourant
-l'effigie ;
+b) La mention " Direction générale des douanes et droits indirects " ou " DGDDI " et " République française " ou " RF "
+entourant l'effigie ; 
 
 c) L'identification de l'utilisateur de la vignette ou de la marque fiscale par son numéro d'agrément attribué par
-l'administration.
+l'administration. 
 
 Le visa du service des douanes et droits indirects prévu par les dispositions de l'article 111 H ter de l'annexe III au code
 général des impôts peut être remplacé par le visa des trésoreries de la direction générale de la comptabilité publique
 exerçant les compétences requises, déterminées par décret, et dont la liste est fixée par arrêté du ministre chargé du
-budget.
+budget. 
 
-II. - Le directeur régional des douanes et droits indirects peut autoriser l'emploi d'empreintes fiscales imprimées par les
+II.-Le directeur régional des douanes et droits indirects peut autoriser l'emploi d'empreintes fiscales imprimées par les
 matériels ou logiciels de validation mentionnés à l'article 164 L ou au I de l'article 164 AM en lieu et place des vignettes.
-Les empreintes doivent comporter les mentions requises au II du même article.
+Les empreintes doivent comporter les mentions requises au II du même article. 
 
-III. - Sans préjudice des dispositions des articles 164 AL, 164 AT et 164 AU, tout usager est tenu, pour chaque vignette ou
-empreinte manquante ou en cas de discontinuité dans la série des numéros d'empreintes devant être apposées sur les documents
-d'accompagnement mentionnés à l'article 302 M du code général des impôts et les autres documents de circulation prévus par la
-réglementation des contributions indirectes dans le code général des impôts, d'acquitter une indemnité. Cette indemnité est
-égale au montant du droit au tarif le plus élevé, correspondant à la quantité moyenne par titre de mouvement des expéditions
-réalisées au cours des trois mois précédents.
+III.-Sans préjudice des dispositions des articles 164 AL, 164 AT et 164 AU, tout usager est tenu, pour chaque vignette ou
+empreinte manquante ou en cas de discontinuité dans la série des numéros des documents prévalidés mentionnés au 2° du I de
+l'article 111 H ter précité ou d'empreintes devant être apposées sur les documents d'accompagnement mentionnés à l'article
+302 M du code général des impôts et les autres documents de circulation prévus par la réglementation des contributions
+indirectes dans le code général des impôts, d'acquitter une indemnité. Cette indemnité est égale au montant du droit au tarif
+le plus élevé, correspondant à la quantité moyenne par titre de mouvement des expéditions réalisées au cours des trois mois
+précédents.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2004-01-13 art. 1, art. 2 JORF 17 janvier 2004
+	  - Arrêté du 28 juillet 2011 - art. 1
 
 	**Cite**:
 
-	  - CGI 302 M
-	  - CGIAN3 111 H ter
-	  - CGIAN4 164 L, 164 AM, 164 AL, 164 AT, 164 AU
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H ter (V)
+	  - Code général des impôts, CGI.
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 302 M ter
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AD bis (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 54 B
@@ -19143,97 +19156,98 @@ par les agents de la direction générale des douanes et droits indirects.
 
 ###### Article 164 AM
 
-I. - 1° Sont désignés sous le nom de "système informatique sécurisé" tous les matériels et logiciels informatiques permettant
-de mémoriser les données saisies par l'entremise de ces matériels ou logiciels, d'imprimer ces données et d'apposer, le cas
-échéant, par une fonction spécifique de ces matériels ou logiciels ou un logiciel distinct des empreintes ou marques
-destinées à :
+I.-Au sens du 3° de l'article 111 H ter de l'annexe III au code général des impôts : 
 
-a) Valider, au sens de l'article 111 H ter de l'annexe III au code général des impôts, les documents d'accompagnement
-mentionnés à l'article 302 M du code général des impôts, et autres documents, bons et certificats de circulation ou de
-livraison prévus par les réglementations dont l'application incombe à l'administration des douanes et droits indirects ;
+1° Sont désignés sous le nom de " système informatique sécurisé " tous les matériels et logiciels informatiques permettant de
+mémoriser les données saisies par l'entremise de ces matériels ou logiciels, d'imprimer ces données et d'apposer, le cas
+échéant, par une fonction spécifique de ces matériels ou logiciels ou un logiciel distinct des empreintes ou marques
+destinées à : 
+
+a) Valider, au sens de l'article 111 H ter précité, les documents, bons et certificats de circulation ou de livraison prévus
+par les réglementations dont l'application incombe à l'administration des douanes et droits indirects ; 
 
 b) Attester le paiement ou la constatation des droits en remplacement des vignettes ou timbres fiscaux représentatifs des
-droits indirects, dont l'apposition est prévue par la réglementation fiscale.
+droits indirects, dont l'apposition est prévue par la réglementation fiscale. 
 
-2° En application du a du 1°, sont désignés sous le nom de :
+2° Sont désignés sous le nom de : 
 
-"matériel mécanique" tous les matériels et machines imprimant de façon mécanique ou digitale des empreintes destinées à
-valider les documents, bons et certificats ou à attester le paiement ou la constatation des droits.
+" matériel mécanique " tous les matériels et machines imprimant de façon mécanique ou digitale des empreintes destinées à
+valider les documents d'accompagnement mentionnés à l'article 302 M du code général des impôts et les documents, bons et
+certificats ou à attester le paiement ou la constatation des droits. 
 
-II. - Sauf autorisation de l'administration des douanes et droits indirects, les marques fiscales ou empreintes fournies par
-les matériels ou logiciels désignés au I doivent :
+II.-Sauf autorisation de l'administration des douanes et droits indirects, les marques fiscales ou empreintes fournies par
+les matériels ou logiciels désignés au I doivent : 
 
-1° Pour la validation des documents d'accompagnement mentionnés à l'article 302 M du code général des impôts, bons et
-certificats de circulation ou de livraison, et pour les attestations de paiement ou de constatation des droits sur ces
-documents, comporter :
+1° Pour la validation des documents d'accompagnement mentionnés aux I et II de l'article 302 M du code général des impôts,
+bons et certificats de circulation ou de livraison, et pour les attestations de paiement ou de constatation des droits sur
+ces documents, comporter : 
 
-a) L'effigie de la République française conforme au modèle agréé par l'administration des douanes ;
+a) L'effigie de la République française conforme au modèle agréé par l'administration des douanes ; 
 
-b) La mention : "Direction générale des douanes et droits indirects" ou "DGDDI" et "République française" ou "RF" entourant
-l'effigie ;
+b) La mention : " Direction générale des douanes et droits indirects " ou " DGDDI " et " République française " ou " RF "
+entourant l'effigie ; 
 
-c) Le numéro d'identification attribué à chaque matériel dans les conditions prévues à l'article 164 AO ;
+c) Le numéro d'identification attribué à chaque matériel dans les conditions prévues à l'article 164 AO ; 
 
-d) Une lettre identifiant le constructeur ou le concepteur du matériel ;
+d) Une lettre identifiant le constructeur ou le concepteur du matériel ; 
 
-e) L'identification de l'utilisateur de la marque fiscale, par son numéro d'agrément attribué par l'administration ;
+e) L'identification de l'utilisateur de la marque fiscale, par son numéro d'agrément attribué par l'administration ; 
 
-f) Un numéro particulier affecté à chaque empreinte dans une série séquentielle continue ;
+f) Un numéro particulier affecté à chaque empreinte dans une série séquentielle continue ; 
 
-g) La date et l'heure d'enlèvement ou de réception des produits exprimés en chiffres ;
+g) La date et l'heure d'enlèvement ou de réception des produits exprimés en chiffres ; 
 
 h) Pour les systèmes informatiques sécurisés ou les logiciels de validation et d'attestation des paiements, une signature
 électronique ou numérique et une ou plusieurs informations complémentaires, correspondant à chacun des usages autorisés, à
-savoir selon les cas l'indication :
+savoir selon les cas l'indication : 
 
-1. Des mots : "en droits acquittés", "en exonération" ou "en suspension de droits" pour distinguer les livraisons et
-réceptions effectuées en droits acquittés, en exonération ou en suspension des droits ;
+1. Des mots : " en droits acquittés ", " en exonération " ou " en suspension de droits " pour distinguer les livraisons et
+réceptions effectuées en droits acquittés, en exonération ou en suspension des droits ; 
 
-2. Des mots : "titre émis par anticipation" pour distinguer, dans la comptabilité matières, les opérations effectuées sous
-couvert d'un document d'accompagnement prévalidé par l'entrepositaire agréé effectuant l'enlèvement des produits.
+2. Des mots : " titre émis par anticipation " pour distinguer, dans la comptabilité matières, les opérations effectuées sous
+couvert d'un document d'accompagnement prévalidé par l'entrepositaire agréé effectuant l'enlèvement des produits. 
 
 Les empreintes doivent être nettes, sans maculatures d'aucune sorte, ne jamais être recouvertes par des mentions manuscrites
-ou imprimées et ne jamais recouvrir de telles mentions.
+ou imprimées et ne jamais recouvrir de telles mentions. 
 
 2° Pour l'impression des marques fiscales représentatives des droits indirects attestant du paiement ou de la constatation
 des droits indirects sur les vins, autres boissons fermentées, produits intermédiaires et alcools, sur les capsules ou sur
 les dispositifs de fermeture, non récupérables, des récipients contenant ces boissons, ces marques fiscales doivent
-comporter :
+comporter : 
 
 a) Une couronne d'un diamètre d'au moins 23 millimètres dont le fond est conforme aux normes déterminées par arrêté du
-ministre chargé du budget et dans laquelle sont inscrits :
+ministre chargé du budget et dans laquelle sont inscrits : 
 
 1. Le numéro d'agrément du responsable de l'embouteillage, selon les normes déterminées par arrêté du ministre chargé du
-budget ;
+budget ; 
 
 2. La marque d'identification du fabricant des capsules, selon les normes déterminées par arrêté du ministre chargé du
-budget.
+budget. 
 
 b) Au centre de la couronne, une surface circulaire d'un diamètre de 15 millimètres dont le fond est conforme aux normes
-déterminées par arrêté du ministre chargé du budget et dans laquelle sont inscrits :
+déterminées par arrêté du ministre chargé du budget et dans laquelle sont inscrits : 
 
-1. L'effigie de la République française conforme au modèle agréé par l'administration des douanes ;
+1. L'effigie de la République française conforme au modèle agréé par l'administration des douanes ; 
 
-2. La mention : "Direction générale des douanes et droits indirects" ou "DGDDI" et "République française" ou "RF" entourant
-l'effigie ;
+2. La mention : " Direction générale des douanes et droits indirects " ou " DGDDI " et " République française " ou " RF "
+entourant l'effigie ; 
 
 3. Le volume net exprimé en centilitres et, pour les alcools, le titre alcoométrique volumique du liquide renfermé dans les
-bouteilles ou récipients sur lesquels sont apposées les capsules.
+bouteilles ou récipients sur lesquels sont apposées les capsules. 
 
 Un spécimen des marques fiscales ou empreintes agréées par l'administration est déposé auprès du service des douanes et
 droits indirects.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-09-22 art. 5 JORF 5 octobre 2000
+	  - Arrêté du 28 juillet 2011 - art. 1
 
 	**Cite**:
 
-	  - CGI 302 M
-	  - CGIAN3 111 H ter
-	  - CGIAN4 164 AO
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H ter (V)
+	  - Code général des impôts, CGI. - art. 302 M
 
 	**Cité par**:
 
@@ -19245,10 +19259,6 @@ droits indirects.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 B (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 164 AN
