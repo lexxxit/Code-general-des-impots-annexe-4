@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2011-09-02
+Version Consolidée au 2011-11-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18334,37 +18334,38 @@ Modification effectuée en conséquence de l'article 1er de l'arrêté du 29 dé
 ###### Article 164 FD
 
 Les déclarations d'ouverture, de clôture ou de modification de comptes mentionnées à l'article 164 FB doivent comporter les
-renseignements suivants :
+renseignements suivants : 
 
-La désignation et l'adresse de l'établissement qui gère ce compte ;
+La désignation et l'adresse de l'établissement qui gère ce compte ; 
 
-La désignation du compte, numéro, nature, type et caractéristique ;
+La désignation du compte, numéro, nature, type et caractéristique ; 
 
 La date et la nature de l'opération déclarée : ouverture, clôture ou modification en distinguant si celle-ci affecte le
-compte lui-même ou son titulaire ;
+compte lui-même ou son titulaire ; 
 
 Pour les personnes physiques, leurs nom, prénoms, date et lieu de naissance, adresse et numéro SIRET pour les entrepreneurs
-individuels ;
+individuels ; 
+
+Par dérogation à l'alinéa précédent, pour les comptes bancaires exclusivement dédiés à une activité professionnelle à
+laquelle un patrimoine a été affecté par une personne conformément au statut d'entrepreneur individuel à responsabilité
+limitée défini aux articles L. 526-6 à L. 526-21 du code de commerce, la dénomination de l'EIRL, la forme juridique et
+l'adresse à laquelle l'activité professionnelle est exercée ; 
 
 Pour les personnes morales, leur dénomination ou raison sociale, forme juridique, numéro SIRET et adresse.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1982-06-14 art. 3 JONC 22 juin 1982
-
 	**Codifié par**:
 
 	  - Arrêté 1982-10-15
 
+	**Modifié par**:
+
+	  - Arrêté du 7 novembre 2011 - art. 1
+
 	**Cite**:
 
-	  - CGIAN4 164 FB
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er septembre 1982
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 FB (V)
 
 
 ###### Article 164 FE
