@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2011-12-31
+Version Consolidée au 2012-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1759,7 +1759,7 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2011, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2012, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme
 suit : 
 
@@ -1827,17 +1827,17 @@ Jour ou fraction de jour
 </td>
       <td align="center">
 
-14   245 
+14 245 
 
 </td>
       <td align="center">
 
-3   561 
+3 561 
 
 </td>
       <td align="center">
 
-1   187 
+1 187 
 
 </td>
       <td align="center">
@@ -1861,17 +1861,17 @@ Jour ou fraction de jour
 </td>
       <td align="center">
 
-14   245 
+14 245 
 
 </td>
       <td align="center">
 
-3   561 
+3 561 
 
 </td>
       <td align="center">
 
-1   187 
+1 187 
 
 </td>
       <td align="center">
@@ -1893,17 +1893,17 @@ Jour ou fraction de jour
 </td>
       <td align="center">
 
-41   327 
+41 327 
 
 </td>
       <td align="center">
 
-10   332 
+10 332 
 
 </td>
       <td align="center">
 
-3   444 
+3 444 
 
 </td>
       <td align="center">
@@ -1927,17 +1927,17 @@ Jour ou fraction de jour
 </td>
       <td align="center">
 
-41   327 
+41 327 
 
 </td>
       <td align="center">
 
-10   332 
+10 332 
 
 </td>
       <td align="center">
 
-3   444 
+3 444 
 
 </td>
       <td align="center">
@@ -1956,7 +1956,7 @@ Jour ou fraction de jour
 
 	**Modifié par**:
 
-	  - Arrêté du 31 décembre 2010 - art. 1
+	  - Arrêté du 29 décembre 2011 - art. 1
 
 
 ##### 2° Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -2070,41 +2070,50 @@ b) Acquisition de matériaux d'isolation thermique :
 100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par
 l'intérieur : 
 
-Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, murs en façade ou en pignon, possédant une résistance
-supérieure ou égale à 2, 8 mètres carrés Kelvin par watt (m2.K/W) ; 
+Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance supérieure ou égale à 3 mètres
+carrés Kelvin par watt (m2.K/W) ; 
 
-Toitures-terrasses possédant une résistance supérieure ou égale à 3 m2.K/W ; 
+Murs en façade ou en pignon, possédant une résistance supérieure ou égale à 3,7 mètres carrés Kelvin par watt (m2.K/W) ;
 
-Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 5 m2.K/W ; 
+Toitures-terrasses possédant une résistance supérieure ou égale à 4,5 m2.K/W ; 
 
-Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 5 m2.K/W ; 
+Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 7 m2.K/W ; 
+
+Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 6 m2.K/W ; 
 
 2° Matériaux d'isolation thermique des parois vitrées : 
 
-Fenêtres ou portes-fenêtres composées en tout ou partie de polychlorure de vinyle (PVC), avec un coefficient de transmission
-thermique (Uw) inférieur ou égal à 1,6 watt par mètre carré Kelvin (W/m2.K) ; cette valeur est ramenée à 1,4 W/m2.K à partir
-du 1er janvier 2009 ; 
+jusqu'au 31 décembre 2012, fenêtres ou portes-fenêtres composées en tout ou partie de polychlorure de vinyle (PVC), avec un
+coefficient de transmission thermique (Uw) inférieur ou égal à 1,4 watt par mètre carré Kelvin (W/m2.K) ; 
 
-Fenêtres ou portes-fenêtres composées en tout ou partie de bois, autres que celles mentionnées ci-dessus, avec un coefficient
-de transmission thermique (Uw) inférieur ou égal à 1,8 W/m2.K ; cette valeur est ramenée à 1,6 W/m2.K à partir du 1er janvier
-2009 ; 
+jusqu'au 31 décembre 2012, fenêtres ou portes-fenêtres composées en tout ou partie de bois, autres que celles mentionnées ci-
+dessus, avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,6 W/m2.K ; 
 
-Fenêtres ou portes-fenêtres métalliques avec un coefficient de transmission thermique (Uw) inférieur ou égal à 2 W/m2.K ;
-cette valeur est ramenée à 1,8 W/m2.K à partir du 1er janvier 2009 ; 
+jusqu'au 31 décembre 2012, fenêtres ou portes-fenêtres métalliques avec un coefficient de transmission thermique (Uw)
+inférieur ou égal à 1,8 W/m2.K ; 
+
+Fenêtres ou porte-fenêtres avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,3 watt par mètre carré
+Kelvin (W/m2.K) et un facteur de transmission solaire (Sw) supérieur ou égal à 0,3 ou un coefficient de transmission
+thermique (Uw) inférieur ou égal à 1,7 watt par mètre carré Kelvin (W/m2.K) et un facteur de transmission solaire (Sw)
+supérieur ou égal à 0,36 ; 
+
+Fenêtres en toitures avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,5 watt par mètre carré Kelvin
+(W/m2.K) et un facteur de transmission solaire (Sw) inférieur ou égal à 0,36 ; 
 
 Vitrages de remplacement à isolation renforcée dénommés également vitrages à faible émissivité, installés sur une menuiserie
-existante et dont le coefficient de transmission thermique du vitrage (Ug) est inférieur ou égal à 1,5 W/m2.K ; 
+existante et dont le coefficient de transmission thermique du vitrage (Ug) est inférieur ou égal à 1,1 W/m2.K ; 
 
 Doubles fenêtres, consistant en la pose sur la baie existante d'une seconde fenêtre à double vitrage renforcé, dont le
-coefficient de transmission thermique (Uw) est inférieur ou égal à 2 W/m2.K ; 
+coefficient de transmission thermique (Uw) est inférieur ou égal à 1,8 W/m2.K et, à partir du 1er janvier 2013, le facteur de
+transmission solaire (Sw) supérieur ou égal à 0,32 ; 
 
 3° Volets isolants : volets isolants caractérisés par une résistance thermique additionnelle apportée par l'ensemble volet-
-lame d'air ventilé supérieure à 0,20 m2.K /W ; 
+lame d'air ventilé supérieure à 0,22 m2.K/W ; 
 
 4° Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire
-avec une résistance thermique supérieure ou égale à 1 m2.K/W ; 
+avec une résistance thermique supérieure ou égale à 1,2 m2.K/W ; 
 
-5° Portes d'entrée donnant sur l'extérieur présentant un coefficient Ud inférieur ou égal à 1,8 W/m².K ;
+5° Portes d'entrée donnant sur l'extérieur présentant un coefficient Ud inférieur ou égal à 1,7 W/m2.K ;
 
 c) Acquisition d'appareils de régulation de chauffage permettant le réglage manuel ou automatique et la programmation des
 équipements de chauffage ou de production d'eau chaude sanitaire : 
@@ -2127,23 +2136,39 @@ d'eau destinée au chauffage, compteurs individuels d'énergie thermique et rép
 a) Equipements de production d'énergie utilisant une source d'énergie renouvelable : 
 
 1° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire et dotés de capteurs
-solaires, disposant d'une certification CSTBat ou Solar Keymark ou équivalente ; 
+solaires, disposant d'une certification CSTBat ou Solar Keymark ou équivalente, dans la limite d'un plafond de dépenses fixé
+à 1 000 €, toutes taxes comprises, par mètre carré hors tout de capteurs solaires;
 
-2° Systèmes de fourniture d'électricité à partir de l'énergie solaire respectant les normes EN 61215 ou NF EN 61646 ; 
+2° Systèmes de fourniture d'électricité à partir de l'énergie solaire respectant les normes EN 61215 ou NF EN 61646, dans la
+limite d'un plafond de dépenses fixé à 3 200 €, toutes taxes comprises, par kilowatt-crête de puissance installée ;
 
 3° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie hydraulique ; 
 
 4° Systèmes de fourniture d'électricité à partir de l'énergie éolienne, hydraulique ou de biomasse ; 
 
-5° Equipements de chauffage ou de production d'eau chaude indépendants fonctionnant au bois ou autres biomasses, pour
-lesquels la concentration moyenne de monoxyde de carbone doit être inférieure ou égale à 0,3 %, et dont le rendement
-énergétique est supérieur ou égal à 70 % selon les référentiels des normes en vigueur, tels que :
+5° Equipements de chauffage ou de production d'eau chaude indépendants fonctionnant au bois ou autres biomasses, qui
+respectent les trois conditions suivantes : 
 
-- les poêles (norme NF EN 13240 ou NF D 35376 ou NF EN 14785 ou EN 15250) ;
+a. La concentration moyenne de monoxyde de carbone, dénommée " E ", doit être inférieure ou égale à 0,3 % ; 
 
-- les foyers fermés et les inserts de cheminées intérieures (norme NF EN 13 229 ou NF D 35376) ;
+b. Le rendement énergétique, dénommé " h " doit être supérieur ou égal à 70 % ; 
 
-- les cuisinières utilisées comme mode de chauffage (norme NF EN 12815 ou NF D 32301). 
+c. L'indice de performance environnemental, dénommé " I ", doit être inférieur ou égal à 2. 
+
+L'indice de performance environnemental " I " est défini par le calcul suivant : 
+
+a. Pour les appareils à bûches : I = 101 532,2 × log (l + E)/h² ; 
+
+b. Pour les appareils à granulés : I = 92 573,5 × log (l + E)/h². 
+
+La concentration moyenne de monoxyde de carbone " E " et le rendement énergétique " h " sont mesurés selon les référentiels
+des normes en vigueur : 
+
+a. Pour les poêles : norme NF EN 13240 ou NF EN 14785 ou EN 15250 ; 
+
+b. Pour les foyers fermés et les inserts de cheminées intérieures : norme NF EN 13229 ; 
+
+c. Pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12815. 
 
 6° Chaudières autres que celles mentionnées au 1 et au a du 2, fonctionnant au bois ou autres biomasses, de rendement
 énergétique, selon les référentiels des normes en vigueur, supérieur ou égal à 80 % pour les équipements à chargement manuel
@@ -2172,128 +2197,103 @@ référentiel de la norme d'essai 14511-2 ;
 5° (Paragraphe abrogé) ;
 
 6° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire répondant, selon le référentiel de la norme d'essai EN
-255-3, aux critères suivants en fonction de la technologie utilisée : 
+16147, aux critères suivants en fonction de la technologie employée : 
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <td>
 
-TECHNOLOGIE UTILISÉE
-
-(source) 
-
-</th>
-        <th>
-
-COP SUPÉRIEUR À 
-
-</th>
-        <th>
-
-TEMPÉRATURE D'ESSAI
+TECHNOLOGIE UTILISÉE 
 
 (source) 
 
-</th>
-        <th>
+</td>
+      <td>
 
-TEMPÉRATURE
+COP 
 
-de consigne de l'eau 
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">
-
-Air ambiant 
+(supérieur à)
 
 </td>
-        <td align="center">
+      <td>
+
+TEMPÉRATURE D'EAU CHAUDE 
+
+de référence 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Air ambiant
+
+</td>
+      <td align="center">
+
+2,3 
+
+</td>
+      <td align="center">
+
++ 52,5° 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Air extérieur
+
+</td>
+      <td align="center">
+
+2,3 
+
+</td>
+      <td align="center">
+
++ 52,5° 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Air extrait
+
+</td>
+      <td align="center">
 
 2,5 
 
 </td>
-        <td align="center">
+      <td align="center">
 
-+ 7° C 
-
-</td>
-        <td align="center">
-
-+ 50° 
++ 52,5° 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-Air extérieur 
-
-</td>
-        <td align="center">
-
-2,5 
+Géothermie
 
 </td>
-        <td align="center">
+      <td align="center">
 
-+ 7° C 
-
-</td>
-        <td align="center">
-
-+ 50° 
+2,3 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
 
-Air extrait 
++ 52,5°
 
 </td>
-        <td align="center">
-
-2,9 
-
-</td>
-        <td align="center">
-
-+ 20° C 
-
-</td>
-        <td align="center">
-
-+ 50° 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Géothermie 
-
-</td>
-        <td align="center">
-
-2,5 
-
-</td>
-        <td align="center">
-
-- 
-
-</td>
-        <td align="center">
-
-+ 50°
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 c) Equipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une
 installation de cogénération, qui s'entendent des éléments suivants : 
@@ -2371,7 +2371,7 @@ suivants :
 
 	**Modifié par**:
 
-	  - Arrêté du 30 décembre 2010 - art. 1
+	  - Arrêté du 30 décembre 2011 - art. 1
 
 	**Cite**:
 
@@ -12011,29 +12011,29 @@ Produits pour l'entretien de la chevelure (l'hygiène et les soins de la chevelu
 
 ###### Article 52 ter
 
-Le contingent annuel d'exportation de 108 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
+Le contingent annuel d'exportation de 120 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est
 réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie et, d'autre part, entre les
-départements d'outre-mer jusqu'au 31 décembre 2012 conformément au tableau ci-après : 
+départements d'outre-mer, jusqu'au 31 décembre 2013, conformément au tableau ci-après : 
 
-Martinique : rhum traditionnel agricole, 38 842 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 10 195 hectolitres
-d'alcool pur ; 
+Martinique : rhum traditionnel agricole, 43 157,76 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 11 327,78
+hectolitres d'alcool pur ; 
 
-Guadeloupe : rhum traditionnel agricole, 9 954 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 27 944 hectolitres
-d'alcool pur ; 
+Guadeloupe : rhum traditionnel agricole, 11 285 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 30 823,89
+hectolitres d'alcool pur ; 
 
-Réunion : rhum traditionnel de sucrerie, 20 615 hectolitres d'alcool pur ; 
+Réunion : rhum traditionnel de sucrerie, 22 905,57 hectolitres d'alcool pur ; 
 
-Guyane : rhum traditionnel agricole, 450 hectolitres d'alcool pur.
+Guyane : rhum traditionnel agricole, 500 hectolitres d'alcool pur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2011 - art. 1
+	  - Arrêté du 9 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 362
+	  - Code général des impôts, CGI. - art. 362 (V)
 
 
 ##### 2° : Régime de l'exportation préalable
@@ -17984,33 +17984,33 @@ I.-Les taux d'imposition prévus au IV de l'article 1609 septvicies du code gén
 outre-mer sont fixés par tonne de viande avec os comme suit : 
 
 1° Animaux de plus de 24 mois de l'espèce bovine, animaux des espèces chevaline, asine et de leurs croisements, gibiers
-ruminants d'élevage : 58 euros / t ; 
+ruminants d'élevage : 58 €/t ; 
 
-2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 13 euros / t ; 
+2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 13 €/t ; 
 
-3° Animaux des espèces ovine et caprine : 54, 50 euros / t ; 
+3° Animaux des espèces ovine et caprine : 54,50 €/t ; 
 
-4° Animaux de l'espèce porcine : 8, 75 euros / t ; 
+4° Animaux de l'espèce porcine : 8,75 €/t ; 
 
-5° Volailles, lapins, gibiers d'élevage non ruminants et ratites : 6, 25 euros / t. 
+5° Volailles, lapins, gibiers d'élevage non ruminants et ratites : 6,25 €/t. 
 
 II.-Les taux d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés en
 métropole sont fixés par tonne de viande avec os comme suit : 
 
-1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage : 67 euros / t ; 
+1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage : 73,7 €/t ; 
 
-2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 15 euros / t ; 
+2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 16,5 €/t ; 
 
-3° Animaux des espèces ovine et caprine : 63 euros / t ; 
+3° Animaux des espèces ovine et caprine : 69,3 €/t ; 
 
-4° Animaux de l'espèce porcine : 0 euro / t ; 
+4° Animaux de l'espèce porcine : 0 €/t ; 
 
 5° Volailles de chair (hors poules pondeuses), palmipèdes à foie gras, lapins, gibiers d'élevage non ruminants et ratites : 0
-euro / t ; 
+€/t ; 
 
-6° Poules pondeuses : 0 euro / t ; 
+6° Poules pondeuses : 0 €/t ; 
 
-7° Animaux de l'espèce équine : 0 euro / t. 
+7° Animaux de l'espèce équine : 0 €/t. 
 
 III.-Le poids de viande avec os des animaux abattus est déterminé dans les conditions prévues à l'article 111 quater LA de
 l'annexe III.
@@ -18019,12 +18019,12 @@ l'annexe III.
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 1er décembre 2011 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA (V)
-	  - Code général des impôts, CGI. - art. 1609 septvicies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA
+	  - Code général des impôts, CGI. - art. 1609 septvicies
 
 
 ##### Section IV : Fonds national du livre
