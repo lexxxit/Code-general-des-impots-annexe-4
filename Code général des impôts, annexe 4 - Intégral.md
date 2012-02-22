@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-02-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4349,7 +4349,7 @@ La déclaration visée au 1 de l'article 287 du code général des impôts doit 
 
 ###### Article 39
 
-1. 1° La date limite à laquelle les redevables sont tenus de remettre ou d'envoyer au service des impôts la déclaration ou le
+1.1° La date limite à laquelle les redevables sont tenus de remettre ou d'envoyer au service des impôts la déclaration ou le
 paiement mentionnés aux 1 et 3 de l'article 287 du code général des impôts est fixé comme suit : 
 
 a. Pour les taxes dues au titre du trimestre civil précédent par les redevables placés sous le régime simplifié de
@@ -4370,17 +4370,17 @@ des groupes de deux chiffres ci-après :
 
 Toutes sociétés autres que les sociétés anonymes : 
 
-00, 01, 02... jusqu'à 68 inclus : au plus tard le 19 du mois suivant ; 
+00,01,02... jusqu'à 68 inclus : au plus tard le 19 du mois suivant ; 
 
-69, 70, 71... jusqu'à 78 inclus : au plus tard le 20 du mois suivant ; 
+69,70,71... jusqu'à 78 inclus : au plus tard le 20 du mois suivant ; 
 
-79, 80, 81... jusqu'à 99 : au plus tard le 21 du mois suivant. 
+79,80,81... jusqu'à 99 : au plus tard le 21 du mois suivant. 
 
 Sociétés anonymes : 
 
-00, 01, 02... jusqu'à 74 inclus : au plus tard le 23 du mois suivant ; 
+00,01,02... jusqu'à 74 inclus : au plus tard le 23 du mois suivant ; 
 
-75, 76, 77... jusqu'à 99 : au plus tard le 24 du mois suivant. 
+75,76,77... jusqu'à 99 : au plus tard le 24 du mois suivant. 
 
 Autres redevables : au plus tard le 24 du mois suivant. 
 
@@ -4404,14 +4404,20 @@ Autres redevables : au plus tard le 24 du mois suivant.
 
 d. Pour les redevables placés sous le régime simplifié d'imposition et tenus de verser des acomptes en avril, juillet,
 octobre et décembre, en application du 3 de l'article 287 du code général des impôts, les jours limites de paiement au cours
-de ces mois sont ceux prévus aux b, c et e.
+de ces mois sont ceux prévus aux b, c et e. 
 
 e. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les redevables visés au premier alinéa du I de
-l'article 95 de l'annexe III et placés sous le régime de la déclaration : au plus tard le 19 du mois suivant.  
+l'article 95 de l'annexe III et placés sous le régime de la déclaration : au plus tard le 19 du mois suivant. 
+
+f. Pour les déclarations déposées par les assujettis membres du groupe désignés au 3 de l'article 1693 ter du code général
+des impôts : aux dates prévues aux b et c du 1°. 
+
+Pour la déclaration récapitulative mentionnée au a du 3 de l'article 1693 ter du même code déposée par le redevable mentionné
+au 1 de l'article 1693 ter de ce code : au plus tard le 24 du mois suivant. 
 
 2° (périmé). 
 
-3° La date limite mentionnée au présent article est reportée dans les conditions prévues par l'article 199-0. 
+3° La date limite mentionnée au présent article est reportée dans les conditions prévues par l'article 199-0.
 
 4° En cas d'utilisation de la voie postale, le cachet de la poste fait foi de la date d'expédition. 
 
@@ -4421,7 +4427,7 @@ l'article 95 de l'annexe III et placés sous le régime de la déclaration : au 
 
 	**Modifié par**:
 
-	  - Arrêté du 29 juin 2009 - art. 1
+	  - Arrêté du 20 février 2012 - art. 1
 
 	**Cité par**:
 
@@ -4431,6 +4437,7 @@ l'article 95 de l'annexe III et placés sous le régime de la déclaration : au 
 	**Cite**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 199-0
+	  - Code général des impôts, CGI. - art. 1693 ter
 	  - Code général des impôts, CGI. - art. 287
 
 
