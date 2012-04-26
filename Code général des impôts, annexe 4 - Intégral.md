@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2012-02-23
+Version Consolidée au 2012-04-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1994,23 +1994,26 @@ Modifications effectuées en conséquence de l'article 38-I [6°] de la loi n° 
 
 ###### Article 18-0 bis A
 
-Les véhicules de tourisme strictement indispensables à l'activité de l'exploitant, mentionnés à la deuxième phrase du
-quinzième alinéa du I de l'article 199 undecies B du code général des impôts, s'entendent des véhicules neufs, acquis dans le
-cadre de l'exercice d'une activité ouvrant droit à la réduction d'impôt prévue à cet article et immatriculés dans la
-catégorie des voitures particulières au sens du 1 du C de l'annexe II à la directive 70 / 156 / CEE du Conseil du 6 février
-1970 concernant le rapprochement des législations des Etats membres relatives à la réception des véhicules à moteur et de
-leurs remorques, sans lesquels l'entreprise ne pourrait poursuivre son activité.
+Les véhicules de tourisme au sens de l'article 1010 du code général des impôts strictement indispensables à l'activité de
+l'exploitant, mentionnés à la deuxième phrase du quinzième alinéa du I de l'article 199 undecies B du code général des
+impôts, s'entendent des véhicules neufs, acquis dans le cadre de l'exercice d'une activité ouvrant droit à la réduction
+d'impôt prévue à cet article, sans lesquels l'entreprise ne pourrait poursuivre son activité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté du 12 avril 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 29 juin 2015 - art. 1
+	  - Arrêté du 25 août 2015 - art. 1
+
 	**Cite**:
 
-	  - Directive 70/156/CEE du Conseil du 6 février 1970
+	  - Code général des impôts, CGI. - art. 1010
 	  - Code général des impôts, CGI. - art. 199 undecies B
-
-	**Créé par**:
-
-	  - Arrêté du 5 février 2010 - art. 1
 
 
 ##### 4° Réduction d'impôt accordée au titre d'une opération d'investissement locatif 
