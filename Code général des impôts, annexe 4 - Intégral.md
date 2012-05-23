@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2012-04-27
+Version Consolidée au 2012-05-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
