@@ -32,9 +32,11 @@ n'est pas déductible, au sens de l'article 216 A du code général des impôts,
 accordé la subvention ou consenti l'abandon. Toutefois, le résultat consolidé n'est pas modifié lorsque la société débitrice
 est susceptible de bénéficier des dispositions de ce même article.
 
-4. Si les résultats d'une exploitation sont imposables selon les modalités prévues à l'article 217 bis du code général des
-impôts, les sommes qui sont ajoutées ou retranchées pour la détermination du résultat consolidé ne sont retenues que pour les
-deux tiers de leur montant.
+4. (Sans objet) (1)
+
+**Nota:**
+
+(1) Conséquence de l'abrogation de l'article 217 bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -42,15 +44,14 @@ deux tiers de leur montant.
 
 	  - Arrêté 2004-10-08
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 23 bis A, 223 A, 219, 39 octies A, 39 octies D, 39 octies, 217 undecies, 39 quinquies A, 216 A, 217 bis
-	  - CGIAN2 116
+	  - Arrêté du 27 juin 2012 - art. 1
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - PERIME: Arrêté du 3 juin 2013 - art. 1
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 1 () JORF 27 mars 2004
+	  - CGIAN2 116

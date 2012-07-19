@@ -23,8 +23,12 @@ objets dans l'inventaire de l'établissement destinataire.
 
 3. La taxe sur la valeur ajoutée n'est pas due si la cession est faite au bénéfice de l'un des établissements visés au 1.
 
+**Nota:**
+
+Décret n° 2011-52 du 13 janvier 2011, art. 1er et 27.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (V)
+	  - Arrêté du 27 juin 2012 - art. 1

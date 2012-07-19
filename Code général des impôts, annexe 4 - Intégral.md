@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2012-05-24
+Version Consolidée au 2012-07-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2658,9 +2658,11 @@ n'est pas déductible, au sens de l'article 216 A du code général des impôts,
 accordé la subvention ou consenti l'abandon. Toutefois, le résultat consolidé n'est pas modifié lorsque la société débitrice
 est susceptible de bénéficier des dispositions de ce même article.
 
-4. Si les résultats d'une exploitation sont imposables selon les modalités prévues à l'article 217 bis du code général des
-impôts, les sommes qui sont ajoutées ou retranchées pour la détermination du résultat consolidé ne sont retenues que pour les
-deux tiers de leur montant.
+4. (Sans objet) (1)
+
+**Nota:**
+
+(1) Conséquence de l'abrogation de l'article 217 bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -2668,18 +2670,17 @@ deux tiers de leur montant.
 
 	  - Arrêté 2004-10-08
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 23 bis A, 223 A, 219, 39 octies A, 39 octies D, 39 octies, 217 undecies, 39 quinquies A, 216 A, 217 bis
-	  - CGIAN2 116
+	  - Arrêté du 27 juin 2012 - art. 1
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - PERIME: Arrêté du 3 juin 2013 - art. 1
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 1 () JORF 27 mars 2004
+	  - CGIAN2 116
 
 
 ##### Section II : Lieu d'imposition
@@ -5601,7 +5602,7 @@ impôts doit être constatée par la remise d'un billet extrait d'un carnet à s
 défaut de remise d'un billet, être enregistrée et conservée dans un système informatisé, avant l'accès au lieu du spectacle.
 
 II. - Les exploitants de spectacles qui utilisent des systèmes de billetterie informatisée comportant ou non l'impression de
-billets doivent se conformer aux obligations prévues au cahier des charges annexé à l'arrêté du 8 mars 1993 modifié.
+billets doivent se conformer aux obligations prévues au cahier des charges annexé à l'arrêté du 8 mars 1993.
 
 III. - L'entrée doit faire l'objet d'un contrôle manuel ou électronique. Lorsqu'un billet est imprimé, il doit rester entre
 les mains du spectateur. Si ce billet comporte deux parties, l'une reste entre les mains du spectateur et l'autre est retenue
@@ -5639,20 +5640,11 @@ cinématographique.
 
 (2e à 6e alinéas supprimés)
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 3 et 13 du décret n° 2009-1254.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1993-03-08 annexe
-	  - CGI 290 quater
 
 	**Modifié par**:
 
-	  - Arrêté du 27 avril 2010 - art. 1
+	  - Arrêté du 27 juin 2012 - art. 1
 
 	**Cité par**:
 
@@ -5660,6 +5652,10 @@ Modifications effectuées en conséquence des articles 3 et 13 du décret n° 20
 	  - Décret n°2017-926 du 9 mai 2017 (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies C (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies E (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 290 quater
 
 
 ###### Article 50 sexies C
@@ -6280,11 +6276,15 @@ objets dans l'inventaire de l'établissement destinataire.
 
 3. La taxe sur la valeur ajoutée n'est pas due si la cession est faite au bénéfice de l'un des établissements visés au 1.
 
+**Nota:**
+
+Décret n° 2011-52 du 13 janvier 2011, art. 1er et 27.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (V)
+	  - Arrêté du 27 juin 2012 - art. 1
 
 
 ##### Section VII : Régimes spéciaux
@@ -10502,9 +10502,9 @@ locaux au site d'exploitation lorsqu'ils sont situés en dehors des limites fix�
 
 ###### Article 50-00 C
 
-En application des articles 286 I et 286 J de l'annexe II du code général des impôts, et en fonction de l'activité des
-entrepositaires agréés concernés, chacun des comptes de la comptabilité matières doit reprendre notamment les informations
-suivantes : 
+En application de l'article 286 I et de l'article 286 J de l'annexe II au code général des impôts, et en fonction de
+l'activité des entrepositaires agréés concernés, chacun des comptes de la comptabilité matières doit reprendre notamment les
+informations suivantes : 
 
 1° La nature, le numéro et la date de départ ou de réception du document d'accompagnement mentionné aux articles 302 M et 302
 M ter dudit code ou des pièces justificatives des productions, des transformations, des détentions, des entrées et sorties de
@@ -10512,9 +10512,9 @@ produits des chais ou locaux du site d'exploitation ;
 
 2° La date des déclarations de mise en production d'alcool, de fabrication de mistelles, vermouths, vins de liqueur ou
 apéritifs à base de vin, de cidre ou de poiré, de fabrication de vins mousseux, et de fabrication de vins doux naturels,
-prévues aux articles 312, 343 et 416 dudit code ; 
+prévues aux articles 312,343 et 416 dudit code ; 
 
-3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407, 408 et 410 bis dudit code ; 
+3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407,408 et 410 bis dudit code ; 
 
 4° La date de la prise en charge des produits alcooligènes visés à l'article 338 du même code ; 
 
@@ -10540,18 +10540,19 @@ e) L'avis de blocage, l'engagement de garantie ou la mainlevée du porteur de wa
 de garantie. 
 
 8° La référence aux rhums traditionnels des départements d'outre-mer, soumis au tarif d'imposition prévu au 1° du I de
-l'article 403 au code général des impôts, sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
+l'article 403 du code général des impôts, sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
 subdivisée, selon le cas, par appellation d'origine ou par dénomination économique ou géographique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 28 juillet 2011 - art. 1
+	  - Arrêté du 27 juin 2012 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 408
 	  - Code général des impôts, CGI. - art. 302 G
 	  - Code général des impôts, CGI. - art. 312
@@ -16283,9 +16284,8 @@ l'Etat en application des articles 1641 et 1644 du code général des impôts.
 
 Pour l'application des dispositions de l'article 1599 quater A bis du code général des impôts, sont considérés comme des
 matériels roulants relevant de la catégorie " Métro " les matériels roulants de transport public guidé de voyageurs qui
-circulent sur les lignes mentionnées aux premier et deuxième alinéas de l'article 2 de l'ordonnance n° 59-151 du 7 janvier
-1959 relative à l'organisation des transports de voyageurs en Ile-de-France et dont la captation d'énergie s'effectue par un
-système d'alimentation électrique par troisième rail. 
+circulent sur les lignes mentionnées aux articles L. 2142-1 et L. 2142-2 du code des transports et dont la captation
+d'énergie s'effectue par un système d'alimentation électrique par troisième rail. 
 
 Les matériels roulants relevant de cette catégorie comprennent : 
 
@@ -16293,23 +16293,27 @@ Les matériels roulants relevant de cette catégorie comprennent :
 
 2° Les remorques qui sont des caisses non motorisées et qui accueillent des voyageurs.
 
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010, art. 3, 7 [39°] et 17.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Code des transports - art. L2142-1 (V)
+	  - Code général des impôts, CGI. - art. 1599 quater A bis (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 nonies (T)
+	  - Arrêté du 27 juin 2012 - art. 1
 
 
 ###### Article 155-0 ter
 
 Pour l'application des dispositions de l'article 1599 quater A bis du code général des impôts, sont considérés comme des
 matériels roulants relevant de la catégorie " Autre matériel " les matériels roulants de transport public ferroviaire de
-voyageurs qui circulent sur les lignes du réseau express régional mentionnées au troisième alinéa de l'article 2 de
-l'ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile-de-France. 
+voyageurs qui circulent sur les lignes du réseau express régional mentionnées à l'article L. 2142-3 du code des transports. 
 
 Les matériels roulants relevant de cette catégorie comprennent : 
 
@@ -16317,15 +16321,20 @@ Les matériels roulants relevant de cette catégorie comprennent :
 
 2° Les remorques qui sont des caisses non motorisées et qui accueillent des voyageurs.
 
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010, art. 3, 7 [39°] et 17.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Code des transports - art. L2142-3
+	  - Code général des impôts, CGI. - art. 1599 quater A bis
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 159 decies (T)
+	  - Arrêté du 27 juin 2012 - art. 1
 
 
 #### Chapitre premier : Droits d'enregistrement
@@ -19519,7 +19528,7 @@ droits indirects.
 
 	**Modifié par**:
 
-	  - Arrêté du 28 juillet 2011 - art. 1
+	  - Arrêté du 27 juin 2012 - art. 1
 
 	**Cite**:
 
@@ -20899,15 +20908,14 @@ le montant desdits droits et taxes.
 ###### Article 198 septies
 
 Les receveurs des impôts sont chargés de recouvrer les produits (y compris les charges et taxes correspondantes) provenant
-des locations des immeubles domaniaux bâtis ainsi que ceux provenant de la cession d'immeubles réalisée conformément à
-l'article R. 135 du code du domaine de l'Etat.
+des locations des immeubles domaniaux bâtis ainsi que ceux provenant de la cession d'immeubles réalisée conformément aux
+articles R. 3211-32 du code général de la propriété des personnes publiques et 6 du décret n° 2011-1612 du 22 novembre 2011.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011, art. 2, 3-I [1°] et 6.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1966-09-20 art. 4 JORF 28 octobre 1966
-	  - Arrêté 1989-04-19 art. 1 JORF 24 mai 1989 en vigueur le 1er juillet 1989
 
 	**Codifié par**:
 
@@ -20915,11 +20923,12 @@ l'article R. 135 du code du domaine de l'Etat.
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R135 (V)
+	  - Décret n°2011-1612 du 22 novembre 2011
+	  - Code général de la propriété des personnes publiques. - art. R3211-32
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - Arrêté du 27 juin 2012 - art. 1
 
 
 #### 7 : Dispositions communes aux impositions ayant le permis de construire pour fait générateur
