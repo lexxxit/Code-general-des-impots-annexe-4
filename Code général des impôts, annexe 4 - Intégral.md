@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2012-07-20
+Version Consolidée au 2012-10-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10100,31 +10100,31 @@ Pour les viandes de gibier d'élevage et sauvage :
 ###### Article 50 quaterdecies-0 A
 
 Le tarif de la redevance sanitaire de première mise sur le marché des produits de la pêche et de l'aquaculture s'établit
-comme suit (par tonne) :
+comme suit (par tonne) : 
 
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les 50 premières tonnes dans le mois
+Pour les 50 premières tonnes dans le mois 
 
 </td>
-      <td width="151" valign="top">
+      <td align="center">
 
-0,76 euro
+1 € 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les tonnes suivantes
+Pour les tonnes suivantes 
 
 </td>
-      <td width="151" valign="top">
+      <td align="center">
 
-0,38 euro
+0,50 € 
 
 </td>
     </tr>
@@ -10132,31 +10132,31 @@ Pour les tonnes suivantes
 </table>
 
 Le tarif de la redevance sanitaire pour les opérations de première vente réalisées dans les halles à marée s'établit comme
-suit (par tonne) :
+suit (par tonne) : 
 
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les 50 premières tonnes dans le mois
+Pour les 50 premières tonnes dans le mois 
 
 </td>
-      <td valign="top" width="151">
+      <td align="center">
 
-0,46 euro
+0,50 € 
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td align="center">
 
-Pour les tonnes suivantes
+Pour les tonnes suivantes 
 
 </td>
-      <td width="151" valign="top">
+      <td align="center">
 
-0,23 euro
+0,25 € 
 
 </td>
     </tr>
@@ -10164,31 +10164,31 @@ Pour les tonnes suivantes
 </table>
 
 Le tarif majoré de la redevance sanitaire pour les opérations de première vente réalisées en cas d'absence ou d'insuffisance
-de classement ou de calibrage (par tonne) :
+de classement ou de calibrage (par tonne) : 
 
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les 50 premières tonnes dans le mois
+Pour les 50 premières tonnes dans le mois 
 
 </td>
-      <td width="151" valign="top">
+      <td align="center">
 
-0,76 euro
+1 € 
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td align="center">
 
-Pour les tonnes suivantes
+Pour les tonnes suivantes 
 
 </td>
-      <td valign="top" width="151">
+      <td align="center">
 
-0,38 euro
+0,50 € 
 
 </td>
     </tr>
@@ -10196,106 +10196,60 @@ Pour les tonnes suivantes
 </table>
 
 Le montant maximum perçu par lot de poissons des espèces visées au II de l'article 267 quater F de l'annexe II au code
-général des impôts est fixé à 50 euros.
+général des impôts est fixé à 50 €.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-05-09 art. 1 JORF 12 mai 2000 en vigueur le 1er janvier 2002
+	  - Arrêté du 28 septembre 2012 - art. 1
 
 	**Cite**:
 
-	  - CGIAN2 267 quater F
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Règlement CE 1103/97 1997-06-17 art. 5 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866/98 1998-12-31 art. 1 JOCE 31 décembre 1998 en en vigueur le 1er janvier 2002
-	  - Règlement CE 974/98 1998-05-03 art. 14 en vigueur le 1er janvier 2002
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 267 quater F
 
 
 ###### Article 50 quaterdecies-0 A bis
 
-Le tarif de la redevance sanitaire de transformation des produits de la pêche et de l'aquaculture est fixé à 0,46 euro par
+Le tarif de la redevance sanitaire de transformation des produits de la pêche et de l'aquaculture est fixé à 0,50 € par
 tonne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2000-05-09 art. 2 JORF 12 mai 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
 	**Modifié par**:
 
-	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
+	  - Arrêté du 28 septembre 2012 - art. 1
 
 
 #### Chapitre III ter : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus
 
 ###### Article 50 quaterdecies-0 A ter
 
-Le tarif de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus s'établit comme suit :
+Le tarif de la redevance sanitaire pour le contrôle de certaines substances et de leurs résidus s'établit comme suit : 
 
 <table>
   <tbody>
     <tr>
-      <td width="529" valign="top">
+      <td align="center">
 
-Pour les viandes de boucherie, de volaille, de lapin et de gibier d'élevage ou sauvage
-
-</td>
-      <td valign="top" width="151">
-
-1,35 euro par tonne
+Pour le lait 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les produits de l'aquaculture
-
-</td>
-      <td width="151" valign="top">
-
-0,10 euro par tonne
+0,02 € par mètre cube 
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td align="center">
 
-Pour le lait
-
-</td>
-      <td width="151" valign="top">
-
-0,02 euro par mètre cube
+Pour les ovoproduits 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="529">
+      <td align="center">
 
-Pour les ovoproduits
-
-</td>
-      <td width="151" valign="top">
-
-0,46 euro par tonne
-
-d'œufs en coquille
+0,46 € par tonne d'œufs en coquille
 
 </td>
     </tr>
@@ -10304,20 +10258,9 @@ d'œufs en coquille
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1999-09-17 art. 1 JORF 21 septembre 1999 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1999-09-17 art. 2
-	  - HISTO: Edition du 31 mars 2002
-
 	**Modifié par**:
 
-	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
+	  - Arrêté du 28 septembre 2012 - art. 1
 
 
 #### Chapitre V : Contribution de solidarité territoriale
