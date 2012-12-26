@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2012-10-07
+Version Consolidée au 2012-12-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1759,63 +1759,61 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2012, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2013, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme
 suit : 
 
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th colspan="5">
+      <td> </td>
+      <td colspan="5">
 
 LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS 
 
-</th>
+</td>
     </tr>
     <tr>
-      <th>
+      <td>
 
 Taux applicables 
 
-</th>
-      <th>
+</td>
+      <td>
 
 Année 
 
 (en euros) 
 
-</th>
-      <th>
+</td>
+      <td>
 
 Trimestre 
 
 (en euros) 
 
-</th>
-      <th>
+</td>
+      <td>
 
 Mois 
 
 (en euros) 
 
-</th>
-      <th>
+</td>
+      <td>
 
 Semaine 
 
 (en euros) 
 
-</th>
-      <th>
+</td>
+      <td>
 
 Jour ou fraction de jour 
 
 (en euros) 
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -1956,7 +1954,7 @@ Jour ou fraction de jour
 
 	**Modifié par**:
 
-	  - Arrêté du 29 décembre 2011 - art. 1
+	  - Arrêté du 20 décembre 2012 - art. 1
 
 
 ##### 2° Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
