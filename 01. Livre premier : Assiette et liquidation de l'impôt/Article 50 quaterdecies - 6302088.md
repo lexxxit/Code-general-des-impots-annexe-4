@@ -5,89 +5,65 @@ Le tarif de la redevance sanitaire de découpage s'établit comme suit (par tonn
 <table>
   <tbody>
     <tr>
-      <td width="529" rowspan="2">
+      <td rowspan="2">
 
 </td>
-      <td width="151">
+      <td>
 
 EN EUROS
 
 </td>
     </tr>
     <tr>
-      <td width="151">
+      <td>
 
-Par tonne
-
-</td>
-    </tr>
-    <tr>
-      <td width="529" valign="top">
-
-Pour les viandes de boucherie
-
-</td>
-      <td valign="top" width="151">
-
-1,68
+Par tonne 
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td>
 
-Pour les viandes de volailles et de lapin
-
-</td>
-      <td valign="top" width="151">
-
-1,35
+Pour les viandes d'ongulés domestiques 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="529">
+      <td>
 
-Pour les viandes de gibier d'élevage et sauvage :
-
-</td>
-      <td width="151" valign="top">
+2 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td>
 
-- petit gibier à plumes, petit gibier à poils
-
-</td>
-      <td width="151" valign="top">
-
-1,35
+Pour les viandes de volailles et de lapin d'élevage 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="529">
+      <td>
 
-- ratites (autruche, émeu, nandou)
-
-</td>
-      <td valign="top" width="151">
-
-2,90
+1,5 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td>
 
-- sanglier et ruminants
+Pour les viandes de gibier d'élevage et sauvage : 
+
+- petit gibier à plumes, petit gibier à poils 
+
+- ratites (autruche, emeu, nandou) 
+
+- sanglier et ruminants 
 
 </td>
-      <td width="151" valign="top">
+      <td>
 
-1,68
+1,5 
+
+3 
+
+2
 
 </td>
     </tr>
@@ -98,4 +74,4 @@ Pour les viandes de gibier d'élevage et sauvage :
 
 	**Modifié par**:
 
-	  - Arrêté du 17 septembre 1999 - art. 2 JORF 21 septembre 1999 en vigueur le 1er janvier 2002, v. init.
+	  - Arrêté du 12 octobre 2012 - art. 6
