@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-04-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -942,6 +942,288 @@ inférieure à 50 % de la valeur libératoire des titres-restaurant.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 81 (V)
+
+
+##### Frais de déplacement
+
+###### Article 6 B
+
+Le barème forfaitaire mentionné au 3° de l'article 83 du code général des impôts est fixé comme suit : 
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan="4">
+
+TARIFS APPLICABLES AUX AUTOMOBILES 
+      </td>
+    </tr>
+    <tr>
+      <td> Puissance administrative du véhicule en chevaux (CV)</td>
+      <td> Jusqu'à 5 000 km </td>
+      <td> De 5 001 km à 20 000 km </td>
+      <td> Au-delà de 20 000 km </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3 CV et moins 
+
+</td>
+      <td align="center">
+
+d × 0,405 
+
+</td>
+      <td align="center">
+
+(d × 0,242) + 818 
+
+</td>
+      <td align="center">
+
+d × 0,283 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4 CV 
+
+</td>
+      <td align="center">
+
+d × 0,487 
+
+</td>
+      <td align="center">
+
+(d × 0,274) + 1 063 
+
+</td>
+      <td align="center">
+
+d × 0,327 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5 CV 
+
+</td>
+      <td align="center">
+
+d × 0,536 
+
+</td>
+      <td align="center">
+
+(d × 0,3) + 1 180 
+
+</td>
+      <td align="center">
+
+d × 0,359 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6 CV 
+
+</td>
+      <td align="center">
+
+d × 0,561 
+
+</td>
+      <td align="center">
+
+(d × 0,316) + 1 223 
+
+</td>
+      <td align="center">
+
+d × 0,377 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 CV et plus 
+
+</td>
+      <td align="center">
+
+d × 0,587 
+
+</td>
+      <td align="center">
+
+(d × 0,332) + 1 278 
+
+</td>
+      <td align="center">
+
+d × 0,396 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+d représente la distance parcourue en kilomètres. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan="4"> TARIF APPLICABLE AUX MOTOCYCLETTES </td>
+    </tr>
+    <tr>
+      <td align="center"> Puissance administrative du véhicule en chevaux (CV)</td>
+      <td align="center"> Jusqu'à 3 000 km </td>
+      <td align="center"> De 3 001 km à 6 000 km </td>
+      <td align="center"> Au-delà de 6 000 km </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 ou 2 CV 
+
+</td>
+      <td align="center">
+
+d × 0,333 
+
+</td>
+      <td align="center">
+
+(d × 0,083) + 750 
+
+</td>
+      <td align="center">
+
+d × 0,208 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3,4,5 CV 
+
+</td>
+      <td align="center">
+
+d × 0,395 
+
+</td>
+      <td align="center">
+
+(d × 0,069) + 978 
+
+</td>
+      <td align="center">
+
+d × 0,232 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Plus de 5 CV 
+
+</td>
+      <td align="center">
+
+d × 0,511 
+
+</td>
+      <td align="center">
+
+(d × 0,067) + 1 332 
+
+</td>
+      <td align="center">
+
+d × 0,289 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+d représente la distance parcourue en kilomètres. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan="4">
+
+TARIF APPLICABLE AUX CYCLOMOTEURS 
+      </td>
+    </tr>
+    <tr>
+      <td> Jusqu'à 2 000 km </td>
+      <td> De 2 001 à 5 000 km </td>
+      <td colspan="2"> Au-delà de 5 000 km </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+d × 0,266 
+
+</td>
+      <td align="center">
+
+(d × 0,063) + 406 
+
+</td>
+      <td align="center">
+
+d × 0,144 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+d représente la distance parcourue en kilomètres.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 30 mars 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 83
 
 
 ##### Section III : Revenus des capitaux mobiliers
@@ -14879,7 +15161,7 @@ double commande ou à interruption.
 	  - HISTO: Edition du 1er janvier 2006
 
 
-##### Section II : Taxe professionnelle
+##### Section II : Cotisation foncière des entreprises
 
 ##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire
 
@@ -15123,10 +15405,6 @@ Modification effectuée en conséquence de l'art. 1er  [8°].) du décret n° 20
 
 	  - CGIAN3 322 G
 
-
-##### Section II : Cotisation foncière des entreprises
-
-##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire
 
 ##### Section III : Commission consultative départementale des évaluations foncières
 
