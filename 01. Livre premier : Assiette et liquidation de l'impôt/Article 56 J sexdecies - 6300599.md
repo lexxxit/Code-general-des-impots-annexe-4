@@ -20,7 +20,7 @@ leur poids, à condition que la référence renvoie à une facture. La facture p
 objets si l'identification reste possible par le numéro de série individuel ou la référence commerciale de l'ouvrage
 mentionnée dans un catalogue ou tout document de nature comptable ; 
 
-b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-17 du code de commerce ou
+b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-23 du code de commerce ou
 aux spécifications du 3° du I de l'article 286 du code général des impôts si les documents prévus à cet article sont
 accompagnés de fiches de stock ou d'un inventaire permanent ; 
 
@@ -28,12 +28,12 @@ c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente
 permettant l'identification des ouvrages et offrant toutes garanties en matière de preuve. Tout logiciel doit comporter les
 indications reprises à l'article 56 J quindecies. Toutefois, l'indication du poids et du titre des ouvrages n'est pas exigée
 si leur identification est possible soit par le numéro de série individuel, soit par la référence commerciale de l'ouvrage
-mentionnée dans un catalogue ou tout document de nature comptable.
+mentionnée dans un catalogue ou tout document de nature comptable. 
 
 L'opérateur doit être en mesure d'apporter la preuve de la fiabilité du système informatique utilisé et de la chronologie des
 écritures présentées sous forme de listes. Les feuillets informatiques doivent être identifiés, numérotés et datés sans
 possibilité de modifications afin d'assurer la chronologie des opérations enregistrées. Les modifications éventuelles doivent
-être justifiées par création d'un nouvel enregistrement informatique avec indication de son motif.
+être justifiées par création d'un nouvel enregistrement informatique avec indication de son motif. 
 
 L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
 Les enregistrements informatiques ou listages doivent pouvoir être présentés à toute réquisition du service dans les
@@ -51,7 +51,7 @@ c. Ou le registre établi au moyen du logiciel assurant la gestion permanente de
 enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par création d'un nouvel
 enregistrement avec indication de son motif et que le répertoire contenant ces informations soit spécifique et comprenne un
 système d'identification des pages par chiffre de contrôle, contenant un algorithme ou un système fondé notamment sur la date
-de l'opération, reporté en fin et en tête des pages imprimées quotidiennement.
+de l'opération, reporté en fin et en tête des pages imprimées quotidiennement. 
 
 L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
 
@@ -59,12 +59,11 @@ L'opérateur doit être en mesure d'éditer quotidiennement les informations rel
 
 	**Modifié par**:
 
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Arrêté du 17 mai 2013 - art. 1
 
 	**Cite**:
 
 	  - Code de commerce - art. L123-12
-	  - Code de commerce - art. L123-17
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies
 	  - Code général des impôts, CGI. - art. 286
 	  - Code pénal - art. 321-7

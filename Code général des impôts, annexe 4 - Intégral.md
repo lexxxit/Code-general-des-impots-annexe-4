@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2013-04-27
+Version Consolidée au 2013-05-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4981,8 +4981,6 @@ b. l'assujetti dépasse le seuil de 460 000 € en cours d'année.
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 L
 
-
-##### D : Factures transmises par voie télématique
 
 ##### D : Factures transmises par voie électronique
 
@@ -13186,8 +13184,8 @@ physiques habilitées à représenter les personnes morales agréées.
 
 ###### Article 56 J octies
 
-L'agrément est accordé par le ministre de l'économie, des finances, et de l'industrie, pour une durée indéterminée, pour un
-ou plusieurs bureaux de garantie.
+L'agrément est accordé par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'industrie, pour une durée
+indéterminée, pour un ou plusieurs bureaux de garantie.
 
 Les décisions d'agrément sont notifiées aux bénéficiaires et publiées au Bulletin officiel des douanes.
 
@@ -13201,13 +13199,7 @@ Les décisions rejetant les demandes d'agrément sont motivées et notifiées au
 
 	**Modifié par**:
 
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
+	  - Arrêté du 17 mai 2013 - art. 1
 
 
 ###### Article 56 J quinquies
@@ -13309,61 +13301,77 @@ personne morale ou physique qui ne respecte pas ses obligations.
 ###### Article 56 J duodecies
 
 Le cahier des charges prévu à l'article 275 bis C de l'annexe II au code général des impôts comprend la description des
-moyens et des méthodes de contrôles et essais mis en oeuvre par les professionnels habilités par une convention.
+moyens et des méthodes de contrôles et essais ainsi que des méthodes d'attestation de la garantie du titre mis en œuvre par
+les professionnels habilités par une convention. 
+
+L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur général
+des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des
+organismes agréés mentionnés à l'article 275 bis F de l'annexe II au code général des impôts. 
 
 La direction régionale des douanes et droits indirects de rattachement approuve le cahier des charges préalablement à
-l'habilitation du professionnel.
+l'habilitation du professionnel. 
 
-Le cahier des charges mentionné est composé notamment de :
+Le cahier des charges mentionné au premier alinéa est composé notamment : 
 
-a) Une documentation, relative à l'entreprise, fournissant :
+1° D'une documentation, relative à l'entreprise, fournissant : 
 
-1° La description de l'entreprise quant à ses structures juridiques et ses locaux ;
+a) La description de l'entreprise quant à ses structures juridiques et ses locaux ; 
 
-2° La description de l'organisation et des responsabilités de la direction de l'entreprise ;
+b) La description de l'organisation et des responsabilités de la direction de l'entreprise ; 
 
-b) Une documentation relative aux obligations de contrôle du titre des ouvrages indiquant :
+2° D'une documentation relative aux obligations de contrôle du titre des ouvrages indiquant : 
 
-1° Les sources d'approvisionnement des alliages, apprêts pour les fabricants, ainsi que les méthodes de contrôle des métaux
-précieux mises en oeuvre depuis leur acquisition jusqu'aux produits finis ;
+a) Les sources d'approvisionnement des alliages, apprêts pour les fabricants, ainsi que les méthodes de contrôle des métaux
+précieux mises en œuvre depuis leur acquisition jusqu'aux produits finis ; 
 
-2° Les méthodes d'analyses internes quand le contractant habilité a son laboratoire situé dans son entreprise ou externes des
-produits dans les autres cas ;
+b) Les méthodes d'analyses internes quand le contractant habilité a son laboratoire situé dans son entreprise ou externes des
+produits dans les autres cas ; 
 
-3° La méthode de gestion des échantillons lors des essais des ouvrages ;
+c) La méthode de gestion des échantillons lors des essais des ouvrages ; 
 
-4° La méthode de gestion des produits non conformes au titre légal prévu ;
+d) La méthode de gestion des produits non conformes au titre légal prévu ; 
 
-5° La mise en oeuvre des actions correctives pour les ouvrages aux titres non légaux ;
+e) La mise en œuvre des actions correctives pour les ouvrages aux titres non légaux ; 
 
-c) L'indication des obligations en matière de marquage des ouvrages, à savoir :
+3° D'une documentation relative aux méthodes utilisées pour attester la garantie du titre et à la mise en place du protocole
+de sécurité informatique en cas de marquage au laser, indiquant : 
 
-1° La conservation de la documentation relative à la délégation de poinçons ;
+a) L'installation et la configuration du poste informatique ; 
 
-2° Le respect des règles de marque ;
+b) La sécurisation des accès au poste de pilotage de la machine à graver au laser ; 
 
-3° La tenue d'une comptabilité matières du nombre d'ouvrages essayés, du nombre des ouvrages marqués par type de métal et du
-nombre des ouvrages reconnus aux titres non légaux.
+c) Les modalités de sauvegarde et d'archivage des données informatiques relatives au journal de suivi des ouvertures de
+session et des modifications des comptes d'utilisateurs ; 
+
+4° De l'indication des obligations en matière de marquage des ouvrages, précisant : 
+
+a) La conservation de la documentation relative à la délégation de poinçons ; 
+
+b) En cas de marquage au laser, la description du dessin de l'empreinte du poinçon à apposer sur l'ouvrage en or, argent et
+platine et le respect des profondeurs de gravure ; 
+
+c) Le respect des règles de marque ; 
+
+d) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages
+marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523
+du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2004-07-28 art. 1 JORF 12 août 2004
-
-	**Cite**:
-
-	  - CGIAN2 275 bis C
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22 (Parlement et Conseil)
-	  - HISTO: Edition du 31 août 2004
+	  - Arrêté du 17 mai 2013 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+	  - Code général des impôts, CGI. - art. 523 (V)
 
 
 ##### 4° bis : Organismes de contrôle agréés
@@ -13371,37 +13379,56 @@ nombre des ouvrages reconnus aux titres non légaux.
 ###### Article 56 J terdecies
 
 Le cahier des charges prévu à l'article 275 ter B de l'annexe II au code général des impôts comprend la description des
-moyens et des méthodes de contrôles et essais mis en oeuvre par les organismes de contrôle agréés.
+moyens et des méthodes de contrôles et essais ainsi que des méthodes d'attestation de la garantie du titre mis en œuvre par
+les organismes de contrôle agréés. 
 
-La direction générale des douanes et droits indirects et la direction générale des entreprises approuvent le cahier des
-charges préalablement à l'agrément de l'organisme de contrôle.
+L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur général
+des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des
+organismes agréés mentionnés à l'article 275 ter G de l'annexe II au code général des impôts. 
 
-Le cahier des charges est composé notamment de :
+La direction générale des douanes et droits indirects et la direction générale de la compétitivité, de l'industrie et des
+services approuvent le cahier des charges préalablement à l'agrément de l'organisme de contrôle. 
 
-a) Une documentation, relative à l'organisme de contrôle agréé, fournissant :
+Le cahier des charges mentionné au premier alinéa est composé notamment : 
 
-1° La description de l'organisme quant à ses structures juridiques et ses locaux ;
+1° D'une documentation, relative à l'organisme de contrôle agréé, fournissant : 
 
-2° La description de l'organisation et des responsabilités de la direction de l'entreprise ainsi que la compétence du
-personnel chargé de la détermination du titre des ouvrages ;
+a) La description de l'organisme quant à ses structures juridiques et ses locaux ; 
 
-b) Une documentation relative à la procédure d'analyse des ouvrages en métaux précieux qui reprend :
+b) La description de l'organisation et des responsabilités de la direction de l'entreprise ainsi que la compétence du
+personnel chargé de la détermination du titre des ouvrages ; 
 
-1° Les normes utilisées sur les méthodes de dosage des métaux précieux ;
+2° D'une documentation relative à la procédure d'analyse des ouvrages en métaux précieux qui reprend : 
 
-2° Les moyens et les méthodes de contrôle et d'essai des ouvrages des professionnels habilités par une convention et des
-ouvrages des professionnels non habilités ;
+a) Les normes utilisées sur les méthodes de dosage des métaux précieux ; 
 
-3° La méthode de gestion des échantillons lors des essais des ouvrages et la procédure mise en place en cas de découverte de
-produits non conformes au titre légal ;
+b) Les moyens et les méthodes de contrôle et d'essai des ouvrages des professionnels habilités par une convention et des
+ouvrages des professionnels non habilités ; 
 
-c) Une documentation relative aux obligations des organismes de contrôles agréés qui marquent éventuellement les ouvrages
-pour le compte des professionnels, à savoir :
+c) La méthode de gestion des échantillons lors des essais des ouvrages et la procédure mise en place en cas de découverte de
+produits non conformes au titre légal ; 
 
-1° Le respect des règles de marque ;
+3° D'une documentation relative aux méthodes utilisées pour attester la garantie du titre et à la mise en place du protocole
+de sécurité informatique en cas de marquage au laser, indiquant : 
 
-2° La tenue d'une comptabilité matières du nombre et poids des ouvrages essayés, du nombre et poids des ouvrages marqués et
-du nombre et poids des ouvrages reconnus aux titres non légaux.
+a) L'installation et la configuration du poste informatique ; 
+
+b) La sécurisation des accès au poste de pilotage de la machine à marquer au laser ; 
+
+c) Les modalités de sauvegarde et d'archivage des données informatiques relatives au journal de suivi des ouvertures de
+session et des modifications des comptes d'utilisateurs ; 
+
+4° D'une documentation relative aux obligations des organismes de contrôles agréés qui marquent éventuellement les ouvrages
+pour le compte des professionnels, précisant : 
+
+a) En cas du marquage au laser, la description du dessin de l'empreinte du poinçon à apposer sur l'ouvrage en or, argent et
+platine et le respect des profondeurs de gravure ; 
+
+b) Le respect des règles de marque ; 
+
+c) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages
+marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523
+du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
 
 **Liens relatifs à cet article**
 
@@ -13409,22 +13436,188 @@ du nombre et poids des ouvrages reconnus aux titres non légaux.
 
 	  - Arrêté 2007-03-30
 
-	**Cite**:
-
-	  - CGIAN2 275 ter B
-
 	**Modifié par**:
 
-	  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+	  - Arrêté du 17 mai 2013 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G (V)
+	  - Code général des impôts, CGI. - art. 523 (V)
+
+
+##### 4° ter : Organismes agréés
+
+###### Article 56 j terdecies A
+
+Tout organisme qui souhaite obtenir l'agrément mentionné aux articles 275 bis F et 275 ter G de l'annexe II au code général
+des impôts doit déposer auprès de la direction générale des douanes et droits indirects un dossier attestant de sa
+compétence, de son expérience et de son honorabilité. Le dossier comprend un engagement à respecter le cahier des charges
+mentionné à l'article 56 J terdecies B. 
+
+En outre, l'organisme intéressé doit justifier être à jour de ses obligations sociales et fiscales. 
+
+La direction générale des douanes et droits indirects peut se faire présenter toute pièce complémentaire nécessaire à
+l'instruction du dossier. 
+
+L'agrément est accordé par le ministre chargé du budget et par le ministre chargé de l'industrie pour une durée de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 17 mai 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies B
+
+
+###### Article 56 j terdecies B
+
+Le cahier des charges mentionné aux articles 275 bis C, 275 bis F et 275 ter G de l'annexe II au code général des impôts
+comprend : 
+
+1° La définition des missions de l'organisme agréé par le ministre chargé du budget et par le ministre chargé de
+l'industrie : 
+
+a) La réalisation de la version dématérialisée des poinçons attestant la garantie du titre ; 
+
+b) L'élaboration, la vente et le transfert des fichiers comportant la version dématérialisée des poinçons aux professionnels
+habilités et aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre par marquage au
+laser d'un poinçon ; 
+
+c) La vérification de la mise en place et de la conformité du protocole de sécurité informatique imposé aux professionnels
+habilités et aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre par marquage au
+laser d'un poinçon ; 
+
+2° Une documentation relative aux conditions d'exercice des missions mentionnées au 1° comportant : 
+
+a) Les modalités d'élaboration de la version dématérialisée des poinçons attestant la garantie du titre à partir des
+agrandissements photographiques des poinçons en acier détenus par la Monnaie de Paris et transmis par l'intermédiaire de la
+direction générale des douanes et droits indirects ; 
+
+b) Les modalités de conception et de gestion des fichiers comportant la version dématérialisée des poinçons attestant la
+garantie du titre par marquage au laser ; 
+
+c) Les modalités de transfert des fichiers comportant la version dématérialisée des poinçons aux professionnels habilités et
+aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre par marquage au laser. Ce
+transfert a lieu au moyen d'un support amovible en ayant recours à un procédé de cryptage. Une clef de décryptage est fournie
+par l'organisme agréé ; 
+
+d) La description de la sécurisation du poste informatique afin de garantir l'inviolabilité des fichiers comportant la
+version dématérialisée des poinçons attestant la garantie du titre par marquage au laser d'un poinçon et indiquant : 
+
+L'installation et la configuration du poste informatique ; 
+
+La sécurisation des accès au poste de travail, étant précisé que le local sécurisé de l'entreprise mentionné à l'article 275
+bis C de l'annexe II au code général des impôts doit s'entendre, dans le cas des équipements dédiés à la gravure au laser,
+comme le lieu sécurisé destiné à garantir l'inviolabilité des fichiers cryptés et de la clef de décryptage mentionnés au c du
+2° ; 
+
+Les modalités de sauvegarde et d'archivage des données ; 
+
+e) Les modalités de vérification de la mise en place et de la conformité du protocole de sécurité informatique imposé aux
+professionnels habilités et aux organismes de contrôle agréés qui demandent l'autorisation d'attester la garantie du titre
+par marquage au laser d'un poinçon, à savoir : 
+
+La réalisation, en présence d'un représentant de la direction régionale des douanes et droits indirects, d'un audit des
+professionnels habilités et des organismes de contrôle agréés préalablement à la délivrance de l'autorisation de marquage au
+laser ; 
+
+La transmission, par la direction régionale des douanes et droits indirects, du rapport d'audit signé conjointement par le
+représentant de la direction régionale des douanes et droits indirects et par l'organisme agréé, à la direction générale des
+douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 17 mai 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis C
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 j terdecies A (V)
+
+
+###### Article 56 j terdecies C
+
+Les services de la direction régionale des douanes et droits indirects de rattachement procèdent à un audit annuel de
+l'organisme agréé afin de vérifier le respect des prescriptions fixées par le cahier des charges.
+
+L'organisme agréé conserve toutes les pièces justifiant de l'exercice de ses activités pendant un délai de trois ans. Ces
+pièces justificatives sont tenues à la disposition de la direction générale des douanes et droits indirects et de la
+direction générale de la compétitivité, de l'industrie et des services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 17 mai 2013 - art. 1
+
+
+###### Article 56 j terdecies D
+
+L'agrément est suspendu à titre conservatoire en cas de manquement constaté de l'organisme agréé : 
+
+1° Aux obligations résultant des articles 275 bis F et 275 ter G de l'annexe II au code général des impôts ; 
+
+2° Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux. 
+
+La suspension de l'agrément est prononcée à la diligence soit du directeur général des douanes et droits indirects soit du
+directeur général de la compétitivité, de l'industrie et des services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 17 mai 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G
+
+
+###### Article 56 j terdecies E
+
+L'agrément est retiré : 
+
+1° Soit à la demande de l'organisme agréé. Lorsqu'il ne remplit plus les conditions prévues par les articles 275 bis F et 275
+ter G de l'annexe II au code général des impôts, l'organisme est tenu de cesser sans délai ses activités ; 
+
+2° Soit d'office par l'administration lorsque l'organisme agréé a manqué : 
+
+a) Aux obligations résultant des articles 275 bis F et 275 ter G de l'annexe II au code général des impôts ; 
+
+b) Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux. 
+
+Le retrait de l'agrément est prononcé par le ministre chargé du budget et le ministre chargé de l'industrie. Il entraîne la
+cessation immédiate des activités exercées par l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 17 mai 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis F
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G
 
 
 ##### 5° : Obligations des redevables
@@ -13514,13 +13707,13 @@ de vente établis quotidiennement, reprenant au moins la référence des ouvrage
 l'établissement principal. Les magasins doivent être en mesure de communiquer leur situation de stock à tout moment, par le
 biais de l'établissement principal, à la demande du service. 
 
-Les dispositions des premier et deuxième alinéas de l'article L. 102 B du livre des procédures fiscales sont applicables.
+Les dispositions du I de l'article L. 102 B du livre des procédures fiscales sont applicables.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 16 décembre 2009 - art. 1
+	  - Arrêté du 17 mai 2013 - art. 1
 
 	**Cité par**:
 
@@ -13613,7 +13806,7 @@ leur poids, à condition que la référence renvoie à une facture. La facture p
 objets si l'identification reste possible par le numéro de série individuel ou la référence commerciale de l'ouvrage
 mentionnée dans un catalogue ou tout document de nature comptable ; 
 
-b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-17 du code de commerce ou
+b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-23 du code de commerce ou
 aux spécifications du 3° du I de l'article 286 du code général des impôts si les documents prévus à cet article sont
 accompagnés de fiches de stock ou d'un inventaire permanent ; 
 
@@ -13621,12 +13814,12 @@ c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente
 permettant l'identification des ouvrages et offrant toutes garanties en matière de preuve. Tout logiciel doit comporter les
 indications reprises à l'article 56 J quindecies. Toutefois, l'indication du poids et du titre des ouvrages n'est pas exigée
 si leur identification est possible soit par le numéro de série individuel, soit par la référence commerciale de l'ouvrage
-mentionnée dans un catalogue ou tout document de nature comptable.
+mentionnée dans un catalogue ou tout document de nature comptable. 
 
 L'opérateur doit être en mesure d'apporter la preuve de la fiabilité du système informatique utilisé et de la chronologie des
 écritures présentées sous forme de listes. Les feuillets informatiques doivent être identifiés, numérotés et datés sans
 possibilité de modifications afin d'assurer la chronologie des opérations enregistrées. Les modifications éventuelles doivent
-être justifiées par création d'un nouvel enregistrement informatique avec indication de son motif.
+être justifiées par création d'un nouvel enregistrement informatique avec indication de son motif. 
 
 L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
 Les enregistrements informatiques ou listages doivent pouvoir être présentés à toute réquisition du service dans les
@@ -13644,7 +13837,7 @@ c. Ou le registre établi au moyen du logiciel assurant la gestion permanente de
 enregistrements informatiques créés pour les ouvrages d'occasion ne puissent être modifiés que par création d'un nouvel
 enregistrement avec indication de son motif et que le répertoire contenant ces informations soit spécifique et comprenne un
 système d'identification des pages par chiffre de contrôle, contenant un algorithme ou un système fondé notamment sur la date
-de l'opération, reporté en fin et en tête des pages imprimées quotidiennement.
+de l'opération, reporté en fin et en tête des pages imprimées quotidiennement. 
 
 L'opérateur doit être en mesure d'éditer quotidiennement les informations relatives aux seuls ouvrages en métaux précieux.
 
@@ -13652,12 +13845,11 @@ L'opérateur doit être en mesure d'éditer quotidiennement les informations rel
 
 	**Modifié par**:
 
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Arrêté du 17 mai 2013 - art. 1
 
 	**Cite**:
 
 	  - Code de commerce - art. L123-12
-	  - Code de commerce - art. L123-17
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies
 	  - Code général des impôts, CGI. - art. 286
 	  - Code pénal - art. 321-7

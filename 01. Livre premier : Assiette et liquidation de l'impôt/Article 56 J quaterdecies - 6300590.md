@@ -15,13 +15,13 @@ de vente établis quotidiennement, reprenant au moins la référence des ouvrage
 l'établissement principal. Les magasins doivent être en mesure de communiquer leur situation de stock à tout moment, par le
 biais de l'établissement principal, à la demande du service. 
 
-Les dispositions des premier et deuxième alinéas de l'article L. 102 B du livre des procédures fiscales sont applicables.
+Les dispositions du I de l'article L. 102 B du livre des procédures fiscales sont applicables.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 16 décembre 2009 - art. 1
+	  - Arrêté du 17 mai 2013 - art. 1
 
 	**Cité par**:
 
