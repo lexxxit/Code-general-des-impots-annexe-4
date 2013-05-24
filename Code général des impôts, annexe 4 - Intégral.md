@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2013-05-20
+Version Consolidée au 2013-05-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -20714,21 +20714,21 @@ Ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 
 
 ###### Article 170 sexies
 
-Il est statué sur les demandes d'agrément présentées pour l'application du II de l'article 209 du code général des impôts :
+Il est statué sur les demandes d'agrément présentées pour l'application du II de l'article 209 du code général des impôts : 
 
-a) Par le ministre chargé du budget après avis du comité des investissements à caractère économique et social :
+a) Par le ministre chargé du budget : 
 
 1° Lorsque la demande est présentée par une société tête de groupe au sens de l'article 223 A du code général des impôts, à
 raison d'un déficit d'ensemble au sens de l'article 223 C ou sur une créance de report en arrière des déficits d'ensemble au
-sens de l'article 223 G, quel que soit leur montant ;
+sens de l'article 223 G, quel que soit leur montant ; 
 
 2° Ou, lorsque la demande est présentée par une entreprise réalisant un chiffre d'affaires supérieur à cent cinquante
-millions d'euros ou qui est détenue à plus de 50 % par une entreprise réalisant elle-même un tel chiffre d'affaires ;
+millions d'euros ou qui est détenue à plus de 50 % par une entreprise réalisant elle-même un tel chiffre d'affaires ; 
 
 3° Ou, lorsque la demande porte pour une même opération, sur des déficits dont le montant global est supérieur à 1,5 million
-d'euros ;
+d'euros ; 
 
-4° Ou lorsque l'opération présente des difficultés particulières ou est évoquée par le ministre ;
+4° Ou lorsque l'opération présente des difficultés particulières ou est évoquée par le ministre ; 
 
 b) Dans les autres cas, par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction
 de contrôle fiscal dans le ressort de laquelle l'entreprise a son siège.
@@ -20737,15 +20737,14 @@ de contrôle fiscal dans le ressort de laquelle l'entreprise a son siège.
 
 	**Modifié par**:
 
-	  - Arrêté 2004-05-25 art. 1 JORF 2 juin 2004
+	  - Décret n°2013-420 du 23 mai 2013 - art. 10 (V)
 
 	**Cite**:
 
-	  - CGI 209, 223 A, 223 C, 223 G
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 209 (V)
+	  - Code général des impôts, CGI. - art. 223 A (V)
+	  - Code général des impôts, CGI. - art. 223 C (V)
+	  - Code général des impôts, CGI. - art. 223 G (V)
 
 
 #### Section V : Commissions administratives des impôts
