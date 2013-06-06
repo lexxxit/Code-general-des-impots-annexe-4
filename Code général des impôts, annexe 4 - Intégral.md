@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2013-05-25
+Version Consolidée au 2013-06-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -156,8 +156,9 @@ d. réseaux de récupération et collecte de biogaz en vue de son utilisation é
 
 e. matériel permettant l'utilisation de l'énergie marémotrice, houlomotrice et thermique des mers et son stockage ; 
 
-f. matériel de raccordement à un réseau de chaleur classé au sens de la loi n° 80-531 du 15 juillet 1980 modifiée relative
-aux économies d'énergie et à l'utilisation de la chaleur ; 
+f. matériel de raccordement à un réseau de chaleur classé au sens des deuxième et troisième alinéas de l'article 5 de la loi
+n° 80-531 du 15 juillet 1980 modifiée relative aux économies d'énergie et à l'utilisation de la chaleur et du chapitre II du
+titre Ier du livre VII du code de l'énergie ; 
 
 g. matériel de raccordement à un réseau de chaleur utilisant majoritairement de l'énergie géothermale ; 
 
@@ -208,21 +209,21 @@ centrale double flux.
 
 **Nota:**
 
-Modification effectuée en conséquence des articles 1er, 2 et 4-45 du décret n° 2007-397 du 27 mars 2007.
+Modification effectuée en conséquence des art. 1er, 2, 4 [16°], 6 [4° a] et 14 de l'ordonnance n° 2011-504 du 9 mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°80-531 du 15 juillet 1980 (V)
+	  - Loi n°80-531 du 15 juillet 1980
 	  - Code général des impôts, CGI. - art. 39 AA
 	  - Code général des impôts, CGI. - art. 39 AB
 	  - Code de l'environnement - art. R224-26
-	  - Code de l'environnement - art. R224-27 (V)
+	  - Code de l'environnement - art. R224-27
 
 	**Modifié par**:
 
-	  - Arrêté du 1er avril 2008 - art. 1
+	  - Arrêté du 3 juin 2013 - art. 1
 
 
 ##### 0III : Amortissement exceptionnel des matériels destinés à réduire le niveau acoustique d'installations
@@ -1512,29 +1513,37 @@ l'annexe II au code général des impôts.
 
 ###### Article 14
 
-Les relevés à adresser à la direction des services fiscaux en exécution des dispositions de l'article 57 de l'annexe II au
-code général des impôts concernent :
+Les relevés à adresser à la direction départementale ou, le cas échéant, régionale des finances publiques en exécution des
+dispositions de l'article 57 de l'annexe II au code général des impôts concernent : 
 
-1° Les coupons  instruments représentatifs de coupons et arrérages payés en espèces  à présentation  aux guichets soit des
-caisses publiques  soit des personnes ou sociétés visées à l'article 57-1 de l'annexe II au code général des impôts;
+1° Les coupons instruments représentatifs de coupons et arrérages payés en espèces à présentation aux guichets soit des
+caisses publiques soit des personnes ou sociétés visées à l'article 57-1 de l'annexe II au code général des impôts ; 
 
 2° Les sommes portées à un compte de passage sur remise aux guichets de coupons et instruments représentatifs de coupons ou
-sur présentation des titres ;
+sur présentation des titres ; 
 
-3° Les coupons et arrérages que les sociétés payent par correspondance (chèque ordinaire  chèque postal  mandat-poste  etc.)
-aux porteurs de leurs propres titres.
+3° Les coupons et arrérages que les sociétés payent par correspondance (chèque ordinaire chèque postal mandat-poste etc.) aux
+porteurs de leurs propres titres. 
 
-En ce qui concerne les chèques-dividendes émis par des sociétés ayant leur siège en France métropolitaine  les relevés sont
-fournis par les sociétés émettrices.
+En ce qui concerne les chèques-dividendes émis par des sociétés ayant leur siège en France métropolitaine les relevés sont
+fournis par les sociétés émettrices. 
 
 Pour les chèques-dividendes émis par des sociétés ayant leur siège hors de France métropolitaine, les relevés sont produits
 par l'établissement qui en effectue le paiement.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'art. 2 du décret n° 2012-430 du 29 mars 2012.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 3 juin 2013 - art. 1
 
 	**Cite**:
 
-	  - CGIAN2 57 1
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 57 (V)
 
 	**Cité par**:
 
@@ -1613,14 +1622,23 @@ contre-valeur en euros au jour du paiement.
 ###### Article 16
 
 Les relevés visés à l'article 14 et afférents aux paiements faits dans le courant de chaque mois sont envoyés à la direction
-des services fiscaux, dans les dix premiers jours du mois suivant, avec un bordereau indiquant la désignation et l'adresse de
-l'établissement payeur, le mois auquel s'appliquent les relevés et le nombre de ces derniers. Il en est accusé réception.
+départementale ou, le cas échéant, régionale des finances publiques, dans les dix premiers jours du mois suivant, avec un
+bordereau indiquant la désignation et l'adresse de l'établissement payeur, le mois auquel s'appliquent les relevés et le
+nombre de ces derniers. Il en est accusé réception.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'art. 2 du décret n° 2012-430 du 29 mars 2012.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté du 3 juin 2013 - art. 1
+
 	**Cite**:
 
-	  - CGIAN4 14
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 14 (V)
 
 
 ##### III : Documents à tenir à la disposition de l'administration
@@ -1761,14 +1779,18 @@ ainsi que la pièce éventuellement présentée pour en justifier.
 ###### Article 17 C bis
 
 Les personnes mentionnées au II de l'article 117 quater du code général des impôts, qui assurent le paiement de revenus sur
-lesquels est opéré le prélèvement forfaitaire libératoire prévu au I du même article, produisent à l'administration, sur sa
-demande, les documents justifiant du paiement des revenus concernés ainsi que du prélèvement opéré.
+lesquels est opéré le prélèvement forfaitaire prévu au I du même article, produisent à l'administration, sur sa demande, les
+documents justifiant du paiement des revenus concernés ainsi que du prélèvement opéré.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'art. 9-I B de la loi n° 2012-1509 du 29 décembre 2012.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 15 septembre 2008 - art. 1
+	  - Arrêté du 3 juin 2013 - art. 1
 
 	**Cite**:
 
@@ -2876,102 +2898,6 @@ constructeurs, fournisseurs et autres ayants droit, avant la livraison des immeu
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 208 (V)
-
-
-##### Section I bis : Rectification du résultat consolidé
-
-###### Article 23 bis A
-
-Les opérations mentionnées à l'article 118 de l'annexe II au code général des impôts s'entendent :
-
-a. (Sans objet, édition du 18 août 1993).
-
-b. De la dotation aux provisions constituées par des sociétés dont les résultats sont pris en compte dans le résultat
-consolidé en vue de faire face aux dépréciations des créances sur d'autres sociétés comprises dans le périmètre de
-consolidation ou de participation dans de telles sociétés, ainsi que des risques qu'elles encourent du fait de ces mêmes
-sociétés ;
-
-c. De l'octroi de subventions directes ou indirectes et d'abandons de créances, à caractère financier et dont une quote-part
-n'est pas déductible au sens de l'article 216 A du code général des impôts, entre sociétés dont les résultats sont pris en
-compte dans le résultat consolidé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1993-09-24
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 3 juin 2013 - art. 1
-	  - HISTO: Edition du 18 août 1993
-
-	**Cite**:
-
-	  - CGI 216 A
-
-	**Modifié par**:
-
-	  - Loi - art. 104 (P) JORF 30 décembre 1992
-
-
-###### Article 23 bis B
-
-Le résultat consolidé défini à l'article 116 de l'annexe II au code général des impôts est rectifié, dans la proportion
-mentionnée au c et au d du 1 de ce même article, à raison des opérations mentionnées à l'article 23 bis A.
-
-1. (Sans objet)
-
-2. Lorsque les résultats des sociétés mentionnées ci-après sont retenus pour la détermination du résultat consolidé ou
-compris dans le résultat d'ensemble d'un groupe constitué par la société agréée ou l'une de ses exploitations indirectes en
-application des dispositions de l'article 223 A du code général des impôts, le résultat consolidé est majoré :
-
-1° Du montant des dotations complémentaires aux provisions constituées :
-
-a. Par une société en vue de faire face à la dépréciation des créances qu'elle détient sur une autre société ou aux risques
-qu'elle encourt du fait d'une telle société ;
-
-b. A raison des participations détenues dans une autre société dans la proportion existant entre le taux réduit d'imposition
-prévu au premier alinéa du a du I de l'article 219 du code général des impôts et le taux normal prévu au deuxième alinéa du I
-du même article ;
-
-c. En application des dispositions des articles 39 octies A ou 39 octies D du code général des impôts, par une société
-française à raison des investissements réalisés à l'étranger. Si le résultat de l'exploitation étrangère qui a fait l'objet
-de l'investissement n'est pas retenu pour la détermination du résultat consolidé, la réintégration est limitée à la fraction
-de la provision qui excède le déficit de cette exploitation déterminé selon les modalités prévues au III de l'article 39
-octies D du code déjà cité ;
-
-2° Des déductions effectuées au titre des dispositions du 2 de l'article 39 quinquies A et du II de l'article 217 undecies du
-code général des impôts par une société à raison des sommes versées pour la souscription au capital d'une autre société.
-
-3. Dans la situation visée au 2, le résultat consolidé est minoré de la fraction des subventions et abandons de créances qui
-n'est pas déductible, au sens de l'article 216 A du code général des impôts, du résultat imposable de la société qui a
-accordé la subvention ou consenti l'abandon. Toutefois, le résultat consolidé n'est pas modifié lorsque la société débitrice
-est susceptible de bénéficier des dispositions de ce même article.
-
-4. (Sans objet) (1)
-
-**Nota:**
-
-(1) Conséquence de l'abrogation de l'article 217 bis du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2004-10-08
-
-	**Modifié par**:
-
-	  - Arrêté du 27 juin 2012 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 3 juin 2013 - art. 1
-
-	**Cite**:
-
-	  - CGIAN2 116
 
 
 ##### Section II : Lieu d'imposition
@@ -15312,170 +15238,147 @@ finances publiques qui instruit les demandes.
 
 ###### Article 121-0 AA
 
-I. - Pour l'application du a du 4° de l'article 310-0 H de l'annexe II au code général des impôts, les énergies renouvelables
-prises en compte sont :
+I.-Pour l'application du a du 4° de l'article 310-0 H de l'annexe II au code général des impôts, les énergies renouvelables
+prises en compte sont : 
 
-a. L'énergie solaire, la biomasse, la géothermie, l'énergie éolienne ;
+a. L'énergie solaire, la biomasse, la géothermie, l'énergie éolienne ; 
 
-b. L'énergie issue des systèmes thermodynamiques ou de production combinée de chaleur et d'énergie ;
+b. L'énergie issue des systèmes thermodynamiques ou de production combinée de chaleur et d'énergie ; 
 
-c. L'énergie issue des réseaux de distribution de chaleur bénéficiant du classement visé par l'article 5 de la loi n° 80-531
-du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
+c. L'énergie issue des réseaux de distribution de chaleur bénéficiant du classement visé par les deuxième et troisième
+alinéas de l'article 5 de la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la
+chaleur et de l'article L. 712-1 du code de l'énergie. 
 
-II. - Pour l'application du b du 4° de l'article 310-0 H de l'annexe II au code général des impôts, les matériaux
-renouvelables pris en compte sont le bois et les matériaux d'origine végétale et animale.
+II.-Pour l'application du b du 4° de l'article 310-0 H de l'annexe II au code général des impôts, les matériaux renouvelables
+pris en compte sont le bois et les matériaux d'origine végétale et animale. 
 
-III. - Pour l'application du a du 5° de l'article 310-0 H de l'annexe II au code général des impôts, les matériels économes
-en eau pris en compte sont les réservoirs de w.-c. d'une contenance inférieure à six litres d'eau avec système de chasse à
+III.-Pour l'application du a du 5° de l'article 310-0 H de l'annexe II au code général des impôts, les matériels économes en
+eau pris en compte sont les réservoirs de w.-c. d'une contenance inférieure à six litres d'eau avec système de chasse à
 double commande ou à interruption.
+
+**Nota:**
+
+Modification effectuée en conséquence des art. 1er, 2, 4  [16°], 6 [4° a] et 14 de l'ordonnance n° 2011-504 du 9 mai 2011.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2005-09-16 art. 1 JORF 18 septembre 2005
-
 	**Cite**:
 
-	  - CGIAN2 310-0 H
-	  - Loi n°80-531 1980-07-15 art. 5
+	  - Loi n°80-531 du 15 juillet 1980 - art. 5 (V)
+	  - Code de l'énergie - art. L712-1 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310-0 H (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Arrêté du 3 juin 2013 - art. 1
 
 
 ##### Section II : Cotisation foncière des entreprises
 
 ##### 1° : Exonération temporaire accordée dans le cadre de l'aménagement du territoire
 
-###### Article 121 quinquies DB bis
-
-Les zones dans lesquelles l'exonération temporaire de taxe professionnelle prévue par l'article 1465 du code général des
-impôts peut être accordée sont les suivantes :
-
-1° Créations et extensions d'établissements industriels : zones délimitées à l'annexe I de l'arrêté du 12 juin 1990 (Journal
-officiel du 29 juin 1990), modifié par les arrêtés du 8 août 1990 (Journal officiel du 23 août 1990) et du 21 janvier 1991
-(Journal officiel du 27 janvier 1991), et départements d'outre-mer ;
-
-2° Décentralisations d'établissements industriels précédemment implantés dans la région parisienne et la région lyonnaise
-définies à l'annexe III de l'arrêté du 12 juin 1990 (Journal officiel du 29 juin 1990) : ensemble du territoire métropolitain
-et départements d'outre-mer, à l'exception du bassin parisien et de la région lyonnaise définis à la même annexe ;
-
-3° Créations, extensions et décentralisations d'établissements de recherche scientifique et technique : ensemble du
-territoire métropolitain et départements d'outre-mer, à l'exception du bassin parisien défini à l'annexe III de l'arrêté du
-12 juin 1990 (Journal officiel du 29 juin 1990).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1990-06-12 annexe I, annexe III
-
-	**Modifié par**:
-
-	  - Arrêté 1990-06-12 art. 1, art. 3 JORF 29 juin 1990
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 3 juin 2013 - art. 1
-	  - HISTO: Edition du 24 juin 1991
-
-
 ###### Article 121 quinquies DB quater
 
-L'exonération de taxe professionnelle prévue à l'article 1465 du code général des impôts peut être accordée sur agrément dans
-les conditions définies aux articles 121 quinquies DB quinquies à 121 quinquies DB septies, 170 quinquies et 170 octies, sous
-réserve de l'appréciation des modalités techniques et financières des programmes présentés et dans la mesure où les
-entreprises intéressées n'ont commis aucune infraction fiscale exclusive de bonne foi dans les quatre ans précédant
-l'opération, ont produit leur déclaration de résultat dans les délais légaux et sont dans une situation régulière vis-à-vis
-des services de recouvrement (1).
+L'exonération de cotisation foncière des entreprises prévue à l'article 1465 du code général des impôts peut être accordée
+sur agrément dans les conditions définies aux articles 121 quinquies DB quinquies à 121 quinquies DB septies, 170 quinquies
+et 170 octies, sous réserve de l'appréciation des modalités techniques et financières des programmes présentés et dans la
+mesure où les entreprises intéressées n'ont commis aucune infraction fiscale exclusive de bonne foi dans les quatre ans
+précédant l'opération, ont produit leur déclaration de résultat dans les délais légaux et sont dans une situation régulière
+vis-à-vis des services de recouvrement (1). 
 
-(1) En ce qui concerne les modalités et les dates de dépôt des demandes d'agrément, voir l'arrêté du 16 décembre 1983 (J.O.
+(1) En ce qui concerne les modalités et les dates de dépôt des demandes d'agrément, voir l'arrêté du 16 décembre 1983 (J. O.
 du 19 et 20 octobre).
 
+**Nota:**
+
+(1) Sans objet.
+
+Modification effectuée en conséquence des art. 2, 6.1.16 [3°] de la loi n° 2009-1673 du 30 décembre 2009, de l'art. 46 de la
+loi n° 95-115 du 4 février 1995, de la circulaire du 26 novembre 2004 et de l'art. 87-X [1°, a].) de la loi n° 2006-1771 du
+30 décembre 2006.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1983-12-16
-	  - CGI 1465, 121 quinquies DB quinquies à 121 quinquies DB septies, 170 quinquies, 170 octies
-
-	**Modifié par**:
-
-	  - Arrêté 1990-05-30 art. 2 JORF 8 juin 1990
 
 	**Codifié par**:
 
 	  - Arrêté 1990-09-10
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - Arrêté du 3 juin 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quinquies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 quinquies (V)
+	  - Code général des impôts, CGI. - art. 1465 (V)
 
 
 ###### Article 121 quinquies DB quinquies
 
-L'agrément ouvrant droit à l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code général des
-impôts peut être accordé aux entreprises qui, dans les zones définies par l'article 3 de l'arrêté du 16 décembre 1983
-(Journal officiel des 19 et 20 décembre 1983), modifié par l'article 4 de l'arrêté du 12 juin 1990 (Journal officiel du 29
-juin 1990) et par les arrêtés du 8 août 1990 (Journal officiel du 23 août 1990) et du 21 janvier 1991 (Journal officiel du 27
-janvier 1991), réalisent les opérations suivantes :
+L'agrément ouvrant droit à l'exonération temporaire de cotisation foncière des entreprises prévue à l'article 1465 du code
+général des impôts peut être accordé aux entreprises qui, (dans les zones définies par l'article 3 de l'arrêté du 16 décembre
+1983 (Journal officiel des 19 et 20 décembre 1983), modifié par l'article 4 de l'arrêté du 12 juin 1990 (Journal officiel du
+29 juin 1990) et par les arrêtés du 8 août 1990 (Journal officiel du 23 août 1990) et du 21 janvier 1991 (Journal officiel du
+27 janvier 1991)) (1), réalisent les opérations suivantes : 
 
 1° Reprise des moyens de production d'établissements industriels en difficulté susceptible de permettre la poursuite durable
 de l'activité et le soutien de l'emploi. L'agrément ne peut être accordé qu'à la condition qu'il y ait eu examen du plan de
 reprise et de sauvegarde ou de redressement et du plan de financement correspondant par le comité départemental d'examen des
-problèmes de financement des entreprises (CODEFI) ou par le comité régional de restructuration industrielle (CORRI) ou par le
-comité interministériel de restructuration industrielle (CIRI). Si la reprise prend la forme d'une location-gérance, celle-ci
-doit être assortie d'un engagement ferme de rachat des actifs dans un délai de trois ans ; les reprises effectuées par des
-personnes physiques ou morales qui contrôlent directement ou indirectement l'établissement en difficulté ne peuvent être
-agréées ;
+problèmes de financement des entreprises (CODEFI) (ou par le comité régional de restructuration industrielle (CORRI)) (1) ou
+par le comité interministériel de restructuration industrielle (CIRI). Si la reprise prend la forme d'une location-gérance,
+celle-ci doit être assortie d'un engagement ferme de rachat des actifs dans un délai de trois ans ; les reprises effectuées
+par des personnes physiques ou morales qui contrôlent directement ou indirectement l'établissement en difficulté ne peuvent
+être agréées ; 
 
 2° Reconversion d'installation industrielle dépendant d'un secteur d'activité en déclin. La reconversion doit correspondre à
 une modification importante de la nature des productions entraînant un effort particulier d'investissement. Les
-investissements susceptibles de bénéficier de l'exonération sont les seuls investissements nécessaires à cette modification ;
+investissements susceptibles de bénéficier de l'exonération sont les seuls investissements nécessaires à cette
+modification ; 
 
-3° Création, extension ou décentralisation de services de direction, d'études, d'ingénierie et d'informatique. Les
-décentralisations s'entendent des transferts, hors du Bassin parisien défini à l'annexe III de l'arrêté du 12 juin 1990
-(Journal officiel du 29 juin 1990), d'installations précédemment implantées dans la région parisienne définie à la même
-annexe.
+3° Création ou extension de services de direction, d'études, d'ingénierie et d'informatique. (Les décentralisations
+s'entendent des transferts, hors du Bassin parisien défini à l'annexe III de l'arrêté du 12 juin 1990 (Journal officiel du 29
+juin 1990), d'installations précédemment implantées dans la région parisienne définie à la même annexe) (1).
+
+**Nota:**
+
+(1) Dispositions devenues sans objet.
+
+Modifications effectuées en conséquence des lois n° 2009-1673 du 30 décembre 2009, articles 2, 6.1.16 [3°], n° 95-115 du 4
+février 1995, article 46, circulaire du 26 novembre 2004 et loi n° 2006-1771 du 30 décembre 2006, article 87-X [1°, a].
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1983-12-16 art. 3
-	  - Arrêté 1990-06-12 art. 4, annexe III, Arrêté 1990-08-08
-	  - CGI 1465
 
 	**Codifié par**:
 
 	  - Arrêté 2006-03-24
 
+	**Modifié par**:
+
+	  - Arrêté du 3 juin 2013 - art. 1
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
+	  - Code général des impôts, CGI. - art. 1465 (V)
 
 
 ###### Article 121 quinquies DB septies
 
-L'exonération temporaire de taxe professionnelle accordée sur agrément peut être subordonnée à la réalisation d'un montant
-minimum d'investissements.
+L'exonération temporaire de cotisation foncière des entreprises accordée sur agrément peut être subordonnée à la réalisation
+d'un montant minimum d'investissements.
 
-Sauf en cas de décentralisation, l'exonération ne peut être accordée lorsque l'opération entraîne une suppression d'emplois
-dans les autres établissements de l'entreprise.
+L'exonération ne peut être accordée lorsque l'opération entraîne une suppression d'emplois dans les autres établissements de
+l'entreprise.
+
+**Nota:**
+
+Modification effectuée en conséquence des art. 2 , 6.1.16 [3°] de la loi n° 2009-1673 du 30 décembre 2009 et de l'art. 87-X
+[1°, a] de la loi n° 2006-1771 du 30 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -15483,111 +15386,78 @@ dans les autres établissements de l'entreprise.
 
 	  - Arrêté 1989-10-30
 
-	**Liens**:
-
-	  - HISTO: Edition du 14 juillet 1989
-
 	**Modifié par**:
 
-	  - Loi n°88-1193 du 29 décembre 1988 - art. 19 (V) JORF 30 décembre 1988
+	  - Arrêté du 3 juin 2013 - art. 1
 
 
 ###### Article 121 quinquies DB sexies
 
-Pour bénéficier sur agrément de l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code général des
-impôts les conditions d'emploi suivantes, appréciées selon les modalités prévues à l'article 322 H de l'annexe III à ce code,
-doivent être remplies :
+Pour bénéficier sur agrément de l'exonération temporaire de cotisation foncière des entreprises prévue à l'article 1465 du
+code général des impôts les conditions d'emploi suivantes, appréciées selon les modalités prévues à l'article 322 H de
+l'annexe III à ce code, doivent être remplies : 
 
-1° Les établissements faisant l'objet d'une reprise ou d'une reconversion doivent comporter :
+1° Les établissements faisant l'objet d'une reprise ou d'une reconversion doivent comporter : 
 
 a. Dans les départements d'outre-mer, en Corse, dans les zones d'économie rurale dominante et les zones montagnardes figurant
-en annexe II de l'arrêté du 12 juin 1990 (JO du 29) ;
+en annexe II de l'arrêté du 12 juin 1990 (JO du 29) ; 
 
-Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 50 000 habitants ;
+Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 50 000 habitants ; 
 
 Quinze emplois au moins dans les communes situées dans une unité urbaine de moins de 50 000 habitants et 15 000 habitants au
-moins ;
+moins ; 
 
-Six emplois au moins dans les autres communes ;
+Six emplois au moins dans les autres communes ; 
 
-b. Dans les autres zones où s'applique l'exonération temporaire :
+b. Dans les autres zones où s'applique l'exonération temporaire : 
 
-Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 15 000 habitants ;
+Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 15 000 habitants ; 
 
-Dix emplois au moins dans les autres communes.
+Dix emplois au moins dans les autres communes. 
 
 Dans toutes les zones où s'applique l'exonération temporaire, les opérations de reprise doivent permettre le maintien de
 l'effectif permanent au niveau justifié par les plans de sauvegarde ou de redressement de l'entreprise. Si l'effectif initial
 n'est pas maintenu, l'exonération peut être limitée à une fraction de la valeur locative des installations. En cas de
-reconversion, l'effectif doit être au moins maintenu.
+reconversion, l'effectif doit être au moins maintenu. 
 
 Les conditions d'emploi ci-dessus définies doivent être remplies durant toute la période d'exonération à peine de retrait de
-l'agrément dans les conditions prévues à l'article 1649 nonies A du code général des impôts ;
+l'agrément dans les conditions prévues à l'article 1649 nonies A du code général des impôts ; 
 
-2° En cas de création ou de décentralisation de services de direction, d'études, d'ingénierie et d'informatique, création
-d'au moins vingt emplois ; en cas d'extention de ces mêmes services, création d'au moins dix emplois supplémentaires,
-l'effectif total de l'établissement devant alors atteindre au moins vingt emplois. L'extension doit en outre entraîner une
-progression d'au moins 25 % de l'effectif total de l'établissement, sauf s'il est créé au moins cinquante emplois
-supplémentaires.
+2° En cas de création (ou de décentralisation) (1) de services de direction, d'études, d'ingénierie et d'informatique,
+création d'au moins vingt emplois ; en cas d'extention de ces mêmes services, création d'au moins dix emplois
+supplémentaires, l'effectif total de l'établissement devant alors atteindre au moins vingt emplois. L'extension doit en outre
+entraîner une progression d'au moins 25 % de l'effectif total de l'établissement, sauf s'il est créé au moins cinquante
+emplois supplémentaires. 
 
 La création d'un nombre d'emplois permanents supérieur aux minima fixés ci-dessus peut être exigée en raison du montant des
-investissements envisagés.
+investissements envisagés. 
 
-Les dispositions des articles 322 I à 322 L de l'annexe III au code général des impôts sont applicables aux créations,
-extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique.
+Les dispositions des articles 322 I à 322 L de l'annexe III au code général des impôts sont applicables aux créations et
+extensions de services de direction, d'études, d'ingénierie et d'informatique.
+
+**Nota:**
+
+(1) Sans objet. 
+
+Modification effectuée en conséquence des art. 2 , 6.1.16 [3°] de la loi n° 2009-1673 du 30 décembre 2009 et de l'art. 87-X
+[1°, a] de la loi n° 2006-1771 du 30 décembre 2006.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1990-06-12 annexe II
-	  - CGI 1465, 1649 nonies A
-	  - CGIAN2 322 I à 322 L
-	  - CGIAN3 322 H
 
 	**Codifié par**:
 
 	  - Arrêté 2006-03-24
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 16 () JORF 8 décembre 2005
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 22 () JORF 8 décembre 2005
-
-
-###### Article 121 quinquies DB ter
-
-Les secteurs des zones d'économie rurale dominante et des zones d'économie montagnarde dans lesquels les seuils d'emploi et
-d'investissements sont réduits en application du a des I et II de l'article 322 G de l'annexe III au code général des impôts
-sont constitués par les zones délimitées à l'annexe II de l'arrêté du 12 juin 1990 (Journal officiel du 29 juin 1990).
-
-**Nota:**
-
-Modification effectuée en conséquence de l'art. 1er  [8°].) du décret n° 2012-1015 du 3 septembre 2012.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1990-06-12 art. 2, art. 3 JORF 29 juin 1990
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 3 juin 2013 - art. 1
-	  - HISTO: Edition du 24 juin 1991
+	  - Arrêté du 3 juin 2013 - art. 1
 
 	**Cite**:
 
-	  - CGIAN3 322 G
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 H (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 I (V)
+	  - Code général des impôts, CGI. - art. 1465 (M)
+	  - Code général des impôts, CGI. - art. 1649 nonies A (V)
 
 
 ##### Section III : Commission consultative départementale des évaluations foncières
@@ -16392,95 +16262,6 @@ dater de l'établissement de la déclaration des recettes mensuelles.
 	  - TXT_ASSOCIE: Note 1993-01-11 4F-1-93
 
 
-#### Chapitre III : Enregistrement
-
-##### Section unique : Taxe locale d'équipement
-
-###### Article 155 A
-
-En application du 4° de l'article 328 D quater I de l'annexe III au présent code, les constructions édifiées à l'intérieur
-des périmètres visés ci-dessous sont exclues du champ d'application de la taxe locale d'équipement.
-
-1° Périmètres des circonscriptions des ports autonomes de :
-
-Dunkerque, fixé par décret du 21 décembre 1966.
-
-Le Havre, fixé par décret du 8 novembre 1965.
-
-Rouen, fixé par décret du 31 mars 1967.
-
-Nantes-Saint-Nazaire, fixé par décret du 20 mars 1967.
-
-Bordeaux, fixé par décret du 22 juin 1966.
-
-Strasbourg, fixé par décret du 27 septembre 1925, modifié par arrêtés des 18 septembre 1928 et 3 juin 1932.
-
-2° Périmètres limitant les terrains du domaine de l'Etat actuellement gérés par le port autonome de Marseille et situés sur
-le territoire des communes de Marseille, Martigues, Port-de-Bouc, Fos, Port-Saint-Louis-du-Rhône.
-
-3° Périmètres résultant de la délimitation des ports maritimes de Calais, Boulogne-sur-Mer, Caen, Cherbourg, Brest, Quimper,
-Lorient, La Rochelle, Bayonne, Sète.
-
-4° Périmètre limitant les terrains concédés aux voies navigables de France au port de Bonneuil-sur-Marne, tel qu'il résulte
-du plan annexé au règlement d'exploitation approuvé par décision ministérielle du 27 août 1953, complétée par décisions
-ministérielles des 13 février 1965 et 1er juillet 1966.
-
-5° Périmètre du port de Gennevilliers tel qu'il résulte du plan annexé au décret n° 67-791 du 11 septembre 1967.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1932-06-03
-	  - Décret n°65-936 du 8 novembre 1965
-	  - Décret n°66-424 du 22 juin 1966
-	  - Décret n°67-311 du 31 mars 1967
-	  - Décret n°67-791 du 11 septembre 1967
-
-	**Codifié par**:
-
-	  - Arrêté 1996-06-21
-
-	**Modifié par**:
-
-	  - Décret n°91-696 1991-07-18 art. 29-4°, JORF 20 juillet 1991
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 3 juin 2013 - art. 1
-	  - HISTO: Edition du 12 mai 1996
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 155 B (P)
-
-
-###### Article 155 B
-
-Dans chaque département les zones dans lesquelles les constructions sont exclues du champ d'application de la taxe locale
-d'équipement par application de l'article 155 A sont inscrites sur la liste arrêtée par le préfet conformément au III de
-l'article 328 D quater de l'annexe III au présent code.
-
-**Nota:**
-
-Modification effectuée en conséquence des art. 28, III A [1°] et 28, III H-2 de la loi n° 2010-1658 du 29 décembre 2010.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 1er avril 2008 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 3 juin 2013 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 D quater
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 155 A
-
-
 ### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
 
 #### Chapitre unique : Impôts directs et taxes assimilées
@@ -16694,1603 +16475,6 @@ Ordonnance n° 2010-1307 du 28 octobre 2010, art. 3, 7 [39°] et 17.
 
 
 #### Chapitre premier : Droits d'enregistrement
-
-##### 1° : Taxe complémentaire à la taxe locale d'équipement au profit de la région d'Ile-de France
-
-###### Article 155 ter
-
-Les dispositions à l'article 1599 octies du code général des impôts établissant, en faveur de la région d'Ile-de-France, une
-taxe de 1 % complémentaire à la taxe locale d'équipement s'appliquent dans les communes suivantes :
-
-75 - Paris.
-
-77 - Seine-et-Marne :
-
-<table>
-  <tbody>
-    <tr>
-      <td width="123">
-
-COMMUNES
-
-</td>
-      <td width="123">
-
-COMMUNES
-
-</td>
-      <td width="123">
-
-COMMUNES
-
-</td>
-      <td width="123">
-
-COMMUNES
-
-</td>
-      <td width="123">
-
-COMMUNES
-
-</td>
-    </tr>
-    <tr>
-      <td width="123" valign="top">
-
-Avon
-
-</td>
-      <td width="123" valign="top">
-
-Dammarie-les-Lys
-
-</td>
-      <td width="123" valign="top">
-
-Moissy-Cramayel
-
-</td>
-      <td valign="top" width="123">
-
-Roissy
-
-</td>
-      <td width="123" valign="top">
-
-Varennes-sur-Seine
-
-</td>
-    </tr>
-    <tr>
-      <td width="123" valign="top">
-
-Bagneux-sur-Loing
-
-</td>
-      <td valign="top" width="123">
-
-Fontainebleau
-
-</td>
-      <td width="123" valign="top">
-
-Montereau-Faut-Yonne
-
-</td>
-      <td valign="top" width="123">
-
-Saint-Fargeau-Ponthierry
-
-</td>
-      <td valign="top" width="123">
-
-Vaux-le-Pénil
-
-</td>
-    </tr>
-    <tr>
-      <td width="123" valign="top">
-
-Brie-Comte-Robert
-
-</td>
-      <td width="123" valign="top">
-
-Gretz-Armainvilliers
-
-</td>
-      <td valign="top" width="123">
-
-Moret-sur-Loing
-
-</td>
-      <td valign="top" width="123">
-
-Saint-Mammès
-
-</td>
-      <td valign="top" width="123">
-
-Veneux-les-Sablons
-
-</td>
-    </tr>
-    <tr>
-      <td width="123" valign="top">
-
-Brou-sur-Chantereine
-
-</td>
-      <td valign="top" width="123">
-
-Lagny-sur-Marne
-
-</td>
-      <td width="123" valign="top">
-
-Nandy
-
-</td>
-      <td width="123" valign="top">
-
-Saint-Pierre-Lès-Nemours
-
-</td>
-      <td width="123" valign="top">
-
-Vert-Saint-Denis
-
-</td>
-    </tr>
-    <tr>
-      <td width="123" valign="top">
-
-Cesson
-
-</td>
-      <td valign="top" width="123">
-
-Lieusaint
-
-</td>
-      <td valign="top" width="123">
-
-Nangis
-
-</td>
-      <td width="123" valign="top">
-
-Savigny-le-Temple
-
-</td>
-      <td valign="top" width="123">
-
-Villenoy
-
-</td>
-    </tr>
-    <tr>
-      <td width="123" valign="top">
-
-Champagne-sur-Seine
-
-</td>
-      <td valign="top" width="123">
-
-Livry-sur-Seine
-
-</td>
-      <td width="123" valign="top">
-
-Nemours
-
-</td>
-      <td valign="top" width="123">
-
-Souppes-sur-Loing
-
-</td>
-      <td width="123" valign="top">
-
-Villeparisis
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="123">
-
-Champs-sur-Marne
-
-</td>
-      <td width="123" valign="top">
-
-Lognes
-
-</td>
-      <td valign="top" width="123">
-
-Noisiel
-
-</td>
-      <td valign="top" width="123">
-
-Thoméry
-
-</td>
-      <td valign="top" width="123">
-    </td></tr>
-    <tr>
-      <td width="123" valign="top">
-
-Chelles
-
-</td>
-      <td valign="top" width="123">
-
-Meaux
-
-</td>
-      <td valign="top" width="123">
-
-Ozoir-la-Ferrière
-
-</td>
-      <td width="123" valign="top">
-
-Thorigny-sur-Marne
-
-</td>
-      <td valign="top" width="123">
-    </td></tr>
-    <tr>
-      <td width="123" valign="top">
-
-Claye-Souilly
-
-</td>
-      <td valign="top" width="123">
-
-Mée-sur-Seine (Le)
-
-</td>
-      <td width="123" valign="top">
-
-Pontault-Combault
-
-</td>
-      <td valign="top" width="123">
-
-Torcy
-
-</td>
-      <td width="123" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="123">
-
-Combs-la-Ville
-
-</td>
-      <td width="123" valign="top">
-
-Melun
-
-</td>
-      <td valign="top" width="123">
-
-Provins
-
-</td>
-      <td width="123" valign="top">
-
-Tournan-en-Brie
-
-</td>
-      <td valign="top" width="123">
-    </td></tr>
-    <tr>
-      <td width="123" valign="top">
-
-Coulommiers
-
-</td>
-      <td valign="top" width="123">
-
-Mitry-Mory
-
-</td>
-      <td valign="top" width="123">
-
-Rochette (La)
-
-</td>
-      <td valign="top" width="123">
-
-Vaires-sur-Marne
-
-</td>
-      <td width="123" valign="top">
-    </td></tr>
-  </tbody>
-</table>
-
-78 - Yvelines :
-
-<table>
-  <tbody>
-    <tr>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Achères
-
-</td>
-      <td width="136" valign="top">
-
-Chesnay (Le)
-
-</td>
-      <td valign="top" width="136">
-
-Hardricourt
-
-</td>
-      <td width="136" valign="top">
-
-Mézières-sur-Seine
-
-</td>
-      <td valign="top" width="136">
-
-Sartrouville
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Andrésy
-
-</td>
-      <td valign="top" width="136">
-
-Chevreuse
-
-</td>
-      <td width="136" valign="top">
-
-Houilles
-
-</td>
-      <td valign="top" width="136">
-
-Montesson
-
-</td>
-      <td width="136" valign="top">
-
-Toussus-le-Noble
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Aubergenville
-
-</td>
-      <td valign="top" width="136">
-
-Clayes-sous-Bois (Les)
-
-</td>
-      <td valign="top" width="136">
-
-Issou
-
-</td>
-      <td valign="top" width="136">
-
-Montigny-le-Bretonneux
-
-</td>
-      <td valign="top" width="136">
-
-Trappes
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Bailly
-
-</td>
-      <td valign="top" width="136">
-
-Coignières
-
-</td>
-      <td width="136" valign="top">
-
-Jouy-en-Josas
-
-</td>
-      <td valign="top" width="136">
-
-Mureaux (Les)
-
-</td>
-      <td valign="top" width="136">
-
-Triel-sur-Seine
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Bois-d'Arcy
-
-</td>
-      <td width="136" valign="top">
-
-Conflans-Sainte-Honorine
-
-</td>
-      <td valign="top" width="136">
-
-Loges-en-Josas (Les)
-
-</td>
-      <td width="136" valign="top">
-
-Noisy-le-Roi
-
-</td>
-      <td valign="top" width="136">
-
-Vélizy-Villacoublay
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Bouaffle
-
-</td>
-      <td valign="top" width="136">
-
-Croissy-sur-Seine
-
-</td>
-      <td width="136" valign="top">
-
-Louveciennes
-
-</td>
-      <td valign="top" width="136">
-
-Pecq (Le)
-
-</td>
-      <td valign="top" width="136">
-
-Verrière (La)
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Bougival
-
-</td>
-      <td valign="top" width="136">
-
-Ecquevilly
-
-</td>
-      <td valign="top" width="136">
-
-Magnanville
-
-</td>
-      <td valign="top" width="136">
-
-Plaisir
-
-</td>
-      <td width="136" valign="top">
-
-Verneuil-sur-Seine
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Buc
-
-</td>
-      <td width="136" valign="top">
-
-Elancourt
-
-</td>
-      <td width="136" valign="top">
-
-Magny-les-Hameaux
-
-</td>
-      <td width="136" valign="top">
-
-Poissy
-
-</td>
-      <td valign="top" width="136">
-
-Vernouillet
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Buchelay
-
-</td>
-      <td valign="top" width="136">
-
-Epône
-
-</td>
-      <td width="136" valign="top">
-
-Maisons-Laffite
-
-</td>
-      <td width="136" valign="top">
-
-Porcheville
-
-</td>
-      <td valign="top" width="136">
-
-Versailles
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Carrières-sous-Poissy
-
-</td>
-      <td width="136" valign="top">
-
-Etang-la-Ville
-
-</td>
-      <td width="136" valign="top">
-
-Mantes-la-Ville
-
-</td>
-      <td valign="top" width="136">
-
-Port-Marly
-
-</td>
-      <td valign="top" width="136">
-
-Vésinet (Le)
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Carrières-sur-Seine
-
-</td>
-      <td valign="top" width="136">
-
-Flins-sur-Seine
-
-</td>
-      <td width="136" valign="top">
-
-Mareil-Marly
-
-</td>
-      <td valign="top" width="136">
-
-Rambouillet
-
-</td>
-      <td width="136" valign="top">
-
-Villepreux
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Celle-Saint-Cloud (La)
-
-</td>
-      <td width="136" valign="top">
-
-Fontenay-le-Fleury
-
-</td>
-      <td valign="top" width="136">
-
-Marly-le-Roy
-
-</td>
-      <td width="136" valign="top">
-
-Rennemoulin
-
-</td>
-      <td valign="top" width="136">
-
-Viroflay
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Chanteloup-les-Vignes
-
-</td>
-      <td valign="top" width="136">
-
-Fourqueux
-
-</td>
-      <td width="136" valign="top">
-
-Maurecourt
-
-</td>
-      <td valign="top" width="136">
-
-Rocquencourt
-
-</td>
-      <td valign="top" width="136">
-
-Voisins-le-Bretonneux
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Chapet
-
-</td>
-      <td width="136" valign="top">
-
-Gargenville
-
-</td>
-      <td valign="top" width="136">
-
-Maurepas
-
-</td>
-      <td width="136" valign="top">
-
-Rosny-sur-Seine
-
-</td>
-      <td width="136" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="136">
-
-Châteaufort
-
-</td>
-      <td width="136" valign="top">
-
-Guerville
-
-</td>
-      <td valign="top" width="136">
-
-Mesnil-le-Roi (Le)
-
-</td>
-      <td valign="top" width="136">
-
-Saint-Germain-en-Laye
-
-</td>
-      <td valign="top" width="136">
-    </td></tr>
-    <tr>
-      <td valign="top" width="136">
-
-Chatou
-
-</td>
-      <td valign="top" width="136">
-
-Guyancourt
-
-</td>
-      <td valign="top" width="136">
-
-Meulan
-
-</td>
-      <td width="136" valign="top">
-
-Saint-Rémy-lès-Chevreuse
-
-</td>
-      <td valign="top" width="136">
-    </td></tr>
-  </tbody>
-</table>
-
-91 - Essonne :
-
-<table>
-  <tbody>
-    <tr>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Arpajon
-
-</td>
-      <td valign="top" width="136">
-
-Dourdan
-
-</td>
-      <td valign="top" width="136">
-
-Lisses
-
-</td>
-      <td width="136" valign="top">
-
-Plessis-Paté
-
-</td>
-      <td width="136" valign="top">
-
-Varennes-Jarcy
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Athis-Mons
-
-</td>
-      <td width="136" valign="top">
-
-Epinay-sous-Sénart
-
-</td>
-      <td valign="top" width="136">
-
-Longjumeau
-
-</td>
-      <td width="136" valign="top">
-
-Quincy-sous-Sénart
-
-</td>
-      <td width="136" valign="top">
-
-Vauhallan
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Ballainvilliers
-
-</td>
-      <td width="136" valign="top">
-
-Epinay-sur-Orge
-
-</td>
-      <td valign="top" width="136">
-
-Longpont-sur-Orge
-
-</td>
-      <td width="136" valign="top">
-
-Ris-Orangis
-
-</td>
-      <td valign="top" width="136">
-
-Verrières-le-Buisson
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Bièvres
-
-</td>
-      <td width="136" valign="top">
-
-Etampes
-
-</td>
-      <td valign="top" width="136">
-
-Massy
-
-</td>
-      <td width="136" valign="top">
-
-Saclay
-
-</td>
-      <td valign="top" width="136">
-
-Vigneux-sur-Seine
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Bondoufle
-
-</td>
-      <td width="136" valign="top">
-
-Etiolles
-
-</td>
-      <td width="136" valign="top">
-
-Mennecy
-
-</td>
-      <td width="136" valign="top">
-
-Saint-Aubin
-
-</td>
-      <td valign="top" width="136">
-
-Villabé
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Boussy-Saint-Antoine
-
-</td>
-      <td valign="top" width="136">
-
-Etréchy
-
-</td>
-      <td width="136" valign="top">
-
-Montgeron
-
-</td>
-      <td valign="top" width="136">
-
-Sainte-Geneviève-des-Bois
-
-</td>
-      <td valign="top" width="136">
-
-Villebon-sur-Yvette
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Brétigny-sur-Orge
-
-</td>
-      <td valign="top" width="136">
-
-Evry
-
-</td>
-      <td width="136" valign="top">
-
-Montlhéry
-
-</td>
-      <td valign="top" width="136">
-
-Saint-Germain-lès-Arpajon
-
-</td>
-      <td valign="top" width="136">
-
-Ville-du-Bois (La)
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Brunoy
-
-</td>
-      <td valign="top" width="136">
-
-Ferté-Alais (La)
-
-</td>
-      <td width="136" valign="top">
-
-Morangis
-
-</td>
-      <td valign="top" width="136">
-
-Saint-Germain-lès-Corbeil
-
-</td>
-      <td width="136" valign="top">
-
-Villemoisson-sur-Orge
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Bures-sur-Yvette
-
-</td>
-      <td valign="top" width="136">
-
-Fleury-Mérogis
-
-</td>
-      <td valign="top" width="136">
-
-Morigny-Champigny
-
-</td>
-      <td width="136" valign="top">
-
-Saint-Michel-sur-Orge
-
-</td>
-      <td width="136" valign="top">
-
-Villiers-le-Bacle
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Champlan
-
-</td>
-      <td width="136" valign="top">
-
-Gif-sur-Yvette
-
-</td>
-      <td width="136" valign="top">
-
-Morsang-sur-Orge
-
-</td>
-      <td valign="top" width="136">
-
-Saint-Pierre-du-Perray
-
-</td>
-      <td valign="top" width="136">
-
-Villiers-sur-Orge
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Chilly-Mazarin
-
-</td>
-      <td valign="top" width="136">
-
-Gometz-le-Châtel
-
-</td>
-      <td width="136" valign="top">
-
-Norville (La)
-
-</td>
-      <td width="136" valign="top">
-
-Saintry-sur-Seine
-
-</td>
-      <td width="136" valign="top">
-
-Viry-Châtillon
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Corbeil-Essonnes
-
-</td>
-      <td width="136" valign="top">
-
-Grigny
-
-</td>
-      <td width="136" valign="top">
-
-Ormoy
-
-</td>
-      <td valign="top" width="136">
-
-Saulx-les-Chartreux
-
-</td>
-      <td valign="top" width="136">
-
-Wissous
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Courcouronnes
-
-</td>
-      <td valign="top" width="136">
-
-Igny
-
-</td>
-      <td width="136" valign="top">
-
-Orsay
-
-</td>
-      <td valign="top" width="136">
-
-Savigny-sur-Orge
-
-</td>
-      <td valign="top" width="136">
-
-Yerres
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Crosne
-
-</td>
-      <td valign="top" width="136">
-
-Juvisy-sur-Orge
-
-</td>
-      <td width="136" valign="top">
-
-Palaiseau
-
-</td>
-      <td valign="top" width="136">
-
-Soisy-sur-Seine
-
-</td>
-      <td valign="top" width="136">
-    </td></tr>
-    <tr>
-      <td valign="top" width="136">
-
-Draveil
-
-</td>
-      <td valign="top" width="136">
-
-Linas
-
-</td>
-      <td width="136" valign="top">
-
-Paray-Vieille-Poste
-
-</td>
-      <td valign="top" width="136">
-
-Tigery
-
-</td>
-      <td valign="top" width="136">
-    </td></tr>
-  </tbody>
-</table>
-
-92 - Hauts-de-Seine (la totalité des communes du département).
-
-93 - Seine-Saint-Denis (la totalité des communes du département).
-
-94 - Val-de-Marne (la totalité des communes du département).
-
-95 - Val-d'Oise.
-
-<table>
-  <tbody>
-    <tr>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-      <td width="136">
-
-COMMUNES
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Andilly
-
-</td>
-      <td valign="top" width="136">
-
-Cormeilles-en-Parisis
-
-</td>
-      <td valign="top" width="136">
-
-Frette-sur-Seine (La)
-
-</td>
-      <td valign="top" width="136">
-
-Montlignon
-
-</td>
-      <td width="136" valign="top">
-
-Saint-Brice-sous-Forêt
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Argenteuil
-
-</td>
-      <td valign="top" width="136">
-
-Courdimanche
-
-</td>
-      <td valign="top" width="136">
-
-Garges-lès-Gonesse
-
-</td>
-      <td valign="top" width="136">
-
-Montmagny
-
-</td>
-      <td width="136" valign="top">
-
-Saint-Gratien
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Arnouville-lès-Gonesse
-
-</td>
-      <td valign="top" width="136">
-
-Deuil-la-Barre
-
-</td>
-      <td valign="top" width="136">
-
-Gonesse
-
-</td>
-      <td valign="top" width="136">
-
-Montmorency
-
-</td>
-      <td width="136" valign="top">
-
-Saint-Leu-la-Forêt
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Auvers-sur-Oise
-
-</td>
-      <td width="136" valign="top">
-
-Domont
-
-</td>
-      <td valign="top" width="136">
-
-Goussainville
-
-</td>
-      <td width="136" valign="top">
-
-Neuville-sur-Oise
-
-</td>
-      <td width="136" valign="top">
-
-Saint-Ouen-l'Aumône
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Beauchamp
-
-</td>
-      <td width="136" valign="top">
-
-Eaubonne
-
-</td>
-      <td valign="top" width="136">
-
-Groslay
-
-</td>
-      <td width="136" valign="top">
-
-Osny
-
-</td>
-      <td width="136" valign="top">
-
-Saint-Prix
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Beaumont-sur-Oise
-
-</td>
-      <td valign="top" width="136">
-
-Ecouen
-
-</td>
-      <td valign="top" width="136">
-
-Herblay
-
-</td>
-      <td width="136" valign="top">
-
-Parmain
-
-</td>
-      <td valign="top" width="136">
-
-Sannois
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Bessancourt
-
-</td>
-      <td width="136" valign="top">
-
-Enghein-les-Bains
-
-</td>
-      <td width="136" valign="top">
-
-Isle-Adam (L')
-
-</td>
-      <td valign="top" width="136">
-
-Persan
-
-</td>
-      <td width="136" valign="top">
-
-Sarcelles
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Bezons
-
-</td>
-      <td valign="top" width="136">
-
-Ennery
-
-</td>
-      <td width="136" valign="top">
-
-Jouy-le-Moutier
-
-</td>
-      <td valign="top" width="136">
-
-Pierrelaye
-
-</td>
-      <td width="136" valign="top">
-
-Soisy-sous-Montmorency
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Boisemont
-
-</td>
-      <td width="136" valign="top">
-
-Eragny
-
-</td>
-      <td width="136" valign="top">
-
-Margency
-
-</td>
-      <td valign="top" width="136">
-
-Piscop
-
-</td>
-      <td width="136" valign="top">
-
-Taverny
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="136">
-
-Bonneuil-en-France
-
-</td>
-      <td width="136" valign="top">
-
-Ermont
-
-</td>
-      <td width="136" valign="top">
-
-Mériel
-
-</td>
-      <td width="136" valign="top">
-
-Plessis-Bouchard (Le)
-
-</td>
-      <td valign="top" width="136">
-
-Thillay (Le)
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Cergy
-
-</td>
-      <td valign="top" width="136">
-
-Ezanville
-
-</td>
-      <td width="136" valign="top">
-
-Méru-sur-Oise
-
-</td>
-      <td valign="top" width="136">
-
-Pontoise
-
-</td>
-      <td valign="top" width="136">
-
-Vauréal
-
-</td>
-    </tr>
-    <tr>
-      <td width="136" valign="top">
-
-Champagne-sur-Oise
-
-</td>
-      <td valign="top" width="136">
-
-Franconville
-
-</td>
-      <td width="136" valign="top">
-
-Montigny-lès-Cormeilles
-
-</td>
-      <td valign="top" width="136">
-
-Puiseux-Pontoise
-
-</td>
-      <td valign="top" width="136">
-
-Villiers-le-Bel
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Nota:**
-
-Article devenu sans objet conformément à la loi n° 2010-1658 du 29 décembre 2010, article 28, III A [1°] et 28, III H-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1988-10-20
-
-	**Créé par**:
-
-	  - Arrêté 1988-10-20 art. 1 en vigueur le 15 juillet 1988
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 3 juin 2013 - art. 1
-	  - HISTO: Edition du 15 juillet 1988
-
-	**Cite**:
-
-	  - CGI 159 octies
-
-	**Anciens textes**:
-
-	  - CGIAN4 159 sexies A
-
 
 ##### 2° : Taxe sur les certificats d'immatriculation des véhicules.
 
@@ -20346,13 +18530,13 @@ voies navigables de France ;
 
 la caisse nationale du crédit agricole ; 
 
-les      chambres de commerce et d'industrie territoriales et ports autonomes ; 
+les chambres de commerce et d'industrie territoriales et ports autonomes ; 
 
 le comité national interprofessionnel des viandes ; 
 
 l'entreprise de recherches et d'activités pétrolières (ERAP) ; 
 
-l'entreprise minière et chimique ; 
+(l'entreprise minière et chimique) (1) ; 
 
 les régies municipales, intercommunales et départementales exploitant des services à caractère industriel et commercial. 
 
@@ -20392,15 +18576,16 @@ l'office national des anciens combattants et victimes de guerre.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 36-II B de la loi n° 2006-1666 du 21 décembre 2006, des articles 10-I et
-11 du décret n° 2009-340 du 27 mars 2009 et de l'article 87-1° du décret n° 2010-1463 du 1er décembre 2010.
+(1) Sans objet.
+
+Modification effectuée en conséquence du décret n° 2005-1559 du 14 décembre 2005 et de l'art. 1
+  <sup>er</sup> de l'arrêté du 28 décembre 2012.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Arrêté du 3 juin 2013 - art. 1
 
 	**Cite**:
 
@@ -20452,7 +18637,7 @@ la caisse générale de garantie des assurances sociales ;
 
 la caisse de compensation pour la décentralisation de l'industrie aéronautique ; 
 
-les      chambres de commerce et d'industrie territoriales et ports autonomes ; 
+les chambres de commerce et d'industrie territoriales et ports autonomes ; 
 
 les chambres d'agriculture ; 
 
@@ -20462,7 +18647,7 @@ le comité national interprofessionnel des viandes ;
 
 l'entreprise de recherches et d'activités pétrolières (ERAP) ; 
 
-l'entreprise minière et chimique ; 
+(l'entreprise minière et chimique) (1) ; 
 
 les sections de l'office central de répartition des produits industriels ; 
 
@@ -20478,14 +18663,16 @@ les régies municipales, intercommunales et départementales exploitant des serv
 
 **Nota:**
 
-Modification effectuée en conséquence des articles 10-I et 11 du décret n° 2009-340 du 27 mars 2009.
+(1) Sans objet.
+
+Modification effectuée en conséquence du décret n° 2005-1559 du 14 décembre 2005 et de l'art. 1
+  <sup>er</sup> de l'arrêté du 28 décembre 2012.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Arrêté du 3 juin 2013 - art. 1
 
 	**Cite**:
 
@@ -20591,39 +18778,43 @@ les départements d'outre-mer par le directeur des services fiscaux territoriale
 
 ###### Article 170 quinquies
 
-Il est statué sur les demandes d'agrément présentées pour l'application de l'article  1465 du code général des impôts :
+Il est statué sur les demandes d'agrément présentées pour l'application de l'article 1465 du code général des impôts : 
 
 1° Par le ministre chargé du budget, après avis du comité interministériel des aides à la localisation des activités institué
-par l'article 1er de l'arrêté du 10 juillet 1982 :
+par l'article 1er de l'arrêté du 10 juillet 1982 : 
 
 a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 7,6 millions d'euros
 d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 150 millions d'euros
 ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse 150 millions
-d'euros ;
+d'euros ; 
 
-b. Pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
+b. Pour les créations, et extensions de services de direction, d'études, d'ingénierie et d'informatique ; 
 
-c. Pour les opérations liées à celles mentionnées aux a et b ;
+c. Pour les opérations liées à celles mentionnées aux a et b ; 
 
-d. (Abrogé) ;
+d. (Abrogé) ; 
 
 2° Dans les autres cas, par le directeur des services fiscaux du département au chef-lieu duquel est localisée la direction
 de contrôle fiscal dans le ressort de laquelle est situé l'établissement.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 64 V de la loi n° 2008-776 du 4 août 2008.
+Modification effectuée en conséquence de l'art. 87, X  [1°, a] de la loi n° 2006-1771 du 30 décembre 2006.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 7 avril 2009 - art. 1 (V)
+	  - Arrêté du 3 juin 2013 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB quater (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 octies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1465 (V)
 
 
 ###### Article 170 septies F
