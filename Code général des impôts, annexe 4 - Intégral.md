@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2013-07-28
+Version Consolidée au 2013-10-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16539,24 +16539,24 @@ I.-Les taux d'imposition prévus au IV de l'article 1609 septvicies du code gén
 outre-mer sont fixés par tonne de viande avec os comme suit : 
 
 1° Animaux de plus de 24 mois de l'espèce bovine, animaux des espèces chevaline, asine et de leurs croisements, gibiers
-ruminants d'élevage : 58 €/t ; 
+ruminants d'élevage : 0 €/t ; 
 
-2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 13 €/t ; 
+2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 0 €/t ; 
 
-3° Animaux des espèces ovine et caprine : 54,50 €/t ; 
+3° Animaux des espèces ovine et caprine : 0 €/t ; 
 
-4° Animaux de l'espèce porcine : 8,75 €/t ; 
+4° Animaux de l'espèce porcine : 0 €/t ; 
 
-5° Volailles, lapins, gibiers d'élevage non ruminants et ratites : 6,25 €/t. 
+5° Volailles, lapins, gibiers d'élevage non ruminants et ratites : 0 €/t. 
 
 II.-Les taux d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés en
 métropole sont fixés par tonne de viande avec os comme suit : 
 
-1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage : 77,4 €/t ; 
+1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage : 0 €/t ; 
 
-2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 17,3 €/t ; 
+2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 0 €/t ; 
 
-3° Animaux des espèces ovine et caprine : 72,8 €/t ; 
+3° Animaux des espèces ovine et caprine : 0 €/t ; 
 
 4° Animaux de l'espèce porcine : 0 €/t ; 
 
@@ -16570,11 +16570,19 @@ métropole sont fixés par tonne de viande avec os comme suit :
 III.-Le poids de viande avec os des animaux abattus est déterminé dans les conditions prévues à l'article 111 quater LA de
 l'annexe III.
 
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 47-II [4°] de la loi n° 2013-1278 du 29 décembre 2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 24 décembre 2012 - art. 1
+	  - Arrêté du 27 septembre 2013 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 26 mai 2014 - art. 1
 
 	**Cite**:
 
