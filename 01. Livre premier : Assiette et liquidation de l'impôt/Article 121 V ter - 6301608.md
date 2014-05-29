@@ -42,10 +42,10 @@ Les avis sont émis par la commission en présence uniquement des membres ayant 
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 2 du décret n° 2010-291 du 18 mars 2010.
+Modification effectuée en conséquence des articles 11 et 13 du décret n° 2013-333 du 22 avril 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-333 du 22 avril 2013 - art. 11
+	  - Arrêté du 26 mai 2014 - art. 1

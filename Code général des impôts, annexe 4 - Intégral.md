@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2014-05-22
+Version Consolidée au 2014-05-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -321,162 +321,6 @@ Pétrole brut, 36-36,9 aux puits Kansas-Oklahoma.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 4 (V)
 
 
-##### II : Provisions pour risques afférents aux opérations de crédit à moyen et à long terme
-
-###### Article 2
-
-Les établissements de banque ou de crédit effectuant des prêts à moyen ou à long terme  ainsi que les sociétés autorisées à
-faire des opérations de crédit foncier sont admis à constituer en franchise d'impôt sur le revenu ou d'impôt sur les sociétés
-dans les conditions prévues à l'article 3 bis, une provision destinée à faire face aux risques particuliers afférents à ces
-prêts ou opérations.
-
-Il ne peut être constitué de provision pour les crédits dont le risque n'incombe pas à l'établissement.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1981-09-15
-
-	**Modifié par**:
-
-	  - Arrêté 1981-09-15 en vigueur le 1er juillet 1981
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - CGIAN4 3 bis
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 2 bis (P)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 3 bis (P)
-
-
-###### Article 2 bis
-
-Les prêts ou avances consentis à moyen ou à long terme aux caisses de crédit agricole mutuel par l'organe central du Crédit
-agricole ne sont pas retenus par celle-ci pour le calcul de la provision prévue à l'article 2.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 57 () JORF 7 mai 2004
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 2
-
-
-###### Article 3 bis
-
-I. La dotation annuelle à la provision prévue à l'article 2 ne peut excéder 5 % du bénéfice comptable de chaque exercice. 
-
-II. La dotation globale à cette provision ne peut excéder 0,50 % du montant des crédits à moyen terme et à long terme
-effectivement utilisés.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1997-12-22 art. 1 JORF 27 décembre 1997
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 2 (P)
-
-
-##### II bis : Provisions pour risques afférents aux crédits à moyen terme résultant de ventes ou de travaux effectués à l'étranger
-
-###### Article 4 bis
-
-Les entreprises consentant des crédits à moyen terme pour le règlement des ventes ou des travaux qu'elles effectuent à
-l'étranger sont admises à constituer en franchise d'impôt sur le revenu ou d'impôt sur les sociétés, dans les conditions
-prévues à l'article 4 ter, une provision destinée à faire face aux risques particuliers afférents à ces crédits. 
-
-Sont considérées comme effectuées à l'étranger les opérations faites à destination de pays autres que les territoires de la
-République française (France métropolitaine, départements d'outre-mer, Saint-Pierre-et-Miquelon, Mayotte, Nouvelle-Calédonie,
-Polynésie française, les îles Wallis et Futuna et les Terres australes et antarctiques françaises).
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2004-10-08
-
-	**Modifié par**:
-
-	  - Loi n°76-1212 du 24 décembre 1976 - art. 1 (Ab) JORF 28 décembre 1976
-	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
-	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
-	  - Loi n°2003-660 2003-07-21 art. 61 I JORF 22 juillet 2003
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 ter
-
-
-###### Article 4 ter
-
-Au bilan de clôture des exercices ouverts au cours de l'année 1967, le montant maximum de la provision visée à l'article 4
-bis ne peut excéder 7 % du montant des crédits à moyen terme figurant à ce bilan et afférents à des opérations effectuées à
-l'étranger dont les résultats entrent dans les bases de l'impôt sur le revenu ou de l'impôt sur les sociétés. 
-
-Ce pourcentage est fixé à 8,5 % pour les exercices ouverts au cours de l'année 1968 et à 10 % pour les exercices ouverts à
-compter du 1er janvier 1969.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 bis (P)
-
-
 ##### II quater : Provisions des entreprises de presse
 
 ###### Article 4 octies
@@ -503,55 +347,6 @@ impliquent la livraison.
 
 	  - Code général des impôts, CGI. - art. 39 bis (V)
 	  - Code général des impôts, CGI. - art. 39 bis A (V)
-
-
-##### III : Provisions pour reconstitution des gisements
-
-##### b : Entreprises produisant certaines substances minérales solides
-
-###### Article 4 C bis
-
-Les substances minérales solides dont l'extraction peut donner droit, par application des dispositions du 1 de l'article 39
-ter B du code général des impôts, à la constitution de provisions pour reconstitution de gisements dans les conditions
-prévues par les articles 10 C quinquies à 10 G de l'annexe III au code précité, sont les suivantes : 
-
-Minerai d'aluminium, amiante, minerai d'andalousite, antimoine, ardoise, minerai d'argent, argiles réfractaires kaoliniques,
-minerai d'arsenic, barytine, minerai de béryllium, minerai de bismuth, minerai de bore, minerai de chrome, minerai de cobalt,
-colombotantalite, minerai de cuivre, minerai d'étain, feldspath, fluorine, kaolin, minerai de lithium, minerai de manganèse,
-mica, minerai de molybdène, minerai de nickel, minerai d'or, phosphates, minerai de platine et de la mine du platine, minerai
-de plomb même non associé au zinc, potasse, pyrites, minerais radioactifs, silice pour l'industrie, minerai de soufre,
-strontium, talc, terres rares, minerai de titane, minerai de tungstène, minerai de vanadium, minerai de zinc et minerai de
-zirconium. 
-
-Les argiles réfractaires kaoliniques mentionnées au deuxième alinéa s'entendent des matériaux naturels constitués pour au
-moins 92 % de silicates d'alumine hydratés du type kaolinite, halloysite ou illite et de quartz libre et possédant une
-résistance pyroscopique minimum de 1350° C. 
-
-La silice pour l'industrie (verrerie, céramique, fonderie, chimie et électrométallurgie) mentionnée au deuxième alinéa
-s'entend des matériaux naturels présentant une teneur sur produit sec d'au moins 97 % d'oxyde de silicium (SiO2).
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2002-06-06
-
-	**Modifié par**:
-
-	  - Arrêté 2002-06-06 art. 2 JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C quinquies
-	  - Code général des impôts, CGI. - art. 39 ter B
 
 
 ##### IV : Provision pour implantation commerciale à l'étranger
@@ -1962,56 +1757,26 @@ structures concernés.
 
 ###### Article 17 quinquies
 
-Pour l'application des dispositions du I de l'article 41 F et de l'article 41 H de l'annexe III au code général des impôts,
-le récépissé de la déclaration mentionnée à l'article 17 quater est joint à la déclaration des revenus de l'année considérée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 27 février 2008 - art. 1
-
-	**Cite**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 41 F (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 41 H (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 quater (V)
-
-
-###### Article 17 quinquies A
-
-L'agrément prévu à l'article 41 H de l'annexe III au code général des impôts pour l'application du 3° du I et du 1° ter du II
-de l'article 156 du même code est délivré par le directeur des services fiscaux du département au chef-lieu duquel est
-localisée la direction de contrôle fiscal dans le ressort de laquelle est situé l'immeuble concerné. Si la demande présente
-des difficultés particulières tenant notamment à la nature de l'immeuble ou aux conditions de son occupation, la décision est
-prise par le ministre chargé du budget. 
-
-L'agrément est délivré pour la région d'Ile-de-France par le directeur chargé de la direction spécialisée des impôts pour la
-région d'Ile-de-France et pour Paris et dans les départements d'outre-mer par le directeur des services fiscaux
-territorialement compétent.
+Pour l'application des dispositions du I de  l'article 41 F de l'annexe III au code général des impôts, le récépissé de la
+déclaration mentionnée à l'article 17 quater est joint à la déclaration des revenus de l'année considérée.
 
 **Nota:**
 
-Dispositions devenues sans objet en conséquence de l'article 26-I [l] et XI-3 de la loi n° 2013-1278 du 29 décembre 2013.
+Modifications effectuées en conséquence de l'article 26-I [l] et XI-3 de la loi n° 2013-1278 du 29 décembre 2013.
+
+Les mots :  et de l'article 41 H  deviennent sans objet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Arrêté 2005-04-06
-
 	**Modifié par**:
 
-	  - Décret n°2004-1016 2004-09-22 art. 1 C JORF 29 septembre 2004
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
+	  - Arrêté du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 156
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 H
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 quater
 
 
 ###### Article 17 ter
@@ -2117,202 +1882,202 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2013, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2014, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme
 suit : 
 
 <table>
   <tbody>
     <tr>
-      <td> </td>
-      <td colspan="5">
+      <th>TAUX APPLICABLES
 
-LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS 
+</th>
+      <th colspan="5">
 
-</td>
+LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+
+</th>
     </tr>
     <tr>
-      <td>
+      <th>
+      </th><th>
 
-Taux applicables 
+Année
 
-</td>
-      <td>
+(en euros)
 
-Année 
+</th>
+      <th>
 
-(en euros) 
+Trimestre
 
-</td>
-      <td>
+(en euros)
 
-Trimestre 
+</th>
+      <th>
 
-(en euros) 
+Mois
 
-</td>
-      <td>
+(en euros)
 
-Mois 
+</th>
+      <th>
 
-(en euros) 
+Semaine
 
-</td>
-      <td>
+(en euros)
 
-Semaine 
+</th>
+      <th>
 
-(en euros) 
+Jour ou fraction
 
-</td>
-      <td>
+de jour
 
-Jour ou fraction de jour 
+(en euros)
 
-(en euros) 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-0 % 
-
-- moins de 
-
-</td>
-      <td align="center">
-
-14 245 
-
-</td>
-      <td align="center">
-
-3 561 
-
-</td>
-      <td align="center">
-
-1 187 
-
-</td>
-      <td align="center">
-
-274 
-
-</td>
-      <td align="center">
-
-46 
-
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
 
-12 % 
-
-- de 
+0 % en deçà de
 
 </td>
       <td align="center">
 
-14 245 
+14 359
 
 </td>
       <td align="center">
 
-3 561 
+3 590
 
 </td>
       <td align="center">
 
-1 187 
+1 197
 
 </td>
       <td align="center">
 
-274 
+276
 
 </td>
       <td align="center">
 
-46 
+46
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-- à 
+12 % de
 
 </td>
       <td align="center">
 
-41 327 
+14 359
 
 </td>
       <td align="center">
 
-10 332 
+3 590
 
 </td>
       <td align="center">
 
-3 444 
+1 197
 
 </td>
       <td align="center">
 
-795 
+276
 
 </td>
       <td align="center">
 
-132 
+46
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-20 % 
-
-- au-delà de 
+à
 
 </td>
       <td align="center">
 
-41 327 
+41 658
 
 </td>
       <td align="center">
 
-10 332 
+10 415
 
 </td>
       <td align="center">
 
-3 444 
+3 472
 
 </td>
       <td align="center">
 
-795 
+801
 
 </td>
       <td align="center">
 
-132</td>
+134
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+20 % au-delà de
+
+</td>
+      <td align="center">
+
+41 658
+
+</td>
+      <td align="center">
+
+10 415
+
+</td>
+      <td align="center">
+
+3 472
+
+</td>
+      <td align="center">
+
+801
+
+</td>
+      <td align="center">
+
+134
+
+</td>
     </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 2-I [1°] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 20 décembre 2012 - art. 1
+	  - Arrêté du 26 mai 2014 - art. 1
 
 
 ##### 2° Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -3180,16 +2945,20 @@ Toutefois, la dispense de déclaration des contrats de prêts prévue aux 1° à
 mentionnés au 2° du III bis de l'article 125 A du code général des impôts lorsque leur détenteur communique son identité et
 son domicile fiscal à l'établissement qui assure le paiement des intérêts ou le remboursement de ces bons ou titres.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 24-I de la loi n° 2013-672 du 26 juillet 2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Arrêté du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 B (V)
-	  - Code général des impôts, CGI. - art. 125 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 B
+	  - Code général des impôts, CGI. - art. 125 A
 
 
 ##### Section III : Réévaluation des immobilisations amortissables
@@ -4202,8 +3971,8 @@ utilisée comme mode de chauffage ou de production d'eau chaude, cuve à fioul, 
 
 ###### Article 30-0 B
 
-La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur ajoutée en application du c du I de
-l'article 278 quinquies du code général des impôts est fixée comme suit : 
+La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur ajoutée en application du c du 2° du A de
+l'article 278-0 bis du code général des impôts est fixée comme suit : 
 
 1. Pour les handicapés moteurs : 
 
@@ -4284,23 +4053,26 @@ dispositif de maintien du tronc par sangle ou par harnais ;
 
 dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 13-I A et J de la loi n° 2011-1978 du 28 décembre 2011.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2006-07-26 art. 1 JORF 17 août 2006
+	  - Arrêté du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - CGI 278 quinquies
-	  - Code général des impôts, CGI. - art. 278 quinquies (Ab)
+	  - Code général des impôts, CGI. - art. 278-0 bis (V)
 
 
 ###### Article 30-0 C
 
-Les ascenseurs et matériels assimilés soumis au taux réduit de la taxe sur la valeur ajoutée en application du quatrième
-alinéa du II de l'article 278 quinquies du code général des impôts sont les matériels suivants, spécialement conçus pour le
-déplacement d'une personne handicapée : 
+Les ascenseurs et matériels assimilés soumis au taux réduit de la taxe sur la valeur ajoutée en application du f du 2° du A
+de l'article 278-0 bis du code général des impôts sont les matériels suivants, spécialement conçus pour le déplacement d'une
+personne handicapée : 
 
 1. Les appareils élévateurs verticaux, installés à demeure, comportant une plate-forme aménagée en vue du transport d'une
 personne handicapée, debout ou en fauteuil roulant, avec ou sans accompagnateur, qui répondent aux conditions suivantes : 
@@ -4332,6 +4104,10 @@ du fonctionnement de l'appareil ;
 
 f) Leur charge nominale n'excède pas 200 kilogrammes.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 13-I A et J de la loi n° 2011-1978 du 28 décembre 2011.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -4340,8 +4116,7 @@ f) Leur charge nominale n'excède pas 200 kilogrammes.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1485 2004-12-30 art. 83 I, II Finances rectificative pour 2004 JORF 31 décembre 2004
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+	  - Arrêté du 26 mai 2014 - art. 1
 
 	**Cité par**:
 
@@ -4349,7 +4124,7 @@ f) Leur charge nominale n'excède pas 200 kilogrammes.
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 278 quinquies (Ab)
+	  - Code général des impôts, CGI. - art. 278-0 bis (V)
 
 
 ##### B : Hôtels de tourisme et villages de vacances
@@ -13956,15 +13731,15 @@ rend immédiatement exigibles les sommes dues par le gérant.
 
 ###### Article 56 AJ
 
-1. La déclaration des quantités de tabacs manufacturés livrées au débitant au cours du mois précédent mentionnées au huitième
-alinéa de l'article 568 du code général des impôts et au dixième alinéa de l'article 2 du décret n° 63-1104 du 30 octobre
+1. La déclaration des quantités de tabacs manufacturés livrées au débitant au cours du mois précédent mentionnées au dixième
+alinéa de l'article 568 du code général des impôts et au onzième alinéa de l'article 2 du décret n° 63-1104 du 30 octobre
 1963 modifié est conforme aux modèles figurant aux annexes I et I bis à l'arrêté du 26 décembre 2007 modifiant l'article 56
 AJ de l'annexe IV au code général des impôts et fixant le contenu des déclarations de livraisons de tabac des fournisseurs
 aux débits de tabac, modifié. Cette déclaration est établie en un exemplaire sur papier à en-tête du fournisseur. Elle est
 datée et signée. Elle est transmise au chef de service comptable à la direction générale des douanes et droits indirects de
 1re et de 2e catégorie de Paris-Ile-de-France accompagnée du moyen de paiement correspondant. 
 
-2. La déclaration mensuelle des livraisons mentionnée au huitième alinéa de l'article 568 du code général des impôts comporte
+2. La déclaration mensuelle des livraisons mentionnée au dixième alinéa de l'article 568 du code général des impôts comporte
 les informations suivantes : 
 
 a. nom ou raison sociale et adresse du fournisseur ; 
@@ -13987,9 +13762,8 @@ Cette déclaration est datée et transmise par voie informatique au centre infor
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 77 (2°) de la loi n° 2009-526 du 12 mai 2009 et des articles 1er et 2 de
-l'arrêté du 6 février 2009 modifiant l'arrêté du 26 décembre 2007 modifiant l'article 56 AJ de l'annexe IV au code général
-des impôts et fixant le contenu des déclarations de livraisons de tabac des fournisseurs aux débits de tabac.
+Modifications effectuées en conséquence de l'article 68-I [1°] et II de la loi n° 2013-1279 du 29 décembre 2013 et de
+l'article 1er du décret n° 2013-1277 du 27 décembre 2013.
 
 **Liens relatifs à cet article**
 
@@ -13997,17 +13771,17 @@ des impôts et fixant le contenu des déclarations de livraisons de tabac des fo
 
 	  - Décret n°63-1104 du 30 octobre 1963 - art. 2
 	  - Arrêté du 26 décembre 2007
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AJ (V)
 	  - Code général des impôts, CGI. - art. 568
-
-	**Modifié par**:
-
-	  - Arrêté du 27 avril 2010 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 24 mars 2010 - art. 1 (V)
 	  - Décret n°2016-1987 du 30 décembre 2016 - art. 2 (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AJ (V)
+
+	**Modifié par**:
+
+	  - Arrêté du 26 mai 2014 - art. 1
 
 
 ###### Article 56 AK
@@ -15153,13 +14927,13 @@ Les avis sont émis par la commission en présence uniquement des membres ayant 
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 2 du décret n° 2010-291 du 18 mars 2010.
+Modification effectuée en conséquence des articles 11 et 13 du décret n° 2013-333 du 22 avril 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-333 du 22 avril 2013 - art. 11
+	  - Arrêté du 26 mai 2014 - art. 1
 
 
 #### Chapitre III : Déclarations des personnes physiques résidant en Principauté de Monaco
@@ -16526,65 +16300,6 @@ Les taux de la taxe sont fixés par arrêté.
 	  - Code général des impôts, CGI. - art. 1609 vicies (V)
 
 
-##### Section III : Taxe d'abattage
-
-###### Article 159 A
-
-I.-Les taux d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés
-outre-mer sont fixés par tonne de viande avec os comme suit : 
-
-1° Animaux de plus de 24 mois de l'espèce bovine, animaux des espèces chevaline, asine et de leurs croisements, gibiers
-ruminants d'élevage : 0 €/t ; 
-
-2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 0 €/t ; 
-
-3° Animaux des espèces ovine et caprine : 0 €/t ; 
-
-4° Animaux de l'espèce porcine : 0 €/t ; 
-
-5° Volailles, lapins, gibiers d'élevage non ruminants et ratites : 0 €/t. 
-
-II.-Les taux d'imposition prévus au IV de l'article 1609 septvicies du code général des impôts pour les abattoirs situés en
-métropole sont fixés par tonne de viande avec os comme suit : 
-
-1° Animaux de plus de 24 mois de l'espèce bovine et gibiers ruminants d'élevage : 0 €/t ; 
-
-2° Animaux de l'espèce bovine jusqu'à l'âge de 24 mois : 0 €/t ; 
-
-3° Animaux des espèces ovine et caprine : 0 €/t ; 
-
-4° Animaux de l'espèce porcine : 0 €/t ; 
-
-5° Volailles de chair (hors poules pondeuses), palmipèdes à foie gras, lapins, gibiers d'élevage non ruminants et ratites : 0
-€/t ; 
-
-6° Poules pondeuses : 0 €/t ; 
-
-7° Animaux de l'espèce équine : 0 €/t. 
-
-III.-Le poids de viande avec os des animaux abattus est déterminé dans les conditions prévues à l'article 111 quater LA de
-l'annexe III.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 47-II [4°] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 27 septembre 2013 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA
-	  - Code général des impôts, CGI. - art. 1609 septvicies
-
-
 ##### Section IV : Fonds national du livre
 
 ##### I : Redevance sur l'édition des ouvrages de librairie
@@ -16671,68 +16386,6 @@ de la loi n° 2010-874 du 27 juillet 2010.
 	  - Code général des impôts, CGI. - art. 1635 bis A
 	  - Code rural - art. L361-2
 	  - Code de la route. - art. R311-1
-
-
-##### Section II : Fonds de garantie des assurances obligatoires de dommages
-
-##### A : Accidents de circulation
-
-###### Article 159 quinquies-0 A
-
-Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
-application des articles 322 et 322 A de l'annexe 2 au code général des impôts sont fixés conformément aux dispositions de
-l'article A. 421-3 du code des assurances.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 62-II de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 9 juin 2011 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 322
-	  - Code des assurances - art. A421-3
-
-
-##### B : Accidents de chasse
-
-###### Article 159 quinquies-0 B
-
-Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en
-application des articles 323 et 323 A de l'annexe 2 au code général des impôts sont fixés conformément aux dispositions de
-l'article A. 421-4 du code des assurances.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 62-II de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2004-10-08
-
-	**Modifié par**:
-
-	  - Arrêté du 9 juin 2011 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 323
-	  - Code des assurances - art. A421-4
 
 
 ##### Section V : Taxe au profit de l'association pour le développement de la formation professionnelle dans les transports routiers
@@ -16984,318 +16637,7 @@ Modifications effectuées en conséquence de l'article 4 de l'arrêté du 29 dé
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 FB
 
 
-#### Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs
-
-###### Article 164 F novodecies A
-
-Pour l'application de l'article 344 I bis de l'annexe III au code général des impôts, doivent être considérés comme des
-sommes, titres ou valeurs :
-
-- les billets de banque ;
-
-- les pièces de monnaie ;
-
-- les chèques avec ou sans indication de bénéficiaire ;
-
-- les chèques au porteur ;
-
-- les chèques endossables autres que ceux destinés à ou adressés par des entreprises exerçant à titre habituel et
-professionnel une activité de commerce international ;
-
-- les chèques de voyage ;
-
-- les postchèques ;
-
-- les effets de commerce non domiciliés ;
-
-- les lettres de crédit non domiciliées ;
-
-- les bons de caisse anonymes ;
-
-- les valeurs mobilières et autres titres de créances négociables au porteur ou endossables ;
-
-- les lingots d'or et pièces d'or ou d'argent cotées sur un marché officiel.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 5-I [87°] et 7 du décret n° 2005-1007 du 2 août 2005.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1990-12-18 art. 1 JORF 19 décembre 1990
-
-	**Codifié par**:
-
-	  - Arrêté 1991-09-09
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I bis
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies B (P)
-
-
-###### Article 164 F novodecies B
-
-1. La déclaration faite en application des 1 et 2 de l'article 344 I bis de l'annexe III au code général des impôts est
-déposée auprès du service des douanes de la frontière. 
-
-Elle comporte, sur un document daté et signé, les mentions suivantes relatives à la personne transportant les sommes, titres
-ou valeurs visés à l'article 164 F novodecies A : 
-
-a) Nom, prénoms, nationalité, date et lieu de naissance ; 
-
-b) Adresse du domicile principal ; 
-
-c) La formule : " Je déclare être porteur des sommes, titres ou valeurs énumérés ci-dessous, dont le montant total est égal
-ou supérieur à 50 000 FF " ; 
-
-d) L'indication de l'importation ou de l'exportation des sommes, titres ou valeurs ; 
-
-e) La description par nature des sommes, titres ou valeurs avec indication de leur montant. 
-
-Cette déclaration est établie en trois exemplaires dont un est restitué au déclarant après visa par le service des douanes. 
-
-2. Pour les transferts qui ont comme première destination ou dernière provenance un Etat de la Communauté européenne, la
-déclaration citée aux 1 et 2 de l'article 344 I bis de l'annexe III au code général des impôts est établie préalablement au
-transfert. 
-
-Elle est adressée, par la voie postale, au service des autorisations financières et commerciales, Safico, 42, rue de Clichy,
-75009 Paris, au minimum quinze jours avant la date du voyage, accompagnée d'une enveloppe sur laquelle est indiquée l'adresse
-à laquelle le déclarant souhaite recevoir l'exemplaire de la déclaration visé par le Safico. Cet exemplaire visé doit être
-présenté, lors du voyage, à toute demande du service des douanes. 
-
-Lorsque la déclaration n'a pu être déposée dans les conditions visées au deuxième alinéa, elle peut être : 
-
-a) Soit déposée, préalablement à la sortie de France, dans tous bureaux de douane, aux heures normales d'ouverture de ces
-bureaux. Après visa, un exemplaire est immédiatement remis au déclarant, qui doit en être détenteur lors du transfert ; 
-
-b) Soit remise, à l'entrée ou à la sortie de France, aux agents de la douane ; 
-
-c) Soit déposée, après compostage, dans les boîtes aux lettres implantées dans certains grands points de passage. 
-
-La déclaration, établie en trois exemplaires sur un formulaire disponible dans les bureaux de douane, dans les consulats ou
-ambassades de France des Etats membres de la Communauté européenne ou, à défaut, sur papier libre, comporte les
-renseignements visés au 1, auxquels il est ajouté, le cas échéant, la date prévue pour le transfert. 
-
-3. Pour les transferts de sommes, titres ou valeurs par la voie postale, la déclaration citée au 3 de l'article 344 I bis de
-l'annexe III au code général des impôts sera établie, sauf dans le cas visé au second alinéa, sur un formulaire C2/ CP3
-disponible dans tous les bureaux de poste et dans les gares. 
-
-Lorsqu'il s'agit de lingots d'or ou de pièces d'or ou d'argent cotées sur un marché officiel importés ou exportés de pays
-n'appartenant pas à la Communauté européenne, la déclaration sera établie sur un document administratif unique (D. A. U.). 
-
-4. Lorsque le transfert est opéré pour le compte d'un tiers, la déclaration citée aux 1,2 et 3 comportera l'identification du
-propriétaire des sommes, titres ou valeurs transportés.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 5-I [87°] et 7 du décret n° 2005-1007 du 2 août 2005.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1993-07-16 art. 1 à 4 JORF 24 août 1993
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I bis
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies A (P)
-
-
 #### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales
-
-##### Section I : Centres de gestion agréés
-
-##### Tenue des documents comptables de certains adhérents
-
-###### Article 164 F unvicies A
-
-Les adhérents qui confient la tenue ou la centralisation de leurs documents comptables à un centre de gestion agréé habilité
-à cet effet, dans les conditions prévues aux articles 344 IA à 344 ID de l'annexe III au code général des impôts, choisissent
-le membre de l'ordre des experts-comptables ou l'expert-comptable stagiaire autorisé qui exercera la surveillance de leur
-dossier et visera leur déclaration de résultats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IA
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies B (P)
-
-
-###### Article 164 F unvicies B
-
-La nature des travaux de surveillance et les honoraires correspondants sont fixés dans une lettre de mission signée par
-l'adhérent et le professionnel de la comptabilité désigné à l'article 164 F unvicies A.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1983-05-11 art. 2 JORF 17 mai 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1983-07-10
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies A (P)
-
-
-###### Article 164 F unvicies C
-
-Le professionnel de la comptabilité s'engage : 
-
-1° A effectuer les travaux suivants : 
-
-a. Appréciation des procédures comptables mises en oeuvre par le centre de gestion agréé à l'égard de son client ; 
-
-b. Contrôle par épreuves, au cours de l'exercice, de la régularité de l'enregistrement des opérations et rapprochement avec
-les pièces justificatives ; 
-
-c. Examen et vérification de la balance annuelle des comptes ainsi que des options nécessaires à la détermination du résultat
-de l'exercice ; 
-
-d. Contrôle des écritures d'inventaire, du bilan et du compte de résultats. 
-
-2° A suivre dans l'accomplissement de sa mission les recommandations établies par l'ordre des experts-comptables. 
-
-3° A informer immédiatement l'adhérent des anomalies relevées et de la nature des rectifications à opérer, ainsi que, le cas
-échéant, des raisons qui le conduiraient à ne pas délivrer le visa mentionné au I de l'article 1649 quater D du code général
-des impôts si ses observations n'étaient pas suivies d'effet avant la clôture des comptes de l'exercice au cours duquel elles
-ont été formulées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1995-12-11
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1649 quater D
-
-
-###### Article 164 F unvicies D
-
-L'adhérent s'engage :
-
-1° A mettre en temps utile à la disposition du professionnel chargé de surveiller son dossier l'ensemble des documents qui
-lui sont nécessaires pour exercer cette mission et à répondre rapidement à toutes les demandes d'éclaircissements qui lui
-sont présentées.
-
-2° A adresser au centre de gestion agréé une copie des observations reçues et, le cas échéant, de la lettre exposant les
-motifs pour lesquels le visa n'est pas délivré et à faire connaître au professionnel de la comptabilité la suite donnée aux
-observations reçues.
-
-L'adhérent peut toutefois autoriser son conseil à adresser directement ses observations au centre de gestion agréé qui est
-alors chargé d'y répondre.
-
-3° A régler le prix convenu lorsque cette rémunération n'est pas versée, pour son compte, par le centre de gestion agréé.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1983-05-11 art. 4 JORF 17 mai 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1983-07-10
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies E (P)
-
-
-###### Article 164 F unvicies E
-
-Les documents énumérés au 2° de l'article 164 F unvicies D, y compris la lettre refusant le visa, sont tenus par le centre de
-gestion agréé à la disposition de l'agent de l'administration fiscale qui apporte son assistance technique à ce centre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1983-05-11 art. 5 JORF 17 mai 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1983-07-10
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies D (P)
-
-
-###### Article 164 F unvicies F
-
-Les honoraires relatifs à l'accomplissement de la mission de surveillance sont fixés au cinquième du prix demandé par le
-centre de gestion agréé pour tenir ou centraliser les documents comptables de l'adhérent.
-
-Toutefois, il peut être dérogé d'un commun accord à cette limite lorsque son application conduirait, compte tenu de
-l'importance des prestations fournies, à une rémunération excessive ou insuffisante.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1983-05-11 art. 6 JORF 17 mai 1983
-
-	**Codifié par**:
-
-	  - Arrêté 1983-07-10
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
 
 ##### Section II : Associations agréées des professions libérales
 
@@ -18844,33 +18186,6 @@ le capital est détenu à plus de 50% par une entreprise dont le chiffre d'affai
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 44 septies (V)
-
-
-###### Article 170 septies G
-
-Il est statué par le directeur des services fiscaux de la Corse-du-Sud sur les demandes d'agrément présentées en application
-du a du I de l'article 44 decies du code général des impôts. 
-
-Toutefois, la décision est prise par le ministre chargé du budget pour les opérations présentant des difficultés
-particulières ou évoquées par le ministre.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 2-6.1.34 de la loi n° 2009-1673 du 30 décembre 2009.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 27 avril 2010 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Arrêté du 26 mai 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 44 decies
 
 
 ###### Article 170 septies H
