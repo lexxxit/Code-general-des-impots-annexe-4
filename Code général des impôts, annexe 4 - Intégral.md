@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2014-09-11
+Version Consolidée au 2014-10-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4125,6 +4125,26 @@ Modifications effectuées en conséquence de l'article 13-I A et J de la loi n°
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 278-0 bis (V)
+
+
+##### A ter : Travaux d'amélioration de la qualité énergétique des locaux d'habitation
+
+###### Article 30-0 D
+
+Les caractéristiques techniques et les critères de performances minimales des matériaux et équipements mentionnés au 
+1 de l'article 278-0 bis A du code général des impôts 
+sont ceux fixés par l'article 18 bis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 septembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (V)
+	  - Code général des impôts, CGI. - art. 278-0 bis A
 
 
 ##### B : Hôtels de tourisme et villages de vacances
