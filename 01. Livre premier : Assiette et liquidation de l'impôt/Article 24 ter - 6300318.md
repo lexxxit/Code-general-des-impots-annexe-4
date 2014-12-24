@@ -1,19 +1,14 @@
 # Article 24 ter
 
-La preuve de l'exportation est apportée au moyen du document justificatif de l'exportation dûment visé par le bureau de
-douane de sortie de la Communauté européenne.
+Après les mots : "au moyen", la fin de l'article est ainsi rédigée : "du bordereau de vente à l'exportation dûment visé par
+le service douanier de sortie de l'Union européenne".
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 1996-01-25 art. 1 JORF 28 janvier 1996
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1998-02-03 JO du 5 mars 1998
-	  - TXT_ASSOCIE: Instruction 1997-01-22 3A-1-97
 
 	**Cité par**:
 
 	  - Arrêté du 3 juillet 2009 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Arrêté du 16 décembre 2014 - art. 1
