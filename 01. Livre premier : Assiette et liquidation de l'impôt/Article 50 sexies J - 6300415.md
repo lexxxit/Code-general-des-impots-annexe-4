@@ -1,6 +1,7 @@
 # Article 50 sexies J
 
-Les informations prévues au 2 de l'article 298 sexdecies F du code général des impôts sont les suivantes : 
+Les informations prévues au 2 de l'article 298 sexdecies F et au V de l'article 298 sexdecies G du code général des impôts
+sont les suivantes : 
 
 a. Raison sociale ; 
 
@@ -21,11 +22,11 @@ européenne aux fins de la taxe sur la valeur ajoutée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2003-07-18 art. 3 JORF 20 juillet 2003
+	  - Arrêté du 30 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - CGI 298 sexdecies F
-	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+	  - Code général des impôts, CGI. - art. 298 sexdecies F
+	  - Code général des impôts, CGI. - art. 298 sexdecies G

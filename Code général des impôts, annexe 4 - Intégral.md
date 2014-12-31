@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2014-12-25
+Version Consolidée au 2015-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2188,6 +2188,8 @@ zones A et B1 telles qu'elles sont définies à l'article R. 304-1 du code de la
 
 ##### 5° Crédit d'impôt pour dépenses d'équipement de l'habitation principale
 
+##### 5° Crédit d'impôt pour la transition énergétique 
+
 ###### Article 18 bis
 
 La liste des équipements, matériaux et appareils mentionnés au 1 de l'article 200 quater du code général des impôts est fixée
@@ -4334,21 +4336,6 @@ facturé, ainsi que le nom et l'adresse du client.
 	  - Code général des impôts, CGI. - art. 286 (V)
 
 
-###### Article 38
-
-La déclaration visée au 1 de l'article 287 du code général des impôts doit être souscrite en double exemplaire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 29 décembre 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 287
-
-
 ###### Article 39
 
 1.1° La date limite à laquelle les redevables sont tenus de remettre ou d'envoyer au service des impôts la déclaration ou le
@@ -4404,9 +4391,9 @@ Sociétés anonymes : au plus tard le 24 du mois suivant ;
 
 Autres redevables : au plus tard le 24 du mois suivant. 
 
-d. Pour les redevables placés sous le régime simplifié d'imposition et tenus de verser des acomptes en avril, juillet,
-octobre et décembre, en application du 3 de l'article 287 du code général des impôts, les jours limites de paiement au cours
-de ces mois sont ceux prévus aux b, c et e. 
+d. Pour les redevables placés sous le régime simplifié d'imposition et tenus de verser des acomptes en  juillet et décembre,
+en application du 3 de l'article 287 du code général des impôts, les jours limites de paiement au cours de ces mois sont ceux
+prévus aux b, c et e. 
 
 e. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les redevables visés au premier alinéa du I de
 l'article 95 de l'annexe III et placés sous le régime de la déclaration : au plus tard le 19 du mois suivant. 
@@ -4425,11 +4412,16 @@ au 1 de l'article 1693 ter de ce code : au plus tard le 24 du mois suivant.
 
 2. (Dispositions devenues sans objet).
 
+**Nota:**
+
+Aux termes de l'article 2 de l'arrêté du 29 décembre 2014, ces dispositions s'appliquent aux acomptes dus à compter du 1er
+janvier 2015.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 20 février 2012 - art. 1
+	  - Arrêté du 29 décembre 2014 - art. 1
 
 	**Cité par**:
 
@@ -4590,26 +4582,46 @@ Les registres visés au 3 du II de l'article 286 quater du code général des im
 
 Si l'administration le demande, les registres tenus sur support informatique sont restitués sur support papier. 
 
-Le registre prévu au 9 de l'article 298 sexdecies F du code général des impôts comporte les informations suivantes pour
-chaque opération : 
+Le registre prévu au 9 de l'article 298 sexdecies F et au V de l'article 298 sexdecies G du code général des impôts comporte,
+pour chaque prestation, les informations suivantes : 
 
-a. Les renseignements relatifs au client : nom, prénom, adresse postale mentionnant le pays et adresse électronique ; 
+a) Le nom de l'Etat membre de consommation ; 
 
-b. Les renseignements relatifs à la transaction : identification, nature et quantité du produit ou du service fourni, prix
-unitaire hors taxe, taux de taxe sur la valeur ajoutée appliquée, montant de la taxe à payer, numéro de la facture émise et
-mode de paiement utilisé par le client.
+b) La nature du service fourni ; 
+
+c) La date à laquelle la prestation de service est rendue ; 
+
+d) Le prix hors taxe, avec indication de la devise de facturation ; 
+
+e) Toute augmentation ou réduction ultérieure du prix hors taxe ; 
+
+f) Le taux de taxe sur la valeur ajoutée appliqué ; 
+
+g) Le montant de taxe sur la valeur ajoutée dû, avec indication de la devise utilisée ; 
+
+h) Le montant des paiements reçus et la date à laquelle ils l'ont été ; 
+
+i) Le montant de tout acompte versé avant que la prestation de services ne soit rendue ; 
+
+j) Lorsqu'une facture est émise, les informations autres que celles déjà mentionnées au présent article et figurant sur la
+facture ; 
+
+k) Le nom du client, lorsque cette information est connue de l'assujetti ; 
+
+l) Les informations utilisées pour déterminer le lieu où le client est établi ou à son domicile ou sa résidence habituelle.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2003-07-18 art. 1 JORF 20 juillet 2003
+	  - Arrêté du 30 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 bis (V)
-	  - Code général des impôts, CGI. - art. 286 quater (V)
-	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 bis
+	  - Code général des impôts, CGI. - art. 286 quater
+	  - Code général des impôts, CGI. - art. 298 sexdecies F
+	  - Code général des impôts, CGI. - art. 298 sexdecies G
 
 
 ###### Article 41 ter
@@ -4693,29 +4705,36 @@ b. l'assujetti dépasse le seuil de 460 000 € en cours d'année.
 
 ###### Article 41 nonies
 
-La déclaration de taxe sur la valeur ajoutée visée au 5 de l'article 298 sexdecies F du code général des impôts doit être
-déposée dans les vingt jours qui suivent l'expiration de la période imposable visée par cette déclaration. 
+La déclaration de taxe sur la valeur ajoutée visée au 5 de l'article 298 sexdecies F et au IV de l'article 298 sexdecies G du
+code général des impôts doit être déposée dans les vingt jours qui suivent l'expiration de la période imposable visée par
+cette déclaration. 
 
-Cette déclaration doit être libellée en euros conformément au 6 de l'article 298 sexdecies F du code général des impôts. Si
-d'autres monnaies ont été utilisées pour les prestations de services visées au 12° de l'article 259 B, le taux de change en
-vigueur le dernier jour de la période imposable déclarée sera appliqué. Le change est effectué par application des taux de
-change publiés par la Banque centrale européenne pour le jour en question ou, si aucune publication n'a été faite ce jour-là,
-pour le jour de publication suivant.
+Cette déclaration doit être libellée en euros conformément au 6 de l'article 298 sexdecies F et au V de l'article 298
+sexdecies G du code général des impôts. Si d'autres monnaies ont été utilisées pour les prestations de services visées à
+l'article 259 D, le taux de change en vigueur le dernier jour de la période imposable déclarée sera appliqué. Le change est
+effectué par application des taux de change publiés par la Banque centrale européenne pour le jour en queston ou, si aucune
+publication n'a été faite ce jour-là, pour le jour de publication suivant. 
+
+Lorsqu'un assujetti n'a effectué aucune prestation de services dans un Etat membre de consommation au cours d'une période de
+déclaration, il dépose une déclaration indiquant qu'aucune prestation n'a été effectuée au cours de cette période. 
+
+Lorsqu'un assujetti n'a pas déposé de déclaration, une relance lui est notifiée par voie électronique. La relance est émise
+au plus tard le dixième jour suivant la date à laquelle la déclaration aurait dû être déposée. De même, lorsqu'un assujetti a
+déposé une déclaration mais qu'aucun paiement n'a été effectué ou que le paiement est inférieur à celui prévu dans la
+déclaration, une relance est notifiée à l'assujetti, par voie électronique, au plus tard le dixième jour suivant la date à
+laquelle le paiement aurait dû être effectué.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2003-07-18 art. 2 JORF 20 juillet 2003
+	  - Arrêté du 30 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 259 B (V)
-	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
+	  - Code général des impôts, CGI. - art. 259 D
+	  - Code général des impôts, CGI. - art. 298 sexdecies F
+	  - Code général des impôts, CGI. - art. 298 sexdecies G
 
 
 ###### Article 41 septies
@@ -5824,7 +5843,8 @@ alinéa.
 
 ###### Article 50 sexies J
 
-Les informations prévues au 2 de l'article 298 sexdecies F du code général des impôts sont les suivantes : 
+Les informations prévues au 2 de l'article 298 sexdecies F et au V de l'article 298 sexdecies G du code général des impôts
+sont les suivantes : 
 
 a. Raison sociale ; 
 
@@ -5845,30 +5865,32 @@ européenne aux fins de la taxe sur la valeur ajoutée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2003-07-18 art. 3 JORF 20 juillet 2003
+	  - Arrêté du 30 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - CGI 298 sexdecies F
-	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+	  - Code général des impôts, CGI. - art. 298 sexdecies F
+	  - Code général des impôts, CGI. - art. 298 sexdecies G
 
 
 ###### Article 50 sexies K
 
 Lorsque l'assujetti cesse ou modifie son activité au point de ne plus se prévaloir du régime spécial prévu à l'article 298
-sexdecies F du code général des impôts, il en informe l'administration par voie électronique.
+sexdecies F du code général des impôts et du régime particulier prévu à l'article 298 sexdecies G du même code, il en informe
+l'administration par voie électronique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2003-07-18 art. 3 JORF 20 juillet 2003
+	  - Arrêté du 30 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+	  - Code général des impôts, CGI. - art. 298 sexdecies F
+	  - Code général des impôts, CGI. - art. 298 sexdecies G
 
 
 ##### Section VI : Importations
