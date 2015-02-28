@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-03-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -749,148 +749,146 @@ Le barème forfaitaire mentionné au 3° de l'article 83 du code général des i
 <table>
   <tbody>
     <tr>
-      <td width="668" colspan="4">
+      <th colspan="4">
 
 TARIF APPLICABLE AUX AUTOMOBILES
 
-</td>
+</th>
     </tr>
     <tr>
-      <td width="163">
+      <td align="center" valign="middle">
 
-Puissance administrative 
-
-du véhicule en chevaux (CV) 
+Puissance administrative
 
 </td>
-      <td width="162">
+      <td valign="middle" align="center">
 
-Jusqu'à 5 000 km 
-
-</td>
-      <td width="162">
-
-De 5 001 km à 20 000 km 
+Jusqu'à 5 000 km
 
 </td>
-      <td width="161">
+      <td valign="middle" align="center">
 
-Au-delà de 20 000 km 
-
-</td>
-    </tr>
-    <tr>
-      <td width="163">
-
-3 CV et moins 
+De 5 001 km à 20 000 km
 
 </td>
-      <td width="162">
+      <td align="center" valign="middle">
 
-d × 0,408 
-
-</td>
-      <td width="162">
-
-(d × 0,244) + 820 
-
-</td>
-      <td width="161">
-
-d × 0,285 
+Au-delà de 20 000 km
 
 </td>
     </tr>
     <tr>
-      <td width="163">
+      <td align="left" valign="middle">
 
-4 CV 
-
-</td>
-      <td width="162">
-
-d × 0,491 
+3 CV et moins
 
 </td>
-      <td width="162">
+      <td valign="middle" align="center">
 
-(d × 0,276) + 1 077 
-
-</td>
-      <td width="161">
-
-d × 0,330 
+d x 0,41
 
 </td>
-    </tr>
-    <tr>
-      <td width="163">
+      <td align="center" valign="middle">
 
-5 CV 
+(d x 0,245) + 824
 
 </td>
-      <td width="162">
+      <td valign="middle" align="center">
 
-d × 0,540 
-
-</td>
-      <td width="162">
-
-(d × 0,303) + 1 182 
-
-</td>
-      <td width="161">
-
-d × 0,362 
+d x 0,286
 
 </td>
     </tr>
     <tr>
-      <td width="163">
+      <td align="left" valign="middle">
 
-6 CV 
-
-</td>
-      <td width="162">
-
-d × 0,565 
+4 CV
 
 </td>
-      <td width="162">
+      <td align="center" valign="middle">
 
-(d × 0,318) + 1 238 
-
-</td>
-      <td width="161">
-
-d × 0,380 
+d x 0,493
 
 </td>
-    </tr>
-    <tr>
-      <td width="163">
+      <td valign="middle" align="center">
 
-7 CV et plus 
+(d x 0,277) + 1 082
 
 </td>
-      <td width="162">
+      <td align="center" valign="middle">
 
-d × 0,592 
-
-</td>
-      <td width="162">
-
-(d × 0,335) + 1 282 
-
-</td>
-      <td width="161">
-
-d × 0,399 
+d x 0,332
 
 </td>
     </tr>
     <tr>
-      <td width="500" colspan="4">
+      <td valign="middle" align="left">
+
+5 CV
+
+</td>
+      <td valign="middle" align="center">
+
+d x 0,543
+
+</td>
+      <td align="center" valign="middle">
+
+(d x 0,305) + 1 188
+
+</td>
+      <td valign="middle" align="center">
+
+d x 0,364
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+6 CV
+
+</td>
+      <td valign="middle" align="center">
+
+d x 0,568
+
+</td>
+      <td valign="middle" align="center">
+
+(d x 0,32) + 1 244
+
+</td>
+      <td align="center" valign="middle">
+
+d x 0,382
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="left">
+
+7 CV et plus
+
+</td>
+      <td align="center" valign="middle">
+
+d x 0,595
+
+</td>
+      <td align="center" valign="middle">
+
+(d x 0,337) + 1 288
+
+</td>
+      <td align="center" valign="middle">
+
+d x 0,401
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="left" colspan="4">
 
 d représente la distance parcourue en kilomètres.
 
@@ -904,104 +902,100 @@ d représente la distance parcourue en kilomètres.
 <table>
   <tbody>
     <tr>
-      <td colspan="4" width="668">
+      <th colspan="4">TARIF APPLICABLE AUX MOTOCYCLETTES
 
-TARIF APPLICABLE AUX MOTOCYCLETTES
+</th>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+Puissance administrative
+
+</td>
+      <td valign="middle" align="center">
+
+Jusqu'à 3 000 km
+
+</td>
+      <td align="center" valign="middle">
+
+De 3 001 km à 6 000 km
+
+</td>
+      <td valign="middle" align="center">
+
+Au-delà de 6 000 km
 
 </td>
     </tr>
     <tr>
-      <td width="163">
+      <td valign="middle" align="left">
 
-Puissance administrative 
-
-du véhicule en chevaux (CV) 
+1 ou 2 CV
 
 </td>
-      <td width="162">
+      <td valign="middle" align="center">
 
-Jusqu'à 3 000 km 
-
-</td>
-      <td width="162">
-
-De 3 001 km à 6 000 km 
+d x 0,338
 
 </td>
-      <td width="161">
+      <td align="center" valign="middle">
 
-Au-delà de 6 000 km 
+(d x 0,084) + 760
+
+</td>
+      <td align="center" valign="middle">
+
+d x 0,211
 
 </td>
     </tr>
     <tr>
-      <td width="163">
+      <td align="left" valign="middle">
 
-1 ou 2 CV 
-
-</td>
-      <td width="162">
-
-d × 0,336 
+3, 4, 5 CV
 
 </td>
-      <td width="162">
+      <td valign="middle" align="center">
 
-(d × 0,084) + 756 
-
-</td>
-      <td width="161">
-
-d × 0,210 
+d x 0,4
 
 </td>
-    </tr>
-    <tr>
-      <td width="163">
+      <td valign="middle" align="center">
 
-3, 4, 5 CV 
+(d x 0,07) + 989
 
 </td>
-      <td width="162">
+      <td align="center" valign="middle">
 
-d × 0,398 
-
-</td>
-      <td width="162">
-
-(d × 0,070) + 984 
-
-</td>
-      <td width="161">
-
-d × 0,234 
+d x 0,235
 
 </td>
     </tr>
     <tr>
-      <td width="163">
+      <td align="left" valign="middle">
 
-plus de 5 CV 
-
-</td>
-      <td width="162">
-
-d × 0,515 
+Plus de 5 CV
 
 </td>
-      <td width="162">
+      <td align="center" valign="middle">
 
-(d × 0,067) + 1344 
+d x 0,518
 
 </td>
-      <td width="161">
+      <td valign="middle" align="center">
 
-d × 0,291 
+(d x 0,067) + 1 351
+
+</td>
+      <td align="center" valign="middle">
+
+d x 0,292
 
 </td>
     </tr>
     <tr>
-      <td width="500" colspan="4">
+      <td valign="middle" align="left" colspan="4">
 
 d représente la distance parcourue en kilomètres.
 
@@ -1015,50 +1009,48 @@ d représente la distance parcourue en kilomètres.
 <table>
   <tbody>
     <tr>
-      <td colspan="3" width="668">
+      <th colspan="3">TARIF APPLICABLE AUX CYCLOMOTEURS
 
-TARIF APPLICABLE AUX CYCLOMOTEURS 
+</th>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+Jusqu'à 2 000 km
+
+</td>
+      <td valign="middle" align="center">
+
+De 2 001 km à 5 000 km
+
+</td>
+      <td align="center" valign="middle">
+
+Au-delà de 5 000 km
 
 </td>
     </tr>
     <tr>
-      <td width="218">
+      <td valign="middle" align="center">
 
-Jusqu'à 2 000 km 
-
-</td>
-      <td width="218">
-
-De 2 001 km à 5 000 km 
+d x 0,269
 
 </td>
-      <td width="217">
+      <td valign="middle" align="center">
 
-Au-delà de 5 000 km 
-
-</td>
-    </tr>
-    <tr>
-      <td width="218">
-
-d × 0,268 
+(d x 0,063) + 412
 
 </td>
-      <td width="218">
+      <td align="center" valign="middle">
 
-(d × 0,063) + 410 
-
-</td>
-      <td width="217">
-
-d × 0,145 
+d x 0,146
 
 </td>
     </tr>
     <tr>
-      <td width="668" colspan="3">
+      <td valign="middle" colspan="3" align="left">
 
-d représente la distance parcourue en kilomètres. 
+d représente la distance parcourue en kilomètres.
 
 </td>
     </tr>
@@ -1069,7 +1061,7 @@ d représente la distance parcourue en kilomètres.
 
 	**Modifié par**:
 
-	  - Arrêté du 19 mai 2014 - art. 1
+	  - Arrêté du 26 février 2015 - art. 1
 
 	**Cite**:
 
@@ -2185,8 +2177,6 @@ zones A et B1 telles qu'elles sont définies à l'article R. 304-1 du code de la
 	  - Code général des impôts, CGI. - art. 199 novovicies (V)
 	  - Code de la construction et de l'habitation. - art. R304-1 (V)
 
-
-##### 5° Crédit d'impôt pour dépenses d'équipement de l'habitation principale
 
 ##### 5° Crédit d'impôt pour la transition énergétique 
 
@@ -3965,6 +3955,224 @@ utilisée comme mode de chauffage ou de production d'eau chaude, cuve à fioul, 
 ##### I : Taux réduit
 
 ##### A bis : Equipements spéciaux pour personnes handicapées
+
+###### Article 30-0 A
+
+La liste des appareillages pris en charge au titre des prestations définies aux articles L. 162-22-6 et L. 162-22-7 du code
+de la sécurité sociale, soumis au taux de 5,5 % de la taxe sur la valeur ajoutée en application du b du 2° du A de l'article
+278-0 bis du code général des impôts est fixée comme suit :
+
+- accès vasculaire implantable composé d'un réservoir sans septum et de cathéter (s), quels que soient le nombre de
+réservoirs et celui des cathéters ;
+
+- anneaux valvulaires cardiaques ;
+
+- armature valvulaire cardiaque pour autogreffe ;
+
+- barrières antiadhérences d'origine synthétique ;
+
+- chambre à cathéter implantable, double chambre, pour abord veineux ;
+
+- chambre à cathéter implantable, monochambre, pour abord artériel ;
+
+- chambre à cathéter implantable, monochambre, pour abord intrarachidien, intrathécal ou péridural ;
+
+- chambre à cathéter implantable, monochambre, pour abord péritonéal ;
+
+- chambre à cathéter implantable, monochambre, pour abord veineux ;
+
+- défibrillateurs cardiaques implantables avec stimulation atrio-bi-ventriculaire pour resynchronisation dits " triple
+chambre " ;
+
+- défibrillateurs cardiaques implantables simple et double chambre ;
+
+- greffon tendineux ;
+
+- greffons cornéens d'origine humaine ;
+
+- greffons valvulaires cardiaques, conduits valvulaires ou fragments valvulaires ;
+
+- implant digestif annulaire anastomotique biodégradable ;
+
+- implant digestif de dérivation péritonéo-veineuse ;
+
+- implant exovasculaire de ligature interne (CLIP) pour anévrisme cérébral ;
+
+- implant neurologique de drainage totalement interne, sous-dural ;
+
+- implant neurologique de ponction de kystes arachnoidiens ;
+
+- implant neurologique de réfection, de suspension ou d'enveloppement, inférieur ou égal à 20 cm 
+  <sup>2 </sup>;
+
+- implant neurologique de réfection, de suspension ou d'enveloppement, supérieur à 20 cm 
+  <sup>2 </sup>;
+
+- implant neurologique pour valve, connecteur, raccord, adaptateur ;
+
+- implant neurologique, valve d'hydrocéphalie préréglée, régulation de pression ;
+
+- implant neurologique, valve d'hydrocéphalie préréglée, régulation de débit ;
+
+- implant neurologique, valve d'hydrocéphalie programmable ;
+
+- implant neurologique, valve d'hydrocéphalie standard et dérivation périphérique ;
+
+- implant neurologique, valve d'hydrocéphalie, cathéter de drainage ;
+
+- implant neurologique, valve d'hydrocéphalie, réservoir ;
+
+- implant ophtalmologique cornéen ou kératoprothèse à support colonisable ;
+
+- implant ophtalmologique de reconstruction orbitaire ;
+
+- implant ophtalmologique intraoculaire de drainage antiglaucomateux ;
+
+- implant ophtalmologique intraoculaire, aniridien ;
+
+- implant ophtalmologique intraoculaire, anneau capsulaire ;
+
+- implant ophtalmologique intraorbitaire, bille ;
+
+- implant ophtalmologique intraorbitaire, bille réhabitable ;
+
+- implant ophtalmologique intraorbitaire, bille réhabitable enveloppée ;
+
+- implant ophtalmologique intraorbitaire, entraîneur pour œil artificiel ;
+
+- implant ophtalmologique lacrymal, bouchon ou clou-trou méatique ;
+
+- implant ophtalmologique lacrymal, canaliculo-nasal ; implant pour traitement des larmoiements et implant pour
+lacorhinostomie ;
+
+- implant ophtalmologique lacrymal, supplément, traitement hydrophilisant ;
+
+- implant ophtalmologique, cristallinien, monofocal ;
+
+- implant ophtalmologique, cristallinien, multifocal ;
+
+- implant ophtalmologique, palpébral, de suspension, pour traitement du ptosis ;
+
+- implant ophtalmologique, palpébral, plaque pour rétraction ;
+
+- implant ophtalmologique, palpébral, prothèse pour lagophtalmie ;
+
+- implant ophtalmologique, scléral ou vitréen, colonisable pour indentation ; implant (type bande, corde, rail et roue) pour
+indentation sclérale ;
+
+- implant ophtalmologique, scléral ou vitréen, éponge et bande pour cerclage, pli ; éponge et bande large ;
+
+- implant ophtalmologique, scléral ou vitréen, huile de silicone, flacon/ seringue ;
+
+- implant ophtalmologique, scléral ou vitréen, non colonisable pour indentation ; implant (type bande, corde, rail et roue)
+pour indentation sclérale ;
+
+- implant ORL, oreille ;
+
+- implant pleuropulmonaire, de renfort, d'agrafage, résection parenchymateuse ;
+
+- implant pour colposuspension, péri ou uréthrocervical ;
+
+- implant testiculaire ne comportant aucun dérivé ou tissu d'origine biologique ou n'étant pas issu de tels dérivés ;
+
+- implant urétéral double crosse ;
+
+- implant urétéral simple crosse ;
+
+- implants cristalliniens monofocaux issus de dérivés de tissus d'origine animale non viables ou en comportant ;
+
+- implants d'expansion cutanée gonflable ne comportant aucun dérivé ou tissu d'origine biologique ou n'étant pas issus de
+tels dérivés ;
+
+- implants d'origine synthétique pour chirurgie endoscopique avec ou sans fixation intégrée ;
+
+- implants d'ostéosynthèse divers et supplément : supplément pour traitement ostéoconducteur ; fiche pour fixateur externe ;
+agrafe, sauf pour main ou pied ; câble de cerclage à fils torsadés ; système d'ancrage tendineux ou ligamentaire résorbable
+ou non ; système de fixation type agrafe, à crémaillère pour sternotomie ;
+
+- implants d'ostéosynthèse sur mesure : lame plaque, plaque et clou centromédullaire sur mesure ;
+
+- implants d'ostéosynthèse, broches : broche classique ; broche filetée ou cannelée, autosécable ; broche résorbable ; embout
+de broche antimigration ;
+
+- implants d'ostéosynthèse, clou plaque : lisse ; adhérent ou à crénage ; adhérent ou à crénage sur la face osseuse ;
+
+- implants d'ostéosynthèse, clous centromédullaires ;
+
+- implants d'ostéosynthèse, implants pour chirurgie des extrémités des membres, mains et pieds : plaque à petits fragments ;
+vis perforée ; vis (cheville) sécable ; agrafe ;
+
+- implants d'ostéosynthèse, lames plaques ou lames coudées lisses : lisse ; lisse et perforée ; adhérente ou à crénage ;
+adhérente ou à crénage sur la face osseuse ; adhérente ou à crénage, perforée ; adhérente ou à crénage sur la face osseuse,
+perforée ;
+
+- implants d'ostéosynthèse, plaques (sécable ou non) : plaque diaphysaire ; plaque épiphysaire ; plaque à cotyle ou basin ;
+plaque à agrafe ronde, endocéphalique, extrémité supérieure humérus ; plaque-crochet trochantérienne ;
+
+- implants d'ostéosynthèse, vis et contre-vis : vis corticale et spongieuse, non autotaraudeuse ; vis à pas différents et
+autocompressive ; vis avec sa contre-vis adaptable sur un trou fileté ; vis perforée ; vis autotaraudeuse ; vis
+autocompressive ; vis résorbable ; vis adaptable sur un trou fileté d'un implant ;
+
+- implants d'ostéosynthèse, vis plaque : lisse ; avec système de blocage, lisse ; adhérente ou à crénage ; avec système de
+blocage, adhérente ou à crénage ;
+
+- implants de drainage pour traitement du glaucome issus de dérivés de tissus d'origine animale non viables ou en
+comportant ;
+
+- implants de pontage ne comportant aucun dérivé ou tissu d'origine biologique ou n'étant pas issus de tels dérivés ;
+
+- implants de pontage issus de dérivés, de tissus d'origine animale non viables ou en comportant ;
+
+- implants de réfection de paroi d'origine synthétique, non tricotés et non tissés ;
+
+- implants de réfection de paroi d'origine synthétique, tricotés ou tissés, enduits ou non enduits, non résorbables ;
+
+- implants de réfection de paroi d'origine synthétique, tricotés ou tissés, enduits ou non enduits, résorbables ;
+
+- implants de réfection de paroi, issus de dérivés d'origine animale ;
+
+- implants de soutènement sous-urétral ;
+
+- implants de suture et de ligature internes, mécaniques, résorbables ou non, pour la chirurgie conventionnelle ou
+l'endochirurgie : agrafage pour fixation d'implants avec système de pose (chargeur d'agrafes) non restérilisable,
+rechargeable ou non ; agrafage pour suture et anastomose linéaires ; agrafage pour suture circulaire avec système de pose,
+non restérilisable non rechargeable, ligature interne ou clips des vaisseaux ou des conduits excréteurs avec système de pose
+(chargeur de clips), non restérilisable, rechargeable ou non avec ou sans section ;
+
+- implants digestifs pour gastroplastie ;
+
+- plaques d'obturation et patchs, résorbables ou non résorbables, quelle que soit la surface, ne comportant aucun dérivé ou
+tissu d'origine biologique ou n'étant pas issus de tels dérivés ;
+
+- plaques d'obturation et patchs, résorbables ou non résorbables, quelle que soit la surface, issus de dérivés, de tissus
+d'origine animale non viables ou en comportant ;
+
+- produit visco-élastique utilisé en ophtalmologie pour la pose d'implants cristalliniens ne comportant aucun dérivé ou tissu
+d'origine biologique ou n'étant pas issus de tels dérivés ;
+
+- produits visco-élastiques utilisés en ophtalmologie pour la pose d'implants cristalliniens issus de dérivés de tissus
+d'origine animale non viables ou en comportant ;
+
+- sources radioactives implantables dites " Grains d'iode 125 " ;
+
+- valves cardiaques à bille, à disque ou à double ailette ;
+
+- valves fabriquées à partir de tissu d'origine animale autre que valvulaire cardiaque montées ou non sur armature ;
+
+- valves fabriquées à partir de valves cardiaques d'origine animale, montées ou non sur armature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 278-0 bis
+	  - Code de la sécurité sociale. - art. L162-22-6
+	  - Code de la sécurité sociale. - art. L162-22-7
+
 
 ###### Article 30-0 B
 
