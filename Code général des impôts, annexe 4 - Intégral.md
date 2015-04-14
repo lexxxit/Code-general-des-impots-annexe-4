@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-03-06
+Version Consolidée au 2015-04-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15543,6 +15543,24 @@ Modification effectuée en conséquence des art. 2 , 6.1.16 [3°] de la loi n° 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 I (V)
 	  - Code général des impôts, CGI. - art. 1465 (M)
 	  - Code général des impôts, CGI. - art. 1649 nonies A (V)
+
+
+##### Section II bis : Evaluation de la valeur locative des locaux commerciaux et biens divers
+
+###### Article 121 quinquies-0 DC
+
+Pour l'application de l'article 1498 bis du code général des impôts, le contribuable déclare le montant du loyer annuel,
+charges et taxes non comprises, pour l'année au cours de laquelle intervient le dépôt de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 3 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1498 bis
 
 
 ##### Section III : Commission consultative départementale des évaluations foncières
