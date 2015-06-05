@@ -7,13 +7,17 @@ L'agrément est suspendu à titre conservatoire en cas de manquement constaté d
 2° Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux. 
 
 La suspension de l'agrément est prononcée à la diligence soit du directeur général des douanes et droits indirects soit du
-directeur général de la compétitivité, de l'industrie et des services.
+directeur général des entreprises.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 17 mai 2013 - art. 1
+	  - Arrêté du 3 juin 2015 - art. 1
 
 	**Cite**:
 

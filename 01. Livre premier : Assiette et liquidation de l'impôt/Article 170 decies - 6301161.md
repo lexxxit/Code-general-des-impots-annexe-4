@@ -1,19 +1,18 @@
 # Article 170 decies
 
-I. L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur
+I.-L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur
 départemental ou le directeur régional des finances publiques du département dans lequel le programme d'investissement est
 réalisé lorsque son montant total n'excède pas 1,5 million d'euros, à l'exception du secteur du logement. 
 
 La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 1,5
 million euros ou qu'il est réalisé dans plus d'un département d'outre-mer, en Polynésie française, aux îles Wallis et Futuna,
-dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie          ou à Saint-Pierre-et-Miquelon ou bien
-lorsque l'affaire est évoquée par le ministre. 
+dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie ou à Saint-Pierre-et-Miquelon ou bien lorsque
+l'affaire est évoquée par le ministre. 
 
 L'agrément est également délivré par le ministre lorsqu'il concerne les investissements nécessaires à l'exploitation d'une
 concession de service public local à caractère industriel et commercial mentionnés au quatrième alinéa du I de l'article 217
-undecies du code général des impôts, les souscriptions au capital des sociétés concessionnaires mentionnées au troisième
-alinéa du II du même article et les souscriptions au capital des sociétés en difficulté visées au II bis de l'article
-précité. 
+undecies du code général des impôts et les souscriptions au capital des sociétés concessionnaires mentionnées au troisième
+alinéa du II du même article. 
 
 I bis.-Dans le secteur du logement, l'agrément prévu au 4 de l'article 199 undecies A, au VII de l'article 199 undecies C et
 aux II quater et III de l'article 217 undecies du code général des impôts, est délivré par le directeur départemental ou le
@@ -32,7 +31,7 @@ directeur régional des finances publiques du département où sera réalisé le
 Les demandes d'agrément mentionnées aux deuxième et troisième alinéas du I et au second alinéa du I bis sont adressées à la
 direction générale des finances publiques. 
 
-III. Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
+III.-Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
 groupements visés aux articles 8 ou 239 quater du code général des impôts, la demande d'agrément est faite par un
 représentant unique, promoteur de l'opération, gérant ou associé, qui doit remettre une copie de la décision obtenue aux
 investisseurs, copropriétaires ou associés. 
@@ -41,13 +40,13 @@ IV. (Dispositions devenues sans objet).
 
 **Nota:**
 
-
+Modifications effectuées en conséquence de l'article 67-I F-2°, II [1°] et III B de la loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 13 octobre 2014 - art. 1
+	  - Arrêté du 3 juin 2015 - art. 1
 
 	**Cité par**:
 
@@ -56,5 +55,5 @@ IV. (Dispositions devenues sans objet).
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 217 undecies
+	  - Code général des impôts, CGI. - art. 199 undecies C
 	  - Code général des impôts, CGI. - art. 239 quater

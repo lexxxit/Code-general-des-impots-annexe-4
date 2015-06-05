@@ -5,10 +5,14 @@ l'organisme agréé afin de vérifier le respect des prescriptions fixées par l
 
 L'organisme agréé conserve toutes les pièces justifiant de l'exercice de ses activités pendant un délai de trois ans. Ces
 pièces justificatives sont tenues à la disposition de la direction générale des douanes et droits indirects et de la
-direction générale de la compétitivité, de l'industrie et des services.
+direction générale des entreprises.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 17 mai 2013 - art. 1
+	  - Arrêté du 3 juin 2015 - art. 1

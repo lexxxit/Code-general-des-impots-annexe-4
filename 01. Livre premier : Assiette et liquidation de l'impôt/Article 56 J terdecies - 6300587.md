@@ -8,8 +8,8 @@ L'autorisation de procéder au marquage au laser pour attester la garantie du ti
 des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des
 organismes agréés mentionnés à l'article 275 ter G de l'annexe II au code général des impôts. 
 
-La direction générale des douanes et droits indirects et la direction générale de la compétitivité, de l'industrie et des
-services approuvent le cahier des charges préalablement à l'agrément de l'organisme de contrôle. 
+La direction générale des douanes et droits indirects et la direction générale des entreprises approuvent le cahier des
+charges préalablement à l'agrément de l'organisme de contrôle. 
 
 Le cahier des charges mentionné au premier alinéa est composé notamment : 
 
@@ -52,15 +52,19 @@ c) La tenue d'une comptabilité matières mentionnant le nombre et le poids des 
 marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523
 du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 3 juin 2015 - art. 1
 
 	**Codifié par**:
 
 	  - Arrêté 2007-03-30
-
-	**Modifié par**:
-
-	  - Arrêté du 17 mai 2013 - art. 1
 
 	**Cité par**:
 
@@ -69,6 +73,6 @@ du code général des impôts et recensant les ouvrages reconnus aux titres non 
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G (V)
-	  - Code général des impôts, CGI. - art. 523 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G
+	  - Code général des impôts, CGI. - art. 523

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-05-25
+Version Consolidée au 2015-06-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1874,89 +1874,126 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2014, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2015, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme
 suit : 
 
 <table>
   <tbody>
     <tr>
-      <th>TAUX APPLICABLES
+      <th rowspan="2">
+
+TAUX APPLICABLES 
 
 </th>
       <th colspan="5">
 
-LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS 
 
 </th>
     </tr>
     <tr>
       <th>
-      </th><th>
 
-Année
+Année 
 
-(en euros)
-
-</th>
-      <th>
-
-Trimestre
-
-(en euros)
+(en euros) 
 
 </th>
       <th>
 
-Mois
+Trimestre 
 
-(en euros)
-
-</th>
-      <th>
-
-Semaine
-
-(en euros)
+(en euros) 
 
 </th>
       <th>
 
-Jour ou fraction
+Mois 
 
-de jour
+(en euros) 
 
-(en euros)
+</th>
+      <th>
+
+Semaine 
+
+(en euros) 
+
+</th>
+      <th>
+
+Jour ou fraction 
+
+de jour 
+
+(en euros) 
 
 </th>
     </tr>
     <tr>
       <td align="center">
 
-0 % en deçà de
+0 % 
+
+- moins de 
 
 </td>
-      <td align="center">
+      <td align="center" valign="bottom">
 
-14 359
-
-</td>
-      <td align="center">
-
-3 590
+14 431 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-1 197
-
-</td>
-      <td align="center">
-
-276
+3 608 
 
 </td>
+      <td align="center" valign="bottom">
+
+1 203 
+
+</td>
+      <td valign="bottom" align="center">
+
+278 
+
+</td>
+      <td align="center" valign="bottom">
+
+46 
+
+</td>
+    </tr>
+    <tr>
       <td align="center">
+
+12 % 
+
+- de 
+
+</td>
+      <td valign="bottom" align="center">
+
+14 431 
+
+</td>
+      <td align="center" valign="bottom">
+
+3 608 
+
+</td>
+      <td valign="bottom" align="center">
+
+1 203 
+
+</td>
+      <td align="center" valign="bottom">
+
+278 
+
+</td>
+      <td align="center" valign="bottom">
 
 46
 
@@ -1965,96 +2002,66 @@ de jour
     <tr>
       <td align="center">
 
-12 % de
+- à 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-14 359
-
-</td>
-      <td align="center">
-
-3 590
+41 867 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-1 197
-
-</td>
-      <td align="center">
-
-276
+10 467 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-46
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-à
+3 489 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-41 658
-
-</td>
-      <td align="center">
-
-10 415
+805 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-3 472
-
-</td>
-      <td align="center">
-
-801
-
-</td>
-      <td align="center">
-
-134
+134 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-20 % au-delà de
+20 % 
+
+- au-delà de 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-41 658
-
-</td>
-      <td align="center">
-
-10 415
+41 867 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-3 472
-
-</td>
-      <td align="center">
-
-801
+10 467 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-134
+3 489 
+
+</td>
+      <td align="center" valign="bottom">
+
+805 
+
+</td>
+      <td valign="bottom" align="center">
+
+134 
 
 </td>
     </tr>
@@ -2063,13 +2070,13 @@ de jour
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-I [1°] de la loi n° 2013-1278 du 29 décembre 2013.
+Modifications effectuées en conséquence de l'article 2-I A de la loi n° 2014-1654 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 26 mai 2014 - art. 1
+	  - Arrêté du 3 juin 2015 - art. 1
 
 
 ##### 2° Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -3312,8 +3319,12 @@ excède 175 €.
 
 ###### Article 24 ter
 
-Après les mots : "au moyen", la fin de l'article est ainsi rédigée : "du bordereau de vente à l'exportation dûment visé par
-le service douanier de sortie de l'Union européenne".
+La preuve de l'exportation est apportée au moyen du bordereau de vente à l'exportation dûment visé par le service douanier de
+sortie de l'Union européenne.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er de l'arrêté du 16 décembre 2014.
 
 **Liens relatifs à cet article**
 
@@ -3323,7 +3334,7 @@ le service douanier de sortie de l'Union européenne".
 
 	**Modifié par**:
 
-	  - Arrêté du 16 décembre 2014 - art. 1
+	  - Arrêté du 3 juin 2015 - art. 1
 
 
 ##### 2° : Transports de voyageurs par trains internationaux
@@ -13555,8 +13566,8 @@ L'autorisation de procéder au marquage au laser pour attester la garantie du ti
 des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des
 organismes agréés mentionnés à l'article 275 ter G de l'annexe II au code général des impôts. 
 
-La direction générale des douanes et droits indirects et la direction générale de la compétitivité, de l'industrie et des
-services approuvent le cahier des charges préalablement à l'agrément de l'organisme de contrôle. 
+La direction générale des douanes et droits indirects et la direction générale des entreprises approuvent le cahier des
+charges préalablement à l'agrément de l'organisme de contrôle. 
 
 Le cahier des charges mentionné au premier alinéa est composé notamment : 
 
@@ -13599,15 +13610,19 @@ c) La tenue d'une comptabilité matières mentionnant le nombre et le poids des 
 marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523
 du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 3 juin 2015 - art. 1
 
 	**Codifié par**:
 
 	  - Arrêté 2007-03-30
-
-	**Modifié par**:
-
-	  - Arrêté du 17 mai 2013 - art. 1
 
 	**Cité par**:
 
@@ -13616,9 +13631,9 @@ du code général des impôts et recensant les ouvrages reconnus aux titres non 
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G (V)
-	  - Code général des impôts, CGI. - art. 523 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter G
+	  - Code général des impôts, CGI. - art. 523
 
 
 ##### 4° ter : Organismes agréés
@@ -13729,13 +13744,17 @@ l'organisme agréé afin de vérifier le respect des prescriptions fixées par l
 
 L'organisme agréé conserve toutes les pièces justifiant de l'exercice de ses activités pendant un délai de trois ans. Ces
 pièces justificatives sont tenues à la disposition de la direction générale des douanes et droits indirects et de la
-direction générale de la compétitivité, de l'industrie et des services.
+direction générale des entreprises.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 17 mai 2013 - art. 1
+	  - Arrêté du 3 juin 2015 - art. 1
 
 
 ###### Article 56 j terdecies D
@@ -13747,13 +13766,17 @@ L'agrément est suspendu à titre conservatoire en cas de manquement constaté d
 2° Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux. 
 
 La suspension de l'agrément est prononcée à la diligence soit du directeur général des douanes et droits indirects soit du
-directeur général de la compétitivité, de l'industrie et des services.
+directeur général des entreprises.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 17 mai 2013 - art. 1
+	  - Arrêté du 3 juin 2015 - art. 1
 
 	**Cite**:
 
@@ -16284,18 +16307,25 @@ maison de jeux.
 
 ###### Article 147
 
-Les recettes annuelles passibles de l'impôt au titre de la quatrième catégorie prévue au I de l'article 1560 du code général
-des impôts sont constituées par le montant intégral de la cagnotte des jeux d'argent pratiqués dans les cercles et maisons de
-jeux. 
+Les recettes annuelles passibles de l'impôt au titre de l'article 1560 du code général des impôts sont constituées par le
+montant intégral de la cagnotte des jeux d'argent pratiqués dans les cercles et maisons de jeux. 
 
 La cagnotte comprend le produit brut des jeux, c'est-à-dire le montant total des droits fixes, prélèvements ou redevances
 encaissés au profit du cercle ou de la maison de jeux à l'occasion des parties engagées.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 21-I [3°] de la loi n° 2014-1654 du 29 décembre 2014.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 3 juin 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1560 (V)
+	  - Code général des impôts, CGI. - art. 1560
 
 
 ###### Article 149
@@ -18521,20 +18551,19 @@ Modification effectuée en conséquence du décret n° 2005-1559 du 14 décembre
 
 ###### Article 170 decies
 
-I. L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur
+I.-L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur
 départemental ou le directeur régional des finances publiques du département dans lequel le programme d'investissement est
 réalisé lorsque son montant total n'excède pas 1,5 million d'euros, à l'exception du secteur du logement. 
 
 La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 1,5
 million euros ou qu'il est réalisé dans plus d'un département d'outre-mer, en Polynésie française, aux îles Wallis et Futuna,
-dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie          ou à Saint-Pierre-et-Miquelon ou bien
-lorsque l'affaire est évoquée par le ministre. 
+dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie ou à Saint-Pierre-et-Miquelon ou bien lorsque
+l'affaire est évoquée par le ministre. 
 
 L'agrément est également délivré par le ministre lorsqu'il concerne les investissements nécessaires à l'exploitation d'une
 concession de service public local à caractère industriel et commercial mentionnés au quatrième alinéa du I de l'article 217
-undecies du code général des impôts, les souscriptions au capital des sociétés concessionnaires mentionnées au troisième
-alinéa du II du même article et les souscriptions au capital des sociétés en difficulté visées au II bis de l'article
-précité. 
+undecies du code général des impôts et les souscriptions au capital des sociétés concessionnaires mentionnées au troisième
+alinéa du II du même article. 
 
 I bis.-Dans le secteur du logement, l'agrément prévu au 4 de l'article 199 undecies A, au VII de l'article 199 undecies C et
 aux II quater et III de l'article 217 undecies du code général des impôts, est délivré par le directeur départemental ou le
@@ -18553,7 +18582,7 @@ directeur régional des finances publiques du département où sera réalisé le
 Les demandes d'agrément mentionnées aux deuxième et troisième alinéas du I et au second alinéa du I bis sont adressées à la
 direction générale des finances publiques. 
 
-III. Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
+III.-Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
 groupements visés aux articles 8 ou 239 quater du code général des impôts, la demande d'agrément est faite par un
 représentant unique, promoteur de l'opération, gérant ou associé, qui doit remettre une copie de la décision obtenue aux
 investisseurs, copropriétaires ou associés. 
@@ -18562,13 +18591,13 @@ IV. (Dispositions devenues sans objet).
 
 **Nota:**
 
-
+Modifications effectuées en conséquence de l'article 67-I F-2°, II [1°] et III B de la loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 13 octobre 2014 - art. 1
+	  - Arrêté du 3 juin 2015 - art. 1
 
 	**Cité par**:
 
@@ -18577,7 +18606,7 @@ IV. (Dispositions devenues sans objet).
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 217 undecies
+	  - Code général des impôts, CGI. - art. 199 undecies C
 	  - Code général des impôts, CGI. - art. 239 quater
 
 
