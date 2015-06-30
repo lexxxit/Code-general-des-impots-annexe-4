@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-06-06
+Version Consolidée au 2015-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2110,32 +2110,6 @@ Modifications effectuées en conséquence de l'article 38-I [6°] de la loi n° 
 	  - Code général des impôts, CGI. - art. 199 undecies A (V)
 
 
-##### 3° Réduction d'impôt pour l'acquisition de certains véhicules de tourisme outre-mer
-
-###### Article 18-0 bis A
-
-Les véhicules de tourisme au sens de l'article 1010 du code général des impôts strictement indispensables à l'activité de
-l'exploitant, mentionnés à la deuxième phrase du quinzième alinéa du I de l'article 199 undecies B du code général des
-impôts, s'entendent des véhicules neufs, acquis dans le cadre de l'exercice d'une activité ouvrant droit à la réduction
-d'impôt prévue à cet article, sans lesquels l'entreprise ne pourrait poursuivre son activité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 12 avril 2012 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 29 juin 2015 - art. 1
-	  - Arrêté du 25 août 2015 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1010
-	  - Code général des impôts, CGI. - art. 199 undecies B
-
-
 ##### 4° Réduction d'impôt accordée au titre d'une opération d'investissement locatif 
 
 ###### Article 18-0 bis B
@@ -3137,39 +3111,6 @@ Années 1914 et antérieures : 256,4. Année 1915 : 179,4. Année 1916 : 136,9. 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 238 bis J (V)
-
-
-##### Section IV : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer
-
-###### Article 23 L ter
-
-Sont assimilées à des activités industrielles pour l'application des articles 217 undecies et 217 duodecies du code général
-des impôts : 
-
-1. L'extraction des substances suivantes : chromite, phosphorite, kaolin, columbo-tantalite, minerais aurifères ; 
-
-2. L'exploitation de gîtes géothermiques au sens de l'article 3 du code minier.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 29 juin 2015 - art. 1
-	  - Arrêté du 25 août 2015 - art. 1
-
-	**Codifié par**:
-
-	  - Arrêté 2007-03-30
-
-	**Modifié par**:
-
-	  - Arrêté 2007-03-30 art. 1 JORF 31 mars 2007
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 217 duodecies
-	  - Code général des impôts, CGI. - art. 217 undecies
-	  - Code minier - art. 3
 
 
 #### Chapitre V : Taxes diverses
