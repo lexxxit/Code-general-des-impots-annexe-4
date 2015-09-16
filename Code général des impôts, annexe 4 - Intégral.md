@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-09-10
+Version Consolidée au 2015-09-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18794,116 +18794,6 @@ Modification effectuée en conséquence de l'article 87-1° du décret n° 2010-
 # Livre II : Recouvrement de l'impôt
 
 ## Chapitre premier : Paiement de l'impôt
-
-### Section I : Impôts directs et taxes assimilées
-
-#### 3 : Paiement de l'impôt
-
-###### Article 187
-
-Les contribuables ont la faculté d'acquitter leurs contributions et taxes assimilées à la caisse d'un comptable du Trésor
-chargé du recouvrement des impôts directs autre que celui de la commune d'imposition.
-
-Ces versements sont admis sur la présentation d'un avis d'imposition, d'un extrait du rôle, d'un acte de poursuites ou d'une
-autre pièce officielle constatant la dette du contribuable.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
-
-
-###### Article 188
-
-Les contribuables restent débiteurs des frais de poursuites exposés par le comptable du Trésor chargé du recouvrement des
-impôts directs du lieu de l'imposition avant la réception de l'avis de recouvrement que le comptable du Trésor qui a reçu les
-fonds est tenu de transmettre sans retard par la poste.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
-
-
-###### Article 188 bis
-
-1. Le paiement des impôts directs peut s'effectuer, sur option du contribuable, par prélèvement opéré à l'initiative du
-Trésor public sur un compte visé à l'article 1681 D du code général des impôts. 
-
-2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II au code général des impôts. Elle peut
-être exercée jusqu'à la date limite de paiement ou dans le délai spécifique fixé par arrêté pour chaque échéance d'impôt (1).
-Elle est valable sans limitation de durée. 
-
-3. Le contribuable peut renoncer à son option en adressant, au comptable chargé du recouvrement, une dénonciation dix jours
-ouvrés au moins avant la date limite de paiement de l'impôt concerné. 
-
-4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 du code général des
-impôts.
-
-**Nota:**
-
-(1) : Dispositions applicables à compter du 1er janvier 2004.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 376 ter
-	  - Code général des impôts, CGI. - art. 1681 D
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 199 novodecies (P)
-
-
-###### Article 188 ter
-
-Pour l'application du 5 de l'article 1730 du code général des impôts, le télérèglement des impôts directs s'effectue sur
-option du contribuable, qui ordonne l'opération sur l'un des comptes mentionnés à l'article 1681 D du même code. 
-
-Cette option peut être exercée, sans majoration, jusqu'au cinquième jour, à minuit, qui suit la date limite de paiement pour
-les acomptes et le solde de l'impôt sur le revenu, la taxe foncière, la taxe d'habitation, les contributions sociales et la
-taxe sur les logements vacants. 
-
-Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 du code général des
-impôts. 
-
-L'option est exercée expressément à chaque échéance d'impôt.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 2006-03-24
-
-	**Modifié par**:
-
-	  - Arrêté 2006-03-24 art. 1 JORF 26 mars 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1681 D
-	  - Code général des impôts, CGI. - art. 1730
-
 
 ### Section I bis : Intérêts des bons de caisse
 
