@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-09-17
+Version Consolidée au 2015-09-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16625,7 +16625,7 @@ considéré comme un engin à moteur électrique au sens du II.
 
 ###### Article 155 bis A
 
-Les tarifs de la taxe minière sur l'or en Guyane applicables en 2014 sont fixés comme suit : 
+Les tarifs de la taxe minière sur l'or en Guyane applicables en 2015 sont fixés comme suit : 
 
 <table>
   <tbody>
@@ -16653,7 +16653,7 @@ Petites et moyennes entreprises
 </td>
       <td align="center">
 
-341,75</td>
+306,38</td>
     </tr>
     <tr>
       <td align="center">
@@ -16663,7 +16663,7 @@ Autres entreprises
 </td>
       <td align="center">
 
-683,50</td>
+612,77</td>
     </tr>
   </tbody>
 </table>
@@ -16675,7 +16675,7 @@ l'Etat en application des articles 1641 et 1644 du code général des impôts.
 
 	**Modifié par**:
 
-	  - Arrêté du 21 juillet 2014 - art. 1
+	  - Arrêté du 17 septembre 2015 - art. 1
 
 	**Cite**:
 
