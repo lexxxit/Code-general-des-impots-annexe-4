@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2015-09-21
+Version Consolidée au 2015-10-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15139,6 +15139,8 @@ de l'article L. 102 B du livre des procédures fiscales.
 
 ##### V : Débite des timbres mobiles et encaissement d'amendes forfaitaires par timbres dématérialisés
 
+##### V : Débite des timbres mobiles et des timbres dématérialisés
+
 ###### Article 121 KM
 
 Les débitants de tabac perçoivent sur le prix de vente des timbres mobiles de toute nature dont ils assurent la débite une
@@ -15147,8 +15149,8 @@ remise uniforme de 5 %.
 La remise est liquidée et payée au fur et à mesure des versements opérés par les débitants de tabac auprès des receveurs des
 impôts à la condition qu'elle atteigne au moins 15 €.
 
-Les débitants de tabac participant à l'encaissement des amendes forfaitaires par timbres dématérialisés perçoivent une remise
-uniforme de 6 % sur le prix de vente de ceux-ci.
+Les débitants de tabac participant à l'encaissement des timbres dématérialisés perçoivent une remise uniforme de 6 % sur le
+prix de vente de ceux-ci.
 
 La remise est liquidée et payée dans les conditions prévues par un protocole d'agrément conclu entre les débitants de tabac
 et le Trésor public.
@@ -15163,7 +15165,7 @@ Les dispositions du présent article s'appliquent dans les départements de la C
 
 	**Modifié par**:
 
-	  - Arrêté 2006-05-29 art. 1, art. 2 JORF 8 juin 2006
+	  - Arrêté du 2 octobre 2015 - art. 1
 
 
 ###### Article 121 KM bis
