@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2016-02-27
+Version Consolidée au 2016-02-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2527,46 +2527,34 @@ supérieure ou égale à :
 <table>
     <tbody>
       <tr>
-        <th>
-
-PROFIL DE SOUTIRAGE 
+        <th>PROFIL DE SOUTIRAGE 
 
 </th>
-        <th>
-
-M 
+        <th>M 
 
 </th>
-        <th>
-
-L 
+        <th>L 
 
 </th>
-        <th>
-
-XL 
+        <th>XL 
 
 </th>
+        <th align="center">XXL</th>
       </tr>
       <tr>
-        <td align="left">
-
-Efficacité énergétique 
+        <td align="left">Efficacité énergétique 
 
 </td>
-        <td align="center">
-
-95 % 
+        <td align="center">65 % 
 
 </td>
-        <td align="center">
-
-100 % 
+        <td align="center">75 % 
 
 </td>
-        <td align="center">
+        <td align="center">80 % 
 
-110 % 
+</td>
+        <td align="center">85 % 
 
 </td>
       </tr>
@@ -2712,7 +2700,7 @@ ventilateurs de plafond.
 
 	**Modifié par**:
 
-	  - Arrêté du 30 décembre 2015 - art. 1
+	  - Arrêté du 17 février 2016 - art. 1
 
 	**Cite**:
 
