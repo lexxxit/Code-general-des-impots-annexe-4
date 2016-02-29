@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2016-02-28
+Version Consolidée au 2016-03-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4269,6 +4269,8 @@ chambre " ;
 
 - implant digestif de dérivation péritonéo-veineuse ;
 
+- implant exovasculaire de gainage ; 
+
 - implant exovasculaire de ligature interne (CLIP) pour anévrisme cérébral ;
 
 - implant neurologique de drainage totalement interne, sous-dural ;
@@ -4436,9 +4438,9 @@ d'origine animale non viables ou en comportant ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 février 2015 - art. 1
+	  - Arrêté du 22 février 2016 - art. 1
 
 	**Cite**:
 
