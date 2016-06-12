@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2016-06-08
+Version Consolidée au 2016-06-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -392,20 +392,19 @@ disposer en dehors des locaux professionnels et, d'autre part, des dépenses et 
 immeubles qui ne sont pas affectés à l'exploitation ; 
 
 4° 3 000 € pour les cadeaux de toute nature, à l'exception des objets spécialement conçus pour la publicité et dont la valeur
-unitaire ne dépasse pas 65 €, toutes taxes comprises, par bénéficiaire ; 
+unitaire ne dépasse pas 69 €, toutes taxes comprises, par bénéficiaire ; 
 
 5° 6 100 € pour les frais de réception, y compris les frais de restaurant et de spectacles.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 3 de l'arrêté du 12 octobre 2005 et de l'article 2 de l'arrêté du 10 mai
-2010.
+Modification effectuée en conséquence de l'article 3 de l'arrêté du 12 octobre 2005.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Arrêté du 10 juin 2016 - art. 1
 
 	**Cité par**:
 
@@ -414,7 +413,7 @@ Modification effectuée en conséquence de l'article 3 de l'arrêté du 12 octob
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 54 quater (V)
+	  - Code général des impôts, CGI. - art. 54 quater
 
 
 ###### Article 4 K
@@ -548,6 +547,8 @@ Au plus tard à l'âge de dix-huit mois s'ils sont nourris exclusivement avec de
 
 
 ##### 2° : Dénonciation du forfait par le service des impôts
+
+##### 2°
 
 ###### Article 4 N
 
@@ -1874,209 +1875,207 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2015, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+Pour l'année 2016, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
 pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme
 suit : 
 
 <table>
-  <tbody>
-    <tr>
-      <th rowspan="2">
+    <tbody>
+      <tr>
+        <th rowspan="2">
 
 TAUX APPLICABLES 
 
 </th>
-      <th colspan="5">
+        <th colspan="5">
 
 LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS 
 
 </th>
-    </tr>
-    <tr>
-      <th>
+      </tr>
+      <tr>
+        <th>
 
 Année 
 
 (en euros) 
 
 </th>
-      <th>
+        <th>
 
 Trimestre 
 
 (en euros) 
 
 </th>
-      <th>
+        <th>
 
 Mois 
 
 (en euros) 
 
 </th>
-      <th>
+        <th>
 
 Semaine 
 
 (en euros) 
 
 </th>
-      <th>
+        <th>
 
-Jour ou fraction 
-
-de jour 
+Jour ou fraction de jour 
 
 (en euros) 
 
 </th>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
 
-0 % 
+0 %
 
 - moins de 
 
 </td>
-      <td align="center" valign="bottom">
+        <td align="center" valign="middle">
 
-14 431 
-
-</td>
-      <td valign="bottom" align="center">
-
-3 608 
+14 446 
 
 </td>
-      <td align="center" valign="bottom">
+        <td valign="middle" align="center">
 
-1 203 
+3 612 
 
 </td>
-      <td valign="bottom" align="center">
+        <td align="center" valign="middle">
+
+1 204 
+
+</td>
+        <td align="center" valign="middle">
 
 278 
 
 </td>
-      <td align="center" valign="bottom">
+        <td valign="middle" align="center">
 
 46 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
 
-12 % 
+12 %
 
 - de 
 
 </td>
-      <td valign="bottom" align="center">
+        <td align="center" valign="middle">
 
-14 431 
-
-</td>
-      <td align="center" valign="bottom">
-
-3 608 
+14 446 
 
 </td>
-      <td valign="bottom" align="center">
+        <td align="center" valign="middle">
 
-1 203 
+3 612 
 
 </td>
-      <td align="center" valign="bottom">
+        <td align="center" valign="middle">
+
+1 204 
+
+</td>
+        <td valign="middle" align="center">
 
 278 
 
 </td>
-      <td align="center" valign="bottom">
+        <td valign="middle" align="center">
 
 46
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
 
 - à 
 
 </td>
-      <td valign="bottom" align="center">
+        <td valign="middle" align="center">
 
-41 867 
-
-</td>
-      <td valign="bottom" align="center">
-
-10 467 
+41 909 
 
 </td>
-      <td valign="bottom" align="center">
+        <td valign="middle" align="center">
 
-3 489 
-
-</td>
-      <td valign="bottom" align="center">
-
-805 
+10 477 
 
 </td>
-      <td valign="bottom" align="center">
+        <td align="center" valign="middle">
+
+3 492 
+
+</td>
+        <td valign="middle" align="center">
+
+806 
+
+</td>
+        <td valign="middle" align="center">
 
 134 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
 
-20 % 
+20 %
 
 - au-delà de 
 
 </td>
-      <td valign="bottom" align="center">
+        <td valign="middle" align="center">
 
-41 867 
-
-</td>
-      <td valign="bottom" align="center">
-
-10 467 
+41 909 
 
 </td>
-      <td valign="bottom" align="center">
+        <td valign="middle" align="center">
 
-3 489 
-
-</td>
-      <td align="center" valign="bottom">
-
-805 
+10 477 
 
 </td>
-      <td valign="bottom" align="center">
+        <td valign="middle" align="center">
+
+3 492 
+
+</td>
+        <td align="center" valign="middle">
+
+806 
+
+</td>
+        <td align="center" valign="middle">
 
 134 
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+    </tbody>
+  </table>
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-I A de la loi n° 2014-1654 du 29 décembre 2014.
+Modifications effectuées en conséquence de l'article 2-I 1° de la loi n° 2015-1785 du 29 décembre 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 juin 2015 - art. 1
+	  - Arrêté du 10 juin 2016 - art. 1
 
 
 ##### 2° Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -3391,22 +3390,21 @@ des entreprises ferroviaires est fixé à        12,68 % pour l'année 2015.
 
 ###### Article 23 N
 
-La limite visée au 1° du 1 du II de l'article 257 du code général des impôts est fixée à 65 € toutes taxes comprises.
+La limite visée au 1° du 1 du II de l'article 257 du code général des impôts est fixée à 69 € toutes taxes comprises.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 94-II de la loi n° 2010-1657 du 29 décembre 2010 et de l'article 3 de
-l'arrêté du 12 octobre 2005.
+Modifications effectuées en conséquence de l'article 3 de l'arrêté du 12 octobre 2005.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Arrêté du 10 juin 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 257 (V)
+	  - Code général des impôts, CGI. - art. 257
 
 
 ##### I bis : Opérations imposables sur option
@@ -3576,7 +3574,7 @@ passagers.
 ###### Article 28-00 A
 
 Les biens de très faible valeur mentionnés au 3° du 2 du IV de l'article 206 de l'annexe II au code général des impôts
-s'entendent de ceux dont la valeur unitaire n'excède pas 65 € toutes taxes comprises par objet et par an pour un même
+s'entendent de ceux dont la valeur unitaire n'excède pas 69 € toutes taxes comprises par objet et par an pour un même
 bénéficiaire.
 
 **Nota:**
@@ -3587,7 +3585,7 @@ Modification effectuée en conséquence de l'article 3 de l'arrêté du 12 octob
 
 	**Modifié par**:
 
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Arrêté du 10 juin 2016 - art. 1
 
 	**Cite**:
 
@@ -10893,7 +10891,7 @@ produits des chais ou locaux du site d'exploitation ;
 apéritifs à base de vin, de cidre ou de poiré, de fabrication de vins mousseux, et de fabrication de vins doux naturels,
 prévues aux articles 312,343 et 416 dudit code ; 
 
-3° La date des déclarations de récolte, des stocks et de production prévues aux articles 407,408 et 410 bis dudit code ; 
+3° La date des déclarations de récolte, des stocks et de production prévues à l'article 407 dudit code ; 
 
 4° La date de la prise en charge des produits alcooligènes visés à l'article 338 du même code ; 
 
@@ -10922,24 +10920,26 @@ de garantie.
 l'article 403 du code général des impôts, sous couvert d'une rubrique intitulée " Rhums des DOM, article 403 (I, 1°) ",
 subdivisée, selon le cas, par appellation d'origine ou par dénomination économique ou géographique.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 27 juin 2012 - art. 1
+	  - Arrêté du 10 juin 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 408
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
 	  - Code général des impôts, CGI. - art. 302 G
 	  - Code général des impôts, CGI. - art. 312
 	  - Code général des impôts, CGI. - art. 338
 	  - Code général des impôts, CGI. - art. 343
 	  - Code général des impôts, CGI. - art. 403
 	  - Code général des impôts, CGI. - art. 407
-	  - Code général des impôts, CGI. - art. 410 bis
 	  - Code général des impôts, CGI. - art. 416
 	  - Code rural - art. L621-1
 
@@ -11022,7 +11022,7 @@ comportent les sécurités prévues par ces prescriptions.
 
 Pour l'application du V de l'article 286 I de l'annexe II au code général des impôts les registres vitivinicoles, tenant lieu
 de comptabilité matières, peuvent être constitués par des annotations au verso des déclarations de récolte et des stocks
-visées aux articles 407 et 408 dudit code sous réserve : 
+visées à l'article 407 dudit code sous réserve : 
 
 1° De l'inscription des mentions requises par la réglementation communautaire et des informations mentionnées au 1° du II de
 l'article 286 I précité ; 
@@ -11031,16 +11031,20 @@ l'article 286 I précité ;
 
 3° Qu'elles reprennent la totalité des opérations réalisées par l'entrepositaire agréé.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 2000-08-25 art. 1 JORF 31 août 2000
+	  - Arrêté du 10 juin 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
-	  - Code général des impôts, CGI. - art. 407 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
+	  - Code général des impôts, CGI. - art. 407
 
 
 ###### Article 50-00 F
