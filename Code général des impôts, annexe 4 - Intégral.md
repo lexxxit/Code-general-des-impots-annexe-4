@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2016-06-13
+Version Consolidée au 2016-10-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -545,8 +545,6 @@ Au plus tard à l'âge de dix-huit mois s'ils sont nourris exclusivement avec de
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies A (V)
 
-
-##### 2° : Dénonciation du forfait par le service des impôts
 
 ##### 2°
 
@@ -19738,11 +19736,16 @@ directeur mentionné au I de ce même article peut, en tant que de besoin, en ex
 plafonds inférieurs à ceux prévus au présent article, réduire l'étendue de la délégation dont bénéficient les responsables
 placés sous son autorité telle qu'elle résulte du I ou du II.
 
+IV.-Par acte publié dans les conditions prévues au V de l'article 408 de l'annexe II au code général des impôts, les
+directeurs régionaux ou départementaux des finances publiques peuvent, en tant que de besoin, relever jusqu'à 100 000 € le
+plafond de la délégation de signature prévue au 1° du I dont bénéficient les responsables de service placés sous leur
+autorité en ce qui concerne les demandes de remboursement de crédit d'impôt.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 30 mai 2013 - art. 1
+	  - Arrêté du 3 octobre 2016 - art. 1
 
 	**Cité par**:
 
