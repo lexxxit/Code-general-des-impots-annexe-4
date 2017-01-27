@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19417,22 +19417,23 @@ catégorie C ;
 b) Sans limitation de montant, les actes et décisions mentionnés aux 3°, 4° et 5° du I de l'article 212. 
 
 II. ― Les directeurs mentionnés au I de l'article 408 de l'annexe II au code général des impôts relevant de la direction
-générale des douanes et droits indirects peuvent déléguer leur signature : 
+générale des douanes et droits indirects peuvent déléguer leur signature, à l'effet de prendre les décisions mentionnées aux
+1°, 2° et 4° du I et au II de l'article 212 : 
 
-1° Aux agents de catégories A et B exerçant leurs fonctions dans les services de direction, dans les limites qu'ils fixent
-eux-mêmes, à l'effet de prendre les décisions mentionnées aux 1°, 2° et 4° du I de l'article 212, d'une part, et au II de
-l'article 212, d'autre part ; 
+1° Aux agents de catégorie A titulaires d'un grade supérieur à celui d'inspecteur des douanes, dans les limites qu'ils fixent
+eux-mêmes ; 
 
-2° Aux autres agents, à l'effet de prendre les décisions mentionnées aux 1°, 2° et 4° du I de l'article 212, dans la limite
-de 60 000 € pour les agents de catégorie A titulaires d'un grade supérieur à celui d'inspecteur des douanes, dans la limite
-de 15 000 € pour les inspecteurs des douanes, dans la limite de 10 000 € pour les agents de catégorie B et dans la limite de
-2 000 € pour les agents de catégorie C.
+2° Aux inspecteurs des douanes placés sous leur autorité, dans la limite de 40 000 € ; 
+
+3° Aux agents de catégorie B placés sous leur autorité, dans la limite de 30 000 € ; 
+
+4° Aux agents de catégorie C placés sous leur autorité, dans la limite de 20 000 €.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 30 mai 2013 - art. 1
+	  - Arrêté du 19 janvier 2017 - art. 1
 
 	**Cite**:
 
@@ -19464,20 +19465,10 @@ d'un service des impôts des entreprises et des actes et demandes mentionnés au
 2° Lorsque plusieurs services sont regroupés sur un même site, la délégation de signature dont disposent, en application du
 1°, les responsables de service est étendue au ressort territorial de l'ensemble des services de ce site.
 
-II. ― Bénéficient de la délégation automatique de signature prévue au III de l'article 408 de l'annexe II au code général des
-impôts les agents de la direction générale des douanes et droits indirects exerçant les fonctions de responsable d'un service
-rattaché, selon le cas, à une direction régionale des douanes et droits indirects ou à un service à compétence nationale,
-s'agissant des décisions mentionnées aux 1°, 2° et 4° du I de l'article 212 :
-
-a) Dans la limite de 76 000 € pour les administrateurs des douanes, responsables de la direction des enquêtes douanières et
-de la direction des opérations douanières ;
-
-b) Dans la limite de 50 000 € pour les directeurs des services douaniers et les inspecteurs principaux des douanes,
-responsables d'une division des douanes ;
-
-c) Dans la limite de 25 000 € pour les directeurs des services douaniers, les inspecteurs principaux et les inspecteurs
-régionaux des douanes et droits indirects responsables d'un bureau de douane ou d'une unité de surveillance, d'un service
-régional d'enquêtes ou d'un service de viticulture.
+II - Bénéficient de la délégation automatique de signature prévue au troisième alinéa du III de l'article 408 de l'annexe II
+au code général des impôts les directeurs régionaux et les chefs des services spécialisés des douanes et droits indirects, à
+l'effet de prendre l'ensemble des actes et décisions mentionnés aux 1°, 2° et 4° du I et au II de l'article 212, dans les
+limites de la compétence du directeur mentionné au I de l'article 408 de l'annexe II au code général des impôts. 
 
 III. ― Par acte publié dans les conditions prévues au V de l'article 408 de l'annexe II au code général des impôts, le
 directeur mentionné au I de ce même article peut, en tant que de besoin, en excluant certaines affaires ou en fixant des
@@ -19493,11 +19484,11 @@ autorité en ce qui concerne les demandes de remboursement de crédit d'impôt.
 
 	**Modifié par**:
 
-	  - Arrêté du 3 octobre 2016 - art. 1
+	  - Arrêté du 19 janvier 2017 - art. 1
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 215 (M)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 215 (V)
 
 	**Cite**:
 
@@ -19506,8 +19497,8 @@ autorité en ce qui concerne les demandes de remboursement de crédit d'impôt.
 
 ###### Article 215
 
-I. ― Les responsables de service mentionnés à l'article 214 peuvent subdéléguer la signature du directeur à l'effet de
-prendre les décisions et actes mentionnés au I de l'article 212 : 
+I. - 1. Les responsables de service mentionnés au I de l'article 214 peuvent subdéléguer la signature du directeur à l'effet
+de prendre les décisions et actes mentionnés au I de l'article 212 : 
 
 1° A leurs adjoints, quel que soit leur grade, dans les limites qu'ils fixent eux-mêmes, sans toutefois pouvoir excéder la
 délégation dont ils disposent ; 
@@ -19518,22 +19509,36 @@ délégation dont ils disposent ;
 
 4° Aux agents de catégorie C placés sous leur autorité, dans la limite de 2 000 €. 
 
-II. ― Par acte publié dans les conditions prévues au V de l'article 408 de l'annexe II au code général des impôts, le
+2. Les directeurs régionaux et les chefs des services spécialisés des douanes et droits indirects, mentionnés au II de
+l'article 214, peuvent subdéléguer la signature du directeur mentionné au I de l'article 408 de l'annexe II au code général
+des impôts à l'effet de prendre les décisions et actes mentionnés aux 1°, 2° et 4° du I et au II de l' article 212 :
+
+1° Aux agents de catégorie A titulaires d'un grade supérieur à celui d'inspecteur des douanes, dans les limites qu'ils fixent
+eux-mêmes, sans toutefois pouvoir excéder la délégation dont ils disposent ;
+
+2° Aux inspecteurs des douanes placés sous leur autorité, dans la limite de 40 000 € ;
+
+3° Aux agents de catégorie B placés sous leur autorité, dans la limite de 30 000 € ;
+
+4° Aux agents de catégorie C placés sous leur autorité, dans la limite de 20 000 €. 
+
+II. - Par acte publié dans les conditions prévues au V de l'article 408 de l'annexe II au code général des impôts, le
 directeur mentionné au I de ce même article peut, en tant que de besoin, réduire l'étendue des délégations que peuvent donner
-les responsables de service telle qu'elle résulte du I du présent article. 
+les responsables de service mentionnés au I de l'article 214, ainsi que les directeurs régionaux et les chefs des services
+spécialisés, mentionnés au II de cet article, telle qu'elle résulte du I du présent article. 
 
 Le directeur mentionné au I de l'article 408 précité peut en outre s'opposer à l'octroi de délégations, en limiter l'étendue
 ou les retirer en tout ou partie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 30 mai 2013 - art. 1
+	  - Arrêté du 19 janvier 2017 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 212 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 212
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 214 (V)
 	  - Code général des impôts, CGI. - art. 408
 
