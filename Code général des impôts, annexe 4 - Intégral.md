@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2017-01-28
+Version Consolidée au 2017-05-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1709,207 +1709,172 @@ l'arrêté du 28 décembre 1967.
 
 ###### Article 18
 
-Pour l'année 2016, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
-pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme
-suit : 
+Pour l'année 2017, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires,
+pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 <table>
-    <tbody>
-      <tr>
-        <th rowspan="2">
+  <tbody>
+    <tr>
+      <th rowspan="2">
 
-TAUX APPLICABLES 
+TAUX APPLICABLES</th>
+      <th colspan="5">
 
-</th>
-        <th colspan="5">
-
-LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS 
+LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
 
 </th>
-      </tr>
-      <tr>
-        <th>
+    </tr>
+    <tr>
+      <th>
 
-Année 
+Année
 
-(en euros) 
+(en euros)</th>
+      <th>
 
-</th>
-        <th>
+Trimestre
 
-Trimestre 
+(en euros)</th>
+      <th>
 
-(en euros) 
+Mois
 
-</th>
-        <th>
+(en euros)</th>
+      <th>
 
-Mois 
+Semaine
 
-(en euros) 
+(en euros)</th>
+      <th>
 
-</th>
-        <th>
+Jour ou fraction
 
-Semaine 
+de jour
 
-(en euros) 
+(en euros)</th>
+    </tr>
+    <tr>
+      <td align="center">
 
-</th>
-        <th>
+0 %</td>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
 
-Jour ou fraction de jour 
+– moins de</td>
+      <td align="center">
 
-(en euros) 
+14 461</td>
+      <td align="center">
 
-</th>
-      </tr>
-      <tr>
-        <td align="center" valign="middle">
+3 615</td>
+      <td align="center">
 
-0 %
+1 205</td>
+      <td align="center">
 
-- moins de 
+278</td>
+      <td align="center">
 
-</td>
-        <td align="center" valign="middle">
+46</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-14 446 
+12 %</td>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
 
-</td>
-        <td valign="middle" align="center">
+- de</td>
+      <td align="center">
 
-3 612 
+14 461</td>
+      <td align="center">
 
-</td>
-        <td align="center" valign="middle">
+3 615</td>
+      <td align="center">
 
-1 204 
+1 205</td>
+      <td align="center">
 
-</td>
-        <td align="center" valign="middle">
+278</td>
+      <td align="center">
 
-278 
+46</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-</td>
-        <td valign="middle" align="center">
+- à</td>
+      <td align="center">
 
-46 
+41 951</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="center" valign="middle">
-
-12 %
-
-- de 
-
-</td>
-        <td align="center" valign="middle">
-
-14 446 
-
-</td>
-        <td align="center" valign="middle">
-
-3 612 
-
-</td>
-        <td align="center" valign="middle">
-
-1 204 
-
-</td>
-        <td valign="middle" align="center">
-
-278 
-
-</td>
-        <td valign="middle" align="center">
-
-46
-
-</td>
-      </tr>
-      <tr>
-        <td align="center" valign="middle">
-
-- à 
-
-</td>
-        <td valign="middle" align="center">
-
-41 909 
-
-</td>
-        <td valign="middle" align="center">
-
-10 477 
-
-</td>
-        <td align="center" valign="middle">
-
-3 492 
-
-</td>
-        <td valign="middle" align="center">
-
-806 
-
-</td>
-        <td valign="middle" align="center">
-
-134 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center" valign="middle">
-
-20 %
-
-- au-delà de 
-
-</td>
-        <td valign="middle" align="center">
-
-41 909 
-
-</td>
-        <td valign="middle" align="center">
-
-10 477 
-
-</td>
-        <td valign="middle" align="center">
-
-3 492 
-
-</td>
-        <td align="center" valign="middle">
-
-806 
-
-</td>
-        <td align="center" valign="middle">
-
-134 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+10 488</td>
+      <td align="center">
+
+3 496</td>
+      <td align="center">
+
+807</td>
+      <td align="center">
+
+134</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+20 %</td>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
+
+– au delà de</td>
+      <td align="center">
+
+41 951</td>
+      <td align="center">
+
+10 488</td>
+      <td align="center">
+
+3 496</td>
+      <td align="center">
+
+807</td>
+      <td align="center">
+
+134</td>
+    </tr>
+  </tbody>
+</table>
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 2-I 1° de la loi n° 2015-1785 du 29 décembre 2015.
+Modifications effectuées en conséquence de l'article 2-I 2° de la loi n° 2016-1917 du 29 décembre 2016.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 10 juin 2016 - art. 1
+	  - Arrêté du 2 mai 2017 - art. 1
 
 
 ##### 2° Réduction d'impôt accordée pour dépenses d'équipements de production d'énergie réalisées outre-mer et utilisant une source d'énergie renouvelable
@@ -2485,65 +2450,69 @@ protection murale basse ; boucle magnétique ; système de transfert à demeure 
 
 ###### Article 18 quater
 
-I.-Sont prises en compte pour l'application du 6° du I de l'article 199 undecies C du code général des impôts les dépenses
-relatives à l'acquisition, à l'installation et à la pose : 
+I. – Sont prises en compte pour l'application du 6° du I de l'article 199 undecies C du code général des impôts les dépenses
+relatives à l'acquisition, à l'installation et à la pose :
 
 1. De dispositifs constructifs, d'équipements ou de matériaux d'isolation thermique, dont la finalité essentielle est la
 protection contre le rayonnement solaire des parois opaques, en contact avec l'extérieur, et/ ou des baies, en contact avec
-l'extérieur, ou la ventilation naturelle de confort thermique, visant à limiter le recours à la climatisation : 
+l'extérieur, ou la ventilation naturelle de confort thermique, visant à limiter le recours à la climatisation :
 
-a) En Guadeloupe, en Martinique, en Guyane et à La Réunion, respectant les exigences des articles 5 (1°), 6,10 et 11 de
-l'arrêté du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments d'habitation neufs dans les
-départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ; 
+a) En Guadeloupe, en Martinique, en Guyane et à La Réunion, respectant les exigences des articles 5 (1°), 6 et 10 de l'arrêté
+du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments d'habitation neufs dans les départements
+de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ;
 
 b) A Mayotte, respectant les exigences définies au 1 de la partie B de l'annexe 1 de l'arrêté préfectoral n° 192 PM/ SG/
 DE/08 du 15 octobre 2008 relatif aux subventions par l'Etat pour la construction, l'acquisition et l'amélioration de
-logements locatifs sociaux ; 
+logements locatifs sociaux ;
 
 c) En Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna, tels
-que : 
+que :
 
-1° Surtoiture ventilée ; 
+1° Surtoiture ventilée ;
 
-2° Isolation thermique ; 
+2° Isolation thermique ;
 
-3° Bardage ventilé ; 
+3° Bardage ventilé ;
 
-4° Pare-soleil horizontaux ; 
+4° Pare-soleil horizontaux ;
 
-5° Brise-soleil verticaux ; 
+5° Brise-soleil verticaux ;
 
-6° Protections solaires mobiles extérieures dans le plan des baies ; 
+6° Protections solaires mobiles extérieures dans le plan des baies ;
 
-7° Ventilateurs de plafond ; 
+7° Ventilateurs de plafond ;
 
-2. De matériaux d'isolation thermique, visant à maîtriser les besoins en chauffage : 
+2. De matériaux d'isolation thermique, visant à maîtriser les besoins en chauffage :
 
 a) Pour les bâtiments d'habitation construits à La Réunion à une altitude supérieure à 800 mètres, respectant les exigences
 de l'article 5 (2°) de l'arrêté du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments
-d'habitation neufs dans les départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ; 
+d'habitation neufs dans les départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ;
 
-b) A Saint-Pierre-et-Miquelon, visés aux 1° et 2° à 5° du b du 2 de l'article 18 bis ; 
+b) A Saint-Pierre-et-Miquelon, visés aux 1° et 2° à 5° du b du 2 de l'article 18 bis ;
 
-3. D'appareils de régulation de chauffage, visés au c du 2 de l'article 18 bis ; 
+3. D'appareils de régulation de chauffage, visés au c du 2 de l'article 18 bis ;
 
 4. D'équipements de production d'énergie utilisant une source d'énergie renouvelable, visés au a du 3 de l'article 18 bis,
 sous réserve, en ce qui concerne les systèmes de fourniture d'électricité à partir de l'énergie solaire, pour la Guadeloupe,
 la Martinique, la Guyane, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy, que les
-installations ne soient pas reliées au réseau du service public d'électricité ; 
+installations ne soient pas reliées au réseau du service public d'électricité ;
 
 5. De pompes à chaleur, autres que air/ air, dont la finalité essentielle est la production de chaleur ou d'eau chaude
 sanitaire, ainsi qu'au coût de la pose de l'échangeur souterrain des pompes à chaleur géothermiques, visées au b du 3 de
-l'article 18 bis ; 
+l'article 18 bis ;
 
 6. D'équipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une
-installation de cogénération, visés au c du 3 de l'article 18 bis. 
+installation de cogénération, visés au c du 3 de l'article 18 bis.
 
 Pour l'application du présent article, le terme baie en contact avec l'extérieur s'entend d'une ouverture ménagée dans une
-paroi extérieure au logement servant à l'éclairage, au passage ou à l'aération. 
+paroi extérieure au logement servant à l'éclairage, au passage ou à l'aération.
 
-II.-Les dépenses mentionnées au I doivent être justifiées par une facture détaillée précisant leur nature exacte, leur coût
+II. – Les dépenses mentionnées au I doivent être justifiées par une facture détaillée précisant leur nature exacte, leur coût
 et leur conformité aux critères techniques exigés.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'arrêté du 11 janvier 2016, art. 1er-10°
 
 **Liens relatifs à cet article**
 
@@ -2551,12 +2520,12 @@ et leur conformité aux critères techniques exigés.
 
 	  - Arrêté du 17 avril 2009
 	  - Arrêté du 17 avril 2009 - art. 5
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (M)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis
 	  - Code général des impôts, CGI. - art. 199 undecies C
 
 	**Modifié par**:
 
-	  - Arrêté du 27 février 2015 - art. 1
+	  - Arrêté du 2 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -17093,30 +17062,30 @@ Pour les personnes morales, leur dénomination ou raison sociale, forme juridiqu
 Le droit d'accès aux informations figurant dans l'application FICOBA2 concernant le titulaire des comptes spécifiés s'exerce
 auprès de la Commission nationale de l'informatique et des libertés dans les conditions de l'article 42 de la loi n° 78-17 du
 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, sauf en ce qui concerne les données
-d'identification pour lesquelles le droit d'accès s'exerce auprès du service des impôts du domicile du requérant. 
+d'identification pour lesquelles le droit d'accès s'exerce auprès du centre des finances publiques du domicile du requérant.
 
 Le droit de rectification prévu par la loi du 6 janvier 1978 précitée s'exerce, en application de son article 40, par le
-titulaire ou ses héritiers auprès du service des impôts du domicile du requérant. 
+titulaire ou ses héritiers auprès du centre des finances publiques du domicile du requérant.
 
 Lorsque des rectifications sont à apporter, la demande doit ensuite en être faite par le titulaire ou ses héritiers
-directement auprès de l'établissement bancaire de domiciliation du ou des comptes concernés. 
+directement auprès de l'établissement bancaire de domiciliation du ou des comptes concernés.
 
 En outre, le droit d'opposition prévu par l'article 38 de la loi du 6 janvier 1978 précitée ne s'applique pas au traitement
 mis en œuvre.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 3 de l'arrêté du 13 décembre 2007.
+Modifications effectuées en conséquence de l'article 3-I de l'arrêté du 25 juillet 2016.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Loi n°78-17 du 6 janvier 1978
 
 	**Modifié par**:
 
-	  - Arrêté du 7 avril 2009 - art. 1 (V)
+	  - Arrêté du 2 mai 2017 - art. 1
 
 
 ###### Article 164 FF
@@ -18531,7 +18500,7 @@ Modification effectuée en conséquence du décret n° 2005-1559 du 14 décembre
 
 ###### Article 170 decies
 
-I. - L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur
+I. – L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur
 départemental ou le directeur régional des finances publiques du département dans lequel le programme d'investissement est
 réalisé lorsque son montant total n'excède pas 5 millions d'euros, à l'exception du secteur du logement.
 
@@ -18540,35 +18509,38 @@ d'euros ou qu'il est réalisé dans plus d'un département d'outre-mer, en Polyn
 les Terres australes et antarctiques françaises, en Nouvelle-Calédonie ou à Saint-Pierre-et-Miquelon ou bien lorsque
 l'affaire est évoquée par le ministre.
 
-I bis. - Dans le secteur du logement, l'agrément prévu au 4 de l'article 199 undecies A, au VII de l'article 199 undecies C,
-aux II quater et III de l'article 217 undecies, au VII de l'article 244 quater W et au VI de l'article 244 quater X du code
-général des impôts, est délivré par le directeur départemental ou le directeur régional des finances publiques du département
-dans lequel les logements sont réalisés, lorsque le montant total du programme immobilier est inférieur ou égal à 20 millions
-d'euros.
+I bis. – Dans le secteur du logement, l'agrément prévu au 4 de l'article 199 undecies A, au VII de l'article 199 undecies C,
+aux II quater et III de l'article 217 undecies et au VII de l'article 244 quater W du code général des impôts, est délivré
+par le directeur départemental ou le directeur régional des finances publiques du département dans lequel les logements sont
+réalisés, lorsque le montant total du programme immobilier est inférieur ou égal à 20 millions d'euros.
 
 L'agrément est délivré par le ministre du budget lorsque ce montant est supérieur à 20 millions d'euros ou lorsque le
 programme immobilier est évoqué par le ministre.
 
-I ter. - Les montants mentionnés au I et au I bis s'apprécient toutes taxes, frais et commissions compris, par programme.
+I ter.-Les montants mentionnés au I et au I bis s'apprécient toutes taxes, frais et commissions compris, par programme.
 
-II. - Les demandes d'agrément mentionnées au premier alinéa des I et I bis, sont adressées au directeur départemental ou au
+II. – Les demandes d'agrément mentionnées au premier alinéa des I et I bis, sont adressées au directeur départemental ou au
 directeur régional des finances publiques du département où sera réalisé le programme d'investissement.
 
 Les demandes d'agrément mentionnées au second alinéa du I et au second alinéa du I bis sont adressées à la direction générale
 des finances publiques.
 
-III. - Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
+III. – Pour les programmes d'investissement placés sous le régime de la copropriété ou réalisés par l'une des sociétés ou
 groupements visés aux articles 8 ou 239 quater du code général des impôts, la demande d'agrément est faite par un
 représentant unique, promoteur de l'opération, gérant ou associé, qui doit remettre une copie de la décision obtenue aux
 investisseurs, copropriétaires ou associés.
 
-IV. (Dispositions devenues sans objet).
+IV. – (Dispositions devenues sans objet).
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 106-I [2°] de la loi n° 2016-1918 du 29 décembre 2016.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 16 décembre 2016 - art. 1
+	  - Arrêté du 2 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -18577,9 +18549,11 @@ IV. (Dispositions devenues sans objet).
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 199 undecies A
+	  - Code général des impôts, CGI. - art. 199 undecies C
 	  - Code général des impôts, CGI. - art. 217 undecies
 	  - Code général des impôts, CGI. - art. 239 quater
-	  - Code général des impôts, CGI. - art. 244 quater X
+	  - Code général des impôts, CGI. - art. 244 quater W
 	  - Code général des impôts, CGI. - art. 8
 
 
