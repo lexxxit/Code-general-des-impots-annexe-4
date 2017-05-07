@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2017-05-05
+Version Consolidée au 2017-05-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -30,6 +30,34 @@ des non-résidents à l'exception des personnes physiques visées à l'article 1
 	**Cite**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 Z quinquies (V)
+
+
+##### Section 0I bis : Revenus fonciers
+
+###### Article 01 bis
+
+I.-Pour l'application du A du 1 du o du 1° du I de l'article 31 du code général des impôts, les communes se caractérisant par
+un déséquilibre entre l'offre et la demande de logements s'entendent de celles classées dans les zones A bis, A, B1 et B2
+telles qu'elles sont définies à l'article R. 304-1 du code de la construction et de l'habitation.
+
+II.-Pour l'application du B du 1 du o du 1° du I de l'article 31 du code général des impôts, les communes, autres que celles
+mentionnées au A du 1 du même o, s'entendent de celles classées dans la zone C telle qu'elle est définie à l'article R. 304-1
+du code de la construction et de l'habitation.
+
+III.-Pour l'application du A du 3 du o du 1° du I de l'article 31 du code général des impôts, les communes se caractérisant
+par un déséquilibre important entre l'offre et la demande de logements s'entendent de celles classées dans les zones A bis, A
+et B1 telles qu'elles sont définies à l'article R. 304-1 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 5 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 31
+	  - Code de la construction et de l'habitation. - art. R304-1
 
 
 ##### Section I : Bénéfices industriels et commerciaux
