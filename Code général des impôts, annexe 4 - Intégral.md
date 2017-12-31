@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 4  
-Version Consolidée au 2017-05-08
+Version Consolidée au 2018-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -929,6 +929,30 @@ d représente la distance parcourue en kilomètres.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 83
+
+
+##### Section II bis : Retenue à la source
+
+###### Article 6 C
+
+En application du 2° de l'article 87 A du code général des impôts, la déclaration mentionnée à l'article 87-0 A du même code
+souscrite par les redevables n'entrant pas dans le champ de l'article L. 133-5-3 du code de la sécurité sociale est déposée
+au plus tard le 10 du mois suivant celui au cours duquel les sommes ont été précomptées. 
+
+Si le délai imparti pour effectuer la déclaration expire un jour férié ou non ouvré, il est prorogé jusqu'au jour ouvrable
+suivant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 87 A (VD)
+	  - Code général des impôts, CGI. - art. 87-0 A (VD)
+	  - Code de la sécurité sociale. - art. L133-5-3 (VD)
 
 
 ##### Section III : Revenus des capitaux mobiliers
